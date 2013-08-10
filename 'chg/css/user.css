@@ -15,7 +15,7 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .art {/*float:right;*/ padding: 0 2px 0 2px; white-space:nowrap;
 font-style: normal; font-weight: normal; background-color:#e8f4ff;}
 .one-good .art {font-size:80%;}
-.one-good li .art {font-size:100%;}
+.one-good li .art {font-size: 88%;}
 span.artn {display: none;}
 
 .one-good a {text-decoration: none;}
