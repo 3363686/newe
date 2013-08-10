@@ -18,12 +18,12 @@
 1|Перчатки комбинированные спилком|89||75,00||| NITRAS&nbsp;1301&nbsp;C|<UL><LI>Улучшенного качества<LI>Жесткая крага: защита от механических повреждений<LI>На запястье резинка</UL>||/img/pic/defence/small/PERCHATKI KOMBINIROV NITRAS - 1301C.jpg|/img/pic/defence/big/PERCHATKI KOMBINIROV NITRAS - 1301C.jpg
 1|Перчатки спилковые комбинированные "АНГАРА-СТАНДАРТ"|89|ANGARA-001|59||Перчатки комбинированные спилком| Стандарт|||/img/pic/defence/small/PERCHATKI Spilkovy STANDART.jpg|/img/pic/defence/big/PERCHATKI Spilkovy STANDART.jpg
 0|Спилковые комбинир. перчатки "Optima" фирмы Elementa, жесткая крага|89|EO-001-120|66
-0|Перчатки спилковые комбинированные утепленные "АНГАРА-СТАНДАРТ"|89|ANGARA-W01|99
 
-1|Перчатки комбинированные спилком|181|109||| Стандарт, Утепленные|||/img/pic/defence/small/PERCHATKI Spilkovy STANDART.jpg|/img/pic/defence/big/PERCHATKI Spilkovy STANDART.jpg
-1|Перчатки комбинированные спилком|181|139,00||| NITRAS&nbsp;1302&nbsp;WI|<UL><LI>Утепленные искусственным мехом<LI>Защита от механических повреждений<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 1302 WI - PERCHATKI - ZIMA.jpg|/img/pic/defence/big/NITRAS 1302 WI - PERCHATKI - ZIMA.jpg
-1|Перчатки комбинированные спилком|181|99,00||| NITRAS&nbsp;1301&nbsp;W|<UL><LI>Утепленные искусственным мехом<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg|/img/pic/defence/big/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg
-1|Краги сварщика спилковые|181|189,00|||, 35 см NITRAS&nbsp;20435&nbsp;W|<UL><LI>Утепленные искусственным мехом<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 20435 W.jpg|/img/pic/defence/big/NITRAS 20435 W.jpg
+1|Перчатки комбинированные спилком Стандарт|181||109||Перчатки комбинированные спилком| Утепленные|||/img/pic/defence/small/PERCHATKI Spilkovy STANDART.jpg|/img/pic/defence/big/PERCHATKI Spilkovy STANDART.jpg
+0|Перчатки спилковые комбинированные "АНГАРА-СТАНДАРТ"|181|ANGARA-W01|99
+1|Перчатки комбинированные спилком|181||139,00||| NITRAS&nbsp;1302&nbsp;WI|<UL><LI>Утепленные искусственным мехом<LI>Защита от механических повреждений<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 1302 WI - PERCHATKI - ZIMA.jpg|/img/pic/defence/big/NITRAS 1302 WI - PERCHATKI - ZIMA.jpg
+1|Перчатки комбинированные спилком|181||99,00||| NITRAS&nbsp;1301&nbsp;W|<UL><LI>Утепленные искусственным мехом<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg|/img/pic/defence/big/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg
+1|Краги сварщика спилковые|181||189,00|||, 35 см NITRAS&nbsp;20435&nbsp;W|<UL><LI>Утепленные искусственным мехом<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 20435 W.jpg|/img/pic/defence/big/NITRAS 20435 W.jpg
 
 1|Перчатки с нитриловым каучуковым покрытием|87|69,00||| NITRAS&nbsp;3440: полный облив, на краге               |Механически и маслобензостойкие.||/img/pic/defence/small/NITRAS 3440.jpg|/img/pic/defence/big/NITRAS 3440.jpg
 1|Перчатки с нитриловым каучуковым покрытием|87|69,00||| NITRAS&nbsp;3420: полный облив, на манжете             |Механически и маслобензостойкие.||/img/pic/defence/small/NITRAS 3420.jpg|/img/pic/defence/big/NITRAS 3420.jpg
