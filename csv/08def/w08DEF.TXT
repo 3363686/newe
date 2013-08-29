@@ -8,17 +8,6 @@
 1|Перчатки Х/Б с одинарным латексным покрытием|86|14,90||| <span class=art>арт. 1L</span>|Перчатки общего производственного назначения.||/img/pic/defence/small/Perchatki HB ODINARNY LATEX.jpg|/img/pic/defence/big/Perchatki HB ODINARNY LATEX.jpg
 1|Перчатки Х/Б с двойным латексным покрытием|86|18,90||| <span class=art>арт. 2L</span>|Перчатки общего производственного назначения.||/img/pic/defence/small/Perchatki DVOJNOY LATEX.jpg|/img/pic/defence/big/Perchatki DVOJNOY LATEX.jpg
 
-1|Краги сварщика спилковые|89||179,00|||, 35 см NITRAS&nbsp;20435|<UL><LI>Защита от искр, брызг раскаленного металла, высоких температур<LI>Механически стойкие</UL>||/img/pic/defence/small/NITRAS 20435.jpg|/img/pic/defence/big/NITRAS 20435.jpg
-1|Краги сварщика спилковые|89||199,00|||, 35 см, на подкладке (хлопок) NITRAS&nbsp;20535|<UL><LI>Защита от искр, брызг раскаленного металла, высоких температур<LI>Механически стойкие</UL>||/img/pic/defence/small/NITRAS 20535.jpg|/img/pic/defence/big/NITRAS 20535.jpg
-1|Краги сварщика|89||139,00||| ТРЕК, на подкладке|||/img/pic/defence/small/KRAGI TREK.jpg|/img/pic/defence/big/KRAGI TREK.jpg
-1|Краги сварщика спилковые с подкладкой|89||199,00||| высшей категории PLASMA|||/img/pic/defence/small/Kragi Plasma.jpg|/img/pic/defence/big/Kragi Plasma.jpg
-1|Краги сварщика спилковые|89||89,00||| СТАНДАРТ серые|||/img/pic/defence/small/kr-sp-std.jpg|/img/pic/defence/big/jpg
-1|Краги сварщика спилковые|89||139,00|||, 35 см, 3-палые NITRAS&nbsp;20535 S|||/img/pic/defence/small/KRAGi 3 palye 20935S NITRAS.jpg|/img/pic/defence/big/KRAGi 3 palye 20935S NITRAS.jpg
-1|Перчатки комбинированные спилком,|89||89,00||| класс А NITRAS&nbsp;1302|||/img/pic/defence/small/PERCHATKI KOMBINIROV NITRAS 1302.jpg|/img/pic/defence/big/PERCHATKI KOMBINIROV NITRAS 1302.jpg
-1|Перчатки комбинированные спилком|89||75,00||| NITRAS&nbsp;1301&nbsp;C|<UL><LI>Улучшенного качества<LI>Жесткая крага: защита от механических повреждений<LI>На запястье резинка</UL>||/img/pic/defence/small/PERCHATKI KOMBINIROV NITRAS - 1301C.jpg|/img/pic/defence/big/PERCHATKI KOMBINIROV NITRAS - 1301C.jpg
-1|Перчатки спилковые комбинированные "АНГАРА-СТАНДАРТ"|89|ANGARA-001|59||Перчатки комбинированные спилком| Стандарт|||/img/pic/defence/small/PERCHATKI Spilkovy STANDART.jpg|/img/pic/defence/big/PERCHATKI Spilkovy STANDART.jpg
-0|Спилковые комбинир. перчатки "Optima" фирмы Elementa, жесткая крага|89|EO-001-120|66
-
 1|Перчатки комбинированные спилком Стандарт|181||109||Перчатки комбинированные спилком| Утепленные|||/img/pic/defence/small/PERCHATKI Spilkovy STANDART.jpg|/img/pic/defence/big/PERCHATKI Spilkovy STANDART.jpg
 0|Перчатки спилковые комбинированные "АНГАРА-СТАНДАРТ"|181|ANGARA-W01|99
 1|Перчатки комбинированные спилком|181||139,00||| NITRAS&nbsp;1302&nbsp;WI|<UL><LI>Утепленные искусственным мехом<LI>Защита от механических повреждений<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 1302 WI - PERCHATKI - ZIMA.jpg|/img/pic/defence/big/NITRAS 1302 WI - PERCHATKI - ZIMA.jpg
@@ -79,10 +68,6 @@
 
 1|Пояс монтажный с лентой ПП-1А|94|425,00||||||/img/pic/defence/small/pp1a.jpg|/img/pic/defence/big/pp1a.jpg
 1|Пояс монтажный с цепью ПП-1Г|94|445,00||||||/img/pic/defence/small/pp1g.jpg|/img/pic/defence/big/pp1g.jpg
-
-1|Каска строительная|157|75,00|||, ударопрочный пластик|Цвета: белый, оранжевый, красный, синий.||/img/pic/defence/small/KASKA STROITELNAJA.jpg|/img/pic/defence/big/KASKA STROITELNAJA.jpg
-1|Каска строительная|157|215,00||| с храповым механизмом|Цвета: белый, оранжевый.||/img/pic/defence/small/Kaska s hrap.jpg|/img/pic/defence/big/Kaska s hrap.jpg
-1|Подшлемник полушерстяной|157|116,00||| под строительную каску|||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
 
 1|Плащ нейлоновый с капюшоном|158|440||| ТРИТОН.|Цвета: зеленый, синий|||/img/pic/defence/big/plas.jpg
 
