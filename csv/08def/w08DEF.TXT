@@ -4,40 +4,10 @@
 1|Перчатки комбинированные спилком|181||99,00||| NITRAS&nbsp;1301&nbsp;W|<UL><LI>Утепленные искусственным мехом<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg|/img/pic/defence/big/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg
 1|Краги сварщика спилковые|181||189,00|||, 35 см NITRAS&nbsp;20435&nbsp;W|<UL><LI>Утепленные искусственным мехом<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 20435 W.jpg|/img/pic/defence/big/NITRAS 20435 W.jpg
 
-1|Перчатки с нитриловым каучуковым покрытием|87|69,00||| NITRAS&nbsp;3440: полный облив, на краге               |Механически и маслобензостойкие.||/img/pic/defence/small/NITRAS 3440.jpg|/img/pic/defence/big/NITRAS 3440.jpg
-1|Перчатки с нитриловым каучуковым покрытием|87|69,00||| NITRAS&nbsp;3420: полный облив, на манжете             |Механически и маслобензостойкие.||/img/pic/defence/small/NITRAS 3420.jpg|/img/pic/defence/big/NITRAS 3420.jpg
-1|Перчатки с нитриловым каучуковым покрытием|87|61,00||| NITRAS&nbsp;3430: полуоблив, на краге                  |Механически и маслобензостойкие|||
-1|Перчатки с нитриловым каучуковым покрытием|87|59,00||| NITRAS&nbsp;3410: полуоблив, на манжете                |Механически и маслобензостойкие|||
-1|Перчатки с нитриловым каучуковым покрытием|87|52,00||| NITRAS&nbsp;3400: полуоблив, облегченные, на манжете   |Механически и маслобензостойкие, возможность точных операций||||
-1|Перчатки с нитриловым каучуковым покрытием|87|59,00||| NITRAS&nbsp;3400&nbsp;V: полный облив, облегченные, на манжете|Механически и маслобензостойкие, возможность точных операций||||
-
-1|Перчатки латексные общего назначения|88|44,00||| NITRAS&nbsp;3220|||/img/pic/defence/small/NITRAS 3220 - spez.jpg|/img/pic/defence/big/NITRAS 3220 - spez.jpg
-1|Перчатки хозяйственные|88|24||| резиновые, размер L / XL (ZOL) <span class=art>арт. R-ZOL-L / R-ZOL-XL</span>|Натуральный латекс, подкладка из натурального хлопка, рифленая поверхность ладони.||/img/pic/defence/small/PERCHATKI HOZ.jpg|/img/pic/defence/big/PERCHATKI HOZ.jpg
-1|Перчатки химически-стойкие|88|109,00||| Dual Barrier NITRAS&nbsp;3470|Внутренняя поверхность - хлопковое напыление, покрытие-неопрен с каучуком: дополнительное химическое сопротивление||/img/pic/defence/small/PERCHATKI SPEZ NITRAS - 3470 Dual Barrier.jpg|/img/pic/defence/big/PERCHATKI SPEZ NITRAS - 3470 Dual Barrier.jpg
-1|Перчатки нитриловые химически-стойкие,|88|99,00||| NITRAS&nbsp;3450|Внутренняя поверхность - хлопковое напыление, рифленная поверхность, высокая механическая прочность||/img/pic/defence/small/PERCHATKI SPEZ NITRAS - 3450.jpg|/img/pic/defence/big/PERCHATKI SPEZ NITRAS - 3450.jpg
-1|Перчатки диэлектрические, латекс|88|170,00||||||/img/pic/defence/small/Perchatki DIELECTRICH .jpg|/img/pic/defence/big/Perchatki DIELECTRICH .jpg
-1|Перчатки диэлектрические, латекс, бесшовные|88|269,00||||||/img/pic/defence/small/Perchatki DIELECTRICH bezshovnye.jpg|/img/pic/defence/big/Perchatki DIELECTRICH bezshovnye.jpg
-1|Перчатки маслобензостойкие|88|99,00||| латексные|<UL><LI>Прочный материал, рельефная структура, хлопковое напыление на внутренней части.<LI>Защита от растворов кислот и щелочей (до 40 %) и др. агрессивных сред.<LI>Для работы с нефтепродуктами, садовыми химикатами, при выполнении хозяйственно-бытовых работ.</UL>||/img/pic/defence/small/PERCHATKI_ MBS_K.jpg|/img/pic/defence/big/PERCHATKI_ MBS_K.jpg
-
 1|Рукавицы Х/Б с брезентовым наладонником|91|29,50||| <span class=art>арт. WHB</span>|||/img/pic/defence/small/RUKOVICY HB S BREZENTOV NALAD.jpg|/img/pic/defence/big/RUKOVICY HB S BREZENTOV NALAD.jpg
 1|Рукавицы брезентовые|91|26,90||||||/img/pic/defence/small/RUKOVICY BR S BREZENT NALADONNIKOM.jpg|/img/pic/defence/big/RUKOVICY BR S BREZENT NALADONNIKOM.jpg
 1|Рукавицы брезентовые с брезентовым наладонником|91|39,00||| <span class=art>арт. WBB</span>|||/img/pic/defence/small/RUKOVICY BR S BREZENT NALADONNIKOM.jpg|/img/pic/defence/big/RUKOVICY BR S BREZENT NALADONNIKOM.jpg
 1|Рукавицы - краги сварщика|91|55,00||| брезентовые огнеупорные|||/img/pic/defence/small/KRAGI SVARSHIKA BREZENT - v brezente.jpg|/img/pic/defence/big/KRAGI SVARSHIKA BREZENT - v brezente.jpg
-
-1|Перчатки полушерстяные с нанесением ПВХ|90||21,00||||||/img/pic/defence/small/PERCHATKI POLUSHERST S PVH.jpg|/img/pic/defence/big/PERCHATKI POLUSHERST S PVH.jpg
-1|Перчатки полушерстяные с нанесением ПВХ|90||28,00||| двойные <span class=art>арт. W2</span>|||/img/pic/defence/small/PERCHATKI POLUSHERST S PVH.jpg|/img/pic/defence/big/PERCHATKI POLUSHERST S PVH.jpg
-1|Рукавицы утепленные с брезентовым наладонником|90||49,00||| <span class=art>арт. WU</span>|||/img/pic/defence/small/RUKAVIZY UTEPLENY S BREZENT NALADONNIKOM.jpg|/img/pic/defence/big/RUKAVIZY UTEPLENY S BREZENT NALADONNIKOM.jpg
-1|Рукавицы утепленные|90||42|rp|| "Диагональ"|||/img/pic/defence/small/RUKAVIZY UTEPLEN DIAGONAL.jpg|/img/pic/defence/big/RUKAVIZY UTEPLEN DIAGONAL.jpg
-1|Перчатки зимние трикотажные|90||149,00|rp|| NITRAS&nbsp;1603&nbsp;W|<UL><LI>Перчатки зимние высококачественные трикотажные<LI>С ворсистым утеплителем, облитые латексом<LI>Эластичная резинка.</UL>||/img/pic/defence/small/NITRAS 1603 W.jpg|/img/pic/defence/big/NITRAS 1603 W.jpg
-1|Перчатки комбинированные спилком|90||149,00|rp|| NITRAS&nbsp;1302&nbsp;WI|<UL><LI>Утепленные искусственным мехом<LI>Защита от механических повреждений</UL>||/img/pic/defence/small/NITRAS 1302 WI - PERCHATKI - ZIMA.jpg|/img/pic/defence/big/NITRAS 1302 WI - PERCHATKI - ZIMA.jpg
-1|Перчатки комбинированные спилком|90||129,00|bp|| NITRAS&nbsp;1301&nbsp;W|<UL><LI>Утепленные искусственным мехом</UL>||/img/pic/defence/small/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg|/img/pic/defence/big/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg
-1|Перчатки комбинированные спилком Стандарт утепленные|-90||109||Перчатки комбинированные спилком| утепленные|||/img/pic/defence/small/PERCHATKI Spilkovy STANDART.jpg|/img/pic/defence/big/PERCHATKI Spilkovy STANDART.jpg
-1|Перчатки спилковые комбинированные|90|ANGARA-W01|99||| "АНГАРА-СТАНДАРТ" утепленные <span class=art>арт. ANGARA-W01</span>|||/img/pic/defence/small/PERCHATKI Spilkovy STANDART.jpg|/img/pic/defence/big/PERCHATKI Spilkovy STANDART.jpg
-1|Краги сварщика спилковые|90||189,00|bp|| NITRAS&nbsp;20435&nbsp;W, 35 см|<UL><LI>Утепленные искусственным мехом</UL>||/img/pic/defence/small/NITRAS 20435 W.jpg|/img/pic/defence/big/NITRAS 20435 W.jpg
-1|Перчатки комбинированные фурнитурной кожей|90||99,00|bp|| NITRAS&nbsp;1410&nbsp;W|<UL><LI>Утепленные искусственным мехом</UL>||/img/pic/defence/small/NITRAS 1410 W - KOZANY UTEPL.jpg|/img/pic/defence/big/NITRAS 1410 W - KOZANY UTEPL.jpg
-1|Перчатки FLAMINGO  |90||169,00|bp rp|| NITRAS&nbsp;160230&nbsp;W, 35 см|<UL><LI>маслобензостойкие<LI>нефтеморозостойкие</UL>||/img/pic/defence/small/FLAMINGO NITRAS 160230W - 35 mm.jpg|/img/pic/defence/big/FLAMINGO NITRAS 160230W - 35 mm.jpg
-1|Перчатки FLAMINGO-M|90||195,00|bp rp|| NITRAS&nbsp;1602&nbsp;SSW|<UL><LI>маслобензостойкие<LI>нефтеморозостойкие<LI>манжет</UL>||/img/pic/defence/small/FLAMINGO - M NITRAS 1602SSW - manjet.jpg|/img/pic/defence/big/FLAMINGO - M NITRAS 1602SSW - manjet.jpg
-1|Перчатки FLAMINGO-K|90||179,00|bp rp|| NITRAS&nbsp;1602&nbsp;STW|<UL><LI>маслобензостойкие<LI>нефтеморозостойкие<LI>жесткая крага</UL>||/img/pic/defence/small/FLAMINGO - K NITRAS 1602STW - KRAGA.jpg|/img/pic/defence/big/FLAMINGO - K NITRAS 1602STW - KRAGA.jpg
 
 1|Очки защитные|93|59,00||| "УНИВЕРСАЛ"|<UL><LI>Изготовлены из ударопрочного поликарбоната c УФ-добавкой (99% защиты от ультрафиолета).<LI>Имеют регулируемую длину заушин и современный дизайн.<LI>ТРИ цвета: прозрачные, желтые, дымчатые.</UL>||/img/pic/defence/small/OCHKI UNIVERSAL.jpg|/img/pic/defence/big/OCHKI UNIVERSAL.jpg
 1|Очки защитные|93|36,00||| "ТРУД"|<UL><LI>Изготовлены из ударопрочного поликарбоната, имеют УФ стабилизирующую добавку.<LI>Широко применяются на производстве и в быту.<LI>ТРИ цвета: прозрачные, желтые, дымчатые.</UL>||/img/pic/defence/small/Ochki TRUD.jpg|/img/pic/defence/big/Ochki TRUD.jpg
