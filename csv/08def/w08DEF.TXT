@@ -4,28 +4,6 @@
 1|Перчатки комбинированные спилком|181||99,00||| NITRAS&nbsp;1301&nbsp;W|<UL><LI>Утепленные искусственным мехом<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg|/img/pic/defence/big/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg
 1|Краги сварщика спилковые|181||189,00|||, 35 см NITRAS&nbsp;20435&nbsp;W|<UL><LI>Утепленные искусственным мехом<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 20435 W.jpg|/img/pic/defence/big/NITRAS 20435 W.jpg
 
-1|Рукавицы Х/Б с брезентовым наладонником|91|29,50||| <span class=art>арт. WHB</span>|||/img/pic/defence/small/RUKOVICY HB S BREZENTOV NALAD.jpg|/img/pic/defence/big/RUKOVICY HB S BREZENTOV NALAD.jpg
-1|Рукавицы брезентовые|91|26,90||||||/img/pic/defence/small/RUKOVICY BR S BREZENT NALADONNIKOM.jpg|/img/pic/defence/big/RUKOVICY BR S BREZENT NALADONNIKOM.jpg
-1|Рукавицы брезентовые с брезентовым наладонником|91|39,00||| <span class=art>арт. WBB</span>|||/img/pic/defence/small/RUKOVICY BR S BREZENT NALADONNIKOM.jpg|/img/pic/defence/big/RUKOVICY BR S BREZENT NALADONNIKOM.jpg
-1|Рукавицы - краги сварщика|91|55,00||| брезентовые огнеупорные|||/img/pic/defence/small/KRAGI SVARSHIKA BREZENT - v brezente.jpg|/img/pic/defence/big/KRAGI SVARSHIKA BREZENT - v brezente.jpg
-
-1|Очки защитные|93|59,00||| "УНИВЕРСАЛ"|<UL><LI>Изготовлены из ударопрочного поликарбоната c УФ-добавкой (99% защиты от ультрафиолета).<LI>Имеют регулируемую длину заушин и современный дизайн.<LI>ТРИ цвета: прозрачные, желтые, дымчатые.</UL>||/img/pic/defence/small/OCHKI UNIVERSAL.jpg|/img/pic/defence/big/OCHKI UNIVERSAL.jpg
-1|Очки защитные|93|36,00||| "ТРУД"|<UL><LI>Изготовлены из ударопрочного поликарбоната, имеют УФ стабилизирующую добавку.<LI>Широко применяются на производстве и в быту.<LI>ТРИ цвета: прозрачные, желтые, дымчатые.</UL>||/img/pic/defence/small/Ochki TRUD.jpg|/img/pic/defence/big/Ochki TRUD.jpg
-1|Очки защитные|93|36,00||| "СТИЛЬ"|<UL><LI>Изготовлены из ударопрочного поликарбоната, имеют УФ стабилизирующую добавку.<LI>Широко применяются на производстве и в быту.<LI>ТРИ цвета: прозрачные, желтые, дымчатые.</UL>||/img/pic/defence/small/Ochki STIL.jpg|/img/pic/defence/big/Ochki STIL.jpg
-1|Очки защитные|93|66,00||| закрытого типа|<UL><LI>Специальные клапаны от запотевания<LI>Линзы изготовлены из 2 мм ударопрочного поликарбоната</UL>||/img/pic/defence/small/OCHKI ZAKRYTOGO TIPA.jpg|/img/pic/defence/big/OCHKI ZAKRYTOGO TIPA.jpg
-1|Очки газосварщика|93|89,00||| с откидными стеклами|||/img/pic/defence/small/OCHKI GAZOSVARSHIKA OTKIDNY STEKLA.jpg|/img/pic/defence/big/OCHKI GAZOSVARSHIKA OTKIDNY STEKLA.jpg
-1|Очки газосварщика|93|199,00||| винтовые ЗН-56|||/img/pic/defence/small/vint56.jpg|/img/pic/defence/big/vint56.jpg
-1|Щиток защитный|-93|155,00||| 390 x 175 мм|Защита от механических повреждений при попадании твердых частиц. Поверхность желтая.||/img/pic/defence/small/Shitok shield yell.jpg|/img/pic/defence/big/Shitok shield yell.jpg
-1|Маска сварщика|93|89,00||| пластиковая|||/img/pic/defence/small/MASKA SVARSZIKA PLASTIK.jpg|/img/pic/defence/big/MASKA SVARSZIKA PLASTIK.jpg
-1|Щиток защитный|93|139,00||| "ИСТОК"|||/img/pic/defence/small/SCHITOK SVARSZIKA.jpg|/img/pic/defence/big/SCHITOK SVARSZIKA.jpg
-1|Щиток защитный|93|255,00||| "MATRIX" 425 х 220 мм, цельный корпус|<UL><LI>ударопрочный пластик<LI>наголовник состоит из мягких наголовных лент</UL>||/img/pic/defence/small/SHITIK MATRIX.jpg|/img/pic/defence/big/SHITIK MATRIX.jpg
-
-1|Респиратор|92|19,90||| "Лепесток"|Защищает от пыли и аэрозолей, присутствующих в воздухе.<br>Цена за упаковку 5 штук||/img/pic/defence/small/respirator - lepestok.jpg|/img/pic/defence/big/respirator - lepestok.jpg
-1|Респиратор|92|15,90|red|| У-2К (зеленый)|Защита органов дыхания при выполнении работ средней тяжести.<br>Защищает от пыли и аэрозолей, присутствующих в воздухе||/img/pic/defence/small/U2K respirator.jpg|/img/pic/defence/big/U2K respirator.jpg
-1|Респиратор противоаэрозольный|92|15,90||| 3М 8101|класс защиты FFP1 (4 ПДК)||/img/pic/defence/small/Respirator 3M 8101.jpg|/img/pic/defence/big/Respirator 3M 8101.jpg
-1|Респиратор противогазовый|92|159||| РПГ-67|Применяется в промышленности и в быту:<UL><LI>при проведении лакокрасочных и ремонтных работ<LI>при работе с удобрениями и ядохимикатами</UL><p><span class="addt">Обеспечивает защиту до 10-15 ПДК.<br>Комплектуется сменными патронами.||/img/pic/defence/small/RPG67.jpg|/img/pic/defence/big/RPG67.jpg
-1|Патрон к респиратору|92|59||| РПГ-67|<UL><LI>Класс "А" - защита от паров органических веществ, хлор- и фосфорсодержащих химикатов<LI>Класс "В" - защита от сернистых газов, хлор- и фосфорсодержащих химикатов</UL>||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
-
 1|Пояс монтажный с лентой ПП-1А|94|425,00||||||/img/pic/defence/small/pp1a.jpg|/img/pic/defence/big/pp1a.jpg
 1|Пояс монтажный с цепью ПП-1Г|94|445,00||||||/img/pic/defence/small/pp1g.jpg|/img/pic/defence/big/pp1g.jpg
 

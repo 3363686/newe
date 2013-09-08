@@ -47,6 +47,7 @@ abbr {cursor: help;}
 .tab tr.blkt td {border-top:double; padding-top:3px; }
 .tab tr.blkt2 td {border-top:2px solid #686c6e; padding-top:3px;}
 .hidden {display: none;}
+.tab tr.norow {display: none;}
 
 .tab tr.red {background-color: #f8e8d8;}
 
@@ -189,7 +190,7 @@ div.ref.pdf a {font-weight: bold; }
 #cat14 .desc-good  {min-width:38em;}
 #cat1 .desc-good, #cat3 .desc-good, #cat199 .desc-good,
 #cat15 .desc-good, #cat107 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
-#cat254 .desc-good,
+#cat117 .desc-good, #cat254 .desc-good,
 #cat120 .desc-good {min-width:40em;}
 #cat175 .desc-good, #cat191 .desc-good,
 #cat47 .desc-good, #cat48 .desc-good,
