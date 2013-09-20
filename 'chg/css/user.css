@@ -178,8 +178,6 @@ div.ref.pdf a {font-weight: bold; }
 #cat12 .desc-good,
 #cat118 .desc-good {min-width:30em;}
 #cat14 .desc-good {min-width:32em;}
-#cat14 .desc-good, 
-#cat245 .desc-good {min-width:34em;}
 #cat190 .desc-good, #cat198 .desc-good, #cat200 .desc-good, #cat201 .desc-good,
 #cat202 .desc-good, #cat216 .desc-good, #cat13 .desc-good, #cat19 .desc-good,
 #cat34 .desc-good, #cat35 .desc-good, #cat77 .desc-good, #cat28 .desc-good,
@@ -187,11 +185,13 @@ div.ref.pdf a {font-weight: bold; }
 #cat234 .desc-good,
 #cat191 .desc-good {min-width:36em;}
 #cat229 .desc-good, #cat20 .desc-good,
+#cat139 .desc-good,
 #cat14 .desc-good  {min-width:38em;}
 #cat1 .desc-good, #cat3 .desc-good, #cat199 .desc-good,
 #cat15 .desc-good, #cat107 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
 #cat117 .desc-good, #cat254 .desc-good,
 #cat120 .desc-good {min-width:40em;}
+#cat245 .desc-good {min-width:34em;}
 #cat175 .desc-good, #cat191 .desc-good,
 #cat47 .desc-good, #cat48 .desc-good,
 #cat247 .desc-good,
