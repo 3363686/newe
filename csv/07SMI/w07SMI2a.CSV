@@ -48,6 +48,17 @@
 0|Молоток слесарный "GROSS" 1.0 кг|139|10279|335|-
 1|Рукоятка для молотка 400 мм деревянная|139|RM400|49|-
 
+1|Киянка (черная резина) с фиберглас. рукояткой 450 г|140|11185|155|144||Киянки резиновые с фиберглассовой обрезиненной рукояткой| (MATRIX)|||/img/pic/instr/small/KIJANKA.jpg|/img/pic/instr/big/KIJANKA.jpg
+0|Киянка (белая резина)  с фиберглас. рукояткой 450 г|140|11196|199|189
+0|Киянка (черная резина) с фиберглас. рукояткой 680 г|140|11193|179|169
+0|Киянка (белая резина)  с фиберглас. рукояткой 680 г|140|11197|225|210
+1|Киянка (черная резина) с деревянной рукояткой  450 г|140|111505|75 |68 ||Киянки резиновые с деревянной рукояткой| (SPARTA)|||/img/pic/instr/small/KIJANKA - DEREV RUCHKA.jpg|/img/pic/instr/big/KIJANKA - DEREV RUCHKA.jpg
+0|Киянка (черная резина) с деревянной рукояткой  680 г|140|111555|89 | 85
+0|Киянка (черная резина) с деревянной рукояткой  910 г|140|111605|110| 99
+0|Киянка (черная резина) с деревянной рукояткой 1130 г|140|11161 |139|133
+1|Киянка с металлической обрезиненной рукояткой|140|116629|188|179|||, КФ-116629, 900 г, 80 мм <span class=art>арт. 116629</span>|||/img/pic/instr/small/kijanka_kf.jpg|/img/pic/instr/big/jpg
+1|Киянка деревянная|140|KD|99|89||| <span class=art>арт. KD</span>|||/img/pic/instr/small/kijanka_kd.jpg|/img/pic/instr/big/jpg
+
 1|Ножовка по металлу|58||529|-||| 300&nbsp;мм GROSS PIRANHA <span class=art>арт. 77600</span>|24 TPI, обрезиненная рукоятка, захват, биметаллическое полотно.||/img/pic/instr/small/Nozovka po metallu 300 PIRANHA.jpg|/img/pic/instr/big/Nozovka po metallu 300 PIRANHA.jpg
 1|Ножовка по металлу|58||99|94||| 300&nbsp;мм SPARTA <span class=art>арт. 775865</span>|Пластмассовая рукоятка||/img/pic/instr/small/Nozovka po metallu 300 plasm puchka.jpg|/img/pic/instr/big/Nozovka po metallu 300 plasm puchka.jpg
 1|Полотно для ножовки по металлу|-58||77|-||| 300&nbsp;мм GROSS, биметалллическое <span class=art>арт. 77782</span></span>|Упаковка 2 шт. Цена за упаковку.||/img/pic/instr/small/Polotno Dla NoJOVOK po metallu BIMETALL (2).jpg|/img/pic/instr/big/Polotno Dla NoJOVOK po metallu BIMETALL (2).jpg
@@ -56,6 +67,14 @@
 1|Полотно для ножовки по металлу|58||99|-||| 300&nbsp;мм GROSS, биметалллическое, переменный зуб VARIOZAHN-BiM <span class=art>арт. 77731</span>|Упаковка 2 шт. Цена за упаковку.||/img/pic/instr/small/Polotno GROSS VARIOZAHN.jpg|/img/pic/instr/big/Polotno GROSS VARIOZAHN.jpg
 1|Полотно для ножовки по металлу|58||118|-||| 300&nbsp;мм У7 <span class=art>арт. 77764</span>|Упаковка 12 шт. Цена за упаковку.||/img/pic/instr/small/Polotno Dla NoJOVOK po metallu  (12).jpg|/img/pic/instr/big/Polotno Dla NoJOVOK po metallu  (12).jpg
 1|Полотно для электролобзика|58||129|-||| GROSS Е301ВД 110&nbsp;мм x 4&nbsp;мм, Alloy Steel <span class=art>арт. 78263</span>|Упаковка 2 шт. Цена за упаковку.||/img/pic/instr/small/78263.jpg|/img/pic/instr/big/jpg
+
+1|Ножовка столярная с универсальными зубьями|128||139|129|||, 400&nbsp;мм, шаг зубьев 4&nbsp;мм (Ижевск) <span class=art>арт. 23163</span>|Уменьшенный шаг зубьв обеспечивает хорошую чистоту среза, плавное резание, отсутствие сколов на выходе материала.||/img/pic/instr/small/NOJOVKA 400.jpg|/img/pic/instr/big/NOJOVKA 400.jpg
+1|Ножовка по дереву|128||155|149||| ЗУБЕЦ, 450&nbsp;мм <span class=art>арт. 23803</span>|7-8 TPI, каленый зуб.||/img/pic/instr/small/NOZOVKA ZUBEC.jpg|/img/pic/instr/big/NOZOVKA ZUBEC.jpg
+1|Ножовка по дереву|128||125|118||| SPARTA, 400&nbsp;мм <span class=art>арт. 232305</span>|5-6 TPI, каленый зуб.||/img/pic/instr/small/232305.jpg|/img/pic/instr/big/jpg
+1|Ножовка по дереву|-128||169||| WOOD LINE, 450&nbsp;мм ("REMOCOLOR") <span class=art>арт. </span>|Полимернное покрытие полотна, трехгранная заточка, твердость 55 HRC, индукционная закалка зубьев.<br>Для распиловки сухой и влажной древесины твердых и мягких пород поперек волокон, а также ДСП, МДФ, пластика.||/img/pic/instr/small/NOJOVKA WOOD LINE 450 mm.jpg|/img/pic/instr/big/NOJOVKA WOOD LINE 450 mm.jpg
+1|Ножовка по дереву|128||249|239||| MATRIX Professional "BLACK SERIES", 550&nbsp;мм <span class=art>арт. 23579</span>|Каленый зуб 3D, тефлоновое покрытие полотна, деревянная рукоятка с резиновым протектором, 7-8 TPI.||/img/pic/instr/small/NOJOVKA BLACK SERIES 550 mm.jpg|/img/pic/instr/big/NOJOVKA BLACK SERIES 550 mm.jpg
+1|Ножовка по дереву|128||439|-||| GROSS "PIRANHA 3D", 500&nbsp;мм <span class=art>арт. 24101</span>|Сегментное строение рабочей кромки полотна, каленый зуб 3D, двухкомпонентная рукоятка, 7/8 TPI (зубьев на дюйм).||/img/pic/instr/small/PIRANHA 500.jpg|/img/pic/instr/big/PIRANHA 500.jpg
+1|Ножовка по дереву|128||439|422||| GROSS "PIRANHA 3D", 550&nbsp;мм <span class=art>арт. 24108 / 24105</span>|Сегментное строение рабочей кромки полотна, каленый зуб 3D, двухкомпонентная рукоятка, 7-8/11-12 TPI (зубьев на дюйм).||/img/pic/instr/small/NOJOVKA PIRANHA 550 mm.jpg|/img/pic/instr/big/NOJOVKA PIRANHA 550 mm.jpg
 
 1|Клещи строительные 180&nbsp;мм|131|K180|165|-||Клещи строительные||||/img/pic/instr/small/Kleschi stroitelnye ( all ).jpg|/img/pic/instr/big/Kleschi stroitelnye ( all ).jpg
 0|Клещи строительные 250&nbsp;мм|131|K250|215|-
