@@ -77,7 +77,7 @@
 1|Каска строительная|157||215,00|-||| с храповым механизмом|Цвета: белый, оранжевый.||/img/pic/defence/small/Kaska s hrap.jpg|/img/pic/defence/big/Kaska s hrap.jpg
 1|Подшлемник полушерстяной|157||116,00|-||| под строительную каску|||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
 
-1|Плащ, полиэфир с ПВХ покрытием|158|MAC-2XL|428|395|||, прошитые швы <span class=art>арт. MAC-2XL / MAC-3XL</span>| Цвет: зеленый.||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
-1|Плащ БМ|158|MSG-2XL|320|295|||, прошитые швы <span class=art>арт. MSG-2XL / MSY-2XL</span>| Цвета: зеленый, желтый.||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
+1|Плащ, полиэфир с ПВХ покрытием|158|MAC-2XL|428|395|||, прошитые швы <span class=art>арт. MAC-2XL / MAC-3XL</span>| Цвет: зеленый.||/img/pic/defence/small/PLASH TRITON.jpg|/img/pic/defence/big/PLASH TRITON.jpg
+1|Плащ БМ|158|MSG-2XL|320|295|||, прошитые швы <span class=art>арт. MSG-2XL / MSY-2XL</span>| Цвета: зеленый, желтый.||/img/pic/defence/small/PLASH JELTY.jpg|/img/pic/defence/big/PLASH JELTY.jpg
 1|Плащ нейлоновый с капюшоном|-158||440||| ТРИТОН.|Цвета: зеленый, синий|||/img/pic/defence/big/plas.jpg
 
