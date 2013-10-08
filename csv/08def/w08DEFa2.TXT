@@ -77,7 +77,10 @@
 1|Каска строительная|157||215,00|-||| с храповым механизмом|Цвета: белый, оранжевый.||/img/pic/defence/small/Kaska s hrap.jpg|/img/pic/defence/big/Kaska s hrap.jpg
 1|Подшлемник полушерстяной|157||116,00|-||| под строительную каску|||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
 
-1|Плащ, полиэфир с ПВХ покрытием|158|MAC-2XL|428|395|||, прошитые швы <span class=art>арт. MAC-2XL / MAC-3XL</span>| Цвет: зеленый.||/img/pic/defence/small/PLASH TRITON.jpg|/img/pic/defence/big/PLASH TRITON.jpg
-1|Плащ БМ|158|MSG-2XL|320|295|||, прошитые швы <span class=art>арт. MSG-2XL / MSY-2XL</span>| Цвета: зеленый, желтый.||/img/pic/defence/small/PLASH JELTY.jpg|/img/pic/defence/big/PLASH JELTY.jpg
-1|Плащ нейлоновый с капюшоном|-158||440||| ТРИТОН.|Цвета: зеленый, синий|||/img/pic/defence/big/plas.jpg
+1|Плащ, полиэфир с ПВХ покрытием|158|MAC-2XL|440|420|||, прошитые швы <span class=art>арт. MAC-2XL / MAC-3XL</span>| Цвет: зеленый.||/img/pic/defence/small/PLASH TRITON.jpg|/img/pic/defence/big/PLASH TRITON.jpg
+1|Плащ БМ|158|MSG-2XL|330|310|||, прошитые швы <span class=art>арт. MSG-2XL / MSY-2XL</span>| Цвета: зеленый, желтый.||/img/pic/defence/small/PLASH JELTY.jpg|/img/pic/defence/big/PLASH JELTY.jpg
+1|Плащ нейлоновый с капюшоном|158||440|hidden|| ТРИТОН.|Цвета: зеленый, синий|||/img/pic/defence/big/plas.jpg
+
+1|Сапоги ПВХ, МБС, КЩС|95|SPOL-41-45|390|350||Сапоги <abbr title="материал: поливинилхлорид">ПВХ</abbr>, <abbr title="маслобензостойкие">МБС</abbr>, <abbr title="стойкость к кислотной и щелочной среде">КЩС</abbr>| «ОМИКА», цвет Олива <span class=art>арт. SPOL-41-45</span>|<UL><LI>Высокое голенище (38 см), защита от боковых порезов и проколов.<LI>Используется в строительстве, аграрном секторе, нефтяной промышленности.<LI>Внешний слой подошвы МБС КЩС – плотный износостойкий обувной ПВХ сорта «Винилан» (ПВХ с добавлением нитрильного каучука), для стойкости к агрессивным средам (маслам, нефтепродуктам, кислотам, щелочам).<LI>Протектор подошвы с рельефным рисунком, для надежного сцепления с землей, исключает застревание мелких камней в подошве и налипание грязи.</UL>||/img/pic/defence/small/SAPOGI PVX.jpg|/img/pic/defence/big/SAPOGI PVX.jpg
+1|Ботинки рабочие|95|||890|hidden|| ЗИМА|<UL><LI>кожа, мех<LI>маслобензостойкая подошва<LI>металлический подносок</UL>||/img/pic/defence/small/IMG_9538.jpg|/img/pic/defence/big/IMG_9538.jpg
 

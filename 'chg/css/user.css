@@ -171,7 +171,7 @@ div.ref.pdf a {font-weight: bold; }
 .article li {margin: 2px 0;}
 .article ul {margin: -2px 0 10px 0;}
 .info .right {float: right; font-style: italic; font-size: 125%; padding: 10px 5em 0 0;}
-.desc-good {min-width:26em;max-width:60em;}
+.desc-good {min-width: 40em;max-width:60em;}
 
 #cat32 .desc-good {min-width:28em;}
 #cat217 .desc-good, #cat29 .desc-good, #cat233 .desc-good,
