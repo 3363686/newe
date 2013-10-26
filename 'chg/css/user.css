@@ -139,7 +139,9 @@ margin:0;}
   display: block;
 }
 .main-info .l3 {margin-bottom: -12px;}
-.l1, .l2, .l3, div.ref {width:100%;}
+.l1, .l2, .l3, div.ref {width: 101%;
+  margin-left: -18px;
+}
 #nooferta {text-align: center; font-size: 75%; color: #555; line-height: 100%; padding:4px 23px 1px 23px;}
 
 #may2013-1 {text-align: center; padding: 6px 0 0 0;}
@@ -171,22 +173,23 @@ div.ref.pdf a {font-weight: bold; }
 .article li {margin: 2px 0;}
 .article ul {margin: -2px 0 10px 0;}
 .info .right {float: right; font-style: italic; font-size: 125%; padding: 10px 5em 0 0;}
-.desc-good {min-width: 40em;max-width:60em;}
 
+.desc-good {min-width: 24em;max-width:60em;}
 #cat32 .desc-good {min-width:28em;}
 #cat217 .desc-good, #cat29 .desc-good, #cat233 .desc-good,
-#cat12 .desc-good,
+#cat12 .desc-good, #cat45 .desc-good,
 #cat118 .desc-good {min-width:30em;}
 #cat14 .desc-good {min-width:32em;}
 #cat245 .desc-good {min-width:34em;}
 #cat190 .desc-good, #cat198 .desc-good, #cat200 .desc-good, #cat201 .desc-good,
 #cat202 .desc-good, #cat216 .desc-good, #cat13 .desc-good, #cat19 .desc-good,
 #cat34 .desc-good, #cat35 .desc-good, #cat77 .desc-good, #cat28 .desc-good,
-#cat174 .desc-good, #cat220 .desc-good, #cat27 .desc-good,
+#cat220 .desc-good, #cat27 .desc-good,
 #cat234 .desc-good, #cat138 .desc-good,
 #cat191 .desc-good {min-width:36em;}
 #cat229 .desc-good, #cat20 .desc-good,
 #cat139 .desc-good,
+#cat78 .desc-good,
 #cat14 .desc-good  {min-width:38em;}
 #cat1 .desc-good, #cat3 .desc-good, #cat199 .desc-good,
 #cat15 .desc-good, #cat107 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
@@ -195,8 +198,8 @@ div.ref.pdf a {font-weight: bold; }
 #cat175 .desc-good, #cat191 .desc-good,
 #cat47 .desc-good, #cat48 .desc-good,
 #cat247 .desc-good,
-#cat78 .desc-good {min-width:42em;}
 #cat235 .desc-good {min-width:44em;}
+#cat174 .desc-good,
 #cat176 .desc-good {min-width:48em;}
 
 #cat234 .desc-good {max-width:45em;}
