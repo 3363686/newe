@@ -9,6 +9,7 @@
 0|Лом-гвоздодер усиленный 600 x 29 x 15 мм MATRIX|260|25233|289.00|279.00
 0|Лом-гвоздодер усиленный 900 x 29 x 15 мм MATRIX|260|25235|399.00|392.00
 1|Кирка строительная|261||680.00|640.00|inline||, обрезиненная рукоятка, 1,5 кг, 900&nbsp;мм|||/img/pic/strhoz/small/KIRKA.jpg|/img/pic/strhoz/big/KIRKA.jpg
+1|Кирка-MINI|261||295.00|280.00|||, 450 г, фиберглассовая обрезиненная рукоятка 385&nbsp;мм MATRIX <span class=art>арт. 21828</span>|Кирка изготовлена методом свободной ковки из стали марки 50. Твердость 48 HRc.||/img/pic/strhoz/small/KIRKA21828.jpg|/img/pic/strhoz/big/jpg
 
 1|Ледоруб-топор сварной|-162|275.00|260.00||| 1200 x 140 мм, 2.2 кг, топор типоразмера Б3 по <a href="http://magicad.su/magicad_docs/4/4132/index.htm"  target="_blank" title="Топоры_строительные._Технические_условия">ГОСТ 18578-89</a>, металлический черенок <span class=art>арт. IVA-05-LT</span>|||/img/pic/strhoz/small/LEDORUB TOPOR.jpg|/img/pic/strhoz/big/LEDORUB TOPOR.jpg
 1|Ледоруб-скребок|-162|138.00|138.00||| 1200 x 190 мм, 1.0 кг, металлический черенок|||/img/pic/strhoz/small/LEDORUB SKREBOK.jpg|/img/pic/strhoz/big/LEDORUB SKREBOK.jpg
@@ -19,10 +20,11 @@
 1|Черенок для метлы|239||49.00|45.00||| ЕВРО с резьбой|||/img/pic/strhoz/small/cherenok EVRO for metla.jpg|/img/pic/strhoz/big/cherenok EVRO for metla.jpg
 1|Метла березовая|239||19.00|18.00||||||/img/pic/strhoz/small/metla.jpg|/img/pic/strhoz/big/jpg
 1|Веник сорго|239||59.00|55.00||| "ЛЮКС М"|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
+1|Совок хозяйственный|239|SV|110.00|100.00|||, деревянная ручка <span class=art>арт. SV</span>|||/img/pic/strhoz/small/jpg|/img/pic/strhoz/big/jpg
 
-1|Метла полипропиленовая|-239||75.00|72.00||| круглая|||/img/pic/strhoz/small/metla kruglaya.jpg|/img/pic/strhoz/big/metla kruglaya.jpg
-1|Метла полипропиленовая|-239||93.00|89.00||| плоская 200&nbsp;x&nbsp;300&nbsp;мм|||/img/pic/strhoz/small/jpg|/img/pic/strhoz/big/jpg
-1|Метла полипропиленовая|-239||99.00|95.00||| плоская распушенная|||/img/pic/strhoz/small/jpg|/img/pic/strhoz/big/jpg
+#1|Метла полипропиленовая|239||75.00|72.00||| круглая|||/img/pic/strhoz/small/metla kruglaya.jpg|/img/pic/strhoz/big/metla kruglaya.jpg
+#1|Метла полипропиленовая|239||93.00|89.00||| плоская 200&nbsp;x&nbsp;300&nbsp;мм|||/img/pic/strhoz/small/jpg|/img/pic/strhoz/big/jpg
+#1|Метла полипропиленовая|239||99.00|95.00||| плоская распушенная|||/img/pic/strhoz/small/jpg|/img/pic/strhoz/big/jpg
 
 1|Щетка по металлу 3-рядная|240|S3R|17.00|16||Щетки ручные по металлу| на деревянной ручке|||/img/pic/strhoz/small/SCHetka po metallu der ruchka.jpg|/img/pic/strhoz/big/SCHetka po metallu der ruchka.jpg
 0|Щетка по металлу 4-рядная|240|S4R|21.00|20
@@ -78,18 +80,18 @@
 
 1|Шланг ПВХ армированный 3/4", 15&nbsp;м|103||498.00|449.00||Шланги ПВХ поливочные| <strong>усиленные,&nbsp;армированные</strong> "PALISAD"|Цена за 1 шт. с учетом НДС.||/img/pic/strhoz/small/Shlang polivochny.jpg|/img/pic/strhoz/big/Shlang polivochny.jpg
 0|Шланг ПВХ армированный 3/4", 30&nbsp;м|103||699.00|679.00
-0|Шланг ПВХ армированный 3/4", 50&nbsp;м|103|67475|995.00|985.00|red|||||1|
+0|Шланг ПВХ армированный 3/4", 50&nbsp;м|103|67475|995.00|985.00|red|||||0|
 
 1|Карандаш малярный|231|848045|44.00|39||| SPARTA 180&nbsp;мм <span class=art>арт. 848045</span>|Имеет мягкий грифель, который оставляет четкий след. Овальная форма карандаша исключает скатывание с наклонной поверхности.<br>Цена за упаковку 12 карандашей||/img/pic/strhoz/small/KARANDASH MALIARNY.jpg|/img/pic/strhoz/big/KARANDASH MALIARNY.jpg
 1|Шнур разметочный|231|848515|49.00|47||| 15&nbsp;м SPARTA <span class=art>арт. 848515</span>|Пластмассовый обрезиненный корпус.||/img/pic/strhoz/small/shnur_sparta.jpg|/img/pic/strhoz/big/shnur_sparta.jpg
 1|Шнур разметочный|231|84855|149.00|139||| 30&nbsp;м <span class=art>арт. 84855</span>|Предназначен для нанесения вертикальной и горизонтальной разметки при проведении строительных и отделочных работ. Также может использоваться в качестве отвеса.<UL><LI>пластмассовый обрезиненный корпус<LI>порошок мел красный 115 г</UL>||/img/pic/strhoz/small/SHNUR RAZMETOCHNY.jpg|/img/pic/strhoz/big/SHNUR RAZMETOCHNY.jpg
 1|Порошок меловой СИНИЙ|231|84860|55.00|49||| для разметочных шнуров MATRIX 115&nbsp;г <span class=art>арт. 84860</span>|||/img/pic/strhoz/small/mel_matrix.jpg|/img/pic/strhoz/big/mel_matrix.jpg
 
-1|Гидроуровень со шкалой, 8&nbsp;мм, &nbsp;&nbsp;7&nbsp;м|108|37063|139.00|||Гидроуровни со шкалой| "БАРС" (Россия)|<UL><LI>удлиненная колба<LI>рельефная градуировка</UL>||/img/pic/strhoz/small/Gidrouroven.jpg|/img/pic/strhoz/big/Gidrouroven.jpg
-0|Гидроуровень со шкалой, 8&nbsp;мм, 10&nbsp;м|108|37064|159.00|
-0|Гидроуровень со шкалой, 8&nbsp;мм, 15&nbsp;м|108|37066|199.00|
-0|Гидроуровень со шкалой, 8&nbsp;мм, 20&nbsp;м|108|37067|215.00|
-0|Гидроуровень со шкалой, 8&nbsp;мм, 25&nbsp;м|108|37069|235.00|
+1|Гидроуровень со шкалой, 8&nbsp;мм, &nbsp;&nbsp;7&nbsp;м|108|37063|139.00|129||Гидроуровни со шкалой| "БАРС" (Россия)|<UL><LI>удлиненная колба<LI>рельефная градуировка</UL>||/img/pic/strhoz/small/Gidrouroven.jpg|/img/pic/strhoz/big/Gidrouroven.jpg
+0|Гидроуровень со шкалой, 8&nbsp;мм, 10&nbsp;м|108|37064|159.00|149
+0|Гидроуровень со шкалой, 8&nbsp;мм, 15&nbsp;м|108|37066|199.00|189
+0|Гидроуровень со шкалой, 8&nbsp;мм, 20&nbsp;м|108|37067|215.00|205
+0|Гидроуровень со шкалой, 8&nbsp;мм, 25&nbsp;м|108|37069|269.00|255
 1|Отвес конусный 100 г, шнур 5&nbsp;м|108|84831|49.00|46||Отвесы конусные| MATRIX|<UL><LI>Груз изготовлен из стали и имеет оцинкованное покрытие.<LI>Длина шнура 5 м.</UL>||/img/pic/strhoz/small/Otves konus.jpg|/img/pic/strhoz/big/Otves konus.jpg
 0|Отвес конусный 200 г, шнур 5&nbsp;м|108|84832|69.00|65
 0|Отвес конусный 300 г, шнур 5&nbsp;м|108|84833|75.00|69
@@ -106,6 +108,26 @@
 1|Лента сигнальная|114||109.00|95.00||| красно-белая 50&nbsp;мм&nbsp;x&nbsp;200&nbsp;м|||/img/pic/strhoz/small/Signalnaja lenta.jpg|/img/pic/strhoz/big/Signalnaja lenta.jpg
 1|Лента барьерная|114||75.00|69.00||| 75&nbsp;мм&nbsp;x&nbsp;100&nbsp;м "CYCLONE"|||/img/pic/strhoz/small/Bariernaja lenta CYCLONE.jpg|/img/pic/strhoz/big/Bariernaja lenta CYCLONE.jpg
 1|Шнурка строительная|114||22,00|19,00||||||/img/pic/strhoz/small/shnurka stroitelnaja.jpg|/img/pic/strhoz/big/shnurka stroitelnaja.jpg
+
+1|Скотч прозрачный 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм|115|TR6636|33.00|29||Скотч|, ширина 48&nbsp;мм, толщина 43&nbsp;мкм|Цена за один ролик.||/img/pic/strhoz/small/Scotch prozrach.jpg|/img/pic/strhoz/big/Scotch prozrach.jpg
+#0|Скотч коричневый 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм|115|TB06636|35.00|-
+#0|Скотч коричневый 48&nbsp;мм&nbsp;x&nbsp;120&nbsp;м;&nbsp;43&nbsp;мкм|115|TB12024|69.00|-
+0|Скотч коричневый 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм TORNADO|115|TTB66|35.00|-|norow
+1|Скотч армированный 50&nbsp;мм&nbsp;x&nbsp; 10&nbsp;м|115|02-0-9-502|69.00|59||Скотч армированный серый| CYCLONE|Армированная лента &mdash; это односторонняя клейкая лента на полипропиленовой основе, армированная продольно и поперечно полиэстровым тканевым волокном, покрытым специальным слоем высококачественного клея hot melt.<DL><DT>Толщина пленки: <DD>80 мкм<DT>Плотность клеевого слоя: <DD>45 г / кв. м<DT>Клейкость к стали: <DD>17,4 Н / 25 мм<DT>Удлинение при разрыве: <DD>170 &plusmn; 5%<DT>Термоустойчивость: <DD>60 &deg; С</DL><p><span class="addt">Цена за один ролик.||/img/pic/strhoz/small/Scotch ARMIROVANY.jpg|/img/pic/strhoz/big/Scotch ARMIROVANY.jpg
+0|Скотч армированный 50&nbsp;мм&nbsp;x&nbsp; 25&nbsp;м|115|02-0-9-504|99.00 | 89
+0|Скотч армированный 50&nbsp;мм&nbsp;x&nbsp; 50&nbsp;м|115|02-0-9-503|175.00|166
+1|Скотч армированный 48&nbsp;мм&nbsp;x&nbsp;50&nbsp;м|115|88889|289.00|278||| (серебро) <span class=art>арт. 88889</span>|Лента клейкая армированная алюминием обеспечивает надежное соединение стыков и швов при термоизоляции. Термостойкая и морозоустойчивая. Может использоваться в банях, саунах, системах кондиционирования.<span class="addt">Цена за один ролик.||/img/pic/strhoz/small/88889.jpg|/img/pic/strhoz/big/jpg
+0|Скотч|115|T|35.00|-|norow
+1|Скотч 50&nbsp;мм&nbsp;x&nbsp;50&nbsp;м|115|88815|199.00|189||| алюминиевый <span class=art>арт. 88815</span>|Лента клейкая алюминиевая - алюминиевый скотч - представляет из себя фольгу с нанесенным на нее клеевым слоем. Применяется для соединения металлизированных поверхностей, ремонта воздухопроводов, в строительстве бань и саун, монтажных вентиляционных работах и т.п.<span class="addt">Цена за один ролик.||/img/pic/strhoz/small/88815.jpg|/img/pic/strhoz/big/jpg
+0|Скотч|115|T|35.00|-|norow
+1|Пленка-стрейч, ролик весом 1&nbsp;кг|115|STR01|149,00|139||Стрейч &mdash; паллетная пленка|, ширина 500&nbsp;мм, толщина 20&nbsp;мкм|Цена за один ролик.||/img/pic/strhoz/small/STRECH_PLENKA.jpg|/img/pic/strhoz/big/STRECH_PLENKA.jpg
+0|Пленка-стрейч, ролик весом 1.8&nbsp;кг|115|STR18|255,00|244
+1|Скотч лента малярная 48&nbsp;мм&nbsp;x&nbsp;24&nbsp;м|115|TM2436|39,00|35||Скотч малярный| TORNADO|||/img/pic/strhoz/small/SCOTCH Maljarny.jpg|/img/pic/strhoz/big/SCOTCH Maljarny.jpg
+0|Скотч лента малярная 48&nbsp;мм&nbsp;x&nbsp;47&nbsp;м|115|TM4736/4724|59,00|55
+1|Сетка (лента) самоклеящаяся &nbsp;&nbsp;50&nbsp;мм&nbsp;x&nbsp; 45&nbsp;м|115|89002|88.00|79||Стеклотканевая самоклеящаяся лента (СЕРПЯНКА)из стекловолокна| MATRIX|Стеклотканевая самоклеящаяся лента из стекловолокна служит как армирующий элемент при отделочных работах.<DL><DT>Размер ячеек, мм: <DD>2,5 х 2,5<DT>Масса, г / кв. м: <DD>50 &plusmn; 5</DL><p><span class="addt">Цена за один рулон.||/img/pic/strhoz/small/Steklosetka-lenta.jpg|/img/pic/strhoz/big/Steklosetka-lenta.jpg
+0|Сетка (лента) самоклеящаяся &nbsp;&nbsp;50&nbsp;мм&nbsp;x&nbsp; 90&nbsp;м|115|89004|139.00|129
+0|Сетка (лента) самоклеящаяся 100&nbsp;мм&nbsp;x&nbsp; 90&nbsp;м|115|89012|244.00|233
+0|Сетка (лента) самоклеящаяся 150&nbsp;мм&nbsp;x&nbsp; 90&nbsp;м|115|89016|355.00|345
 
 1|Ящик пластиковый 420 х 220 х 180 мм (17")|224|90704|355,00|329,00||Ящики для инструмента пластиковые| STELS|<UL><LI>Изготовлены из полипропилена.<LI>Два встроенных органайзера с крышкой.<LI>Предназначены для хранения и транспортировки инструментов, расходных материалов и крепежных изделий.</UL>||/img/pic/strhoz/small/box STELS.jpg|/img/pic/strhoz/big/box STELS.jpg
 0|Ящик пластиковый 500 х 260 х 260 мм (20")|224|90705|555,00|525,00
@@ -125,3 +147,17 @@
 #0|Веревка ХБ д.12 мм|-186|280.00
 #0|Веревка ХБ д.16 мм|-186|370.00
 
+1|Ветошь|228|VZ404010|590,00|570||Ветошь| в лоскутах 40 х 40 см <span class=art>арт. VZ404010</span>|Цена за 1 брикет 10 кг.||/img/pic/strhoz/small/VETOSH.jpg|/img/pic/strhoz/big/VETOSH.jpg
+1|Холстопрошивное полотно (ХПП)|228|HPP08050|1090|990,00 ||Холстопрошивное полотно (ХПП)| в рулонах 0.80&nbsp;х&nbsp;50&nbsp;м <span class=art>арт. HPP08050</span>|Цена за 1 рулон.||/img/pic/strhoz/small/HPP.jpg|/img/pic/strhoz/big/jpg
+1|Мешковина в рулонах          |228|ME110100|3550,00|3390||Мешковина| в рулонах 1.10&nbsp;х&nbsp;100&nbsp;м <span class=art>арт. ME110100</span>|Цена за 1 рулон.||/img/pic/strhoz/small/meshkov.jpg|/img/pic/strhoz/big/jpg
+1|Полотно вафельное в рулонах  |228|PF045070|1390,00|1290||Полотно вафельное| в рулонах 0.45&nbsp;х&nbsp;70&nbsp;м <span class=art>арт. PF045070</span>|Цена за 1 рулон.||/img/pic/strhoz/small/pol_vaf.jpg|/img/pic/strhoz/big/jpg
+
+1|Крестики для укладки плитки 1.0 мм|106|880645|29.00|27.00||Крестики| для укладки плитки|Цена с НДС за упаковку 250 шт.||/img/pic/shmal/small/Krestiki for plitki.jpg|/img/pic/shmal/big/Krestiki for plitki.jpg
+0|Крестики для укладки плитки 1.5 мм|106|880665|29.00|27.00
+0|Крестики для укладки плитки 2.0 мм|106|880685|31.00|29.00
+0|Крестики для укладки плитки 2.5 мм|106|880695|34.00|32.00
+0|Крестики для укладки плитки 3.0 мм|106|880725|36.00|34.00
+0|Крестики для укладки плитки 4.0 мм|106|880765|39.00|37.00
+0|Крестики для укладки плитки 5.0 мм|106|880805|42.00|39.00
+1|Клинья для укладки плитки 30 х 6 х 5 мм|106|880225|55.00|49.00||Клинья| для укладки плитки|Цена с НДС за упаковку 200 шт.||/img/pic/shmal/small/Kliny for plitki.jpg|/img/pic/shmal/big/jpg
+0|0 мм|106|880805|42.00|39.00|norow
