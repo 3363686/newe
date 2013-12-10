@@ -147,6 +147,12 @@ margin:0;}
 }
 #nooferta {text-align: center; font-size: 75%; color: #555; line-height: 100%; padding:4px 23px 1px 23px;}
 
+#w2014   {background-color: #58f;}
+#w2014 a {text-decoration: none;}
+#w2014 span:hover {border-bottom: solid 2px #ffffff;}
+#w2014-1 {text-align: center; padding: 3px 0 6px 0; line-height: 140%; color: #fff; font-size: 22px; font-weight: bold; font-family: Times New Roman, serif; font-style: italic; word-spacing: 8px;}
+#w2014-1 b {font-size: 26px; }
+
 #may2013-1 {text-align: center; padding: 6px 0 0 0;}
 #may2013-1 b {color: #f00;}
 #may2013-2 {text-align: center; padding: 4px 0 6px 0;}
