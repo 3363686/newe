@@ -1,4 +1,5 @@
-1|Лом строительный|260|251300|299.00|289.00||| ЛО-25, D&nbsp;25&nbsp;мм, L&nbsp;1300&nbsp;мм <span class=art>арт. 251300</span>|||/img/pic/strhoz/small/Lom stroitelny.jpg|/img/pic/strhoz/big/Lom stroitelny.jpg
+1|Лом строительный ЛО-25, 25&nbsp;мм&nbsp;x&nbsp;1300&nbsp;мм, 4.8 кг|260|LO-25|299.00|279.00||Ломы строительные||||/img/pic/strhoz/small/Lom stroitelny.jpg|/img/pic/strhoz/big/Lom stroitelny.jpg
+0|Лом строительный ЛО-32, 32&nbsp;мм&nbsp;x&nbsp;1300&nbsp;мм, 7.3 кг|260|LO-32|335.00|315.00
 1|Гвоздодер|260|RED17400|119.00|109.00||| D&nbsp;17&nbsp;мм, L&nbsp;400&nbsp;мм, обрезиненная рукоятка <span class=art>арт. RED17400</span>|||/img/pic/strhoz/small/GVOZDODER S RUCHKOY.jpg|/img/pic/strhoz/big/GVOZDODER S RUCHKOY.jpg
 1|Лом-гвоздодер D 17 мм, L 400 мм|260|GG17400|77.00|72.00||Ломы-гвоздодеры| круглые|||/img/pic/strhoz/small/LOm gvozdoder.jpg|/img/pic/strhoz/big/LOm gvozdoder.jpg
 0|Лом-гвоздодер D 17 мм, L 600 мм|260|GG17600|99.00|89.00
@@ -19,8 +20,10 @@
 1|Метла круглая большая|239||99.00|94.00||| № 6 <span class=art>арт. VM6</span>|||/img/pic/strhoz/small/Metla KRUGLAJA N 6.jpg|/img/pic/strhoz/big/Metla KRUGLAJA N 6.jpg
 1|Черенок для метлы|239||49.00|45.00||| ЕВРО с резьбой|||/img/pic/strhoz/small/cherenok EVRO for metla.jpg|/img/pic/strhoz/big/cherenok EVRO for metla.jpg
 1|Метла березовая|239||19.00|18.00||||||/img/pic/strhoz/small/metla.jpg|/img/pic/strhoz/big/jpg
-1|Веник сорго|239||59.00|55.00||| "ЛЮКС М"|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
-1|Совок хозяйственный|239|SV|110.00|100.00|||, деревянная ручка <span class=art>арт. SV</span>|||/img/pic/strhoz/small/jpg|/img/pic/strhoz/big/jpg
+#1|Веник сорго|239||59.00|55.00||| "ЛЮКС М"|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
+1|Веник сорго|239||49.00|44.00||| 1-й сорт <span class=art>арт. VS1B</span>|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
+1|Швабра деревянная|239||59.00|55.00||| для мытья полов, 1200 мм <span class=art>арт. S1200</span>|||/img/pic/strhoz/small/shvabra_derevyannaya.jpg|/img/pic/strhoz/big/jpg
+1|Совок хозяйственный|239|SV|110.00|100.00|||, деревянная ручка <span class=art>арт. SV</span>|||/img/pic/strhoz/small/sovok.jpg|/img/pic/strhoz/big/jpg
 
 #1|Метла полипропиленовая|239||75.00|72.00||| круглая|||/img/pic/strhoz/small/metla kruglaya.jpg|/img/pic/strhoz/big/metla kruglaya.jpg
 #1|Метла полипропиленовая|239||93.00|89.00||| плоская 200&nbsp;x&nbsp;300&nbsp;мм|||/img/pic/strhoz/small/jpg|/img/pic/strhoz/big/jpg
@@ -67,8 +70,10 @@
 1|Замок навесной|112||129.00 |125||| 3Н2-4-1, 60 мм (SiB) <span class=art>арт. 91623</span>|||/img/pic/strhoz/small/lock91623.jpg|/img/pic/strhoz/big/lock91623.jpg
 1|Замок навесной|112||89.00 |85||| 3Н2-26, 50 мм <span class=art>арт. 91625</span>|||/img/pic/strhoz/small/VS 2.jpg|/img/pic/strhoz/big/VS 2.jpg
 1|Замок навесной повышенной защищенности|112||315.00 |295||| 3Н2-10, 90 мм <span class=art>арт. 91603</span>|Массивный корпус замка с толстыми стенками исключает доступ к дужке и надежно защищает ее от перепиливания и взлома. В комплекте 3 ключа.||/img/pic/strhoz/small/91603.jpg|/img/pic/strhoz/big/jpg
-1|Замок навесной|-112||129.00|-||| 3Н2-М1, 80 мм|||/img/pic/strhoz/small/Zamok _ 3H2-M1 80 sm _ A.jpg|/img/pic/strhoz/big/Zamok _ 3H2-M1 80 sm _ A.jpg
-1|Замок навесной|-112||149.00|-||| 3Н2-26, 80 мм|||/img/pic/strhoz/small/VS 2.jpg|/img/pic/strhoz/big/VS 2.jpg
+1|Проушина для замка|112|PR01|7.50 |7,20||| прямая, 30х70 мм оксидированная <span class=art>арт. PR01</span>|||/img/pic/strhoz/small/PR01.jpg|/img/pic/strhoz/big/jpg
+1|Проушина для замка|112|PR02|15.50|14,80||| угловая, 30х70 мм анодированная <span class=art>арт. PR02</span>|||/img/pic/strhoz/small/PR02.jpg|/img/pic/strhoz/big/jpg
+#1|Замок навесной|112||129.00|-||| 3Н2-М1, 80 мм|||/img/pic/strhoz/small/Zamok _ 3H2-M1 80 sm _ A.jpg|/img/pic/strhoz/big/Zamok _ 3H2-M1 80 sm _ A.jpg
+#1|Замок навесной|112||149.00|-||| 3Н2-26, 80 мм|||/img/pic/strhoz/small/VS 2.jpg|/img/pic/strhoz/big/VS 2.jpg
 
 1|Степлер мебельный|188||298.00|288||| MATRIX Standard|Тип скобы: 53, 6-14 мм <span class=art>арт. 40902</span>||/img/pic/instr/small/STEPLER standart A.jpg|/img/pic/instr/big/STEPLER standart A.jpg
 1|Степлер мебельный|188||369.00|355||| MATRIX Professional <span class=art>арт. 40913</span>|Изготовлен из хромированной стали, имеет функцию ускоренной загрузки скоб. Оснащен двухпозиционным контролем силы удара и глубины забивания скоб.<br>Тип скобы: 13, 53, 300; 6-14 мм||/img/pic/strhoz/small/Stepler.jpg|/img/pic/strhoz/big/Stepler.jpg
@@ -99,8 +104,11 @@
 0|Отвес конусный 400 г, шнур 5&nbsp;м|108|84834|82.00|77
 
 1|Мешок для мусора|208|BG5595|6,90|6,40|||, 55&nbsp;x&nbsp;95&nbsp;см, 50&nbsp;кг, полипропиленовый зеленый <span class=art>арт. BG5595</span>|Цена за 1 шт.||/img/pic/strhoz/small/garbage.jpg|/img/pic/strhoz/big/garbage.jpg
-1|Мешок для мусора ПВД, 120 литров, 70&nbsp;x&nbsp;110&nbsp;см|208|V-01|4,90|4,70||Мешки для мусора| из полиэтилена высокого давления (ПВД), толщина пленки 40 мкм|Цена за 1 шт.||/img/pic/strhoz/small/garbage-pvd3.jpg|/img/pic/strhoz/big/jpg
-0|Мешок для мусора ПВД, 180 литров, 90&nbsp;x&nbsp;110&nbsp;см|208|V-02|5,50|5,20
+1|Мешок для мусора, 120 литров, 70&nbsp;x&nbsp;110&nbsp;см, 30&nbsp;мкм, 40 г|208|TB1 |4,60|4,40||Мешки для мусора| из полиэтилена высокого давления (ПВД), черные, толщина пленки 30&nbsp;-&nbsp;50&nbsp;мкм|<br>Цена за 1 шт.||/img/pic/strhoz/small/garbage-pvd3.jpg|/img/pic/strhoz/big/jpg
+0|Мешок для мусора, 120 литров, 70&nbsp;x&nbsp;110&nbsp;см, 40&nbsp;мкм, 56 г|208|V-01|5,90|5,40|
+0|Мешок для мусора, 120 литров, 70&nbsp;x&nbsp;110&nbsp;см, 50&nbsp;мкм, 72 г|208|TB2 |6,50|6,20|
+0|Мешок для мусора, 180 литров, 90&nbsp;x&nbsp;110&nbsp;см, 40&nbsp;мкм, 75 г|208|V-02|6,90|6,50
+0|Мешок для мусора, 180 литров, 90&nbsp;x&nbsp;110&nbsp;см, 45&nbsp;мкм, 84 г|208|TB3 |6,30|6,00
 1|Пакет для мусора ELFE серый 30 л (упак. 30 шт.)|208|92703|14,90|14,40||Пакеты для мусора| ELFE|<br>Цена за упаковку.||/img/pic/strhoz/small/garbage-elfe.jpg|/img/pic/strhoz/big/jpg
 0|Пакет для мусора ELFE серый 30 л (упак. 50 шт.)|208|92707|27|25
 0|Пакет для мусора ELFE серый 60 л (упак. 50 шт.)|208|92712|58|52
@@ -108,15 +116,18 @@
 1|Лента сигнальная|114||145.00|139.00||| красно-белая 75&nbsp;мм&nbsp;x&nbsp;250&nbsp;м|||/img/pic/strhoz/small/Signalnaja lenta.jpg|/img/pic/strhoz/big/Signalnaja lenta.jpg
 1|Лента сигнальная|114||109.00|95.00||| красно-белая 50&nbsp;мм&nbsp;x&nbsp;200&nbsp;м|||/img/pic/strhoz/small/Signalnaja lenta.jpg|/img/pic/strhoz/big/Signalnaja lenta.jpg
 1|Лента барьерная|114||75.00|69.00||| 75&nbsp;мм&nbsp;x&nbsp;100&nbsp;м "CYCLONE"|||/img/pic/strhoz/small/Bariernaja lenta CYCLONE.jpg|/img/pic/strhoz/big/Bariernaja lenta CYCLONE.jpg
-1|Шнурка строительная|114||22,00|19,00||||||/img/pic/strhoz/small/shnurka stroitelnaja.jpg|/img/pic/strhoz/big/shnurka stroitelnaja.jpg
+1|Нить капрновая (шнур), цвет белый, &nbsp;&nbsp;50 м|114|NC-W050|19,00|18,00||Шнурка строительная||||/img/pic/strhoz/small/shnurka stroitelnaja.jpg|/img/pic/strhoz/big/shnurka stroitelnaja.jpg
+0|Нить капрновая (шнур), цвет белый,            100 м|114|NC-W100|29,00|26,00
+0|Нить капрновая (шнур), цвет черный, &nbsp;&nbsp;50 м|114|NC-B050|19,00|18,00
+0|Нить капрновая (шнур), цвет черный,            100 м|114|NC-B100|29,00|26,00
 
 1|Скотч прозрачный 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм|115|TR6636|33.00|29||Скотч|, ширина 48&nbsp;мм, толщина 43&nbsp;мкм|Цена за один ролик.||/img/pic/strhoz/small/Scotch prozrach.jpg|/img/pic/strhoz/big/Scotch prozrach.jpg
 #0|Скотч коричневый 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм|115|TB06636|35.00|-
 #0|Скотч коричневый 48&nbsp;мм&nbsp;x&nbsp;120&nbsp;м;&nbsp;43&nbsp;мкм|115|TB12024|69.00|-
 0|Скотч коричневый 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм TORNADO|115|TTB66|35.00|-|norow
-1|Скотч армированный 50&nbsp;мм&nbsp;x&nbsp; 10&nbsp;м|115|02-0-9-502|69.00|59||Скотч армированный серый| CYCLONE|Армированная лента &mdash; это односторонняя клейкая лента на полипропиленовой основе, армированная продольно и поперечно полиэстровым тканевым волокном, покрытым специальным слоем высококачественного клея hot melt.<DL><DT>Толщина пленки: <DD>80 мкм<DT>Плотность клеевого слоя: <DD>45 г / кв. м<DT>Клейкость к стали: <DD>17,4 Н / 25 мм<DT>Удлинение при разрыве: <DD>170 &plusmn; 5%<DT>Термоустойчивость: <DD>60 &deg; С</DL><p><span class="addt">Цена за один ролик.||/img/pic/strhoz/small/Scotch ARMIROVANY.jpg|/img/pic/strhoz/big/Scotch ARMIROVANY.jpg
-0|Скотч армированный 50&nbsp;мм&nbsp;x&nbsp; 25&nbsp;м|115|02-0-9-504|99.00 | 89
-0|Скотч армированный 50&nbsp;мм&nbsp;x&nbsp; 50&nbsp;м|115|02-0-9-503|175.00|166
+1|Скотч армированный 50&nbsp;мм&nbsp;x&nbsp; 10&nbsp;м|115|02-0-9-502|75.00|69||Скотч армированный серый| CYCLONE|Армированная лента &mdash; это односторонняя клейкая лента на полипропиленовой основе, армированная продольно и поперечно полиэстровым тканевым волокном, покрытым специальным слоем высококачественного клея hot melt.<DL><DT>Толщина пленки: <DD>80 мкм<DT>Плотность клеевого слоя: <DD>45 г / кв. м<DT>Клейкость к стали: <DD>17,4 Н / 25 мм<DT>Удлинение при разрыве: <DD>170 &plusmn; 5%<DT>Термоустойчивость: <DD>60 &deg; С</DL><p><span class="addt">Цена за один ролик.||/img/pic/strhoz/small/Scotch ARMIROVANY.jpg|/img/pic/strhoz/big/Scotch ARMIROVANY.jpg
+0|Скотч армированный 50&nbsp;мм&nbsp;x&nbsp; 25&nbsp;м|115|02-0-9-504|105.00| 98
+0|Скотч армированный 50&nbsp;мм&nbsp;x&nbsp; 50&nbsp;м|115|02-0-9-503|195.00|185
 1|Скотч армированный 48&nbsp;мм&nbsp;x&nbsp;50&nbsp;м|115|88889|289.00|278||| (серебро) <span class=art>арт. 88889</span>|Лента клейкая армированная алюминием обеспечивает надежное соединение стыков и швов при термоизоляции. Термостойкая и морозоустойчивая. Может использоваться в банях, саунах, системах кондиционирования.<span class="addt">Цена за один ролик.||/img/pic/strhoz/small/88889.jpg|/img/pic/strhoz/big/jpg
 0|Скотч|115|T|35.00|-|norow
 1|Скотч 50&nbsp;мм&nbsp;x&nbsp;50&nbsp;м|115|88815|199.00|189||| алюминиевый <span class=art>арт. 88815</span>|Лента клейкая алюминиевая - алюминиевый скотч - представляет из себя фольгу с нанесенным на нее клеевым слоем. Применяется для соединения металлизированных поверхностей, ремонта воздухопроводов, в строительстве бань и саун, монтажных вентиляционных работах и т.п.<span class="addt">Цена за один ролик.||/img/pic/strhoz/small/88815.jpg|/img/pic/strhoz/big/jpg
