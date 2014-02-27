@@ -1,4 +1,4 @@
-abbr, acronym, .one-good .dop a, li span[title] {border-bottom: 1px dotted;}
+abbr, acronym, .one-good .dop a, li span[title] {border-bottom: 1px dotted; margin-bottom: -1px; font-style: italic;}
 abbr:hover, acronym:hover, li span[title]:hover {border-bottom: 1px solid; cursor: help; }
 a:active {outline: none; -moz-outline-style: none;}
 a:focus {outline: none; -moz-outline-style: none;}
@@ -52,7 +52,7 @@ abbr {cursor: help;}
 
 .tab tr.red {background-color: #f8e8d8;}
 .tab tr.sp1 {background-color: #f6fcf6;}
-.tab tr.sp2 {background-color: #f0f4f0;}
+.tab tr.sp2 {background-color: #f4f6ff;}
 
 .one-good.next {display: none;}
 .info-cat .tab.mult2 {width:48% !important; float:left; margin-bottom:15px;}
@@ -212,7 +212,7 @@ div.ref.pdf a {font-weight: bold; }
 #cat120 .desc-good {min-width:40em;}
 #cat175 .desc-good, #cat270 .desc-good, #cat191 .desc-good,
 #cat48 .desc-good, #cat291 .desc-good,  #cat47 .desc-good, #cat293 .desc-good,
-#cat247 .desc-good, #cat216 .desc-good,
+#cat247 .desc-good, #cat216 .desc-good, #cat302 .desc-good,
 #cat235 .desc-good {min-width:44em;}
 #cat174 .desc-good,
 #cat176 .desc-good {min-width:48em;}
