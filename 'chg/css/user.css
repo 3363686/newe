@@ -1,4 +1,6 @@
-abbr, acronym, .one-good .dop a, li span[title] {border-bottom: 1px dotted; margin-bottom: -1px; font-style: italic;}
+abbr, acronym, .one-good .dop a, li span[title] {border-bottom: 1px dotted; }
+abbr, acronym {margin-bottom: -3px; font-style: italic; color: #007700}
+b abbr, b acronym, .dop abbr, .dop acronym, .title abbr, .title acronym {font-style: inherit; color: #005000}
 abbr:hover, acronym:hover, li span[title]:hover {border-bottom: 1px solid; cursor: help; }
 a:active {outline: none; -moz-outline-style: none;}
 a:focus {outline: none; -moz-outline-style: none;}
