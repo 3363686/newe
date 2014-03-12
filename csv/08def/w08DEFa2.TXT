@@ -23,14 +23,6 @@
 1|Патрон к респиратору|92||65|59||| РПГ-67 <span class=art>арт. P-RPG-B</span>|<UL><LI>Класс "В" - защита от сернистых газов, хлор- и фосфорсодержащих химикатов</UL>||/img/pic/defence/small/rpg67_p.jpg|/img/pic/defence/big/jpg
 #1|Патрон к респиратору|92||59|-||| РПГ-67|<UL><LI>Класс "А" - защита от паров органических веществ, хлор- и фосфорсодержащих химикатов<LI>Класс "В" - защита от сернистых газов, хлор- и фосфорсодержащих химикатов</UL>||/img/pic/defence/small/rpg67_p.jpg|/img/pic/defence/big/jpg
 
-1|Пояс монтажный УС 2 Ж  |94|US2G|490,00|475||Пояс монтажный| УС 2 Ж <span class=art>арт. US2G</span>|Универсальная страховочно-удерживающая привязь с наплечными и набедренными лямками, без стропа. Имеет три точки крепления стропа: две для работы в режиме опоры и одна для страховки. Создает мягкое распределение нагрузок и полную защиту при работе на высоте.<UL><LI>Регулировка ремня от 740 до 1440 мм (размер пояса от S до L).<LI>Статическая разрывная нагрузка: не менее 1 500 кг.<LI>Вес: не превышает 1,5 кг.</UL>||/img/pic/defence/small/US2G.jpg|/img/pic/defence/big/US2G.jpg
-1|Пояс монтажный с лентой|94|PP1A|425,00|399||| ПП-1А <span class=art>арт. PP1A</span>|||/img/pic/defence/small/pp1a.jpg|/img/pic/defence/big/pp1a.jpg
-1|Пояс монтажный с цепью |94|PP1G|445,00|425||| ПП-1Г <span class=art>арт. PP1G</span>|||/img/pic/defence/small/pp1g.jpg|/img/pic/defence/big/pp1g.jpg
-
-1|Каска строительная защитная|157|PH-001-OR|75,00|69|||, ударопрочный пластик <span class=art>арт. PH-001-WI/OR/RED/BL</span>|Цвета: белый, оранжевый, красный, синий.||/img/pic/defence/small/KASKA STROITELNAJA.jpg|/img/pic/defence/big/KASKA STROITELNAJA.jpg
-1|Каска строительная|157||245,00|235||| "ЕВРОПА" с храповым механизмом <span class=art>арт. KE-1 / KE-2</span>|Цвета: белый, оранжевый.||/img/pic/defence/small/Kaska s hrap.jpg|/img/pic/defence/big/Kaska s hrap.jpg
-1|Подшлемник полушерстяной|157||99,00|95||| под строительную каску|||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
-
 1|Плащ, полиэфир с ПВХ покрытием|158|MAC-2XL|440|420|||, прошитые швы <span class=art>арт. MAC-2XL / MAC-3XL</span>| Цвет: зеленый.||/img/pic/defence/small/PLASH TRITON.jpg|/img/pic/defence/big/PLASH TRITON.jpg
 1|Плащ БМ|158|MSG-2XL|330|310|||, прошитые швы <span class=art>арт. MSG-2XL / MSY-2XL</span>| Цвета: зеленый, желтый.||/img/pic/defence/small/PLASH JELTY.jpg|/img/pic/defence/big/PLASH JELTY.jpg
 1|Плащ нейлоновый с капюшоном|158||440|hidden|| ТРИТОН.|Цвета: зеленый, синий|||/img/pic/defence/big/plas.jpg

@@ -4,6 +4,3 @@
 1|Перчатки комбинированные спилком|181||139,00||| NITRAS&nbsp;1302&nbsp;WI|<UL><LI>Утепленные искусственным мехом<LI>Защита от механических повреждений<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 1302 WI - PERCHATKI - ZIMA.jpg|/img/pic/defence/big/NITRAS 1302 WI - PERCHATKI - ZIMA.jpg
 1|Перчатки комбинированные спилком|181||99,00||| NITRAS&nbsp;1301&nbsp;W|<UL><LI>Утепленные искусственным мехом<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg|/img/pic/defence/big/NITRAS 1301 W - PERCHATKI SPILK - ZIMA.jpg
 1|Краги сварщика спилковые|181||189,00|||, 35 см NITRAS&nbsp;20435&nbsp;W|<UL><LI>Утепленные искусственным мехом<LI>Для работы при пониженных температурах</UL>||/img/pic/defence/small/NITRAS 20435 W.jpg|/img/pic/defence/big/NITRAS 20435 W.jpg
-
-1|Костюм для общепроизводственных работ:|97|880||| куртка и полукомбинизон|Накладные карманы с клапаном, манжеты на пуговице. Ткань смесовая. 50% хлопок, 50% п/э, 210 г/м.кв. Цвет: синий, желтая полоса|||/img/pic/defence/big/kos.jpg
-1|Костюм сварщика|97|890|||| брезентовый, 480 г/кв.м
