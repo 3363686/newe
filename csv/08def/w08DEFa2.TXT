@@ -6,30 +6,6 @@
 1|Щиток защитный|263||288,00|277||| MATRIX 425&nbsp;&#215;&nbsp220&nbsp;мм, цельный корпус <span class=art>арт. 89126</span>|<UL><LI>ударопрочный пластик<LI>наголовник состоит из мягких наголовных лент</UL>||/img/pic/defence/small/SHITIK MATRIX.jpg|/img/pic/defence/big/SHITIK MATRIX.jpg
 #1|Щиток защитный|-93||155,00|-||| 390&nbsp;&#215;&nbsp175&nbsp;мм|Защита от механических повреждений при попадании твердых частиц. Поверхность желтая.||/img/pic/defence/small/Shitok shield yell.jpg|/img/pic/defence/big/Shitok shield yell.jpg
 
-1|Маска сварщика|264||89,00|84||| евростандарт пластиковая <span class=art>арт. EUR-0120</span>|||/img/pic/defence/small/MASKA SVARSZIKA PLASTIK.jpg|/img/pic/defence/big/MASKA SVARSZIKA PLASTIK.jpg
-1|Маска сварщика|264||1990,00|1890||| с автозатемнением MATRIX <span class=art>арт. 89133</span>|<UL><LI>Время автоматического реагирования 1/25000 сек.<LI>Степень затемнения 9-13 DIN. Задержка затемнения 0,2-1 сек. Регулировка чувствительности датчиков плавная.<LI>Установочные размеры светофильтра 110&nbsp;&#215;&nbsp90&nbsp;&#215;&nbsp9&nbsp;мм. Размер смотрового окна 98&nbsp;&#215;&nbsp43&nbsp;мм. Вес 520&nbsp;г.</UL>||/img/pic/defence/small/89133.jpg|/img/pic/defence/big/jpg
-1|Стекло для маски сварщика 69&nbsp;&#215;&nbsp121 №4|264|J69121|19,00|17||Стекла для маски сварщика||||/img/pic/defence/small/glass.jpg|/img/pic/defence/big/jpg
-0|Стекло для маски сварщика 110&nbsp;&#215;&nbsp90 №3|264|D3-9JY1 |22,00|20
-0|Стекло для маски сварщика 110&nbsp;&#215;&nbsp90 №4|264|D4-10JY1|22,00|20
-0|Стекло для маски сварщика 110&nbsp;&#215;&nbsp90 №5|264|D5-11JY1|22,00|20
-1|Очки&nbsp;газосварщика с откидными стеклами|264||99,00|89||| MATRIX <span class=art>арт. 89148</span>|||/img/pic/defence/small/OCHKI GAZOSVARSHIKA OTKIDNY STEKLA.jpg|/img/pic/defence/big/OCHKI GAZOSVARSHIKA OTKIDNY STEKLA.jpg
-1|Очки&nbsp;газосварщика винтовые|264||275,00|259||| ЗН-56 <span class=art>арт. GLASS-3Н-56</span>|||/img/pic/defence/small/vint56.jpg|/img/pic/defence/big/vint56.jpg
-
-1|Респиратор|92||19,90|19||| "Лепесток" <span class=art>арт. L-001-5</span>|Защищает от пыли и аэрозолей, присутствующих в воздухе.<br>Цена за упаковку 5 штук||/img/pic/defence/small/respirator - lepestok.jpg|/img/pic/defence/big/respirator - lepestok.jpg
-1|Респиратор|92||9,20|8,90||| "Исток-200" <span class=art>арт. RIST-200</span>|Легкая многослойная бесклапанная фильтрующая полумаска с обтюратором, оголовьем и носовым зажимом. Защищает от различных видов пыли и аэрозолей, находящихся в воздухе во взвешенном состоянии. Степень защиты: FFP1 (до 4 ПДК).||/img/pic/defence/small/respirator - lepestok.jpg|/img/pic/defence/big/respirator - lepestok.jpg
-1|Респиратор|92||18,90|17.90||| У-2К (зеленый) <span class=art>арт. U2K-001</span>|Защита органов дыхания при выполнении работ средней тяжести.<br>Защищает от пыли и аэрозолей, присутствующих в воздухе||/img/pic/defence/small/U2K respirator.jpg|/img/pic/defence/big/U2K respirator.jpg
-1|Респиратор противоаэрозольный|92||15,90|14.90||| 8101 3М|класс защиты FFP1 (4 ПДК) <span class=art>арт. 3М-8101-001</span>||/img/pic/defence/small/Respirator 3M 8101.jpg|/img/pic/defence/big/Respirator 3M 8101.jpg
-1|Респиратор противогазовый|92||165|159||| РПГ-67<table cellpadding=0 cellspacing=0 border=0><tr><td>класс защиты "А"<td class=art>арт. RPG-A<tr><td>класс защиты "B"<td class=art>арт. RPG-B</table>|Применяется в промышленности и в быту:<UL><LI>при проведении лакокрасочных и ремонтных работ<LI>при работе с удобрениями и ядохимикатами</UL><p><span class="addt">Обеспечивает защиту до 10-15 ПДК.<br>Комплектуется сменными патронами.||/img/pic/defence/small/RPG67.jpg|/img/pic/defence/big/RPG67.jpg
-1|Патрон к респиратору|92||65|59||| РПГ-67 <span class=art>арт. P-RPG-B</span>|<UL><LI>Класс "В" - защита от сернистых газов, хлор- и фосфорсодержащих химикатов</UL>||/img/pic/defence/small/rpg67_p.jpg|/img/pic/defence/big/jpg
-#1|Патрон к респиратору|92||59|-||| РПГ-67|<UL><LI>Класс "А" - защита от паров органических веществ, хлор- и фосфорсодержащих химикатов<LI>Класс "В" - защита от сернистых газов, хлор- и фосфорсодержащих химикатов</UL>||/img/pic/defence/small/rpg67_p.jpg|/img/pic/defence/big/jpg
-
-1|Плащ, полиэфир с ПВХ покрытием|158|MAC-2XL|440|420|||, прошитые швы <span class=art>арт. MAC-2XL / MAC-3XL</span>| Цвет: зеленый.||/img/pic/defence/small/PLASH TRITON.jpg|/img/pic/defence/big/PLASH TRITON.jpg
-1|Плащ БМ|158|MSG-2XL|330|310|||, прошитые швы <span class=art>арт. MSG-2XL / MSY-2XL</span>| Цвета: зеленый, желтый.||/img/pic/defence/small/PLASH JELTY.jpg|/img/pic/defence/big/PLASH JELTY.jpg
-1|Плащ нейлоновый с капюшоном|158||440|hidden|| ТРИТОН.|Цвета: зеленый, синий|||/img/pic/defence/big/plas.jpg
-
-1|Наколенники универсальные ЭВА|290|NEVA|135|125||Наколенники универсальные| ЭВА <span class=art>арт. NEVA</span>|<UL><LI>Наколенники из материала ЭВА представляют собой защитный элемент, состоящий из собственно наколенника и стропы, при помощи которой наколенник закрепляется на ноге.<LI>Вес одной пары наколенников ЭВА - не более 300 грамм.</UL>||/img/pic/defence/small/n_eva.jpg|/img/pic/defence/big/n_eva.jpg
-1|Наколенники защитные MATRIX|290|89410|195|185||Наколенники защитные| MATRIX <span class=art>арт. 89410</span>|Наколенники из натуральной ткани с эластичными волокнами, усиленные наколенными накладками из ударопрочной пластмассы. Изнутри смягчены поролоновыми прокладками. ||/img/pic/defence/small/n_89410.jpg|/img/pic/defence/big/jpg
-
 1|Комбинезон защитный|276|4500-|79|72||Комбинезон защитный от пыли| из нетканого материала <span class=art>арт. 4500-</span>|Цвет: белый.<br>Размеры: XL, XXL||/img/pic/defence/small/combinezon.jpg|/img/pic/defence/big/jpg
 
 1|Сигнальный жилет MATRIX, размер  XL|223|89510|169|149||Жилеты сигнальные| MATRIX|Цвета: оражевый, лимонный, неон.||/img/pic/defence/small/JILET SIGNAL.jpg|/img/pic/defence/big/JILET SIGNAL.jpg
