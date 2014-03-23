@@ -193,7 +193,7 @@ div.ref.pdf a {font-weight: bold; }
 .desc-good {min-width: 26em;max-width:60em;}
 #cat266 .desc-good,
 #cat32 .desc-good {min-width:28em;}
-#cat217 .desc-good, #cat29 .desc-good, #cat230 .desc-good, #cat233 .desc-good,
+#cat217 .desc-good, #cat29 .desc-good, #cat233 .desc-good,
 #cat12 .desc-good, #cat45 .desc-good, #cat260 .desc-good, #cat223 .desc-good,
 #cat118 .desc-good {min-width:30em;}
 #cat14 .desc-good {min-width:32em;}
@@ -206,18 +206,20 @@ div.ref.pdf a {font-weight: bold; }
 #cat191 .desc-good {min-width:36em;}
 #cat229 .desc-good, #cat20 .desc-good,
 #cat139 .desc-good,
-#cat78 .desc-good,
 #cat14 .desc-good  {min-width:38em;}
 #cat1 .desc-good, #cat3 .desc-good, #cat199 .desc-good,
 #cat15 .desc-good, #cat107 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
-#cat117 .desc-good, #cat254 .desc-good,
+#cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good,
 #cat120 .desc-good {min-width:40em;}
 #cat175 .desc-good, #cat270 .desc-good, #cat191 .desc-good,
-#cat48 .desc-good, #cat291 .desc-good,  #cat47 .desc-good, #cat293 .desc-good,
+#cat291 .desc-good, #cat293 .desc-good,
 #cat247 .desc-good, #cat216 .desc-good, #cat302 .desc-good,
+#cat78 .desc-good,
 #cat235 .desc-good {min-width:44em;}
 #cat174 .desc-good,
 #cat176 .desc-good {min-width:48em;}
+#cat47 .desc-good,
+#cat48 .desc-good {min-width:55em;}
 /*
 */
 #cat234 .desc-good {max-width:45em;}
