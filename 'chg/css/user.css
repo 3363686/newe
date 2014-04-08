@@ -189,6 +189,7 @@ div.ref.pdf a {font-weight: bold; }
 .article li {margin: 2px 0;}
 .article ul {margin: -2px 0 10px 0;}
 .info .right {float: right; font-style: italic; font-size: 125%; padding: 10px 5em 0 0;}
+.help_newe_ru {font-size: 90%; text-align: center; color: #ff9911}
 
 .desc-good {min-width: 26em;max-width:60em;}
 #cat266 .desc-good,
@@ -206,13 +207,13 @@ div.ref.pdf a {font-weight: bold; }
 #cat191 .desc-good {min-width:36em;}
 #cat229 .desc-good, #cat20 .desc-good,
 #cat139 .desc-good,
+#cat291 .desc-good, #cat293 .desc-good, #cat309 .desc-good, #cat311 .desc-good,
 #cat14 .desc-good  {min-width:38em;}
 #cat1 .desc-good, #cat3 .desc-good, #cat199 .desc-good,
 #cat15 .desc-good, #cat107 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
 #cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good,
 #cat120 .desc-good {min-width:40em;}
 #cat175 .desc-good, #cat270 .desc-good, #cat191 .desc-good,
-#cat291 .desc-good, #cat293 .desc-good,
 #cat247 .desc-good, #cat216 .desc-good, #cat302 .desc-good,
 #cat78 .desc-good,
 #cat235 .desc-good {min-width:44em;}
