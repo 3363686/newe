@@ -5,19 +5,17 @@
 0|Коронка в сборе 68 мм, SDS PLUS, RENNBOHR    |172|700068|890|880|870
 0|Коронка в сборе 80 мм, SDS PLUS, RENNBOHR    |172|700080|995|978|970
 
-1|Коронка BIMETALL 20 мм, MATRIX|281|72420|85.00 |-||Коронки BIMETALL|, MATRIX|ДСП, фанера, пластмасса и др.||/img/pic/drill/small/Coronka BIMETAL.jpg|/img/pic/drill/big/Coronka BIMETAL.jpg
-0|Коронка BIMETALL 22 мм, MATRIX|281|72422|99.00 |-|
-0|Коронка BIMETALL 25 мм, MATRIX|281|72425|109.00|-|
-0|Коронка BIMETALL 29 мм, MATRIX|281|72429|119.00|-|
-0|Коронка BIMETALL 32 мм, MATRIX|281|72432|139.00|-|
-0|Коронка BIMETALL 35 мм, MATRIX|281|72435|159.00|-|
-0|Коронка BIMETALL 41 мм, MATRIX|281|72441|169.00|-|
-0|Коронка BIMETALL 44 мм, MATRIX|281|72444|179.00|-|
-0|Коронка BIMETALL 51 мм, MATRIX|281|72451|189.00|-|
-0|Коронка BIMETALL 54 мм, MATRIX|281|72454|199.00|-|
-0|Коронка BIMETALL 60 мм, MATRIX|281|72460|229.00|-|
-0|Коронка BIMETALL 64 мм, MATRIX|281|72464|249.00|-|
-0|Коронка BIMETALL 68 мм, MATRIX|281|72468|269.00|-|
-1|Хвостовик SDS PLUS для коронок BIMETALL до 30 мм   |281|72490|119.00|-||Хвостовики SDS PLUS для коронок BIMETALL|, MATRIX|||/img/pic/drill/small/Hvostovik DLJA KORONOK BIMETALL.jpg|/img/pic/drill/big/Hvostovik DLJA KORONOK BIMETALL.jpg
-0|Хвостовик SDS PLUS для коронок BIMETALL свыше 30 мм|281|72492|169.00|-
+1|Коронка BIMETALL 20 мм|281|BIM20|85.00 |||norow|Коронки| BIMETALL|ДСП, фанера, пластмасса и др.||/img/pic/drill/small/Coronka BIMETAL.jpg|/img/pic/drill/big/Coronka BIMETAL.jpg
+0|Коронка BIMETALL 25 мм|281|BIM25|109.00| 95.00| 89.00
+0|Коронка BIMETALL 32 мм|281|BIM32|118.00|108.00|102.00
+0|Коронка BIMETALL 35 мм|281|BIM35|145.00|138.00|133.00
+0|Коронка BIMETALL 41 мм|281|BIM41|165.00|156.00|150.00
+0|Коронка BIMETALL 44 мм|281|BIM44|175.00|166.00|160.00
+0|Коронка BIMETALL 51 мм|281|BIM51|195.00|188.00|182.00
+0|Коронка BIMETALL 54 мм|281|BIM54|215.00|205.00|195.00
+0|Коронка BIMETALL 60 мм|281|BIM60|235.00|225.00|215.00
+0|Коронка BIMETALL 64 мм|281|BIM64|255.00|242.00|235.00
+0|Коронка BIMETALL 68 мм|281|BIM68|275.00|260.00|255.00
+1|Хвостовик SDS PLUS для коронок BIMETALL до 30 мм   |281|72490|165|155|150||Хвостовики SDS PLUS| для коронок BIMETALL|||/img/pic/drill/small/Hvostovik DLJA KORONOK BIMETALL.jpg|/img/pic/drill/big/Hvostovik DLJA KORONOK BIMETALL.jpg
+0|Хвостовик SDS PLUS для коронок BIMETALL свыше 30 мм|281|72492|165|155|150
 
