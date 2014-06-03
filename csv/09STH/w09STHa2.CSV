@@ -2,7 +2,7 @@
 1|Метла плоская большая|239||89.00|82.00||| № 3 <span class=art>арт. VM3</span>|||/img/pic/strhoz/small/Metla PLOSKAJA N 3.jpg|/img/pic/strhoz/big/Metla PLOSKAJA N 3.jpg
 1|Метла круглая большая|239||115.00|105.00||| № 6 <span class=art>арт. VM6</span>|||/img/pic/strhoz/small/Metla KRUGLAJA N 6.jpg|/img/pic/strhoz/big/Metla KRUGLAJA N 6.jpg
 1|Черенок для метлы|239||49.00|45.00||| ЕВРО с резьбой|||/img/pic/strhoz/small/cherenok EVRO for metla.jpg|/img/pic/strhoz/big/cherenok EVRO for metla.jpg
-1|Метла березовая|239||19.00|18.00||||||/img/pic/strhoz/small/metla.jpg|/img/pic/strhoz/big/jpg
+#1|Метла березовая|239||19.00|18.00||||||/img/pic/strhoz/small/metla.jpg|/img/pic/strhoz/big/jpg
 #1|Веник сорго|239||59.00|55.00||| "ЛЮКС М"|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
 1|Веник сорго|239||49.00|44.00||| 1-й сорт <span class=art>арт. VS1B</span>|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
 1|Швабра деревянная|239||59.00|55.00||| для мытья полов, 1200 мм <span class=art>арт. S1200</span>|||/img/pic/strhoz/small/shvabra_derevyannaya.jpg|/img/pic/strhoz/big/jpg
@@ -11,14 +11,6 @@
 #1|Метла полипропиленовая|239||75.00|72.00||| круглая|||/img/pic/strhoz/small/metla kruglaya.jpg|/img/pic/strhoz/big/metla kruglaya.jpg
 #1|Метла полипропиленовая|239||93.00|89.00||| плоская 200&nbsp;x&nbsp;300&nbsp;мм|||/img/pic/strhoz/small/jpg|/img/pic/strhoz/big/jpg
 #1|Метла полипропиленовая|239||99.00|95.00||| плоская распушенная|||/img/pic/strhoz/small/jpg|/img/pic/strhoz/big/jpg
-
-1|Щетка по металлу 3-рядная|240|S3R|17.00|16||Щетки ручные по металлу| на деревянной ручке|||/img/pic/strhoz/small/SCHetka po metallu der ruchka.jpg|/img/pic/strhoz/big/SCHetka po metallu der ruchka.jpg
-0|Щетка по металлу 4-рядная|240|S4R|21.00|20
-0|Щетка по металлу 5-рядная|240|S5R|23.00|21
-0|Щетка по металлу 6-рядная|240|S6R|25.00|23
-1|Щетка по металлу ручная 5-рядная|240|748675|42.00|39||Щетки по металлу| ручные металлические в пластмассовом корпусе с пластмассовой ручкой SPARTA|||/img/pic/strhoz/small/SCZetka ruchnaja - plastmass sparta.jpg|/img/pic/strhoz/big/SCZetka ruchnaja - plastmass sparta.jpg
-0|Щетка по металлу ручная 6-рядная|240|748685|45.00|42
-1|Щетка по металлу ручная|240|748505|59.00|57||| SPARTA <span class=art>арт. 748505</span>|120 мм, металлическая проволока, латунное покрытие, пластмассовая ручка.||/img/pic/strhoz/small/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg|/img/pic/strhoz/big/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg
 
 1|Скотч прозрачный 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм|115|TR6636|36.00|32||Скотч|, ширина 48&nbsp;мм, толщина 43&nbsp;мкм|Цена за один ролик.||/img/pic/strhoz/small/Scotch prozrach.jpg|/img/pic/strhoz/big/Scotch prozrach.jpg
 0|Скотч коричневый 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм|115|TB06636|35.00|31
@@ -40,16 +32,6 @@
 0|Сетка (лента) самоклеящаяся 100&nbsp;мм&nbsp;x&nbsp; 90&nbsp;м|115|89012|244.00|233
 0|Сетка (лента) самоклеящаяся 150&nbsp;мм&nbsp;x&nbsp; 90&nbsp;м|115|89016|355.00|345
 
-1|Ящик пластиковый 420 х 220 х 180 мм (17")|224|90704|455,00|469,00||Ящики для инструмента пластиковые| STELS|<UL><LI>Изготовлены из полипропилена.<LI>Два встроенных органайзера с крышкой.<LI>Предназначены для хранения и транспортировки инструментов, расходных материалов и крепежных изделий.</UL>||/img/pic/strhoz/small/box STELS.jpg|/img/pic/strhoz/big/box STELS.jpg
-0|Ящик пластиковый 500 х 260 х 260 мм (20")|224|90705|625,00|595,00
-0|Ящик пластиковый 590 х 300 х 300 мм (24")|224|90706|795,00|777,00
-1|Сумка для инструмента|224||495,00|469,00||| MATRIX<br>14 карманов, 315 х 215 х 225 мм <span class=art>арт. 90251</span>|||/img/pic/strhoz/small/SUMKA DLYA INSTR.jpg|/img/pic/strhoz/big/SUMKA DLYA INSTR.jpg
-1|Сумка для инструмента|224||685,00|665,00||| MATRIX<br>18 карманов, 510 х 210 х 360 мм <span class=art>арт. 90252</span>|||/img/pic/strhoz/small/90252.jpg|/img/pic/strhoz/big/SUMKA DLYA INSTR.jpg
-1|Сумка для инструмента|224||725,00|695,00||| MATRIX<br>32 кармана, 460 х 280 х 305 мм, ремень <span class=art>арт. 90256</span>|||/img/pic/strhoz/small/SUMKA BIG.jpg|/img/pic/strhoz/big/SUMKA BIG.jpg
-#1|Ящик металлический 284 х 160 х  78 мм|224||390,00|330,00||Ящики для инструмента| металлические|Предназначены для хранения и транспортировки инструментов, расходных материалов и крепежных изделий.||/img/pic/strhoz/small/JAschik METALL.jpg|/img/pic/strhoz/big/JAschik METALL.jpg
-#0|Ящик металлический 410 х 154 х  95 мм|224||490,00|440,00
-#0|Ящик металлический 484 х 154 х 165 мм|224||680,00|620,00
-
 #1|Веревка ПА д.10 мм|-186|PAB2410-50|33.00|||Веревка полиамидная| 24-прядная|В отдельных бухтах. Высокая прочность, стойкость ко многим химическим реагентам<br>Цена с НДС за погонный метр||/img/pic/strhoz/small/verevka poliam 24 pr.jpg|/img/pic/strhoz/big/verevka poliam 24 pr.jpg
 1|Веревка ПА д. 10 мм|186|PAB2410-50|37.00|35||Веревка полиамидная плетеная 24-прядная| в катушках 50 м.|Высокая прочность, стойкость ко многим химическим реагентам<br>Цена с НДС за погонный метр||/img/pic/strhoz/small/verevka poliam 24 pr.jpg|/img/pic/strhoz/big/verevka poliam 24 pr.jpg
 0|Веревка ПА д. 12 мм|186|PAB2412-50|44.00|41
@@ -58,11 +40,6 @@
 #1|Веревка ХБ д.10 мм|-186|266.00||Веревка хлопчатобумажная| крученая|В отрезках по 11 погонных метров.<br>Цена с НДС за отрезок 11 метров||/img/pic/strhoz/small/verevka hb.jpg|/img/pic/strhoz/big/verevka hb.jpg
 #0|Веревка ХБ д.12 мм|-186|280.00
 #0|Веревка ХБ д.16 мм|-186|370.00
-
-1|Ветошь|228|VZ404010|590,00|570||Ветошь| в лоскутах 40 х 40 см <span class=art>арт. VZ404010</span>|Цена за 1 брикет 10 кг.||/img/pic/strhoz/small/VETOSH.jpg|/img/pic/strhoz/big/VETOSH.jpg
-1|Холстопрошивное полотно (ХПП)|228|HPP08050|1090|990,00 ||Холстопрошивное полотно (ХПП)| в рулонах 0.80&nbsp;х&nbsp;50&nbsp;м <span class=art>арт. HPP08050</span>|Цена за 1 рулон.||/img/pic/strhoz/small/HPP.jpg|/img/pic/strhoz/big/jpg
-1|Мешковина в рулонах          |228|ME110100|3550,00|3390||Мешковина| в рулонах 1.10&nbsp;х&nbsp;100&nbsp;м <span class=art>арт. ME110100</span>|Цена за 1 рулон.||/img/pic/strhoz/small/meshkov.jpg|/img/pic/strhoz/big/jpg
-1|Полотно вафельное в рулонах  |228|PF045070|1390,00|1290||Полотно вафельное| в рулонах 0.45&nbsp;х&nbsp;70&nbsp;м <span class=art>арт. PF045070</span>|Цена за 1 рулон.||/img/pic/strhoz/small/pol_vaf.jpg|/img/pic/strhoz/big/jpg
 
 1|Крестики для укладки плитки 1.0 мм|106|880645|29.00|27.00||Крестики| для укладки плитки|Цена с НДС за упаковку 250 шт.||/img/pic/shmal/small/Krestiki for plitki.jpg|/img/pic/shmal/big/Krestiki for plitki.jpg
 0|Крестики для укладки плитки 1.5 мм|106|880665|29.00|27.00

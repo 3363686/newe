@@ -1,4 +1,6 @@
-/* !!! */.tmenu-tab {margin-bottom: -25px;} /* 30.04.14 */
+/* !!! */
+/*.tmenu-tab {margin-bottom: -25px;}*/
+/* 30.04.14 */
 abbr, acronym, .one-good .dop a, li span[title] {border-bottom: 1px dotted; }
 abbr, acronym {margin-bottom: -3px; font-style: italic; color: #007700}
 b abbr, b acronym, .dop abbr, .dop acronym, .title abbr, .title acronym {font-style: inherit; color: #005000}
@@ -162,7 +164,7 @@ table.one-good.sale1 td#all-summa.good-cart p.price:after { content: " Цена 
 
 .toptmp1 { position: absolute; top: 270px; left: 360px; }
 /* Hide/adjust this when <div class="toptmp1"> in catalog/index.shtml is not used or changed! */
-div.info-cat h1 { margin-top: 45px; }
+/* div.info-cat h1 { margin-top: 45px; } */
 
 #w2014ny {background-color: #fff;}
 #w2014ny div {float: left;}
