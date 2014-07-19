@@ -65,6 +65,12 @@ abbr {cursor: help;}
 .tab.mult2 td  {text-align:center;}
 .tab.mult2 tr.subhead td {text-align:left; padding-left: 10px; }
 
+.info-cat .tab.mult9 {width:11% !important; float:left; margin: 0 1px 0 0;}
+.info-cat .tab.mult9.last {margin-right: -10px;}
+.tab.mult9 th  {font-weight: normal;}
+.tab.mult9 td  {text-align: right; padding: 3px 5px 3px 0px;}
+.tab.mult9 tr.subhead td {text-align: center; font-weight: bold; padding: 3px 5px 3px 0px;}
+
 /*
 #cat120 .title {font-size: larger; font-variant: small-caps;}
 #cat120 .dop   {font-size: larger; font-weight: normal;}
@@ -97,6 +103,15 @@ abbr {cursor: help;}
 .good-txt p {clear: both;}
 .one-good .good-cart .price {padding: 1px 2px 1px 2px;}
 /*color:#DC7800; color:#c90000;*/
+
+.good-txt table.asul {
+  border-collapse: collapse;
+  border-spacing: 0px; /* cellspacing */
+}
+.good-txt table.asul td {
+  font-size: 80%; white-space: nowrap; /* запрещение переноса в ячейках*/
+}
+
 /**/
 .one-good .good-cart .price {color:#c90000; font-weight: bold;}
 .one-good.rp .good-cart .price {color:#c90000;}
@@ -208,6 +223,10 @@ div.ref.pdf a {font-weight: bold; }
 .info .right {float: right; font-style: italic; font-size: 125%; padding: 10px 5em 0 0;}
 .help_newe_ru {font-size: 90%; text-align: center; color: #ff9911}
 
+body.ot37 .desc-good {min-width: 24em;max-width:50em;}
+body.ot37 .price-nds {display: none;}
+.price-none {font-weight: bold;}
+
 .desc-good {min-width: 26em;max-width:60em;}
 #cat266 .desc-good,
 #cat32 .desc-good {min-width:28em;}
@@ -216,8 +235,7 @@ div.ref.pdf a {font-weight: bold; }
 #cat118 .desc-good {min-width:30em;}
 #cat14 .desc-good {min-width:32em;}
 #cat245 .desc-good {min-width:34em;}
-#cat190 .desc-good, #cat198 .desc-good, #cat200 .desc-good, #cat201 .desc-good,
-#cat202 .desc-good, #cat13 .desc-good, #cat19 .desc-good,
+#cat190 .desc-good, #cat13 .desc-good, #cat19 .desc-good,
 #cat34 .desc-good, #cat35 .desc-good, #cat77 .desc-good, #cat28 .desc-good,
 #cat220 .desc-good, #cat27 .desc-good, #cat197 .desc-good,
 #cat234 .desc-good, #cat138 .desc-good, #cat212 .desc-good,
@@ -226,17 +244,17 @@ div.ref.pdf a {font-weight: bold; }
 #cat139 .desc-good,
 #cat291 .desc-good, #cat293 .desc-good, #cat309 .desc-good, #cat311 .desc-good,
 #cat14 .desc-good  {min-width:38em;}
-#cat1 .desc-good, #cat3 .desc-good, #cat199 .desc-good,
+#cat1 .desc-good, #cat3 .desc-good,
 #cat15 .desc-good, #cat107 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
 #cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good,
 #cat120 .desc-good {min-width:40em;}
 #cat175 .desc-good, #cat270 .desc-good, #cat191 .desc-good,
-#cat247 .desc-good, #cat216 .desc-good, #cat302 .desc-good,
+#cat247 .desc-good,
 #cat78 .desc-good, #cat279 .desc-good,
 #cat235 .desc-good {min-width:44em;}
 #cat174 .desc-good,
 #cat176 .desc-good {min-width:48em;}
-#cat47 .desc-good,
+#cat47 .desc-good,  #cat302 .desc-good,
 #cat48 .desc-good {min-width:55em;}
 /*
 */

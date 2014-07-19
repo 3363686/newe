@@ -1,8 +1,8 @@
-1|Лопата совковая усиленная|101||79|74|69|inline|| без черенка <span class=art>арт. IVA-S</span>|||/img/pic/strhoz/small/Lopata SOVKOVAJA.jpg|/img/pic/strhoz/big/Lopata SOVKOVAJA.jpg
-1|Лопата           штыковая|101||79|74|69|inline|| без черенка <span class=art>арт. IVA-K</span>|||/img/pic/strhoz/small/Lopata STYKOVAJA.jpg|/img/pic/strhoz/big/Lopata STYKOVAJA.jpg
-1|Лопата             совковая|101||129|122|118|inline||, рельсовая сталь РС <span class=art>арт. PS-S2</span>|||/img/pic/strhoz/small/Lopata SOVOK RS.jpg|/img/pic/strhoz/big/Lopata SOVOK RS.jpg
-1|Лопата совковая увеличенная|101||129|122|118|inline||, рельсовая сталь РС <span class=art>арт. PS-S1</span>|||/img/pic/strhoz/small/Lopata SOVOK RS.jpg|/img/pic/strhoz/big/Lopata SOVOK RS.jpg
-1|Лопата             штыковая|101||129|122|118|inline||, рельсовая сталь РС <span class=art>арт. PS-K2</span>|||/img/pic/strhoz/small/Lopata STYK RS.jpg|/img/pic/strhoz/big/Lopata STYK RS.jpg
+1|Лопата совковая усиленная|101||79|74|69|inline|| без черенка <span class=art>арт. IVA-S</span>|<table class="asul"><tr><td>Высота с тулейкой<td>350 мм<tr><td>Высота без тулейки<td>280 мм<tr><td>Ширина полотна<td>230 мм<tr><td>Вес<td>950 г<tr><td>Толщина стали<td>1.8 мм</table>||/img/pic/strhoz/small/Lopata SOVKOVAJA.jpg|/img/pic/strhoz/big/Lopata SOVKOVAJA.jpg
+1|Лопата           штыковая|101||79|74|69|inline|| без черенка <span class=art>арт. IVA-K</span>|<table class="asul"><tr><td>Высота с тулейкой<td>382 мм<tr><td>Высота без тулейки<td>280 мм<tr><td>Ширина полотна<td>204 мм<tr><td>Вес<td>790 г<tr><td>Толщина стали<td>1.8 мм</table>||/img/pic/strhoz/small/Lopata STYKOVAJA.jpg|/img/pic/strhoz/big/Lopata STYKOVAJA.jpg
+1|Лопата             совковая|101||105|98|95|inline||, рельсовая сталь РС <span class=art>арт. PC-S2</span>|<table class="asul"><tr><td>Высота с тулейкой<td>360 мм<tr><td>Высота без тулейки<td>280 мм<tr><td>Ширина полотна<td>230 мм<tr><td>Вес<td>800 г<tr><td>Толщина стали<td>1.6 мм</table>||/img/pic/strhoz/small/Lopata SOVOK RS.jpg|/img/pic/strhoz/big/Lopata SOVOK RS.jpg
+1|Лопата совковая увеличенная|101||105|98|95|inline||, рельсовая сталь РС <span class=art>арт. PC-S1</span>|<table class="asul"><tr><td>Высота с тулейкой<td>372 мм<tr><td>Высота без тулейки<td>290 мм<tr><td>Ширина полотна<td>240 мм<tr><td>Вес<td>860 г<tr><td>Толщина стали<td>1.5 мм</table>||/img/pic/strhoz/small/Lopata SOVOK RS.jpg|/img/pic/strhoz/big/Lopata SOVOK RS.jpg
+1|Лопата             штыковая|101||105|98|95|inline||, рельсовая сталь РС <span class=art>арт. PC-K2</span>|<table class="asul"><tr><td>Высота с тулейкой<td>365 мм<tr><td>Высота без тулейки<td>280 мм<tr><td>Ширина полотна<td>210 мм<tr><td>Вес<td>780 г<tr><td>Толщина стали<td>1.8 мм</table>||/img/pic/strhoz/small/Lopata STYK RS.jpg|/img/pic/strhoz/big/Lopata STYK RS.jpg
 #1|Лопата штыковая|101||79.00|69.00||inline|| с ребром жесткости|||/img/pic/strhoz/small/LOPATA SHNYK S REBROM ZOSTK.jpg|/img/pic/strhoz/big/LOPATA SHNYK S REBROM ZOSTK.jpg
 #1|Лопата совковая|101||79.00|69.00||inline|| с ребром жесткости|||/img/pic/strhoz/small/LOPATA SOVKOVAJA S REBROM ZOSTK.jpg|/img/pic/strhoz/big/LOPATA SOVKOVAJA S REBROM ZOSTK.jpg
 1|Лопата снеговая|101||195|185|180|inline|| 375&nbsp;x&nbsp;330&nbsp;мм| стальная оцинкованная <span class=art>арт. 61536</span>||/img/pic/strhoz/small/LOPATA SNEG OZINKOVANNAJA.jpg|/img/pic/strhoz/big/LOPATA SNEG OZINKOVANNAJA.jpg
@@ -27,7 +27,7 @@
 1|Гвоздодер|260|RED17400|120|110|100||| D&nbsp;17&nbsp;мм, L&nbsp;400&nbsp;мм, обрезиненная рукоятка <span class=art>арт. RED17400</span>|||/img/pic/strhoz/small/GVOZDODER S RUCHKOY.jpg|/img/pic/strhoz/big/GVOZDODER S RUCHKOY.jpg
 1|Гвоздодер-монтировка|260|10850|165|155|145|norow|Гвоздодеры-монтировки| TRUPER, кованая сталь|||/img/pic/strhoz/small/trup-gvozdoder.jpg|/img/pic/strhoz/big/trup-gvozdoder.jpg
 0|Гвоздодер-монтировка L 300 мм, &empty; 12 мм,  300 г|260|10850|135|125|118
-0|Гвоздодер-монтировка L 600 мм, &empty; 19 мм, 1700 г|260|10856|525|500|485
+0|Гвоздодер-монтировка L 600 мм, &empty; 19 мм, 1700 г|260|10856|545|525|485
 0|Гвоздодер-монтировка L 750 мм, &empty; 19 мм, 2000 г|260|10859|575|560|550
 1|Лом-гвоздодер|260|GG16800|165|155|145|norow|Ломы-гвоздодеры| круглые|||/img/pic/strhoz/small/LOm gvozdoder.jpg|/img/pic/strhoz/big/LOm gvozdoder.jpg
 0|Лом-гвоздодер L 400 мм, &empty; 17 мм|260|GG17600| 85| 80| 75
@@ -82,20 +82,20 @@
 
 1|Нож 18&nbsp;мм x 100&nbsp;мм|107|571004|89.00|82|79||Нож универсальный 18&nbsp;мм x 100&nbsp;мм| KINWEHR <span class=art>арт. 571004</span>|<UL><LI>Нож универсальный с выдвижным лезвием 18&nbsp;мм x 100&nbsp;мм.<LI>Фиксатор; 3 лезвия (в комплекте) с автозаменой.<LI>Обрезиненная рукоятка.</UL>||/img/pic/strhoz/small/Kinwehr.jpg|/img/pic/strhoz/big/jpg
 1|Лезвия для ножей 18 x 100&nbsp;мм x 0.5&nbsp;мм|107|571005|24.00|22|21||| KINWEHR <span class=art>арт. 571005</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/lezvia_sparta2.jpg|/img/pic/strhoz/big/jpg
-1|Нож 18&nbsp;мм|107|19-0-210|52|48|46||| Модерн HOBBI, выдвижное лезвие, автофиксатор, усиленный <span class=art>арт. 19-0-210</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; автоматическая блокировка лезвия. Обрезиненная рукоятка.<br></b>Применение:</b> для резания бумаги, картона и др. материалов.||/img/pic/strhoz/small/Nozs MODERN.jpg|/img/pic/strhoz/big/Nozs MODERN.jpg
+1|Нож 18&nbsp;мм|107|19-0-210|56|52|49||| Модерн HOBBI, выдвижное лезвие, автофиксатор, усиленный <span class=art>арт. 19-0-210</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; автоматическая блокировка лезвия. Обрезиненная рукоятка.<br></b>Применение:</b> для резания бумаги, картона и др. материалов.||/img/pic/strhoz/small/Nozs MODERN.jpg|/img/pic/strhoz/big/Nozs MODERN.jpg
 1|Нож монтажный пистолетный 19&nbsp;мм|107|19-0-110|75|69|67||| Эргономик HOBBI, трапеция <span class=art>арт. 19-0-110</span>|Корпус из высококачественной оцинкованной стали. Лезвие 45&nbsp;мм состоит из 12 сегментов, закрепляется фиксирующим винтом и может выдвигаться при помощи специальной кнопки.||/img/pic/strhoz/small/ergonomic.gif|/img/pic/strhoz/big/jpg
 1|Нож сапожный 180&nbsp;мм|107|NSA|59|55|52||| (Россия) <span class=art>арт. NSA</span>|||/img/pic/strhoz/small/Nozs sapojny.jpg|/img/pic/strhoz/big/Nozs sapojny.jpg
 #1|Нож для напольных покрытий|107|78989|129.00|119|||Нож для напольных покрытий| 200&nbsp;мм MATRIX <span class=art>арт. 78989</span>|||/img/pic/strhoz/small/Noz dla napolnyx pokrytiy.jpg|/img/pic/strhoz/big/Noz dla napolnyx pokrytiy.jpg
 1|Нож универсальный|107|78997|85.00|78|75||Нож универсальный| 180&nbsp;мм (Россия) <span class=art>арт. 78997</span>|||/img/pic/strhoz/small/Nozs univers.jpg|/img/pic/strhoz/big/Nozs univers.jpg
 1|Нож монтера|107|78996|65.00|62|58||Нож монтера| 140&nbsp;мм (Россия) <span class=art>арт. 78996</span>|||/img/pic/strhoz/small/NOJ montera.jpg|/img/pic/strhoz/big/NOJ montera.jpg
-#1|Нож 18&nbsp;мм, выдвижное лезвие|107|78929|19.00|17.00|||| MATRIX <span class=art>арт. 78929</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; блокировка лезвия||/img/pic/strhoz/small/Nozs vydv lezv 18 mm.jpg|/img/pic/strhoz/big/Nozs vydv lezv 18 mm.jpg
+1|Нож 18&nbsp;мм, выдвижное лезвие|107|78929|16.80|15.50|14,80||| MATRIX <span class=art>арт. 78929</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; блокировка лезвия||/img/pic/strhoz/small/Nozs vydv lezv 18 mm.jpg|/img/pic/strhoz/big/Nozs vydv lezv 18 mm.jpg
 #1|Нож 18&nbsp;мм|107|78914|88.00|81|||Нож 18&nbsp;мм| MATRIX "MASTER" <span class=art>арт. 78914</span>|Выдвижное лезвие, металлическая направляющая, винтовой фиксатор.||/img/pic/strhoz/small/78914.jpg|/img/pic/strhoz/big/jpg
 #1|Нож складной 18&nbsp;мм|107||189.00|179|||Нож складной 18&nbsp;мм| MATRIX <span class=artn>арт. </span>|10 запасных лезвий-трапеция||
 #1|Нож 18&nbsp;мм, выдвижное лезвие|107||12.90|11.90|||| MATRIX <span class=art>арт. 78929</span> или HOBBI <span class=art>арт. 19-0-003</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; блокировка лезвия||/img/pic/strhoz/small/Nozs vydv lezv 18 mm.jpg|/img/pic/strhoz/big/Nozs vydv lezv 18 mm.jpg
 
-1|Лезвия для ножей 18&nbsp;мм&nbsp;x&nbsp;100&nbsp;мм (14 сегментов)|107|19-2-401|26.00|23|21||| HOBBI <span class=art>арт. 19-2-401</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/hobbi.jpg|/img/pic/strhoz/big/jpg
+1|Лезвия для ножей 18&nbsp;мм&nbsp;x&nbsp;100&nbsp;мм (14 сегментов)|107|19-2-401|28|25|24||| HOBBI <span class=art>арт. 19-2-401</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/hobbi.jpg|/img/pic/strhoz/big/jpg
 1|Лезвия трапеция 19&nbsp;x&nbsp;60&nbsp;мм|107|19-2-410|26.00|24|21||| REMOCOLOR <span class=art>арт. 19-2-410</span>|5 лезвий, изготовленных из высококачественной стали.<br>Цена за упаковку 5 шт.||/img/pic/strhoz/small/19-2-410.jpg|/img/pic/strhoz/big/jpg
-#1|Лезвия для ножей 18 x 100&nbsp;мм|107|793315|26.00|23|||| MATRIX <span class=art>арт. 793315</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/lezvia_sparta2.jpg|/img/pic/strhoz/big/jpg
+1|Лезвия для ножей 18 x 100&nbsp;мм|107|793315|28|25|24||| MATRIX <span class=art>арт. 793315</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/lezvia_sparta2.jpg|/img/pic/strhoz/big/jpg
 #1|Лезвия трапеция прямые 18&nbsp;мм|107|793555|28.00|25|||| MATRIX <span class=art>арт. 793555</span>|Материал изготовления - сталь твердостью 65 HRс.<br>Цена за упаковку 5 шт.||/img/pic/strhoz/small/793555.jpg|/img/pic/strhoz/big/jpg
 #1|Лезвия для ножей 18 x 100&nbsp;мм|107||22.00|19|||| MATRIX <span class=art>арт. 793315</span> или HOBBI <span class=art>арт. 19-2-300</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/Lezvija 25 mm.jpg|/img/pic/strhoz/big/Lezvija 25 mm.jpg
 #1|Лезвия для ножей 18&nbsp;мм|107||22.00|-|||| SPARTA <span class=art>арт. 78969</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/lezvia_sparta2.jpg|/img/pic/strhoz/big/jpg
@@ -114,8 +114,9 @@
 1|Лезвия для ножей 25&nbsp;мм|320|793325|88|||<span class=art> арт. 793325</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/Lezvija 25 mm.jpg|/img/pic/strhoz/big/Lezvija 25 mm.jpg
 ###################
 
-1|Мачете|339|15875|580|570|560||| TRUPER MARA-R типа "Ranchero", 400&nbsp;мм <span class=art>арт. 15875</span>|||/img/pic/strhoz/small/T15875.jpg|/img/pic/strhoz/big/T15875.jpg
-1|Мачете двустороннее|339|15893|625|595|570||| TRUPER MACH-18, 450&nbsp;мм <span class=art>арт. 15893</span>|Стальное лезвие плюс садовая пила, удобная пластиковая рукоятка.||/img/pic/strhoz/small/MACH-18.jpg|/img/pic/strhoz/big/MACH-18.jpg
+1|Мачете             |339|15867|495|475|460||| TRUPER - колумбийский тип, 560&nbsp;мм <span class=art>арт. 15867</span>|Прямое лезвие. Черная ручка. Сделано в Колумбии.||/img/pic/strhoz/small/T15867.jpg|/img/pic/strhoz/big/T15867.jpg
+1|Мачете             |339|15875|580|570|560||| TRUPER MARA-R типа "Ranchero", 400&nbsp;мм <span class=art>арт. 15875</span>|||/img/pic/strhoz/small/T15875.jpg|/img/pic/strhoz/big/T15875.jpg
+1|Мачете двустороннее|339|15893|685|665|650||| TRUPER MACH-18, 450&nbsp;мм <span class=art>арт. 15893</span>|Стальное лезвие плюс садовая пила, удобная пластиковая рукоятка.||/img/pic/strhoz/small/MACH-18.jpg|/img/pic/strhoz/big/MACH-18.jpg
 
 1|Степлер мебельный|188||358|345|325||| MiLES (Индия) <span class=art>арт. TP-5560</span>|<UL><LI>Легкий скобозабивной пистолет <b>"3 в 1"</b>.<LI>Прочный корпус из ABS пластика с мощным металлическим механизмом и металлической ручкой.<LI>Регулятор силы удара; индикатор наличия скоб; блокирование ручки для хранения.<LI><b>Скобы</b>:&nbsp;тип&nbsp;53,&nbsp;6-14&nbsp;мм. <b>Гвозди</b>:&nbsp;12-14&nbsp;мм. <b>Штифты</b>:&nbsp;14&nbsp;мм.</UL>||/img/pic/instr/small/stap_miles.jpg|/img/pic/instr/big/stap_miles.jpg
 1|Степлер мебельный|188||450|440|430||| GROSS <span class=art>арт. 41003</span>|<UL><LI>Корпус из высокопрочного пластика, обрезиненная рукоятка с горизонтальной фиксацией.<LI>Регулировка усилия забивания скобы.<LI>Применяется в работах по обивке мебели, фиксации низковольтных кабелей и т.д. Профессиональное использование.<LI><b>Тип скобы</b>: 13 и 53, размером 6-16&nbsp;мм.<LI><b>Тип гвоздя</b>: 300, размером 16&nbsp;мм.</UL>||/img/pic/strhoz/small/STEPLER GROSS.jpg|/img/pic/strhoz/big/STEPLER GROSS.jpg
@@ -131,27 +132,29 @@
 #0|Скоба для степлера, 12 мм|188|41122 |36.00|33|31
 #0|Скоба для степлера, 14 мм|188|41124 |39.00|36|33
 
-1|Замок навесной|112|ВС2А-(20)|215|205|190||| ВС-2А <span class=art>арт. ВС2А-(20)</span>|Пр-во г. Чебоксары||/img/pic/strhoz/small/zn2-26-50.jpg|/img/pic/strhoz/big/VS 2.jpg
-1|Замок врезной сувальдный|112|91663|||135|sale1|| ЗВ8-4 <span class=art>арт. 91663</span>|Обладает высокой механической прочностью. Прост и удобен в эксплуатации. Корпус и планки оцинкованы. Отпирается ключом снаружи и изнутри. Замок имеет 1-й класс секретности. В комплекте 3 ключа.||/img/pic/strhoz/small/91663.jpg|/img/pic/strhoz/big/jpg
-#1|Замок навесной всепогодный 40 мм|112|91822|125|115|105||Замки навесные всепогодные| MATRIX|Удлиненная дужка.||/img/pic/strhoz/small/91822.jpg|/img/pic/strhoz/big/jpg
-#0|Замок навесной всепогодный 50 мм|112|91826|145|135|125
-1|Замок навесной|112|91616|||145|sale1|| 3Н2-8, 60 мм (SiB)   <span class=art>арт. 91616</span>|||/img/pic/strhoz/small/91616.jpg|/img/pic/strhoz/big/jpg
+1|Замок навесной|112|ВС2А-(20)|225|210|200||| ВС-2А <span class=art>арт. ВС2А</span>|Пр-во г. Чебоксары||/img/pic/strhoz/small/zn2-26-50.jpg|/img/pic/strhoz/big/VS 2.jpg
+1|Замок навесной всепогодный|112|91824|149|142|138||Замки навесные всепогодные 50 мм| MATRIX|||/img/pic/strhoz/small/91822.jpg|/img/pic/strhoz/big/jpg
+0|Замок навесной всепогодный, удлиненная дужка|112|91826|159|152|148
+1|Замок врезной сувальдный|112|91663|155|145|139||| ЗВ8-4 <span class=art>арт. 91663</span>|Обладает высокой механической прочностью. Прост и удобен в эксплуатации. Корпус и планки оцинкованы. Отпирается ключом снаружи и изнутри. Замок имеет 1-й класс секретности. В комплекте 3 ключа.||/img/pic/strhoz/small/91663.jpg|/img/pic/strhoz/big/jpg
+#1|Замок навесной|112|91616|||145|sale1|| 3Н2-8, 60 мм (SiB)   <span class=art>арт. 91616</span>|||/img/pic/strhoz/small/91616.jpg|/img/pic/strhoz/big/jpg
 #1|Замок навесной|112|91623|135|130|125||| 3Н2-4-1, 60 мм (SiB) <span class=art>арт. 91623</span>|||/img/pic/strhoz/small/lock91623.jpg|/img/pic/strhoz/big/lock91623.jpg
-1|Замок навесной|112|91625||| 88|sale1|| 3Н2-26, 50 мм        <span class=art>арт. 91625</span>|||/img/pic/strhoz/small/VS 2.jpg|/img/pic/strhoz/big/VS 2.jpg
-1|Замок навесной повышенной защищенности|112|91603|||225|sale1|| 3Н2-10, 90 мм <span class=art>арт. 91603</span>|Массивный корпус замка с толстыми стенками исключает доступ к дужке и надежно защищает ее от перепиливания и взлома. В комплекте 3 ключа.||/img/pic/strhoz/small/91603.jpg|/img/pic/strhoz/big/jpg
+#1|Замок навесной|112|91625||| 88|sale1|| 3Н2-26, 50 мм        <span class=art>арт. 91625</span>|||/img/pic/strhoz/small/VS 2.jpg|/img/pic/strhoz/big/VS 2.jpg
+1|Замок навесной повышенной защищенности|112|91603|285|275|265||| 3Н2-10, 90 мм <span class=art>арт. 91603</span>|Массивный корпус замка с толстыми стенками исключает доступ к дужке и надежно защищает ее от перепиливания и взлома. В комплекте 3 ключа.||/img/pic/strhoz/small/91603.jpg|/img/pic/strhoz/big/jpg
 1|Проушина для замка|112|PR01| 8.00| 7,60| 7,40||| прямая, 30х70 мм оксидированная <span class=art>арт. PR01</span>|||/img/pic/strhoz/small/PR01.jpg|/img/pic/strhoz/big/jpg
 1|Проушина для замка|112|PR02|16.50|15,50|15,00||| угловая, 30х70 мм анодированная <span class=art>арт. PR02</span>|||/img/pic/strhoz/small/PR02.jpg|/img/pic/strhoz/big/jpg
 #1|Замок навесной|112||129.00||-||| 3Н2-М1, 80 мм|||/img/pic/strhoz/small/Zamok _ 3H2-M1 80 sm _ A.jpg|/img/pic/strhoz/big/Zamok _ 3H2-M1 80 sm _ A.jpg
 #1|Замок навесной|112||149.00||-||| 3Н2-26, 80 мм|||/img/pic/strhoz/small/VS 2.jpg|/img/pic/strhoz/big/VS 2.jpg
 
-1|Крюк для вязки арматуры автоматический|238|848805|396|380|375||| SPARTA <span class=art>арт. 848805</span>|Легкая конструкция из алюминиевого сплава.||/img/pic/strhoz/small/kruk.jpg|/img/pic/strhoz/big/kruk.jpg
+1|Крюк для вязки арматуры автоматический|238|848805|475|450|440||| SPARTA <span class=art>арт. 848805</span>|Легкая конструкция из алюминиевого сплава.||/img/pic/strhoz/small/kruk.jpg|/img/pic/strhoz/big/kruk.jpg
 
 1|Шланг ПВХ армированный усиленный 3/4", 25&nbsp;м|103|OR3425| 545| 525| 495||Шланги ПВХ поливочные| 3/4", <strong>армированные усиленные</strong> YARD|Шланг изготовлен из поливинилхлорида, армирован полиамидной нитью.<br>Цена за 1 шт. с учетом НДС.||/img/pic/strhoz/small/schlang-pvh-yard.jpg|/img/pic/strhoz/big/jpg
 0|Шланг ПВХ армированный усиленный 3/4", 50&nbsp;м|103|OR3450| 995| 955| 935|
-#1|Шланг ПВХ армированный усиленный 3/4", 50&nbsp;м|103|67475 |1390|1330|1290|red|Шланги ПВХ поливочные| 3/4", <strong>армированные</strong> PALISAD|Цена за 1 шт. с учетом НДС.||/img/pic/strhoz/small/Shlang polivochny.jpg|/img/pic/strhoz/big/Shlang polivochny.jpg
-#0|Шланг ПВХ армированный           3/4", 15&nbsp;м|103|67476 | 550| 535| 525
-#0|Шланг ПВХ армированный           3/4", 30&nbsp;м|103|67478 | 715| 695| 685
-#0|Шланг ПВХ армированный           3/4", 50&nbsp;м|103|67479 |1290|1250|1220
+1|Шланг ПВХ армированный усиленный 3/4", 50&nbsp;м|103|67475 |1390|1330|1290|norow|Шланги ПВХ поливочные| 3/4", <strong>армированные</strong> PALISAD|Цена за 1 шт. с учетом НДС.||/img/pic/strhoz/small/Shlang polivochny.jpg|/img/pic/strhoz/big/Shlang polivochny.jpg
+0|Шланг ПВХ армированный           3/4", 15&nbsp;м|103|67476 | 650| 620| 595
+0|Шланг ПВХ армированный           3/4", 30&nbsp;м|103|67478 | 715| 695| 685|norow
+0|Шланг ПВХ армированный           3/4", 50&nbsp;м|103|67479 |1290|1250|1220
+1|Коннектор для шланга быстрозащелкивающийся|103|12722| 95| 89| 85||| 3/4" Аквастоп TRUPER CLICK-ACC 12722, "мама-папа" <span class=art>арт. 12722</span>|||/img/pic/strhoz/small/T12722.jpg|/img/pic/strhoz/big/T12722.jpg
+1|Коннектор для шланга|103|12708| 198| 175| 179||| TRUPER CFM-3/4B, латунный, 3/4", "мама-папа" <span class=art>арт. 12708</span>|||/img/pic/strhoz/small/T12708.jpg|/img/pic/strhoz/big/T12708.jpg
 
 1|Гидроуровень со шкалой, 8 мм, &nbsp; 7&nbsp;м|108|37063|155|148|138||Гидроуровни со шкалой| "БАРС" (Россия)|<UL><LI>удлиненная колба<LI>рельефная градуировка</UL>||/img/pic/strhoz/small/Gidrouroven.jpg|/img/pic/strhoz/big/Gidrouroven.jpg
 0|Гидроуровень со шкалой, 8 мм,       10&nbsp;м|108|37064|175|167|158
@@ -214,8 +217,8 @@
 0|Пакет для мусора ELFE серый 30 л (упак. 50 шт.)       |208|92707|29,00|26,00|25,00
 0|Пакет для мусора ELFE серый 60 л (упак. 50 шт.)       |208|92712|65,00|62,00|59,00
 
-1|Лента оградительная 50&nbsp;мм&nbsp;x&nbsp;200&nbsp;м|114|LO-50-200|135|125|118||Лента сигнальная| красно-белая|||/img/pic/strhoz/small/Signalnaja lenta.jpg|/img/pic/strhoz/big/Signalnaja lenta.jpg
-0|Лента оградительная 75&nbsp;мм&nbsp;x&nbsp;250&nbsp;м|114|LO-250-01|155|145|135
+1|Лента оградительная 50&nbsp;мм&nbsp;x&nbsp;200&nbsp;м|114|LO-50-200|115|105| 95||Лента сигнальная| красно-белая|||/img/pic/strhoz/small/Signalnaja lenta.jpg|/img/pic/strhoz/big/Signalnaja lenta.jpg
+0|Лента оградительная 75&nbsp;мм&nbsp;x&nbsp;250&nbsp;м|114|LO-250-01|135|125|115
 1|Нить капрновая (шнур), цвет белый, &nbsp; &nbsp; 50 м|114|NC-W050|21|19|18||Шнурка строительная||||/img/pic/strhoz/small/shnurka stroitelnaja.jpg|/img/pic/strhoz/big/shnurka stroitelnaja.jpg
 0|Нить капрновая (шнур), цвет белый,      &nbsp;  100 м|114|NC-W100|29|26|25|
 0|Нить капрновая (шнур), цвет черный,       &nbsp; 50 м|114|NC-B050|21|19|18|
