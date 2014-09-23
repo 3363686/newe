@@ -4,7 +4,7 @@
 <div class="bgcolor1"><img src="/img/1pix.gif" width="1" height="5" alt="" /></div>
 <!--#exec cgi="/pcgi/left-menu.pl"-->
 <!--#exec cgi="/pcgi/specoffers-digest.pl"-->
-<div class="help_newe_ru"><br />С вопросами и предложениями<br />по работе компании обращайтесь<br /><a class="help_newe_ru" href="mailto:help@newe.ru">help@newe.ru</a></div>
+<div class="help_newe_ru"><br /><a class="ad_newe_ru" href="/about/ad.shtml">Оказываем помощь<br />в вопросах маркетинга и рекламы<br />для компаний-партнеров</a></div>
 <br /><img src="/img/1pix.gif" width="280" height="1" alt="" /></td>
 <td class="white" rowspan="2"><img src="/img/lmenu-up.gif" width="29" height="242" alt="" /></td>
 <td class="center-block">

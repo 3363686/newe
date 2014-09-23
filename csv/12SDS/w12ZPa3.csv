@@ -4,21 +4,22 @@
 0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   25&#215;400 BERGEN|49|8525400|235|215|195
 0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   40&#215;280 BERGEN|49|8510280|195|185|178
 0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   40&#215;600 BERGEN|49|8510600|295|285|275
-0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   25&#215;400 HAGWERT|49|509008|365|350|335
-0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   25&#215;600 HAGWERT|49|509012|615|595|575
-0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp; 25&#215;600 RENNBOHR|49|852560 |535|515|505
-0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp; 50&#215;400 RENNBOHR|49|855040 |565|545|525
+0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   25&#215;400 HAGWERT|49|509008|385|370|360
+0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   25&#215;600 HAGWERT|49|509012|645|625|605
+0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   50&#215;400 HAGWERT|49|509009|525|510|490
+#0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp; 25&#215;600 RENNBOHR|49|852560 |535|515|505
+#0|«убило SDS Max&nbsp; &nbsp;&nbsp; &nbsp; 50&#215;400 RENNBOHR|49|855040 |565|545|525
 0|«убило SDS Max&nbsp;               18&#215;25&#215;600 MATRIX|49|70343  |275|255|245
 #0|«убило SDS Plus&nbsp;             14&#215;20&#215;250 MATRIX|49|70320   |145|125|120
 #0|«убило SDS Plus&nbsp;             14&#215;40&#215;250 MATRIX|49|70310   |215|190|185
 0|«убило SDS Plus&nbsp;круглое                      280 BERGEN|49|8101280 |155|135|125|blkt
 0|«убило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 18&#215;400 BERGEN|49|8101400 |225|205|195
-0|«убило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 20&#215;400 OPTIM |49|791006  |155|148|144
+#0|«убило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 20&#215;400 OPTIM |49|791006  |155|148|144
 0|«убило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 40&#215;250 BERGEN|49|81631425|175|165|155
-0|«убило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 40&#215;250 OPTIM |49|791003  | 89| 85| 79
+#0|«убило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 40&#215;250 OPTIM |49|791003  | 89| 85| 79
 1|«убило SDS Max&nbsp;               18&#215;25&#215;280 MATRIX    |49|70341  |144|144|144|sale1 |«убила плоские SDS Max||||/img/pic/drill/small/ZUBILA SDS.jpg|/img/pic/drill/big/ZUBILA SDS.jpg
-0|«убило SDS Max&nbsp;               18&#215;25&#215;600 MATRIX    |49|70343  |177|177|177
-0|«убило SDS Max&nbsp;               25&#215;50&#215;360 MATRIX    |49|70344  |211|211|211
+0|«убило SDS Max&nbsp;               18&#215;25&#215;600 MATRIX    |49|70343  |177|177|177|norow
+0|«убило SDS Max&nbsp;               25&#215;50&#215;360 MATRIX    |49|70344  |211|211|211|norow
 1|ѕика SDS |49|70346   |149|139|139|norow|ѕики SDS Max, SDS Plus спиральные по бетону| Splitter Twist "RennBohr by Diager"|ѕики <i><b>Splitter Twist</b></i> - новинка завода ƒиаджер (‘ранци€).<UL><LI><b>ѕредотвращене заклинивани€ в материале:</b> подкрученное острие работает как бы враща€сь при посто€нном давлении на 4 грани. ѕика способна отколоть больший кусок материала по сравнению с традиционной конструкцией.<LI><b>—нижение усилий при долблении:</b> благодар€ подкрученной рабочей части пика легче проникает в материал.<LI><b>Ёффективность использовани€:</b> высокотемпературна€ закалка в газовой среде обеспечивает повышенную прочность инструмента.</UL>||/img/pic/drill/small/renn1.jpg|/img/pic/drill/big/renn2.jpg
 0|ѕика SDS Plus спиральна€ 250 мм Splitter Twist RENNBOHR|49|850525  |415|385|375|
 0|ѕика SDS Max  спиральна€ 400 мм Splitter Twist RENNBOHR|49|850240  |685|670|650|
@@ -36,9 +37,9 @@
 0|ѕика SDS Plus&nbsp;кругла€ &nbsp;&nbsp;             400 мм BERGEN|49|8102400 |215|200|190
 0|ѕика SDS Plus&nbsp;кругла€ &nbsp;&nbsp;             600 мм BERGEN|49|8502600 |285|270|260
 1|ѕика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;280 MATRIX|49|70346  |122|122|122|sale1 |ѕики SDS Max, SDS Plus||||/img/pic/drill/small/PIKA SDS .jpg|/img/pic/drill/big/PIKA SDS .jpg
-0|ѕика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;600 MATRIX|49|70348  |155|155|155
+#0|ѕика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;600 MATRIX|49|70348  |155|155|155
 0|ѕика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;  14&#215;250 Ѕј–— - CrV|49|70303  |111|111|111
-0|ѕика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;      14&#215;250 MATRIX|49|70340  | 99| 99| 99
+#0|ѕика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;      14&#215;250 MATRIX|49|70340  | 99| 99| 99
 
 #1|Ћопатка SDS Max&nbsp;                                40&#215;400|49|        |155|-||Ћопатки SDS Max
 #0|Ћопатка SDS Max&nbsp;                                40&#215;600|49|        |225|-
@@ -51,8 +52,8 @@
 #########################
 #########################
 1|«убило SDS Max&nbsp;               18&#215;25&#215;280 MATRIX    |319|70341  |144||«убила плоские SDS Max||||/img/pic/drill/small/ZUBILA SDS.jpg|/img/pic/drill/big/ZUBILA SDS.jpg|5
-0|«убило SDS Max&nbsp;               25&#215;50&#215;360 MATRIX    |319|70344  |211
+0|«убило SDS Max&nbsp;               25&#215;50&#215;360 MATRIX    |319|70344  |211|norow
 1|ѕика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;280 MATRIX|319|70346  |122||ѕики SDS Max, SDS Plus||||/img/pic/drill/small/PIKA SDS .jpg|/img/pic/drill/big/PIKA SDS .jpg|12
 #0|ѕика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;600 MATRIX|319|70348  |155
 0|ѕика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;  14&#215;250 Ѕј–— - CrV|319|70303  |111
-0|ѕика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;      14&#215;250 MATRIX|319|70340  | 99
+#0|ѕика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;      14&#215;250 MATRIX|319|70340  | 99

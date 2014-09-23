@@ -17,7 +17,7 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 #cat107 .one-good td {vertical-align: top;}
 #cat107 p {vertical-align: middle; display: inline;}
 */
-.art {/*float:right;*/ padding: 0 2px 0 2px; white-space:nowrap;
+.art { padding: 0 2px 0 2px; white-space:nowrap;
 font-style: normal; font-weight: normal; background-color:#e8f4ff;}
 .one-good .art {font-size:80%;}
 .one-good li .art {font-size: 88%;}
@@ -177,9 +177,9 @@ table.one-good.sale1 td#all-summa.good-cart p.price:after { content: " Цена 
 }
 #nooferta {text-align: center; font-size: 75%; color: #555; line-height: 100%; padding:4px 23px 1px 23px;}
 
-.toptmp1 { position: absolute; top: 270px; left: 360px; }
+.toptmp1 { position: absolute; top: 270px; left: 300px; width: 800px; }
 /* Hide/adjust this when <div class="toptmp1"> in catalog/index.shtml is not used or changed! */
-/* div.info-cat h1 { margin-top: 45px; } */
+/* div.info-cat h1 { margin-top: 88px; } */
 
 #w2014ny {background-color: #fff;}
 #w2014ny div {float: left;}
@@ -221,7 +221,8 @@ div.ref.pdf a {font-weight: bold; }
 .article li {margin: 2px 0;}
 .article ul {margin: -2px 0 10px 0;}
 .info .right {float: right; font-style: italic; font-size: 125%; padding: 10px 5em 0 0;}
-.help_newe_ru {font-size: 90%; text-align: center; color: #ff9911}
+.help_newe_ru, .ad_newe_ru {font-size: 90%; text-align: center; color: #ff9911}
+.ad_newe_ru:hover {color: #ffbb55}
 
 body.ot37 .desc-good {min-width: 24em;max-width:50em;}
 body.ot37 .price-nds {display: none;}
@@ -252,8 +253,9 @@ body.ot37 .price-nds {display: none;}
 #cat247 .desc-good,
 #cat78 .desc-good, #cat279 .desc-good,
 #cat235 .desc-good {min-width:44em;}
-#cat174 .desc-good,
-#cat176 .desc-good {min-width:48em;}
+#cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat364 .desc-good, #cat379 .desc-good,
+#cat174 .desc-good, #cat176 .desc-good,
+#cat95 .desc-good {min-width:48em;}
 #cat47 .desc-good,  #cat302 .desc-good,
 #cat48 .desc-good {min-width:55em;}
 /*
@@ -262,6 +264,8 @@ body.ot37 .price-nds {display: none;}
 #cat120 .desc-good,
 #cat235 .desc-good {max-width:55em;}
 #cat176 .desc-good {max-width:65em;}
+#cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat364 .desc-good, #cat379 .desc-good, #cat95 .desc-good,
+#cat270 .desc-good {max-width:80em;}
 
 /*#cat333 .tab td {background-color: #fff8f8;}*/
 

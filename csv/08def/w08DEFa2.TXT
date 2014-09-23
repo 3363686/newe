@@ -1,4 +1,0 @@
-1|Комбинезон защитный|276|4500-|79|72||Комбинезон защитный от пыли| из нетканого материала <span class=art>арт. 4500-</span>|Цвет: белый.<br>Размеры: XL, XXL||/img/pic/defence/small/combinezon.jpg|/img/pic/defence/big/jpg
-
-1|Сигнальный жилет MATRIX, размер  XL|223|89510|169|149||Жилеты сигнальные| MATRIX|Цвета: оражевый, лимонный, неон.||/img/pic/defence/small/JILET SIGNAL.jpg|/img/pic/defence/big/JILET SIGNAL.jpg
-0|Сигнальный жилет MATRIX, размер XXL|223|89512|169|159
