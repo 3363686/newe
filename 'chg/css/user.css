@@ -17,7 +17,7 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 #cat107 .one-good td {vertical-align: top;}
 #cat107 p {vertical-align: middle; display: inline;}
 */
-.art { padding: 0 2px 0 2px; white-space:nowrap;
+.art {/*float:right;*/ padding: 0 2px 0 2px; white-space:nowrap;
 font-style: normal; font-weight: normal; background-color:#e8f4ff;}
 .one-good .art {font-size:80%;}
 .one-good li .art {font-size: 88%;}
@@ -92,7 +92,7 @@ abbr {cursor: help;}
 .good-txt ul.deep>li {font-weight: bold;}
 .good-txt ul.deep li li {font-size: 100%; line-height: 95%; margin: 0 0 0 -5px; text-indent: -5px; list-style-type: square; list-style-image: none;}
 .good-txt ul.deep li li li {font-size: 92%; line-height: 95%; list-style-type: disc; list-style-image: none;}
-.good-txt dl {font-size: 80%; line-height: 90%; margin: .2ex 0 .0ex 0;}
+.good-txt dl {font-size: 80%; line-height: 95%; max-width: 45em; margin: auto; margin-top: .1em; }
 /*.good-txt dt {font-style: italic; float: left; clear: right;}*/
 .good-txt dd {white-space: nowrap;}
 * html .good-txt dt /*IE6*/, *+html /*IE7*/ .good-txt dt {white-space: nowrap;}
@@ -175,6 +175,36 @@ table.one-good.sale1 td#all-summa.good-cart p.price:after { content: " Цена 
 .l1, .l2, .l3, div.ref {width: 101%;
   margin-left: -18px;
 }
+
+.desc-good .ref .t {
+  margin: 15px;
+  display: inline-block;
+<!--[if lt IE 8]>
+display:inline;
+<![endif]-->
+}
+.desc-good .ref .t .t2 {
+  width: 125px; height: 40px; background-color: #ff0000;
+  margin: 0;
+}
+.desc-good .ref .t3 {
+  width: 125px; height: 40px; background-color: #ff0000;
+  margin: 15px;
+  display: inline-block;
+<!--[if lt IE 8]>
+display:inline;
+<![endif]-->
+}
+.desc-good .ref .cblock {
+  background-position: right center;
+  width: 225px;
+  margin-right: 15px;
+}
+.desc-good .ref .cblock .arrow {padding-right: 0;}
+.desc-good .ref .cblock .txt   {padding-left: 5px; font-size: 12px; line-height: 130%;}
+.desc-good .ref .cblock .txt i {font-size: 14px; line-height: 130%;}
+.desc-good .ref .cblock a      {color: #000000;}
+
 #nooferta {text-align: center; font-size: 75%; color: #555; line-height: 100%; padding:4px 23px 1px 23px;}
 
 .toptmp1 { position: absolute; top: 270px; left: 300px; width: 800px; }
