@@ -1,17 +1,17 @@
 1|Зубило SDS Max&nbsp;               18&#215;25&#215;280 MATRIX|49|70341   |225|210|195|norow|Зубила плоские SDS Max, SDS Plus||||/img/pic/drill/small/ZUBILA SDS.jpg|/img/pic/drill/big/ZUBILA SDS.jpg
-0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   25&#215;400 BERGEN|49|8525400 |255|245|235
-0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   40&#215;280 BERGEN|49|8510280 |240|230|220
-0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   40&#215;600 BERGEN|49|8510600 |335|320|310
-0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   50&#215;400 BERGEN|49|8550400 |355|340|330
-0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   25&#215;400 HAGWERT|49|509008 |445|430|420
-0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   25&#215;600 HAGWERT|49|509012 |695|680|670
-0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   50&#215;400 HAGWERT|49|509009 |635|620|610
-0|Зубило SDS Max&nbsp;               18&#215;25&#215;600 MATRIX|49|70343   |325|310|295
-0|Зубило SDS Plus&nbsp;круглое                      280 BERGEN|49|8101280  |179|172|168|blkt
-0|Зубило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 18&#215;400 BERGEN|49|8101400  |255|245|235
-0|Зубило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 40&#215;250 BERGEN|49|81631425 |199|194|188
-0|Зубило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 50&#215;250 BERGEN|49|810150250|219|209|198
-1|Зубило SDS Max&nbsp;               18&#215;25&#215;320 MATRIX|49|70345   |289|279|270| |Зубило SDS Max канальное полукруглое| 18&#215;25&#215;320, MATRIX <span class=art>арт. 70345</span>|<UL><LI>Изготовлено из легированной хромованадиевой стали 40Х и закалено.<LI>Оптимально подобранные углы заточки режущей поверхности.В процессе работы кромка самозатачивается.<LI>Применяется с перфоратором в режиме удара без вращения для <i>штробления</i> - производства узких каналов в бетоне, камне, кирпиче и т.д.</UL>||/img/pic/drill/small/70345.jpg|/img/pic/drill/big/jpg
+0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   25&#215;400 BERGEN|49|8525400 |325|310|300
+0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   40&#215;280 BERGEN|49|8510280 |315|300|295
+0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   40&#215;600 BERGEN|49|8510600 |445|420|400
+0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   50&#215;400 BERGEN|49|8550400 |495|470|455
+0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   25&#215;400 HAGWERT|49|509008 |655|640|625
+0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   25&#215;600 HAGWERT|49|509012 |945|930|900
+0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp;   50&#215;400 HAGWERT|49|509009 |990|970|950
+0|Зубило SDS Plus&nbsp;круглое                      280 BERGEN|49|8101280  |240|225|215|blkt
+0|Зубило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 18&#215;400 BERGEN|49|8101400  |355|335|325
+0|Зубило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 40&#215;250 BERGEN|49|81631425 |230|215|205
+0|Зубило SDS Plus&nbsp; &nbsp;&nbsp; &nbsp; 50&#215;250 BERGEN|49|810150250|310|300|290
+1|Зубило SDS Max&nbsp;               18&#215;25&#215;320 MATRIX|49|70345   |345|325|315| |Зубило SDS Max канальное полукруглое| 18&#215;25&#215;320, MATRIX <span class=art>арт. 70345</span>|<UL><LI>Изготовлено из легированной хромованадиевой стали 40Х и закалено.<LI>Оптимально подобранные углы заточки режущей поверхности.В процессе работы кромка самозатачивается.<LI>Применяется с перфоратором в режиме удара без вращения для <i>штробления</i> - производства узких каналов в бетоне, камне, кирпиче и т.д.</UL>||/img/pic/drill/small/70345.jpg|/img/pic/drill/big/jpg
+#0|Зубило SDS Max&nbsp;               18&#215;25&#215;600 MATRIX|49|70343   |325|310|295
 #0|Зубило SDS Max&nbsp;               18&#215;25&#215;400 MATRIX|49|70342   |245|230|220
 #0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp; 25&#215;600 RENNBOHR|49|852560  |535|515|505
 #0|Зубило SDS Max&nbsp; &nbsp;&nbsp; &nbsp; 50&#215;400 RENNBOHR|49|855040  |565|545|525
@@ -24,25 +24,25 @@
 0|Зубило SDS Max&nbsp;               25&#215;50&#215;360 MATRIX    |49|70344  |211|211|211|norow
 
 1|Пика SDS |49|70346   |149|139|139|norow|Пики SDS Max, SDS Plus спиральные по бетону| Splitter Twist "RennBohr by Diager"|Пики <i><b>Splitter Twist</b></i> - новинка завода Диаже (Франция).<UL><LI><b>Предотвращене заклинивания в материале:</b> подкрученное острие работает как бы вращаясь при постоянном давлении на 4 грани. Пика способна отколоть больший кусок материала по сравнению с традиционной конструкцией.<LI><b>Снижение усилий при долблении:</b> благодаря подкрученной рабочей части пика легче проникает в материал.<LI><b>Эффективность использования:</b> высокотемпературная закалка в газовой среде обеспечивает повышенную прочность инструмента.</UL>||/img/pic/drill/small/renn1.jpg|/img/pic/drill/big/renn2.jpg
-0|Пика SDS Plus спиральная 250 мм Splitter Twist RENNBOHR          |49|850525 | 545| 525| 515|
-0|Пика SDS Max  спиральная 400 мм Splitter Twist RENNBOHR          |49|850240 | 798| 770| 760|
-0|Пика SDS Max  спиральная 600 мм Splitter Twist RENNBOHR          |49|850260 |1140|1110|1090|
-1|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;280 MATRIX|49|70346  | 255| 245| 235|norow |Пики SDS Max, SDS Plus||||/img/pic/drill/small/PIKA SDS .jpg|/img/pic/drill/big/PIKA SDS .jpg
-0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;280 BERGEN|49|8502280| 255| 245| 235
-0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;400 BERGEN|49|8502400| 275| 260| 250
-0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;600 BERGEN|49|8502600| 325| 310| 298
-0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;         400 мм RENNBOHR|49|850140 | 495| 475| 465
-0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;         600 мм RENNBOHR|49|850160 | 695| 675| 665
-0|Пика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;            250 мм OPTIM|49|791005 | 109| 105|  99|blkt
-0|Пика SDS Plus&nbsp;6-гранная                        400 мм BERGEN|49|8162400| 225| 215| 210
-0|Пика SDS Plus&nbsp;круглая &nbsp;&nbsp;             280 мм BERGEN|49|8102280| 165| 155| 148
-0|Пика SDS Plus&nbsp;круглая &nbsp;&nbsp;             400 мм BERGEN|49|8102400| 235| 225| 218
-0|Пика SDS Plus&nbsp;круглая &nbsp;&nbsp;             600 мм BERGEN|49|8102600| 335| 325| 315
+0|Пика SDS Max  спиральная 400 мм Splitter Twist RENNBOHR          |49|850240 | 990| 970| 950|
+0|Пика SDS Max  спиральная 600 мм Splitter Twist RENNBOHR          |49|850260 |1450|1380|1320|
+0|Пика SDS Plus спиральная 250 мм Splitter Twist RENNBOHR          |49|850525 | 795| 750| 740|
+1|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;280 MATRIX|49|70346  | 325| 310| 300|norow |Пики SDS Max, SDS Plus||||/img/pic/drill/small/PIKA SDS .jpg|/img/pic/drill/big/PIKA SDS .jpg
+0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;280 BERGEN|49|8502280| 325| 310| 300
+0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;400 BERGEN|49|8502400| 375| 350| 340
+0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;600 BERGEN|49|8502600| 495| 470| 450
+0|Пика SDS Plus&nbsp;6-гранная                        400 мм BERGEN|49|8162400| 315| 290| 280|blkt
+0|Пика SDS Plus&nbsp;круглая &nbsp;&nbsp;             280 мм BERGEN|49|8102280| 195| 185| 180
+0|Пика SDS Plus&nbsp;круглая &nbsp;&nbsp;             400 мм BERGEN|49|8102400| 365| 350| 340
+0|Пика SDS Plus&nbsp;круглая &nbsp;&nbsp;             600 мм BERGEN|49|8102600| 395| 370| 360
 1|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;280 MATRIX|49|70346|122|122|122|sale1 |Пики SDS Max, SDS Plus||||/img/pic/drill/small/PIKA SDS .jpg|/img/pic/drill/big/PIKA SDS .jpg
 0|Пика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;  14&#215;250 БАРС - CrV|49|70303|111|111|111|norow
+#0|Пика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;            250 мм OPTIM|49|791005 | 109| 105|  99
 #0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;400 MATRIX|49|70347   |235|215|200
 #0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;600 MATRIX|49|70348  |155|155|155
 #0|Пика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;      14&#215;250 MATRIX|49|70340  | 99| 99| 99
+#0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;         400 мм RENNBOHR|49|850140 | 495| 475| 465
+#0|Пика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;         600 мм RENNBOHR|49|850160 | 695| 675| 665
 
 #1|Лопатка SDS Max&nbsp;                                40&#215;400|49|        |155|-||Лопатки SDS Max
 #0|Лопатка SDS Max&nbsp;                                40&#215;600|49|        |225|-
