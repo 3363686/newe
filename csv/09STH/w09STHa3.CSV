@@ -38,74 +38,76 @@
 0|Лом строительный ЛО-32, 32&nbsp;мм&nbsp;x&nbsp;1300&nbsp;мм, 7.3 кг|260|LO-32|365|350|340
 #1|Гвоздодер|260|RED17400|120|110|100||| D&nbsp;17&nbsp;мм, L&nbsp;400&nbsp;мм, обрезиненная рукоятка <span class=art>арт. RED17400</span>|||/img/pic/strhoz/small/GVOZDODER S RUCHKOY.jpg|/img/pic/strhoz/big/GVOZDODER S RUCHKOY.jpg
 1|Гвоздодер-монтировка|260|10850|165|155|145|norow|Гвоздодеры-монтировки| TRUPER, кованая сталь|||/img/pic/strhoz/small/trup-gvozdoder.jpg|/img/pic/strhoz/big/trup-gvozdoder.jpg
-0|Гвоздодер-монтировка L 300 мм, &empty; 12 мм,  300 г|260|10850|149|138|133
-0|Гвоздодер-монтировка L 600 мм, &empty; 19 мм, 1700 г|260|10856|575|555|535
-0|Гвоздодер-монтировка L 750 мм, &empty; 19 мм, 2000 г|260|10859|645|625|610
+0|Гвоздодер-монтировка L 300 мм, &empty; 12 мм,  300 г|260|10850 | 179| 168| 163
+0|Гвоздодер-монтировка L 600 мм, &empty; 19 мм, 1700 г|260|10856 | 635| 620| 590
+0|Гвоздодер-монтировка L 750 мм, &empty; 19 мм, 2000 г|260|10859 | 725| 705| 690
 1|Лом-гвоздодер|260|GG16800|165|155|145|norow|Ломы-гвоздодеры| круглые|||/img/pic/strhoz/small/LOm gvozdoder.jpg|/img/pic/strhoz/big/LOm gvozdoder.jpg
 0|Лом-гвоздодер L 400 мм, &empty; 17 мм|260|GG17600|125|115|108
 0|Лом-гвоздодер L 600 мм, &empty; 17 мм|260|GG17600|135|128|118
 0|Лом-гвоздодер L 800 мм, &empty; 16 мм|260|GG16800|175|168|162|
-1|Лом-гвоздодер двутавровый 450 x 29 x 16 мм GROSS|260|25236|395|380|370||Ломы-гвоздодеры| GROSS, двутавровый профиль|<UL><LI>Инструмент выполнен из рельсовой стали 65 Mn RAIL STEEL.<LI>Твердость рабочих поверхностей 44?48 HRc.<LI>Двутавровый профиль (швеллерный тип) в сечении позволяет использовать как рычаг при приподнимании и перемещении тяжеловесных грузов.<LI>Корпус инструмента имеет защитное антикоррозийное покрытие.</UL>||/img/pic/strhoz/small/lom_gross.jpg|/img/pic/strhoz/big/jpg
-0|Лом-гвоздодер двутавровый 600 x 30 x 17 мм GROSS|260|25237|495|475|465
-0|Лом-гвоздодер двутавровый 900 x 30 x 17 мм GROSS|260|25239|625|610|590
+1|Лом-гвоздодер двутавровый 450 x 29 x 16 мм GROSS|260|25236|485|465|450||Ломы-гвоздодеры| GROSS, двутавровый профиль|<UL><LI>Инструмент выполнен из рельсовой стали 65 Mn RAIL STEEL.<LI>Твердость рабочих поверхностей 44?48 HRc.<LI>Двутавровый профиль (швеллерный тип) в сечении позволяет использовать как рычаг при приподнимании и перемещении тяжеловесных грузов.<LI>Корпус инструмента имеет защитное антикоррозийное покрытие.</UL>||/img/pic/strhoz/small/lom_gross.jpg|/img/pic/strhoz/big/jpg
+0|Лом-гвоздодер двутавровый 600 x 30 x 17 мм GROSS|260|25237|635|610|595
+0|Лом-гвоздодер двутавровый 900 x 30 x 17 мм GROSS|260|25239|765|735|710
 #1|Лом-гвоздодер усиленный 450 x 25 x 12 мм MATRIX |260|25231|225|215|210||Ломы-гвоздодеры усиленные| MATRIX|<UL><LI>Инструмент выполнен из инструментальной среднеуглеродистой стали Ст 50.<LI>Твердость рабочих поверхностей 42?44 HRc.<LI>Прямоугольно-овальный профиль инструмента усиливает его на момент излома.<LI>Защитное антикоррозийное покрытие по всему корпусу инструмента.||/img/pic/strhoz/small/lom_matrix_25231.jpg|/img/pic/strhoz/big/jpg
 #0|Лом-гвоздодер усиленный 600 x 29 x 15 мм MATRIX |260|25233|325|315|300
 #0|Лом-гвоздодер усиленный 900 x 29 x 15 мм MATRIX |260|25235|425|410|400
 
 1|Кирка строительная|      261|KF1590| 945| 920| 890|||, фиберглассовая обрезиненная рукоятка, 1500&nbsp;г, 900&nbsp;мм <span class=art>арт. KF1590</span>|||/img/pic/strhoz/small/KIRKA.jpg|/img/pic/strhoz/big/KIRKA.jpg
-1|Кирка-кайло двустороннее|261|18640 |1295|1240|1190||| TRUPER TP-5F <span class=art>арт. 18640</span>|Кирка-кайло двустороннее, 2.3 кг, фиберглассовая рукоятка 91 см.||/img/pic/strhoz/small/TP-5F.jpg|/img/pic/strhoz/big/TP-5F.jpg
-1|Кирка-кайло двустороннее|261|19647 | 665| 645| 630||| TRUPER TJA-1 <span class=art>арт. 19647</span>|Кирка-кайло двустороннее, фиберглассовая рукоятка 36 см.||/img/pic/strhoz/small/t19647.jpg|/img/pic/strhoz/big/t19647.jpg
+1|Кирка-кайло двустороннее                            |261|18640 |1495|1440|1390||| TRUPER TP-5F <span class=art>арт. 18640</span>|Кирка-кайло двустороннее, 2.3 кг, фиберглассовая рукоятка 91 см.||/img/pic/strhoz/small/TP-5F.jpg|/img/pic/strhoz/big/TP-5F.jpg
+1|Кирка-кайло двустороннее                            |261|19647 | 745| 725| 710||| TRUPER TJA-1 <span class=art>арт. 19647</span>|Кирка-кайло двустороннее, фиберглассовая рукоятка 36 см.||/img/pic/strhoz/small/t19647.jpg|/img/pic/strhoz/big/t19647.jpg
 #1|Кирка-MINI|261||295.00|280|269|||, фиберглассовая обрезиненная рукоятка, 450 г, 385&nbsp;мм MATRIX <span class=art>арт. 21828</span>|Кирка изготовлена методом свободной ковки из стали марки 50. Твердость 48 HRc.||/img/pic/strhoz/small/KIRKA21828.jpg|/img/pic/strhoz/big/jpg
 
-1|Метла плоская мягкая|239||98.00|94,00|89.00||| № 1 <span class=art>арт. VM1</span>|<UL><LI>Универсальная пластиковая плоская метла для использования в любых погодных условиях, внутри и вне помещения.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Кончики ее щетинок распушены, что позволяет убирать даже самый мелкий мусор.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/metla1.jpg|/img/pic/strhoz/big/metla1.jpg
-1|Метла веерная|239||65.00|62.00|55.00||| № 2 <span class=art>арт. VM2</span>|<UL><LI>Пластиковая плоская метла для приведения в порядок открытых территорий.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Износостойкая и долговечная.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla VEERNALA N 2 .jpg|/img/pic/strhoz/big/Metla VEERNALA N 2 .jpg
-1|Метла плоская широкая|239||89.00|83.00|79.00||| № 3 <span class=art>арт. VM3</span>|<UL><LI>Универсальная пластиковая широкая метла для использования в любых погодных условиях.<LI>Предназначена для уборки производственных помещений и улиц.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla PLOSKAJA N 3.jpg|/img/pic/strhoz/big/Metla PLOSKAJA N 3.jpg
-1|Метла круглая большая|239||115.00|109.00|102.00||| № 6 <span class=art>арт. VM6</span>|<UL><LI>Круглая пластиковая плоская метла для уборки различных производственных помещений, приусадебных участков и улиц.<LI>Прочная и морозоустойчивая, изготовлена из гибкой и тонкой, но чрезвычайно прочной ондулированной щетины.<LI>Дополнительно оснащена промежуточным армирующим креплением. Большая жесткость дает возможность выметать довольно тяжелый мусор.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla KRUGLAJA N 6.jpg|/img/pic/strhoz/big/Metla KRUGLAJA N 6.jpg
-1|Черенок для метлы|239|VCE|49.00|45.00|42.00||| ЕВРО с резьбой, березовый <span class=art>арт. VCE</span>|Евро-черенок березовый.<br>Пластиковый резьбовой наконечник, длина - 120мм.||/img/pic/strhoz/small/cherenok EVRO for metla.jpg|/img/pic/strhoz/big/cherenok EVRO for metla.jpg
-1|Черенок для метлы|239|VCM|39.00|37.00|36.00||| ЕВРО с резьбой, металлопластиковый, усиленный <span class=art>арт. VCM</span>|Евро-черенок металлопластиковый, усиленный, с отверстием для подвески.<br>Толщина стенки - 0.34мм.||/img/pic/strhoz/small/cherenok_euro_M.jpg|/img/pic/strhoz/big/cherenok_euro_M.jpg
-1|Метла березовая|239|MB|13.80|13.30|12.80||| <span class=art>арт. MB</span>|||/img/pic/strhoz/small/metla.jpg|/img/pic/strhoz/big/jpg
-1|Веник сорго|239||49.00|44.00|41.00||| 1-й сорт <span class=art>арт. VS1B</span>|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
-1|Веник сорго|239|VSL|69.00|66.00|64||| "ЛЮКС М" <span class=art>арт. VS</span>|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
-1|Швабра деревянная|239||69.00|62.00|58.00||| для мытья полов, 1200 мм <span class=art>арт. S1200</span>|||/img/pic/strhoz/small/shvabra_derevyannaya.jpg|/img/pic/strhoz/big/jpg
-1|Совок хозяйственный|239|SVV|27.00|25.00|24.00|||, деревянная ручка <span class=art>арт. SVV</span>|||/img/pic/strhoz/small/sovok.jpg|/img/pic/strhoz/big/jpg
-#1|Совок хозяйственный|239|SV|110.00|100.00|||, деревянная ручка <span class=art>арт. SV</span>|||/img/pic/strhoz/small/sovok.jpg|/img/pic/strhoz/big/jpg
+#1|Метла плоская мягкая|239||98.00|94,00|89.00||| № 1 <span class=art>арт. VM1</span>|<UL><LI>Универсальная пластиковая плоская метла для использования в любых погодных условиях, внутри и вне помещения.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Кончики ее щетинок распушены, что позволяет убирать даже самый мелкий мусор.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/metla1.jpg|/img/pic/strhoz/big/metla1.jpg
+#1|Метла веерная|239||65.00|62.00|55.00||| № 2 <span class=art>арт. VM2</span>|<UL><LI>Пластиковая плоская метла для приведения в порядок открытых территорий.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Износостойкая и долговечная.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla VEERNALA N 2 .jpg|/img/pic/strhoz/big/Metla VEERNALA N 2 .jpg
+#1|Метла плоская широкая|239||89.00|83.00|79.00||| № 3 <span class=art>арт. VM3</span>|<UL><LI>Универсальная пластиковая широкая метла для использования в любых погодных условиях.<LI>Предназначена для уборки производственных помещений и улиц.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla PLOSKAJA N 3.jpg|/img/pic/strhoz/big/Metla PLOSKAJA N 3.jpg
+#1|Метла круглая большая|239||115.00|109.00|102.00||| № 6 <span class=art>арт. VM6</span>|<UL><LI>Круглая пластиковая плоская метла для уборки различных производственных помещений, приусадебных участков и улиц.<LI>Прочная и морозоустойчивая, изготовлена из гибкой и тонкой, но чрезвычайно прочной ондулированной щетины.<LI>Дополнительно оснащена промежуточным армирующим креплением. Большая жесткость дает возможность выметать довольно тяжелый мусор.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla KRUGLAJA N 6.jpg|/img/pic/strhoz/big/Metla KRUGLAJA N 6.jpg
+#1|Черенок для метлы|239|VCE|49.00|45.00|42.00||| ЕВРО с резьбой, березовый <span class=art>арт. VCE</span>|Евро-черенок березовый.<br>Пластиковый резьбовой наконечник, длина - 120мм.||/img/pic/strhoz/small/cherenok EVRO for metla.jpg|/img/pic/strhoz/big/cherenok EVRO for metla.jpg
+#1|Черенок для метлы|239|VCM|39.00|37.00|36.00||| ЕВРО с резьбой, металлопластиковый, усиленный <span class=art>арт. VCM</span>|Евро-черенок металлопластиковый, усиленный, с отверстием для подвески.<br>Толщина стенки - 0.34мм.||/img/pic/strhoz/small/cherenok_euro_M.jpg|/img/pic/strhoz/big/cherenok_euro_M.jpg
+#1|Метла березовая|239|MB|13.80|13.30|12.80||| <span class=art>арт. MB</span>|||/img/pic/strhoz/small/metla.jpg|/img/pic/strhoz/big/jpg
+#1|Веник сорго|239|VS1B|75.00|71.00|68.00||| 1-й сорт <span class=art>арт. VS1B</span>|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
+#1|Веник сорго|239|VSL |89.00|86.00|82||| "ЛЮКС М" <span class=art>арт. VS</span>|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
+#1|Швабра деревянная|239||69.00|62.00|58.00||| для мытья полов, 1200 мм <span class=art>арт. S1200</span>|||/img/pic/strhoz/small/shvabra_derevyannaya.jpg|/img/pic/strhoz/big/jpg
+#1|Совок хозяйственный|239|SVV|27.00|25.00|24.00|||, деревянная ручка <span class=art>арт. SVV</span>|||/img/pic/strhoz/small/sovok.jpg|/img/pic/strhoz/big/jpg
+##1|Совок хозяйственный|239|SV|110.00|100.00|||, деревянная ручка <span class=art>арт. SV</span>|||/img/pic/strhoz/small/sovok.jpg|/img/pic/strhoz/big/jpg
 
-1|Метла плоская мягкая|371||98.00|94,00|89.00||| № 1 <span class=art>арт. VM1</span>|<UL><LI>Универсальная пластиковая плоская метла для использования в любых погодных условиях, внутри и вне помещения.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Кончики ее щетинок распушены, что позволяет убирать даже самый мелкий мусор.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/metla1.jpg|/img/pic/strhoz/big/metla1.jpg
-1|Метла веерная|371||85.00|78.00|72.00||| № 2 <span class=art>арт. VM2</span>|<UL><LI>Пластиковая плоская метла для приведения в порядок открытых территорий.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Износостойкая и долговечная.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla VEERNALA N 2 .jpg|/img/pic/strhoz/big/Metla VEERNALA N 2 .jpg
-1|Метла плоская широкая|371||89.00|83.00|79.00||| № 3 <span class=art>арт. VM3</span>|<UL><LI>Универсальная пластиковая широкая метла для использования в любых погодных условиях.<LI>Предназначена для уборки производственных помещений и улиц.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla PLOSKAJA N 3.jpg|/img/pic/strhoz/big/Metla PLOSKAJA N 3.jpg
-1|Метла круглая большая|371||115.00|109.00|102.00||| № 6 <span class=art>арт. VM6</span>|<UL><LI>Круглая пластиковая плоская метла для уборки различных производственных помещений, приусадебных участков и улиц.<LI>Прочная и морозоустойчивая, изготовлена из гибкой и тонкой, но чрезвычайно прочной ондулированной щетины.<LI>Дополнительно оснащена промежуточным армирующим креплением. Большая жесткость дает возможность выметать довольно тяжелый мусор.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla KRUGLAJA N 6.jpg|/img/pic/strhoz/big/Metla KRUGLAJA N 6.jpg
-1|Черенок для метлы|371|VCE|49.00|45.00|42.00||| ЕВРО с резьбой, березовый <span class=art>арт. VCE</span>|Евро-черенок березовый.<br>Пластиковый резьбовой наконечник, длина - 120мм.||/img/pic/strhoz/small/cherenok EVRO for metla.jpg|/img/pic/strhoz/big/cherenok EVRO for metla.jpg
-1|Черенок для метлы|371|VCM|39.00|37.00|36.00||| ЕВРО с резьбой, металлопластиковый, усиленный <span class=art>арт. VCM</span>|Евро-черенок металлопластиковый, усиленный, с отверстием для подвески.<br>Толщина стенки - 0.34мм.||/img/pic/strhoz/small/cherenok_euro_M.jpg|/img/pic/strhoz/big/cherenok_euro_M.jpg
-1|Метла березовая|371|MB|13.80|13.30|12.80||| <span class=art>арт. MB</span>|||/img/pic/strhoz/small/metla.jpg|/img/pic/strhoz/big/jpg
-1|Веник сорго|371||49.00|44.00|41.00||| 1-й сорт <span class=art>арт. VS1B</span>|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
-1|Веник сорго|371|VSL|69.00|66.00|64||| "ЛЮКС М" <span class=art>арт. VS</span>|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
-1|Швабра деревянная|371||69.00|62.00|58.00||| для мытья полов, 1200 мм <span class=art>арт. S1200</span>|||/img/pic/strhoz/small/shvabra_derevyannaya.jpg|/img/pic/strhoz/big/jpg
-1|Совок хозяйственный|371|SVV|27.00|25.00|24.00|||, деревянная ручка <span class=art>арт. SVV</span>|||/img/pic/strhoz/small/sovok.jpg|/img/pic/strhoz/big/jpg
+~1|Метла плоская мягкая |371|VM1  |109,76|105,28| 99,68||| № 1 <span class=art>арт. VM1</span>|<UL><LI>Универсальная пластиковая плоская метла для использования в любых погодных условиях, внутри и вне помещения.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Кончики ее щетинок распушены, что позволяет убирать даже самый мелкий мусор.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/metla1.jpg|/img/pic/strhoz/big/metla1.jpg
+~1|Метла веерная        |371|VM2  | 95,20| 87,36| 80,64||| № 2 <span class=art>арт. VM2</span>|<UL><LI>Пластиковая плоская метла для приведения в порядок открытых территорий.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Износостойкая и долговечная.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla VEERNALA N 2 .jpg|/img/pic/strhoz/big/Metla VEERNALA N 2 .jpg
+~1|Метла плоская широкая|371|VM3  | 99,68| 92,96| 88,48||| № 3 <span class=art>арт. VM3</span>|<UL><LI>Универсальная пластиковая широкая метла для использования в любых погодных условиях.<LI>Предназначена для уборки производственных помещений и улиц.<LI>Прочная и морозоустойчивая, изготовлена из гибких ондулированных (рифленых) прутьев.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla PLOSKAJA N 3.jpg|/img/pic/strhoz/big/Metla PLOSKAJA N 3.jpg
+~1|Метла круглая большая|371|VM6  |128,80|122,08|114,24||| № 6 <span class=art>арт. VM6</span>|<UL><LI>Круглая пластиковая плоская метла для уборки различных производственных помещений, приусадебных участков и улиц.<LI>Прочная и морозоустойчивая, изготовлена из гибкой и тонкой, но чрезвычайно прочной ондулированной щетины.<LI>Дополнительно оснащена промежуточным армирующим креплением. Большая жесткость дает возможность выметать довольно тяжелый мусор.<LI>Может использоваться с резьбовым еврочеренком.</UL>||/img/pic/strhoz/small/Metla KRUGLAJA N 6.jpg|/img/pic/strhoz/big/Metla KRUGLAJA N 6.jpg
+ 1|Черенок для метлы    |371|CHEM | 28.00| 25,76| 22,40||| 25&nbsp;x&nbsp;1300&nbsp;мм <span class=art>арт. CHEM</span>|||/img/pic/strhoz/small/che_.jpg|/img/pic/strhoz/big/jpg
+~1|Черенок для метлы    |371|VCE  | 54,88| 50,40| 47,04||| ЕВРО с резьбой, березовый <span class=art>арт. VCE</span>|Евро-черенок березовый.<br>Пластиковый резьбовой наконечник, длина - 120мм.||/img/pic/strhoz/small/cherenok EVRO for metla.jpg|/img/pic/strhoz/big/cherenok EVRO for metla.jpg
+~1|Черенок для метлы    |371|VCM  | 43,68| 41,44| 40,32||| ЕВРО с резьбой, металлопластиковый, усиленный <span class=art>арт. VCM</span>|Евро-черенок металлопластиковый, усиленный, с отверстием для подвески.<br>Толщина стенки - 0.34мм.||/img/pic/strhoz/small/cherenok_euro_M.jpg|/img/pic/strhoz/big/cherenok_euro_M.jpg
+~1|Метла березовая      |371|MB   | 15,46| 14,90| 14,34||| <span class=art>арт. MB</span>|||/img/pic/strhoz/small/metla.jpg|/img/pic/strhoz/big/jpg
+ 1|Веник сорго          |371|VS1B | 75.00| 71.00| 68.00||| 1-й сорт <span class=art>арт. VS1B</span>|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
+ 1|Веник сорго          |371|VSL  | 89.00| 86.00| 82.00||| "ЛЮКС М" <span class=art>арт. VS</span>|||/img/pic/strhoz/small/Venik SORGO.jpg|/img/pic/strhoz/big/Venik SORGO.jpg
+~1|Швабра деревянная    |371|S1200| 79,00| 75,00| 72,00||| для мытья полов, 1200 мм <span class=art>арт. S1200</span>|||/img/pic/strhoz/small/shvabra_derevyannaya.jpg|/img/pic/strhoz/big/jpg
+~1|Совок хозяйственный|  371|SVV  |125,00|115,00|108,00|||, деревянная ручка <span class=art>арт. SVV</span>|||/img/pic/strhoz/small/sovok.jpg|/img/pic/strhoz/big/jpg
 #1|Совок хозяйственный|371|SV|110.00|100.00|||, деревянная ручка <span class=art>арт. SV</span>|||/img/pic/strhoz/small/sovok.jpg|/img/pic/strhoz/big/jpg
 
-1|Грабли веерные|104||89.00|84.00||||, 22 плоских зуба|||/img/pic/strhoz/small/grabli veernye.jpg|/img/pic/strhoz/big/grabli veernye.jpg
-1|Грабли витые|104||89.00|84.00||||, 12 зубьев, 360&nbsp;мм|||/img/pic/strhoz/small/grabli vitye.jpg|/img/pic/strhoz/big/grabli vitye.jpg
-1|Черенок для грабель|104||25.00|23.00|||| 30&nbsp;x&nbsp;1200&nbsp;мм|Для витых грабель.
-1|Черенок для метлы и веерных грабель|104||25.00|23.00|||| 25&nbsp;x&nbsp;1250&nbsp;мм|Для метел, веерных грабель, щеток
-1|Черенок для метлы|104|VCE|49.00|45.00|42.00||| ЕВРО с резьбой, березовый <span class=art>арт. VCE</span>|Евро-черенок березовый.<br>Пластиковый резьбовой наконечник, длина - 120мм.||/img/pic/strhoz/small/cherenok EVRO for metla.jpg|/img/pic/strhoz/big/cherenok EVRO for metla.jpg
-1|Черенок для метлы|104|VCM|39.00|37.00|36.00||| ЕВРО с резьбой, металлопластиковый, усиленный <span class=art>арт. VCM</span>|Евро-черенок металлопластиковый, усиленный, с отверстием для подвески.<br>Толщина стенки - 0.34мм.||/img/pic/strhoz/small/cherenok_euro_M.jpg|/img/pic/strhoz/big/cherenok_euro_M.jpg
-1|Черенок для лопаты|104||25.00|23|19.80||| 40&nbsp;x&nbsp;1300&nbsp;мм <span class=art>арт. CHEL</span>|||/img/pic/strhoz/small/Cherenok-dlya-lopat2-40.jpg|/img/pic/strhoz/big/jpg
+#1|Грабли веерные|104||89.00|84.00||||, 22 плоских зуба|||/img/pic/strhoz/small/grabli veernye.jpg|/img/pic/strhoz/big/grabli veernye.jpg
+#1|Грабли витые|104||89.00|84.00||||, 12 зубьев, 360&nbsp;мм|||/img/pic/strhoz/small/grabli vitye.jpg|/img/pic/strhoz/big/grabli vitye.jpg
+#1|Черенок для грабель|104||25.00|23.00|||| 30&nbsp;x&nbsp;1200&nbsp;мм|Для витых грабель.
+#1|Черенок для метлы и веерных грабель|104||25.00|23.00|||| 25&nbsp;x&nbsp;1250&nbsp;мм|Для метел, веерных грабель, щеток
+#1|Черенок для метлы|104|VCE|49.00|45.00|42.00||| ЕВРО с резьбой, березовый <span class=art>арт. VCE</span>|Евро-черенок березовый.<br>Пластиковый резьбовой наконечник, длина - 120мм.||/img/pic/strhoz/small/cherenok EVRO for metla.jpg|/img/pic/strhoz/big/cherenok EVRO for metla.jpg
+#1|Черенок для метлы|104|VCM|39.00|37.00|36.00||| ЕВРО с резьбой, металлопластиковый, усиленный <span class=art>арт. VCM</span>|Евро-черенок металлопластиковый, усиленный, с отверстием для подвески.<br>Толщина стенки - 0.34мм.||/img/pic/strhoz/small/cherenok_euro_M.jpg|/img/pic/strhoz/big/cherenok_euro_M.jpg
+#1|Черенок для лопаты|104||25.00|23|19.80||| 40&nbsp;x&nbsp;1300&nbsp;мм <span class=art>арт. CHEL</span>|||/img/pic/strhoz/small/Cherenok-dlya-lopat2-40.jpg|/img/pic/strhoz/big/jpg
 
 1|Грабли веерные|373||89.00|84.00||||, 22 плоских зуба|||/img/pic/strhoz/small/grabli veernye.jpg|/img/pic/strhoz/big/grabli veernye.jpg
 1|Грабли витые|373||89.00|84.00||||, 12 зубьев, 360&nbsp;мм|||/img/pic/strhoz/small/grabli vitye.jpg|/img/pic/strhoz/big/grabli vitye.jpg
-1|Черенок для грабель|373||25.00|23.00|||| 30&nbsp;x&nbsp;1200&nbsp;мм|Для витых грабель.
-1|Черенок для метлы и веерных грабель|373||25.00|23.00|||| 25&nbsp;x&nbsp;1250&nbsp;мм|Для метел, веерных грабель, щеток
+1|Черенок для грабель|373||25.00|23.00|||| 30&nbsp;x&nbsp;1200&nbsp;мм|Для витых грабель.||/img/pic/strhoz/small/che_.jpg|/img/pic/strhoz/big/jpg
+1|Черенок для метлы и веерных грабель|373||25.00|23.00|||| 25&nbsp;x&nbsp;1250&nbsp;мм|Для метел, веерных грабель, щеток.||/img/pic/strhoz/small/che_.jpg|/img/pic/strhoz/big/jpg
+1|Черенок для метлы|373|CHEM|28.00|25,76|22,40||| 25&nbsp;x&nbsp;1300&nbsp;мм <span class=art>арт. CHEM</span>|||/img/pic/strhoz/small/che_.jpg|/img/pic/strhoz/big/jpg
 1|Черенок для метлы|373|VCE|49.00|45.00|42.00||| ЕВРО с резьбой, березовый <span class=art>арт. VCE</span>|Евро-черенок березовый.<br>Пластиковый резьбовой наконечник, длина - 120мм.||/img/pic/strhoz/small/cherenok EVRO for metla.jpg|/img/pic/strhoz/big/cherenok EVRO for metla.jpg
 1|Черенок для метлы|373|VCM|39.00|37.00|36.00||| ЕВРО с резьбой, металлопластиковый, усиленный <span class=art>арт. VCM</span>|Евро-черенок металлопластиковый, усиленный, с отверстием для подвески.<br>Толщина стенки - 0.34мм.||/img/pic/strhoz/small/cherenok_euro_M.jpg|/img/pic/strhoz/big/cherenok_euro_M.jpg
 1|Черенок для лопаты|373||25.00|23|19.80||| 40&nbsp;x&nbsp;1300&nbsp;мм <span class=art>арт. CHEL</span>|||/img/pic/strhoz/small/Cherenok-dlya-lopat2-40.jpg|/img/pic/strhoz/big/jpg
 
-1|Замок навесной|112|ВС2А-(20)|225|210|200||| ВС-2А <span class=art>арт. ВС2А</span>|Пр-во г. Чебоксары||/img/pic/strhoz/small/zn2-26-50.jpg|/img/pic/strhoz/big/VS 2.jpg
-1|Замок навесной всепогодный|112|91824|159|152|148||Замки навесные всепогодные 50 мм| MATRIX|||/img/pic/strhoz/small/ART-91824-91826.jpg|/img/pic/strhoz/big/ART-91824-91826.jpg
-0|Замок навесной всепогодный, удлиненная дужка|112|91826|178|172|168
-1|Замок врезной сувальдный|112|91663|195|185|178||| ЗВ8-4 <span class=art>арт. 91663</span>|Обладает высокой механической прочностью. Прост и удобен в эксплуатации. Корпус и планки оцинкованы. Отпирается ключом снаружи и изнутри. Замок имеет 1-й класс секретности. В комплекте 3 ключа.||/img/pic/strhoz/small/91663.jpg|/img/pic/strhoz/big/jpg
-1|Замок навесной повышенной защищенности|112|91603|295|285|275||| 3Н2-10, 90 мм <span class=art>арт. 91603</span>|Массивный корпус замка с толстыми стенками исключает доступ к дужке и надежно защищает ее от перепиливания и взлома. В комплекте 3 ключа.||/img/pic/strhoz/small/ART-91693.jpg|/img/pic/strhoz/big/ART-91693.jpg
-1|Проушина для замка|112|PR01| 8.00| 7,60| 7,40||| прямая, 30х70 мм оксидированная <span class=art>арт. PR01</span>|||/img/pic/strhoz/small/PR01.jpg|/img/pic/strhoz/big/jpg
-1|Проушина для замка|112|PR02|16.50|15,50|15,00||| угловая, 30х70 мм анодированная <span class=art>арт. PR02</span>|||/img/pic/strhoz/small/PR02.jpg|/img/pic/strhoz/big/jpg
+1|Замок навесной                              |112|ВС2А |255,00|245,00|230,00||| ВС-2А <span class=art>арт. ВС2А</span>|Пр-во г. Чебоксары||/img/pic/strhoz/small/zn2-26-50.jpg|/img/pic/strhoz/big/VS 2.jpg
+1|Замок навесной всепогодный                  |112|91824|210,00|200,00|190,00||Замки навесные всепогодные 50 мм| MATRIX|||/img/pic/strhoz/small/ART-91824-91826.jpg|/img/pic/strhoz/big/ART-91824-91826.jpg
+0|Замок навесной всепогодный, удлиненная дужка|112|91826|235,00|220,00|210,00
+1|Замок врезной сувальдный                    |112|91663|228,00|215,00|208,00||| ЗВ8-4 <span class=art>арт. 91663</span>|Обладает высокой механической прочностью. Прост и удобен в эксплуатации. Корпус и планки оцинкованы. Отпирается ключом снаружи и изнутри. Замок имеет 1-й класс секретности. В комплекте 3 ключа.||/img/pic/strhoz/small/91663.jpg|/img/pic/strhoz/big/jpg
+1|Замок навесной повышенной защищенности      |112|91603|340,00|315,00|305,00||| 3Н2-10, 90 мм <span class=art>арт. 91603</span>|Массивный корпус замка с толстыми стенками исключает доступ к дужке и надежно защищает ее от перепиливания и взлома. В комплекте 3 ключа.||/img/pic/strhoz/small/ART-91693.jpg|/img/pic/strhoz/big/ART-91693.jpg
+1|Проушина для замка                          |112|PR01 | 10,00|  9,50|  9,00||| прямая, 30х70 мм оксидированная <span class=art>арт. PR01</span>|||/img/pic/strhoz/small/PR01.jpg|/img/pic/strhoz/big/jpg
+1|Проушина для замка                          |112|PR02 | 14,00| 13,00| 12,00||| угловая, 30х70 мм анодированная <span class=art>арт. PR02</span>|||/img/pic/strhoz/small/PR02.jpg|/img/pic/strhoz/big/jpg
 #1|Замок навесной|112|91616|||145|sale1|| 3Н2-8, 60 мм (SiB)   <span class=art>арт. 91616</span>|||/img/pic/strhoz/small/91616.jpg|/img/pic/strhoz/big/jpg
 #1|Замок навесной|112|91623|135|130|125||| 3Н2-4-1, 60 мм (SiB) <span class=art>арт. 91623</span>|||/img/pic/strhoz/small/lock91623.jpg|/img/pic/strhoz/big/lock91623.jpg
 #1|Замок навесной|112|91625||| 88|sale1|| 3Н2-26, 50 мм        <span class=art>арт. 91625</span>|||/img/pic/strhoz/small/VS 2.jpg|/img/pic/strhoz/big/VS 2.jpg
@@ -124,25 +126,25 @@
 0|Щетка сметка 320&nbsp;мм                 |102|SZSM3 | 39.00| 38.00| 32.00|
 0|Щетка сметка 460&nbsp;мм                 |102|SZSM3X| 43.00| 35.00| 37.00|
 
-1|Щетка деревянная|374||85.00|79.00||norow|| 280&nbsp;мм, для пола <span class=art>арт. SZ-C1</span>|||/img/pic/strhoz/small/SCHetka dla pola 280 vv.jpg|/img/pic/strhoz/big/SCHetka dla pola 280 vv.jpg
+1|Щетка деревянная                         |374|SZ-C1 | 85.00| 79.00|165.00|norow|| 280&nbsp;мм, для пола <span class=art>арт. SZ-C1</span>|||/img/pic/strhoz/small/SCHetka dla pola 280 vv.jpg|/img/pic/strhoz/big/SCHetka dla pola 280 vv.jpg
 0|Щетка деревянная для пола, 280&nbsp;мм   |374|SZ-C1 | 89.00| 82.00|75
-1|Щетки палубные|374||77.00|72.00||norow|||||/img/pic/strhoz/small/SCHETKA PALUBNAJA.jpg|/img/pic/strhoz/big/SCHETKA PALUBNAJA.jpg
+1|Щетки палубные                           |374|SZPALX| 77.00| 72.00|165.00|norow|||||/img/pic/strhoz/small/SCHETKA PALUBNAJA.jpg|/img/pic/strhoz/big/SCHETKA PALUBNAJA.jpg
 0|Щетка палубная 200&nbsp;x&nbsp;80&nbsp;мм|374|SZPAL | 82.00| 78.00| 75.00|
 0|Щетка палубная 350&nbsp;x&nbsp;80&nbsp;мм|374|SZPALX|115.00|105.00| 95.00|
-1|Щетки метро-вокзал|374||129.00|115.00||norow|||||/img/pic/strhoz/small/SCHETKA METRO-VOKZAL 500-700.jpg|/img/pic/strhoz/big/SCHETKA METRO-VOKZAL 500-700.jpg
+1|Щетки метро-вокзал                       |374|SZ500 |129.00|115.00|165.00|norow|||||/img/pic/strhoz/small/SCHETKA METRO-VOKZAL 500-700.jpg|/img/pic/strhoz/big/SCHETKA METRO-VOKZAL 500-700.jpg
 0|Щетка метро-вокзал 500&nbsp;мм           |374|SZ500 |129.00|118.00|115.00|
 0|Щетка метро-вокзал 700&nbsp;мм           |374|SZ700 |165.00|155.00|145.00|
-1|Щетка сметка|374||49.00|44.00||norow|| 3-х рядная деревянная|||/img/pic/strhoz/small/Schetka smetka.jpg|/img/pic/strhoz/big/Schetka smetka.jpg
+1|Щетка сметка                             |374|SZSM3X| 49.00| 44.00|165.00|norow|| 3-х рядная деревянная|||/img/pic/strhoz/small/Schetka smetka.jpg|/img/pic/strhoz/big/Schetka smetka.jpg
 0|Щетка сметка 320&nbsp;мм                 |374|SZSM3 | 39.00| 38.00| 32.00|
 0|Щетка сметка 460&nbsp;мм                 |374|SZSM3X| 43.00| 35.00| 37.00|
 
-1|Щетка по металлу 3-рядная       |240|S3R   |21|19|18||Щетки ручные по металлу| на деревянной ручке|||/img/pic/strhoz/small/SCHetka po metallu der ruchka.jpg|/img/pic/strhoz/big/SCHetka po metallu der ruchka.jpg
-0|Щетка по металлу 4-рядная       |240|S4R   |25|23|22
-0|Щетка по металлу 5-рядная       |240|S5R   |29|27|25
-0|Щетка по металлу 6-рядная       |240|S6R   |32|29|27
-1|Щетка по металлу ручная 5-рядная|240|748675|65|58|56||Щетки по металлу| ручные металлические в пластмассовом корпусе с пластмассовой ручкой SPARTA|||/img/pic/strhoz/small/SCZetka ruchnaja - plastmass sparta.jpg|/img/pic/strhoz/big/SCZetka ruchnaja - plastmass sparta.jpg
-0|Щетка по металлу ручная 6-рядная|240|748685|65|58|56
-1|Щетка по металлу ручная         |240|SLP   |39|37|35||| <span class=art>арт. SLP</span>|металлическая латунированная проволока 30 мм, пластиковая рукоятка 240 мм.||/img/pic/strhoz/small/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg|/img/pic/strhoz/big/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg
+1|Щетка по металлу 3-рядная       |240|S3R   |42|40|39||Щетки ручные по металлу| на деревянной ручке|||/img/pic/strhoz/small/SCHetka po metallu der ruchka.jpg|/img/pic/strhoz/big/SCHetka po metallu der ruchka.jpg
+0|Щетка по металлу 4-рядная       |240|S4R   |44|42|40
+0|Щетка по металлу 5-рядная       |240|S5R   |47|45|43
+0|Щетка по металлу 6-рядная       |240|S6R   |49|46|44
+1|Щетка по металлу ручная 5-рядная|240|748675|95|90|88||Щетки по металлу| ручные металлические в пластмассовом корпусе с пластмассовой ручкой SPARTA|||/img/pic/strhoz/small/SCZetka ruchnaja - plastmass sparta.jpg|/img/pic/strhoz/big/SCZetka ruchnaja - plastmass sparta.jpg
+0|Щетка по металлу ручная 6-рядная|240|748685|99|96|92
+1|Щетка по металлу ручная         |240|SLP   |68|65|62||| <span class=art>арт. SLP</span>|металлическая латунированная проволока 30 мм, пластиковая рукоятка 240 мм.||/img/pic/strhoz/small/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg|/img/pic/strhoz/big/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg
 
 1|Ведро оцинкованое|163||99|95.00|89.00||| 12&nbsp;л <span class=art>арт. VZN12</span>|||/img/pic/strhoz/small/Vedro ozink 12 l.jpg|/img/pic/strhoz/big/Vedro ozink 12 l.jpg
 1|Ведро 12 л.       круглое|163|BU-12C| 69.00| 66.00| 62.00||Ведра|, резинопластик|||/img/pic/strhoz/small/Vedro rezinoplastic.jpg|/img/pic/strhoz/big/Vedro rezinoplastic.jpg
@@ -160,25 +162,32 @@
 0|Канистра пластиковая            60 л, мод. 78 (евро), 635 х 400 х 335 мм|300|K60PA|377
 #1|Бидон|300|B61PA|377||| пластиковый 61 л <span class=art>арт. B61PA</span>|Цвет натуральный (белый матовый).<br>Высота 690, диаметр 390 мм.||/img/pic/strhoz/small/can61s.png|/img/pic/strhoz/big/can61.png
 
-1|Нож для линолеума 180&nbsp;мм, деревянная ручка    |107|17002   |149,00|142,00|138,00||| TRUPER 17002-CULI-6 <span class=art>арт. 17002</span>|Применяется для резки линолеума, винилового покрытия, коврового покрытия.||/img/pic/strhoz/small/t17002.jpg|/img/pic/strhoz/big/t17002.jpg
-1|Нож 18&nbsp;мм x 100&nbsp;мм                       |107|571004  |155,00|148,00|144,00||Нож универсальный 18&nbsp;мм x 100&nbsp;мм| KINWEHR <span class=art>арт. 571004</span>|<UL><LI>Нож универсальный с выдвижным лезвием 18&nbsp;мм x 100&nbsp;мм.<LI>Фиксатор; 3 лезвия (в комплекте) с автозаменой.<LI>Обрезиненная рукоятка.</UL>||/img/pic/strhoz/small/NOZ-KINWEHR.jpg|/img/pic/strhoz/big/NOZ-KINWEHR.jpg
-1|Лезвия для ножей 18 x 100&nbsp;мм x 0.5&nbsp;мм    |107|571005  | 49,00| 45,00| 42,00||| KINWEHR <span class=art>арт. 571005</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/lezvia_sparta2.jpg|/img/pic/strhoz/big/jpg
-1|Нож 18&nbsp;мм                                     |107|19-0-210| 88,00| 84,00| 82,00||| Модерн HOBBI, выдвижное лезвие, автофиксатор, усиленный <span class=art>арт. 19-0-210</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; автоматическая блокировка лезвия. Обрезиненная рукоятка.<br></b>Применение:</b> для резания бумаги, картона и др. материалов.||/img/pic/strhoz/small/Nozs MODERN.jpg|/img/pic/strhoz/big/Nozs MODERN.jpg
-1|Нож монтажный пистолетный 19&nbsp;мм               |107|19-0-110|109,00|102,00| 95,00||| Эргономик HOBBI, трапеция <span class=art>арт. 19-0-110</span>|Корпус из высококачественной оцинкованной стали. Лезвие 45&nbsp;мм состоит из 12 сегментов, закрепляется фиксирующим винтом и может выдвигаться при помощи специальной кнопки.||/img/pic/strhoz/small/NOZ-ERGONOMIC.jpg|/img/pic/strhoz/big/NOZ-ERGONOMIC.jpg
-1|Нож                                                |107|19-0-302|135,00|128,00|122,00||| "Action", сегментное лезвие 25 x 125 мм, металлическая направляющая, винтовой фиксатор, REMOCOLOR <span class=art>арт. 19-0-302</span>|||/img/pic/strhoz/small/action.jpg|/img/pic/strhoz/big/jpg
-1|Нож сапожный 180&nbsp;мм                           |107|NSA     | 85,00| 79,00| 75,00||| (Россия) <span class=art>арт. NSA</span>|||/img/pic/strhoz/small/Nozs sapojny.jpg|/img/pic/strhoz/big/Nozs sapojny.jpg
-1|Нож монтера                                        |107|78996   | 89,00| 84,00| 79,00||Нож монтера| 140&nbsp;мм (Россия) <span class=art>арт. 78996</span>|||/img/pic/strhoz/small/NOJ montera.jpg|/img/pic/strhoz/big/NOJ montera.jpg
-1|Нож 18&nbsp;мм, выдвижное лезвие                   |107|78929   | 28,00| 25,00| 23,00||| MATRIX <span class=art>арт. 78929</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; блокировка лезвия||/img/pic/strhoz/small/Nozs vydv lezv 18 mm.jpg|/img/pic/strhoz/big/Nozs vydv lezv 18 mm.jpg
-1|Лезвия для ножей 18&nbsp;мм&nbsp;x&nbsp;100&nbsp;мм|107|19-2-401| 39,00| 37,00| 35,00||| (14 сегментов) HOBBI <span class=art>арт. 19-2-401</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/hobbi.jpg|/img/pic/strhoz/big/jpg
-1|Лезвия для ножей 25&nbsp;x&nbsp;125&nbsp;мм        |107|19-2-400| 69,00| 65,00| 62,00||| (6 сегментов) REMOCOLOR <span class=art>арт. 19-2-400</span>|5 лезвий для пистолетного ножа, изготовленных из высококачественной стали.<br>Цена за упаковку 5 шт.||/img/pic/strhoz/small/19-2-400.jpg|/img/pic/strhoz/big/jpg
-1|Лезвия трапеция 19&nbsp;x&nbsp;60&nbsp;мм          |107|19-2-410| 32,00| 30,00| 28,00||| REMOCOLOR <span class=art>арт. 19-2-410</span>|5 лезвий, изготовленных из высококачественной стали.<br>Цена за упаковку 5 шт.||/img/pic/strhoz/small/19-2-410.jpg|/img/pic/strhoz/big/jpg
+1|Нож 18&nbsp;мм, выдвижное лезвие                   |107|19-0-003| 32,00| 28,00| 26,00||| HOBBI <span class=art>арт. 19-0-003</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; блокировка лезвия||/img/pic/strhoz/small/Nozs vydv lezv 18 mm.jpg|/img/pic/strhoz/big/Nozs vydv lezv 18 mm.jpg
+1|Нож 18&nbsp;мм                                     |107|19-0-210|105,00| 99,00| 95,00||| Модерн HOBBI, выдвижное лезвие, автофиксатор, усиленный <span class=art>арт. 19-0-210</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; автоматическая блокировка лезвия. Обрезиненная рукоятка.<br></b>Применение:</b> для резания бумаги, картона и др. материалов.||/img/pic/strhoz/small/Nozs MODERN.jpg|/img/pic/strhoz/big/Nozs MODERN.jpg
+1|Лезвия для ножей 18 x 100&nbsp;мм                  |107|793315 /| 45,00| 42,00| 39,00||| MATRIX <span class=art>арт. 793315</span> или HOBBI <span class=art>арт. 19-2-401</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/Lezvija 25 mm.jpg|/img/pic/strhoz/big/Lezvija 25 mm.jpg
+1|Нож монтажный пистолетный 19&nbsp;мм               |107|19-0-110|135,00|125,00|117,00||| Эргономик HOBBI, трапеция <span class=art>арт. 19-0-110</span>|Корпус из высококачественной оцинкованной стали. Лезвие 45&nbsp;мм состоит из 12 сегментов, закрепляется фиксирующим винтом и может выдвигаться при помощи специальной кнопки.||/img/pic/strhoz/small/NOZ-ERGONOMIC.jpg|/img/pic/strhoz/big/NOZ-ERGONOMIC.jpg
+1|Лезвия трапеция 19&nbsp;x&nbsp;60&nbsp;мм          |107|19-2-410| 38,00| 35,00| 33,00||| REMOCOLOR <span class=art>арт. 19-2-410</span>|5 лезвий, изготовленных из высококачественной стали.<br>Цена за упаковку 5 шт.||/img/pic/strhoz/small/19-2-410.jpg|/img/pic/strhoz/big/jpg
+1|Нож 25 х 125 мм, выдвижное сегментированное лезвие |107|78959 / |255,00|250,00|245,00||| MATRIX <span class=art>арт. 78959</span> или REMOCOLOR "Action" <span class=art>арт. 19-0-302</span>|Сегментное лезвие 25 x 125 мм, металлическая направляющая, винтовой фиксатор.||/img/pic/strhoz/small/action.jpg|/img/pic/strhoz/big/jpg
+1|Лезвия для ножей 25&nbsp;x&nbsp;125&nbsp;мм        |107|19-2-400| 85,00| 80,00| 78,00||| (6 сегментов) REMOCOLOR <span class=art>арт. 19-2-400</span>|5 лезвий для пистолетного ножа, изготовленных из высококачественной стали.<br>Цена за упаковку 5 шт.||/img/pic/strhoz/small/19-2-400.jpg|/img/pic/strhoz/big/jpg
+1|Нож для линолеума 180&nbsp;мм, деревянная ручка    |107|17002   |179,00|169,00|162,00||| TRUPER 17002-CULI-6 <span class=art>арт. 17002</span>|Применяется для резки линолеума, винилового покрытия, коврового покрытия.||/img/pic/strhoz/small/t17002.jpg|/img/pic/strhoz/big/t17002.jpg
+1|Нож сапожный 180&nbsp;мм                           |107|NSA     | 99,00| 92,00| 88,00||| (Россия) <span class=art>арт. NSA</span>|||/img/pic/strhoz/small/Nozs sapojny.jpg|/img/pic/strhoz/big/Nozs sapojny.jpg
 
+1|Лезвия для ножей                                   |107|79376|155|145|140|ltd|Лезвия для ножей| GROSS <span class=art>арт. 79376</span>|Трапециевидные 60 х 0,6 х 19 мм, пластиковый пенал.<br>Цена за упаковку 12 шт.||/img/pic/strhoz/small/Lezvija GROSS.jpg|/img/pic/strhoz/big/Lezvija GROSS.jpg
+1|Нож ремонтно-монтажный                             |107|78879|595|575|550|ltd|Нож ремонтно-монтажный| 175 мм GROSS <span class=art>арт. 78879</span>|Трехкомпонентная рукоятка, кнопочный механизм автоматического выброса и возврата лезвия в хвостовой части корпуса ножа.<br>Трапециевидные лезвия, сталь SK-2, размер полотна 60 х 0,6 х 19 мм.<br><b>В комплекте 5 запасных лезвий.</b>||/img/pic/strhoz/small/78879.jpg|/img/pic/strhoz/big/jpg
+1|Нож ремонтно-монтажный                             |107|78870|595|575|550|ltd|Нож ремонтно-монтажный| 170 мм GROSS <span class=art>арт. 78870</span>|Трехкомпонентная рукоятка, механизм автоматического выброса и возврата лезвия пистолетного типа.<br>Трапециевидные лезвия: размер полотна 60 х 0,6 х 19 мм.<br><b>В комплекте 5 запасных лезвий.</b>||/img/pic/strhoz/small/NOJ  GROSS.jpg|/img/pic/strhoz/big/NOJ  GROSS.jpg
+
+#1|Нож монтера                                        |107|78996   | 89,00| 84,00| 79,00||Нож монтера| 140&nbsp;мм (Россия) <span class=art>арт. 78996</span>|||/img/pic/strhoz/small/NOJ montera.jpg|/img/pic/strhoz/big/NOJ montera.jpg
+#1|Нож 18&nbsp;мм, выдвижное лезвие                   |107|78929   | 28,00| 25,00| 23,00||| MATRIX <span class=art>арт. 78929</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; блокировка лезвия||/img/pic/strhoz/small/Nozs vydv lezv 18 mm.jpg|/img/pic/strhoz/big/Nozs vydv lezv 18 mm.jpg
+#1|Лезвия для ножей 18&nbsp;мм&nbsp;x&nbsp;100&nbsp;мм|107|19-2-401| 39,00| 37,00| 35,00||| (14 сегментов) HOBBI <span class=art>арт. 19-2-401</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/hobbi.jpg|/img/pic/strhoz/big/jpg
+
+#1|Нож 18&nbsp;мм x 100&nbsp;мм                       |107|571004  |155,00|148,00|144,00||Нож универсальный 18&nbsp;мм x 100&nbsp;мм| KINWEHR <span class=art>арт. 571004</span>|<UL><LI>Нож универсальный с выдвижным лезвием 18&nbsp;мм x 100&nbsp;мм.<LI>Фиксатор; 3 лезвия (в комплекте) с автозаменой.<LI>Обрезиненная рукоятка.</UL>||/img/pic/strhoz/small/NOZ-KINWEHR.jpg|/img/pic/strhoz/big/NOZ-KINWEHR.jpg
+#1|Лезвия для ножей 18 x 100&nbsp;мм x 0.5&nbsp;мм    |107|571005  | 49,00| 45,00| 42,00||| KINWEHR <span class=art>арт. 571005</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/lezvia_sparta2.jpg|/img/pic/strhoz/big/jpg
 #1|Лезвия для ножей 18 x 100&nbsp;мм                  |107|793315  | 37,00| 34,00| 32,00||| MATRIX <span class=art>арт. 793315</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/lezvia_sparta2.jpg|/img/pic/strhoz/big/jpg
 #1|Лезвия трапеция прямые 18&nbsp;мм|107|793555|28.00|25|||| MATRIX <span class=art>арт. 793555</span>|Материал изготовления - сталь твердостью 65 HRс.<br>Цена за упаковку 5 шт.||/img/pic/strhoz/small/793555.jpg|/img/pic/strhoz/big/jpg
-#1|Лезвия для ножей 18 x 100&nbsp;мм|107||22.00|19|||| MATRIX <span class=art>арт. 793315</span> или HOBBI <span class=art>арт. 19-2-300</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/Lezvija 25 mm.jpg|/img/pic/strhoz/big/Lezvija 25 mm.jpg
 #1|Лезвия для ножей 18&nbsp;мм|107||22.00|-|||| SPARTA <span class=art>арт. 78969</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/lezvia_sparta2.jpg|/img/pic/strhoz/big/jpg
 #1|Ножницы хозяйственные|107||169.00|-|||Ножницы хозяйственные|, 280 мм<span class=artn>арт. </span>|Нержавеющая сталь, 2-компонентные рукоятки.<br>Твердость по Роквеллу 56 Hrc||/img/pic/strhoz/small/Noznicy.jpg|/img/pic/strhoz/big/Noznicy.jpg
 
+#1|Нож                                                |107|19-0-302|135,00|128,00|122,00||| "Action", сегментное лезвие 25 x 125 мм, металлическая направляющая, винтовой фиксатор, REMOCOLOR <span class=art>арт. 19-0-302</span>|||/img/pic/strhoz/small/action.jpg|/img/pic/strhoz/big/jpg
 #1|Нож универсальный                                  |107|78997   | 95,00| 92,00| 88,00||Нож универсальный| 180&nbsp;мм (Россия) <span class=art>арт. 78997</span>|||/img/pic/strhoz/small/Nozs univers.jpg|/img/pic/strhoz/big/Nozs univers.jpg
 #1|Нож для напольных покрытий|107|78989|129.00|119|||Нож для напольных покрытий| 200&nbsp;мм MATRIX <span class=art>арт. 78989</span>|||/img/pic/strhoz/small/Noz dla napolnyx pokrytiy.jpg|/img/pic/strhoz/big/Noz dla napolnyx pokrytiy.jpg
 #1|Нож 18&nbsp;мм|107|78914|88.00|81|||Нож 18&nbsp;мм| MATRIX "MASTER" <span class=art>арт. 78914</span>|Выдвижное лезвие, металлическая направляющая, винтовой фиксатор.||/img/pic/strhoz/small/78914.jpg|/img/pic/strhoz/big/jpg
@@ -189,13 +198,10 @@
 #1|Нож 18&nbsp;мм, выдвижное лезвие|320||10||| MATRIX <span class=art>арт. 78929</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; блокировка лезвия||/img/pic/strhoz/small/Nozs vydv lezv 18 mm.jpg|/img/pic/strhoz/big/Nozs vydv lezv 18 mm.jpg
 #1|Нож 18&nbsp;мм, выдвижное лезвие|320||10||| SPARTA <span class=art>арт. 78974</span>|Автоматическая фиксация лезвия .||/img/pic/strhoz/small/78974.jpg|/img/pic/strhoz/big/jpg
 #1|Нож 18&nbsp;мм, выдвижное лезвие с металлической направляющей|320|78918|20||| MATRIX <span class=art>арт. 78918</span>|Нож общего назначения с выдвижным лезвием шириной 18 мм; автоматическая блокировка лезвия.<br>Применение: для резания бумаги, картона и др. материалов.||/img/pic/strhoz/small/Nozs vydv lezv 18 mm met napr.jpg|/img/pic/strhoz/big/Nozs vydv lezv 18 mm met napr.jpg
-1|Нож 25&nbsp;мм|320|78959|99||Нож 25&nbsp;мм|, выдвижное сегментированное лезвие MATRIX <span class=art>арт. 78959</span>|Усиленная направляющая, обрезиненная рукоятка, имеет автоматическую и винтовую фиксацию.<br>Предназначен для резки различных материалов с применением значительных усилий||/img/pic/strhoz/small/Nozs 25.jpg|/img/pic/strhoz/big/Nozs 25.jpg
+#1|Нож 25&nbsp;мм|320|78959|99||Нож 25&nbsp;мм|, выдвижное сегментированное лезвие MATRIX <span class=art>арт. 78959</span>|Усиленная направляющая, обрезиненная рукоятка, имеет автоматическую и винтовую фиксацию.<br>Предназначен для резки различных материалов с применением значительных усилий||/img/pic/strhoz/small/Nozs 25.jpg|/img/pic/strhoz/big/Nozs 25.jpg
 #1|Нож 18&nbsp;мм|320||99||Нож 18&nbsp;мм| MATRIX "MASTER" <span class=art>арт. 78921</span>|Выдвижное лезвие, металлическая направляющая, обрезиненная рукоятка, 5 запасных лезвий в магазине, замок-фиксатор для устранения люфта во время резки, автоматическая фиксация и автоматическая замена лезвия.||/img/pic/strhoz/small/Noj  18 mm vydv lezvie 5 pfg lezvi.jpg|/img/pic/strhoz/big/Noj  18 mm vydv lezvie 5 pfg lezvi.jpg
-1|Нож ремонтно-монтажный|320|78870|288||Нож ремонтно-монтажный| 170 мм GROSS <span class=art>арт. 78870</span>|Трехкомпонентная рукоятка, механизм автоматического выброса и возврата лезвия пистолетного типа.<br>Трапециевидные лезвия: размер полотна 60 х 0,6 х 19 мм.<br><b>В комплекте 5 запасных лезвий.</b>||/img/pic/strhoz/small/NOJ  GROSS.jpg|/img/pic/strhoz/big/NOJ  GROSS.jpg
-1|Нож ремонтно-монтажный|320|78879|299||Нож ремонтно-монтажный| 175 мм GROSS <span class=art>арт. 78879</span>|Трехкомпонентная рукоятка, кнопочный механизм автоматического выброса и возврата лезвия в хвостовой части корпуса ножа.<br>Трапециевидные лезвия, сталь SK-2, размер полотна 60 х 0,6 х 19 мм.<br><b>В комплекте 5 запасных лезвий.</b>||/img/pic/strhoz/small/78879.jpg|/img/pic/strhoz/big/jpg
-1|Лезвия для ножей 9 x 80&nbsp;мм|320||8||| HOBBI <span class=art>арт. 19-2-301</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/hobbi.jpg|/img/pic/strhoz/big/jpg
-1|Лезвия для ножей|320|79376|79||Лезвия для ножей| GROSS <span class=art>арт. 79376</span>|Трапециевидные 60 х 0,6 х 19 мм, пластиковый пенал.<br>Цена за упаковку 12 шт.||/img/pic/strhoz/small/Lezvija GROSS.jpg|/img/pic/strhoz/big/Lezvija GROSS.jpg
-1|Лезвия для ножей 25&nbsp;мм|320|793325|88|||<span class=art> арт. 793325</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/Lezvija 25 mm.jpg|/img/pic/strhoz/big/Lezvija 25 mm.jpg
+#1|Лезвия для ножей 9 x 80&nbsp;мм|320||8||| HOBBI <span class=art>арт. 19-2-301</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/hobbi.jpg|/img/pic/strhoz/big/jpg
+#1|Лезвия для ножей 25&nbsp;мм|320|793325|88|||<span class=art> арт. 793325</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/Lezvija 25 mm.jpg|/img/pic/strhoz/big/Lezvija 25 mm.jpg
 ###################
 
 1|Мачете             |339|15867|495|475|460||| TRUPER - колумбийский тип, 560&nbsp;мм <span class=art>арт. 15867</span>|Прямое лезвие. Черная ручка. Сделано в Колумбии.||/img/pic/strhoz/small/T15867.jpg|/img/pic/strhoz/big/T15867.jpg
@@ -203,36 +209,36 @@
 1|Мачете             |339|15875|580|570|560||| TRUPER MARA-R типа "Ranchero", 400&nbsp;мм <span class=art>арт. 15875</span>|||/img/pic/strhoz/small/T15875.jpg|/img/pic/strhoz/big/T15875.jpg
 1|Мачете двустороннее|339|15893|685|665|650||| TRUPER MACH-18, 450&nbsp;мм <span class=art>арт. 15893</span>|Стальное лезвие плюс садовая пила, удобная пластиковая рукоятка.||/img/pic/strhoz/small/MACH-18.jpg|/img/pic/strhoz/big/MACH-18.jpg
 
-1|Степлер мебельный|188|643103|345,00|330,00|320,00||| STELGRIT для скоб тип 53: 4-14&nbsp;мм&nbsp;х&nbsp;0.7&nbsp;мм <span class=art>арт. 643103</span>|<UL><LI>Степлер изготовлен из металла, хромирован.<LI>Пружинный ударный механизм с поглощающей резиновой вставкой для смягчения удара на руку.<LI>Имеется инструкция по применению.||/img/pic/strhoz/small/643103_2.jpg|/img/pic/strhoz/big/643103_2.jpg
-1|Степлер мебельный|188||398|370|350||| MiLES (Индия) <span class=art>арт. TP-5560</span>|<UL><LI>Легкий скобозабивной пистолет <b>"3 в 1"</b>.<LI>Прочный корпус из ABS пластика с мощным металлическим механизмом и металлической ручкой.<LI>Регулятор силы удара; индикатор наличия скоб; блокирование ручки для хранения.<LI><b>Скобы</b>:&nbsp;тип&nbsp;53,&nbsp;6-14&nbsp;мм. <b>Гвозди</b>:&nbsp;12-14&nbsp;мм. <b>Штифты</b>:&nbsp;14&nbsp;мм.</UL>||/img/pic/instr/small/stap_miles.jpg|/img/pic/instr/big/stap_miles.jpg
-1|Степлер мебельный|188||545|530|520||| GROSS <span class=art>арт. 41003</span>|<UL><LI>Корпус из высокопрочного пластика, обрезиненная рукоятка с горизонтальной фиксацией.<LI>Регулировка усилия забивания скобы.<LI>Применяется в работах по обивке мебели, фиксации низковольтных кабелей и т.д. Профессиональное использование.<LI><b>Тип скобы</b>: 13 и 53, размером 6-16&nbsp;мм.<LI><b>Тип гвоздя</b>: 300, размером 16&nbsp;мм.</UL>||/img/pic/strhoz/small/STEPLER GROSS.jpg|/img/pic/strhoz/big/STEPLER GROSS.jpg
-#1|Степлер мебельный|188||298.00|288|||| MATRIX Standard <span class=art>арт. 40902</span>|<b>Тип скобы</b>: 53, размером 6-14 мм||/img/pic/instr/small/STEPLER standart A.jpg|/img/pic/instr/big/STEPLER standart A.jpg
-#1|Степлер мебельный|188||369.00|355|||| MATRIX Professional <span class=art>арт. 40913</span>|<UL><LI>Изготовлен из хромированной стали, имеет функцию ускоренной загрузки скоб.<LI>Оснащен двухпозиционным контролем силы удара и глубины забивания скоб.</UL><p><span class="addt"><b>Тип скобы</b>: 13, 53, 300, размером 6-14&nbsp;мм||/img/pic/strhoz/small/Stepler.jpg|/img/pic/strhoz/big/Stepler.jpg
-1|Скоба для степлера,  |188||42|40|38|norow|Скобы для степлера каленые|, тип 53, Stelgrit|<br>Цена за упаковку 1000 шт.||/img/pic/strhoz/small/655002_2.jpg|/img/pic/strhoz/big/655002_2.jpg
-0|Скоба для степлера,  6 х 0.7 мм|188|655001| 24,90| 22,90| 21,00
-0|Скоба для степлера,  8 х 0.7 мм|188|655002| 32,00| 29,00| 27,00
-0|Скоба для степлера, 10 х 0.7 мм|188|655003| 35,90| 34,00| 32,00
-0|Скоба для степлера, 12 х 0.7 мм|188|655004| 39,50| 38,00| 36,00
-1|Скоба для степлера,  8 мм|188|SM0853|42.00|40|38||Скобы для степлера|, тип 53, MiLES|Тип скобы 53 (№3 по классификации MiLES): толщина&nbsp;0,7&nbsp;мм, ширина&nbsp;11,4&nbsp;мм, глубина&nbsp;от&nbsp;4 до&nbsp;14&nbsp;мм.<br>Цена за упаковку 1000 шт.||/img/pic/strhoz/small/Scoby_MiLES.jpg|/img/pic/strhoz/big/jpg
-0|Скоба для степлера, 10 мм|188|SM1053|47.00|44|42
-0|Скоба для степлера, 12 мм|188|SM1253|52.00|48|45
-0|Скоба для степлера, 14 мм|188|SM1453|58.00|54|49
+1|Степлер мебельный             |188|643103 |415,00|395,00|380,00||| STELGRIT для скоб тип 53: 4-14&nbsp;мм&nbsp;х&nbsp;0.7&nbsp;мм <span class=art>арт. 643103</span>|<UL><LI>Степлер изготовлен из металла, хромирован.<LI>Пружинный ударный механизм с поглощающей резиновой вставкой для смягчения удара на руку.<LI>Имеется инструкция по применению.||/img/pic/strhoz/small/643103_2.jpg|/img/pic/strhoz/big/643103_2.jpg
+1|Степлер мебельный             |188|TP-5560|415,00|395,00|380,00||| MiLES (Индия) <span class=art>арт. TP-5560</span>|<UL><LI>Легкий скобозабивной пистолет <b>"3 в 1"</b>.<LI>Прочный корпус из ABS пластика с мощным металлическим механизмом и металлической ручкой.<LI>Регулятор силы удара; индикатор наличия скоб; блокирование ручки для хранения.<LI><b>Скобы</b>:&nbsp;тип&nbsp;53,&nbsp;6-14&nbsp;мм. <b>Гвозди</b>:&nbsp;12-14&nbsp;мм. <b>Штифты</b>:&nbsp;14&nbsp;мм.</UL>||/img/pic/instr/small/stap_miles.jpg|/img/pic/instr/big/stap_miles.jpg
+1|Скоба для степлера,            |188|      | 29,00| 26,00| 24,00|norow|Скобы для степлера каленые|, тип 53, Stelgrit|<br>Цена за упаковку 1000 шт.||/img/pic/strhoz/small/655002_2.jpg|/img/pic/strhoz/big/655002_2.jpg
+0|Скоба для степлера,  6 х 0.7 мм|188|655001| 29,00| 26,00| 24,00
+0|Скоба для степлера,  8 х 0.7 мм|188|655002| 42,00| 40,00| 38,00
+0|Скоба для степлера, 10 х 0.7 мм|188|655003| 59,00| 55,00| 52,00
+0|Скоба для степлера, 12 х 0.7 мм|188|655004| 66,00| 62,00| 58,00
+1|Скоба для степлера,  8 мм      |188|SM0853| 42,00| 40,00| 38,00||Скобы для степлера|, тип 53, MiLES|Тип скобы 53 (№3 по классификации MiLES): толщина&nbsp;0,7&nbsp;мм, ширина&nbsp;11,4&nbsp;мм, глубина&nbsp;от&nbsp;4 до&nbsp;14&nbsp;мм.<br>Цена за упаковку 1000 шт.||/img/pic/strhoz/small/Scoby_MiLES.jpg|/img/pic/strhoz/big/jpg
+0|Скоба для степлера, 10 мм      |188|SM1053| 59,00| 55,00| 52,00
+0|Скоба для степлера, 12 мм      |188|SM1253| 66,00| 62,00| 58,00
+0|Скоба для степлера, 14 мм      |188|SM1453| 72,00| 68,00| 64,00
 #1|Скоба для степлера,  6 мм|188|41116 |23.00|20|19||Скобы для степлера|, тип 53, MATRIX|Тип скобы 53: толщина&nbsp;0,7&nbsp;мм, ширина&nbsp;11,4&nbsp;мм, глубина&nbsp;от&nbsp;4 до&nbsp;14&nbsp;мм.<br>Цена за упаковку 1000 шт.||/img/pic/strhoz/small/Scoby.jpg|/img/pic/strhoz/big/Scoby.jpg
 #0|Скоба для степлера,  8 мм|188|41118 |25.00|22|20
 #0|Скоба для степлера, 10 мм|188|41120 |29.00|26|23
 #0|Скоба для степлера, 12 мм|188|41122 |36.00|33|31
 #0|Скоба для степлера, 14 мм|188|41124 |39.00|36|33
+#1|Степлер мебельный|188|41003  |545,00|530,00|520,00||| GROSS <span class=art>арт. 41003</span>|<UL><LI>Корпус из высокопрочного пластика, обрезиненная рукоятка с горизонтальной фиксацией.<LI>Регулировка усилия забивания скобы.<LI>Применяется в работах по обивке мебели, фиксации низковольтных кабелей и т.д. Профессиональное использование.<LI><b>Тип скобы</b>: 13 и 53, размером 6-16&nbsp;мм.<LI><b>Тип гвоздя</b>: 300, размером 16&nbsp;мм.</UL>||/img/pic/strhoz/small/STEPLER GROSS.jpg|/img/pic/strhoz/big/STEPLER GROSS.jpg
+#1|Степлер мебельный|188||298.00|288|||| MATRIX Standard <span class=art>арт. 40902</span>|<b>Тип скобы</b>: 53, размером 6-14 мм||/img/pic/instr/small/STEPLER standart A.jpg|/img/pic/instr/big/STEPLER standart A.jpg
+#1|Степлер мебельный|188||369.00|355|||| MATRIX Professional <span class=art>арт. 40913</span>|<UL><LI>Изготовлен из хромированной стали, имеет функцию ускоренной загрузки скоб.<LI>Оснащен двухпозиционным контролем силы удара и глубины забивания скоб.</UL><p><span class="addt"><b>Тип скобы</b>: 13, 53, 300, размером 6-14&nbsp;мм||/img/pic/strhoz/small/Stepler.jpg|/img/pic/strhoz/big/Stepler.jpg
 
 1|Крюк для вязки арматуры автоматический|238|848805|495|480|470||| SPARTA <span class=art>арт. 848805</span>|Легкая конструкция из алюминиевого сплава.||/img/pic/strhoz/small/kruk.jpg|/img/pic/strhoz/big/kruk.jpg
 
-1|Шланг ПВХ армированный усиленный 3/4", 25&nbsp;м|103|OR3425| 545| 525| 495||Шланги ПВХ поливочные| 3/4", <strong>армированные усиленные</strong> YARD|Шланг изготовлен из поливинилхлорида, армирован полиамидной нитью.<br>Цена за 1 шт. с учетом НДС.||/img/pic/strhoz/small/schlang-pvh-yard.jpg|/img/pic/strhoz/big/jpg
-0|Шланг ПВХ армированный усиленный 3/4", 50&nbsp;м|103|OR3450| 995| 955| 935|
-1|Шланг ПВХ армированный усиленный 3/4", 50&nbsp;м|103|67475 |1390|1330|1290|norow|Шланги ПВХ поливочные| 3/4", <strong>армированные</strong> PALISAD|Цена за 1 шт. с учетом НДС.||/img/pic/strhoz/small/Shlang polivochny.jpg|/img/pic/strhoz/big/Shlang polivochny.jpg
-0|Шланг ПВХ армированный           3/4", 15&nbsp;м|103|67476 | 650| 620| 595
-0|Шланг ПВХ армированный           3/4", 30&nbsp;м|103|67478 | 715| 695| 685|norow
-0|Шланг ПВХ армированный           3/4", 50&nbsp;м|103|67479 |1290|1250|1220
-1|Коннектор для шланга быстрозащелкивающийся|103|12722| 95| 89| 85||| 3/4" Аквастоп TRUPER CLICK-ACC 12722, "мама-папа" <span class=art>арт. 12722</span>|||/img/pic/strhoz/small/T12722.jpg|/img/pic/strhoz/big/T12722.jpg
-1|Коннектор для шланга|103|12708| 198| 175| 179||| TRUPER CFM-3/4B, латунный, 3/4", "мама-папа" <span class=art>арт. 12708</span>|||/img/pic/strhoz/small/T12708.jpg|/img/pic/strhoz/big/T12708.jpg
+1|Шланг ПВХ армированный усиленный 3/4", 25&nbsp;м|103|OR3425| 725| 685| 665||Шланги ПВХ поливочные| 3/4", <strong>армированные усиленные</strong> YARD|Шланг изготовлен из поливинилхлорида, армирован полиамидной нитью.<br>Цена за 1 шт. с учетом НДС.||/img/pic/strhoz/small/schlang-pvh-yard.jpg|/img/pic/strhoz/big/jpg
+0|Шланг ПВХ армированный усиленный 3/4", 50&nbsp;м|103|OR3450|1290|1190|1120|
+1|Шланг ПВХ армированный усиленный 3/4", 50&nbsp;м|103|67475 | 795| 780| 760|norow|Шланги ПВХ поливочные| 3/4", <strong>армированные</strong> PALISAD|Цена за 1 шт. с учетом НДС.||/img/pic/strhoz/small/Shlang polivochny.jpg|/img/pic/strhoz/big/Shlang polivochny.jpg
+0|Шланг ПВХ армированный           3/4", 15&nbsp;м|103|67476 | 795| 780| 760
+0|Шланг ПВХ армированный           3/4", 30&nbsp;м|103|67478 |1590|1520|1490|norow
+0|Шланг ПВХ армированный           3/4", 50&nbsp;м|103|67479 |1590|1520|1490
+1|Коннектор для шланга быстрозащелкивающийся      |103|12722 | 115| 105|  98||| 3/4" Аквастоп TRUPER CLICK-ACC 12722, "мама-папа" <span class=art>арт. 12722</span>|||/img/pic/strhoz/small/T12722.jpg|/img/pic/strhoz/big/T12722.jpg
+1|Коннектор для шланга                            |103|12708 | 215| 205| 198||| TRUPER CFM-3/4B, латунный, 3/4", "мама-папа" <span class=art>арт. 12708</span>|||/img/pic/strhoz/small/T12708.jpg|/img/pic/strhoz/big/T12708.jpg
 
 1|Гидроуровень со шкалой, 8 мм, &nbsp; 7&nbsp;м|108|37063|155|148|138||Гидроуровни со шкалой| "БАРС" (Россия)|<UL><LI>удлиненная колба<LI>рельефная градуировка</UL>||/img/pic/strhoz/small/Gidrouroven.jpg|/img/pic/strhoz/big/Gidrouroven.jpg
 0|Гидроуровень со шкалой, 8 мм,       10&nbsp;м|108|37064|175|167|158
@@ -244,27 +250,27 @@
 0|Отвес конусный 300 г, шнур 5&nbsp;м          |108|84833| 85| 79| 75
 0|Отвес конусный 400 г, шнур 5&nbsp;м          |108|84834| 95| 88| 84
 
-1|Маркер перманентный промышленный|109|Е-140-|52|49|46||| толщина линии 0,3&nbsp;мм:<table cellpadding=0 cellspacing=0 border=0><tr><td>красный<td class=art>арт. Е-140-2<tr><td>черный<td class=art>арт. Е-140-1</table>|Керамика, кафель, стекло, пластик, пленки, картон, металл||/img/pic/strhoz/small/Marker E-140 line 03.jpg|/img/pic/strhoz/big/Marker E-140 line 03.jpg
-1|Маркер перманентный промышленный|109|Е-141-|52|49|46||| толщина линии 0,6&nbsp;мм:<table cellpadding=0 cellspacing=0 border=0><tr><td>черный<td class=art>арт. Е-141-1<tr><td>красный<td class=art>арт. Е-141-2<tr><td>зеленый<td class=art>арт. Е141-4<tr><td>желтый<td class=art>арт. Е141-5</table>|Керамика, кафель, стекло, пластик, пленки, картон, металл||/img/pic/strhoz/small/Marker E-141 line 06.jpg|/img/pic/strhoz/big/Marker E-141 line 06.jpg
-1|Маркер перманентный промышленный|109|Е-8300-|79|75|72||| толщина линии 1,5-3,0&nbsp;мм:<table cellpadding=0 cellspacing=0 border=0><tr><td>красный<td class=art>арт. Е-8300-2<tr><td>черный<td class=art>арт. Е-8300-1</table>|Металл, ржавый металл, дерево, бетон, крипич, камень,керамика, кафель, стекло, пластик, пленки, картон||/img/pic/strhoz/small/Marker E-8300 white.jpg|/img/pic/strhoz/big/Marker E-8300 white.jpg
-1|Маркер перманентный промышленный|109|Е-8750-|139|133|128||| толщина линии 2,0-4,0&nbsp;мм:<table cellpadding=0 cellspacing=0 border=0><tr><td>белый<td class=art>арт. Е-8750-49<tr><td>желтый<td class=art>арт. Е-8750-5-YEL<tr><td>красный<td class=art>арт. Е-8750-2-RED<tr><td>черный<td class=art>арт. Е-8750-1-BLK</table>|Металл, ржавый металл, дерево, бетон, крипич, камень,керамика, кафель, стекло, пластик, пленки, картон||/img/pic/strhoz/small/Marker E-8750 white.jpg|/img/pic/strhoz/big/Marker E-8750 white.jpg
-1|Маркер перманентный|109|AD8004|13.50|12.50|11.90||| "BEIFA" черный <span class=art>арт. AD8004</span>|||/img/pic/strhoz/small/Marker BEIFA.jpg|/img/pic/strhoz/big/Marker BEIFA.jpg
-1|Мелок|109|L4911100|19|17|16||| для БЕТОНА 20&nbsp;&#215;&nbsp;20&nbsp;&#215;&nbsp;100&nbsp;мм <span class=art>арт. L4911100</span>|Цена за 1 шт.||/img/pic/strhoz/small/MEL--po BETONU.jpg|/img/pic/strhoz/big/MEL--po BETONU.jpg
-1|Мел белый|109|AF538700|55|51|48||| GIOTTO d.&nbsp;10&nbsp;&#215;&nbsp;100&nbsp;мм <span class=art>арт. AF538700</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/MEL---GIOTTO-upakovka.jpg|/img/pic/strhoz/big/MEL---GIOTTO-upakovka.jpg
+1|Маркер перманентный промышленный|109|Е-140- | 72,00| 69,00| 64,00||| толщина линии 0,3&nbsp;мм:<table cellpadding=0 cellspacing=0 border=0><tr><td>красный<td class=art>арт. Е-140-2<tr><td>черный<td class=art>арт. Е-140-1</table>|Керамика, кафель, стекло, пластик, пленки, картон, металл||/img/pic/strhoz/small/Marker E-140 line 03.jpg|/img/pic/strhoz/big/Marker E-140 line 03.jpg
+1|Маркер перманентный промышленный|109|Е-141- | 72,00| 69,00| 64,00||| толщина линии 0,6&nbsp;мм:<table cellpadding=0 cellspacing=0 border=0><tr><td>черный<td class=art>арт. Е-141-1<tr><td>красный<td class=art>арт. Е-141-2<tr><td>зеленый<td class=art>арт. Е141-4<tr><td>желтый<td class=art>арт. Е141-5</table>|Керамика, кафель, стекло, пластик, пленки, картон, металл||/img/pic/strhoz/small/Marker E-141 line 06.jpg|/img/pic/strhoz/big/Marker E-141 line 06.jpg
+1|Маркер перманентный промышленный|109|Е-8300-|109,00|102,00| 98,00||| толщина линии 1,5-3,0&nbsp;мм:<table cellpadding=0 cellspacing=0 border=0><tr><td>красный<td class=art>арт. Е-8300-2<tr><td>черный<td class=art>арт. Е-8300-1</table>|Металл, ржавый металл, дерево, бетон, крипич, камень,керамика, кафель, стекло, пластик, пленки, картон||/img/pic/strhoz/small/Marker E-8300 white.jpg|/img/pic/strhoz/big/Marker E-8300 white.jpg
+1|Маркер перманентный промышленный|109|Е-8750-|179,00|172,00|168,00||| толщина линии 2,0-4,0&nbsp;мм:<table cellpadding=0 cellspacing=0 border=0><tr><td>белый<td class=art>арт. Е-8750-49<tr><td>желтый<td class=art>арт. Е-8750-5-YEL<tr><td>красный<td class=art>арт. Е-8750-2-RED<tr><td>черный<td class=art>арт. Е-8750-1-BLK</table>|Металл, ржавый металл, дерево, бетон, крипич, камень,керамика, кафель, стекло, пластик, пленки, картон||/img/pic/strhoz/small/Marker E-8750 white.jpg|/img/pic/strhoz/big/Marker E-8750 white.jpg
+1|Маркер перманентный             |109|AD8004 | 16,90| 16,20| 15,80||| "BEIFA" черный <span class=art>арт. AD8004</span>|||/img/pic/strhoz/small/Marker BEIFA.jpg|/img/pic/strhoz/big/Marker BEIFA.jpg
+1|Мелок                          |109|L4911100| 28,00| 25,00| 22,00||| для БЕТОНА 20&nbsp;&#215;&nbsp;20&nbsp;&#215;&nbsp;100&nbsp;мм <span class=art>арт. L4911100</span>|Цена за 1 шт.||/img/pic/strhoz/small/MEL--po BETONU.jpg|/img/pic/strhoz/big/MEL--po BETONU.jpg
+1|Мел белый                      |109|AF538700| 88,00| 82,00| 78,00||| GIOTTO d.&nbsp;10&nbsp;&#215;&nbsp;100&nbsp;мм <span class=art>арт. AF538700</span>|Цена за упаковку 10 шт.||/img/pic/strhoz/small/MEL---GIOTTO-upakovka.jpg|/img/pic/strhoz/big/MEL---GIOTTO-upakovka.jpg
 
 #1|Карандаш малярный SPARTA 180 мм   |231|848045  |49.00|45|42||Карандаши малярные| 180&nbsp;мм|Малярный карандаш имеет мягкий грифель, который оставляет четкий след. Овальная форма карандаша исключает скатывание с наклонной поверхности.<br>Цена за упаковку 12 карандашей||/img/pic/strhoz/small/KARANDASH MALIARNY.jpg|/img/pic/strhoz/big/KARANDASH MALIARNY.jpg
 #1|Карандаш малярный REMOCOLOR 180 мм|231|13-0-018|49.00|45|42||Карандаши малярные| REMOCOLOR|Малярный карандаш имеет мягкий грифель, который оставляет четкий след. Овальная форма карандаша исключает скатывание с наклонной поверхности.<br>Цена за упаковку 12 карандашей||/img/pic/strhoz/small/KARANDASH MALIARNY.jpg|/img/pic/strhoz/big/KARANDASH MALIARNY.jpg
 #0|Карандаш малярный REMOCOLOR 250 мм|231|13-0-025|99.00|94|89
 1|Карандаш малярный 180 мм|231||49.00|45|42||Карандаши малярные||Малярный карандаш имеет мягкий грифель, который оставляет четкий след. Овальная форма карандаша исключает скатывание с наклонной поверхности.<br>Цена за упаковку 12 карандашей||/img/pic/strhoz/small/KARANDASH MALIARNY.jpg|/img/pic/strhoz/big/KARANDASH MALIARNY.jpg
 0|Карандаш малярный 250 мм|231||99.00|94|89
-1|Шнур разметочный|231|848515|65.00|60|58||| 15&nbsp;м SPARTA <span class=art>арт. 848515</span>|Пластмассовый обрезиненный корпус.||/img/pic/strhoz/small/shnur_sparta.jpg|/img/pic/strhoz/big/shnur_sparta.jpg
-0|Шнур разметочный 15&nbsp;м SPARTA|231|848515|65.00|60|58|norow
-1|Шнур разметочный 20&nbsp;м HOBBI |231|14-0-040|138.00|133|128||Шнур разметочный||Предназначен для нанесения вертикальной и горизонтальной разметки при проведении строительных и отделочных работ. Также может использоваться в качестве отвеса.<UL><LI>пластмассовый обрезиненный корпус<LI>порошок мел красный 115 г</UL>||/img/pic/strhoz/small/SHNUR RAZMETOCHNY.jpg|/img/pic/strhoz/big/SHNUR RAZMETOCHNY.jpg
-0|Шнур разметочный 30&nbsp;м MATRIX|231|84855   |159.00|152|148
-1|Порошок меловой красный MATRIX|231|84858   |55.00|49|44||Порошок меловой| для разметочных шнуров, 115&nbsp;г|||/img/pic/strhoz/small/mel_matrix.jpg|/img/pic/strhoz/big/mel_matrix.jpg
-0|Порошок меловой красный HOBBI |231|14-1-004|55.00|49|44
-0|Порошок меловой синий   MATRIX|231|84860   |55.00|49|44
-0|Порошок меловой синий   HOBBI |231|14-1-003|55.00|49|44
+1|Шнур разметочный                 |231|848515  | 65| 60| 58|norow|| 15&nbsp;м SPARTA <span class=art>арт. 848515</span>|Пластмассовый обрезиненный корпус.||/img/pic/strhoz/small/shnur_sparta.jpg|/img/pic/strhoz/big/shnur_sparta.jpg
+0|Шнур разметочный 15&nbsp;м SPARTA|231|848515  | 79| 72| 68|
+1|Шнур разметочный 20&nbsp;м HOBBI |231|14-0-040|149|142|138||Шнур разметочный||Предназначен для нанесения вертикальной и горизонтальной разметки при проведении строительных и отделочных работ. Также может использоваться в качестве отвеса.<UL><LI>пластмассовый обрезиненный корпус<LI>порошок мел красный 115 г</UL>||/img/pic/strhoz/small/SHNUR RAZMETOCHNY.jpg|/img/pic/strhoz/big/SHNUR RAZMETOCHNY.jpg
+0|Шнур разметочный 30&nbsp;м MATRIX|231|84855   |198|189|185
+1|Порошок меловой красный MATRIX   |231|84858   | 65| 60| 50||Порошок меловой| для разметочных шнуров, 115&nbsp;г|||/img/pic/strhoz/small/mel_matrix.jpg|/img/pic/strhoz/big/mel_matrix.jpg
+0|Порошок меловой красный HOBBI    |231|14-1-004| 65| 60| 50
+0|Порошок меловой синий   MATRIX   |231|84860   | 65| 60| 50
+0|Порошок меловой синий   HOBBI    |231|14-1-003| 65| 60| 50
 
 1|Сумка для инструмента|224|17104|1390|1330|1290||| TRUPER MALE-20 <span class=art>арт. 17104</span>|Высокопрочный материал, жесткий каркас, ремень для переноски.||/img/pic/strhoz/small/17104-male-20.jpg|/img/pic/strhoz/big/17104-male-20.jpg
 1|Сумка-мешок поясная|224|11516|465|450|440||| для гвоздей и мелких инструментов, 22.5 х 30 см, TRUPER POR-CLA <span class=art>арт. 11516</span>|<UL><LI>2 отделения.<LI>Изготовлена из кожи толщиной 1.2 мм.<LI>Пр-во Индия.</UL>||/img/pic/strhoz/small/11516.jpg|/img/pic/strhoz/big/11516.jpg
@@ -283,11 +289,11 @@
 1|Ящик пластиковый 420 х 220 х 180 мм (17")|346|90704|388||Ящики для инструмента пластиковые| STELS|<UL><LI>Изготовлены из полипропилена.<LI>Два встроенных органайзера с крышкой.<LI>Предназначены для хранения и транспортировки инструментов, расходных материалов и крепежных изделий.</UL>||/img/pic/strhoz/small/box STELS.jpg|/img/pic/strhoz/big/box STELS.jpg
 0|Ящик пластиковый 500 х 260 х 260 мм (20")|346|90705|499
 0|Ящик пластиковый 590 х 300 х 300 мм (24")|346|90706|670
-1|Сумка для инструмента|346||299||| MATRIX<br>14 карманов, 315 х 215 х 225 мм <span class=art>арт. 90251</span>|||/img/pic/strhoz/small/SUMKA DLYA INSTR.jpg|/img/pic/strhoz/big/SUMKA DLYA INSTR.jpg
-1|Сумка для инструмента|346||544||| MATRIX<br>18 карманов, 510 х 210 х 360 мм <span class=art>арт. 90252</span>|||/img/pic/strhoz/small/90252.jpg|/img/pic/strhoz/big/SUMKA DLYA INSTR.jpg
+#1|Сумка для инструмента|346||299||| MATRIX<br>14 карманов, 315 х 215 х 225 мм <span class=art>арт. 90251</span>|||/img/pic/strhoz/small/SUMKA DLYA INSTR.jpg|/img/pic/strhoz/big/SUMKA DLYA INSTR.jpg
+#1|Сумка для инструмента|346||544||| MATRIX<br>18 карманов, 510 х 210 х 360 мм <span class=art>арт. 90252</span>|||/img/pic/strhoz/small/90252.jpg|/img/pic/strhoz/big/SUMKA DLYA INSTR.jpg
 #1|Сумка для инструмента|346||655||| MATRIX<br>32 кармана, 460 х 280 х 305 мм, ремень <span class=art>арт. 90256</span>|||/img/pic/strhoz/small/SUMKA BIG.jpg|/img/pic/strhoz/big/SUMKA BIG.jpg
 
-1|Мешок для мусора|208|BG5595|7,60|7.00|6,20|||, 55&nbsp;x&nbsp;95&nbsp;см, 50&nbsp;кг, полипропиленовый зеленый <span class=art>арт. BG5595</span>|Цена за 1 шт.||/img/pic/strhoz/small/garbage.jpg|/img/pic/strhoz/big/garbage.jpg
+1|Мешок для мусора|208|BG5595|7,90|7.50|6,90|||, 55&nbsp;x&nbsp;95&nbsp;см, 50&nbsp;кг, полипропиленовый зеленый <span class=art>арт. BG5595</span>|Цена за 1 шт.||/img/pic/strhoz/small/garbage.jpg|/img/pic/strhoz/big/garbage.jpg
 1|Мешок для мусора, 120 литров, 70 x 110 см, 30 мкм, 40 г|208|TB1 |4,90|4,60|4,20||Мешки для мусора| из полиэтилена высокого давления (ПВД), черные, толщина пленки 30&nbsp;-&nbsp;50&nbsp;мкм|<br>Цена за 1 шт.||/img/pic/strhoz/small/garbage-pvd3.jpg|/img/pic/strhoz/big/jpg
 #0|Мешок для мусора, 120 литров, 70 x 110 см, 40 мкм, 56 г|208|V-01|6,80|6,50|6,20|
 0|Мешок для мусора, 120 литров, 70 x 110 см, 50 мкм, 72 г|208|TB2 |7,40|7,20|6,90|
@@ -308,10 +314,10 @@
 #1|Лента сигнальная|114||109.00|95.00||| красно-белая 50&nbsp;мм&nbsp;x&nbsp;200&nbsp;м|||/img/pic/strhoz/small/Signalnaja lenta.jpg|/img/pic/strhoz/big/Signalnaja lenta.jpg
 
 #1|Скотч прозрачный 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм|115|TR6636/TR6672|36|32|30||Скотч|, ширина 48&nbsp;мм, толщина 43&nbsp;мкм|Цена за один ролик.||/img/pic/strhoz/small/Scotch prozrach.jpg|/img/pic/strhoz/big/Scotch prozrach.jpg
-1|Скотч прозрачный 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм|115|TR6636/TR6672|36|32|30|norow|Скотч строительный||<br>Цена за один ролик.||/img/pic/strhoz/small/Scotch prozrach.jpg|/img/pic/strhoz/big/Scotch prozrach.jpg
-0|Скотч прозрачный 43&nbsp;мкм; 48&nbsp;мм&nbsp;x&nbsp;66&nbsp;м (36) |115|TR6636       |36|32|30
-0|Скотч прозрачный 43&nbsp;мкм; 48&nbsp;мм&nbsp;x&nbsp;66&nbsp;м (72) |115|TR6672       |36|32|30
-0|Скотч BROWN      43&nbsp;мкм; 48&nbsp;мм&nbsp;x&nbsp;66&nbsp;м (36) |115|TB06636      |36|32|30
+1|Скотч прозрачный 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм|115|TR6636/TR6672| 36| 32| 30|norow|Скотч строительный||<br>Цена за один ролик.||/img/pic/strhoz/small/Scotch prozrach.jpg|/img/pic/strhoz/big/Scotch prozrach.jpg
+0|Скотч прозрачный 43&nbsp;мкм; 48&nbsp;мм&nbsp;x&nbsp;66&nbsp;м (36) |115|TR6636       | 39| 36| 34
+0|Скотч прозрачный 43&nbsp;мкм; 48&nbsp;мм&nbsp;x&nbsp;66&nbsp;м (72) |115|TR6672       | 36| 32| 30
+0|Скотч BROWN      43&nbsp;мкм; 48&nbsp;мм&nbsp;x&nbsp;66&nbsp;м (36) |115|TB06636      | 36| 32| 30
 #0|Скотч коричневый 43&nbsp;мкм; 48&nbsp;мм&nbsp;x&nbsp;66&nbsp;м;|115|TTB66/TB06636|36|32|30
 #0|Скотч коричневый 48&nbsp;мм&nbsp;x&nbsp;120&nbsp;м;&nbsp;43&nbsp;мкм|115|TB12024|69.00|-
 #0|Скотч коричневый 48&nbsp;мм&nbsp;x&nbsp; 66&nbsp;м;&nbsp;43&nbsp;мкм TORNADO|115|TTB66|35.00|-
@@ -324,12 +330,12 @@
 #0|Скотч армированный (серебро) 48&nbsp;мм&nbsp;x&nbsp;50&nbsp;м|115|88889|315|305|295
 #1|Скотч армированный 48&nbsp;мм&nbsp;x&nbsp;50&nbsp;м|115|88889|315|305|295||| (серебро) <span class=art>арт. 88889</span>|Лента клейкая армированная алюминием обеспечивает надежное соединение стыков и швов при термоизоляции. Термостойкая и морозоустойчивая. Может использоваться в банях, саунах, системах кондиционирования.<span class="addt">Цена за один ролик.||/img/pic/strhoz/small/88889.jpg|/img/pic/strhoz/big/jpg
 #0|Скотч|115|T|35|35|35|norow
-1|Скотч лента малярная 48&nbsp;мм&nbsp;x&nbsp;24&nbsp;м           |115|TM2436     | 39| 36| 33||Скотч малярный||<br>Цена за один ролик.||/img/pic/strhoz/small/SCOTCH Maljarny.jpg|/img/pic/strhoz/big/SCOTCH Maljarny.jpg
-0|Скотч лента малярная 48&nbsp;мм&nbsp;x&nbsp;47&nbsp;м           |115|TM4736/4724| 79| 75| 72
-1|Лента армированная клейкая KIM TEC 48&nbsp;мм&nbsp;x&nbsp;45&nbsp;м|115|08-06-64|210|200|195||Лента армированная клейкая черная| KIM TEC 48&nbsp;мм&nbsp;x&nbsp;45&nbsp;м <span class=art>арт. 08-06-64</span>|Полиэтиленовая лента на текстильной основе, покрыта специальным слоем высококачественного клея hot melt.<UL><LI>Лента армированная KIM TEC отличается стойкостью к воде и трению, хорошо прилипает к любой поверхности.<LI>Лента легко и ровно разрывается руками, нет необходимости в использовании ножа или ножниц.</UL>||/img/pic/strhoz/small/08-06-64.jpg|/img/pic/strhoz/big/08-06-64.jpg
-1|Лента ZIGGER двусторонняя 50 мм х 25 м на тканевой основе          |115|07-04-23|198|190|188||Лента двусторонняя на тканевой основе| ZIGGER 50&nbsp;мм&nbsp;x&nbsp;25&nbsp;м <span class=art>арт. 07-04-23</span>|Лента ZIGGER двусторонняя применяется для склеивания твердых поверхностей, для фиксации деталей и элементов интерьера, для монтажа и временной фиксации легких конструкций.||/img/pic/strhoz/small/07-04-23.jpg|/img/pic/strhoz/big/07-04-23.jpg
-1|Пленка-стрейч, ролик весом 1.0&nbsp;кг                             |115|STR01   |179|172|168||Стрейч &mdash; паллетная пленка|, ширина 500&nbsp;мм, толщина 20&nbsp;мкм|<br>Цена за один ролик.||/img/pic/strhoz/small/STRECH_PLENKA.jpg|/img/pic/strhoz/big/STRECH_PLENKA.jpg
-0|Пленка-стрейч, ролик весом 1.8&nbsp;кг                             |115|STR18   |279|270|265
+1|Скотч лента малярная 48&nbsp;мм&nbsp;x&nbsp;24&nbsp;м               |115|TM2436       | 45| 42| 39||Скотч малярный||<br>Цена за один ролик.||/img/pic/strhoz/small/SCOTCH Maljarny.jpg|/img/pic/strhoz/big/SCOTCH Maljarny.jpg
+0|Скотч лента малярная 48&nbsp;мм&nbsp;x&nbsp;47&nbsp;м               |115|TM4736/4724  | 79| 75| 72
+1|Лента армированная клейкая KIM TEC 48&nbsp;мм&nbsp;x&nbsp;45&nbsp;м |115|08-06-64     |210|200|195||Лента армированная клейкая черная| KIM TEC 48&nbsp;мм&nbsp;x&nbsp;45&nbsp;м <span class=art>арт. 08-06-64</span>|Полиэтиленовая лента на текстильной основе, покрыта специальным слоем высококачественного клея hot melt.<UL><LI>Лента армированная KIM TEC отличается стойкостью к воде и трению, хорошо прилипает к любой поверхности.<LI>Лента легко и ровно разрывается руками, нет необходимости в использовании ножа или ножниц.</UL>||/img/pic/strhoz/small/08-06-64.jpg|/img/pic/strhoz/big/08-06-64.jpg
+1|Лента ZIGGER двусторонняя 50 мм х 25 м на тканевой основе           |115|07-04-23     |198|190|188||Лента двусторонняя на тканевой основе| ZIGGER 50&nbsp;мм&nbsp;x&nbsp;25&nbsp;м <span class=art>арт. 07-04-23</span>|Лента ZIGGER двусторонняя применяется для склеивания твердых поверхностей, для фиксации деталей и элементов интерьера, для монтажа и временной фиксации легких конструкций.||/img/pic/strhoz/small/07-04-23.jpg|/img/pic/strhoz/big/07-04-23.jpg
+1|Пленка-стрейч, ролик весом 1.0&nbsp;кг                              |115|STR01        |179|172|168||Стрейч &mdash; паллетная пленка|, ширина 500&nbsp;мм, толщина 20&nbsp;мкм|<br>Цена за один ролик.||/img/pic/strhoz/small/STRECH_PLENKA.jpg|/img/pic/strhoz/big/STRECH_PLENKA.jpg
+0|Пленка-стрейч, ролик весом 1.8&nbsp;кг                              |115|STR18        |279|270|265
 1|Сетка (лента) самоклеящаяся &nbsp;&nbsp;50&nbsp;мм&nbsp;x&nbsp; 45&nbsp;м|115|89002|94|90|85| norow|Стеклотканевая самоклеящаяся лента из стекловолокна| (СЕРПЯНКА)|Стеклотканевая самоклеящаяся лента (серпянка) из стекловолокна служит как армирующий элемент при отделочных работах.<DL><DT>Размер ячеек, мм: <DD>2,5 х 2,5<DT>Масса, г / кв. м: <DD>50 &plusmn; 5</DL><p><span class="addt">Цена за один рулон.||/img/pic/strhoz/small/Steklosetka-lenta.jpg|/img/pic/strhoz/big/Steklosetka-lenta.jpg
 #0|Сетка (лента) самоклеящаяся &nbsp;&nbsp;50&nbsp;мм&nbsp;x&nbsp; 90&nbsp;м|115|89004|149|142|138
 #0|Сетка (лента) самоклеящаяся            100&nbsp;мм&nbsp;x&nbsp; 90&nbsp;м|115|89012|255|245|238
@@ -346,22 +352,31 @@
 #1|Веревка ПА д. 10 мм|186|PAB2410-50|37.00|35||Веревка полиамидная плетеная 24-прядная| в катушках 50 м.|Высокая прочность, стойкость ко многим химическим реагентам<br>Цена с НДС за погонный метр||/img/pic/strhoz/small/verevka poliam 24 pr.jpg|/img/pic/strhoz/big/verevka poliam 24 pr.jpg
 #1|Веревка ПА д. 10 мм|186|PAB2410-50|33.00|||Веревка полиамидная| 24-прядная|В отдельных бухтах. Высокая прочность, стойкость ко многим химическим реагентам<br>Цена с НДС за погонный метр||/img/pic/strhoz/small/verevka poliam 24 pr.jpg|/img/pic/strhoz/big/verevka poliam 24 pr.jpg
 1|Веревка полиамидная &empty;10 мм, 24-прядная, бухта 100 м|186|RG06200||||norow|Веревка полиамидная| в бухтах|Высокая прочность, стойкость ко многим химическим реагентам.<br><br>Цена за бухту.||/img/pic/strhoz/small/verevka poliam 24 pr.jpg|/img/pic/strhoz/big/verevka poliam 24 pr.jpg
-0|Веревка полиамидная &empty; &nbsp; 6 мм, 16-прядная, бухта 200 м|186|RG06200|1350|1290|1270|
-0|Веревка полиамидная &empty; &nbsp; 8 мм, 24-прядная, бухта 200 м|186|RG08200|1750|1690|1660|
-0|Веревка полиамидная &empty;       10 мм, 24-прядная, бухта 300 м|186|RG10300|3820|3750|3690|
-0|Веревка полиамидная &empty;       12 мм, 24-прядная, бухта 200 м|186|RG12200|3550|3490|3450|
-0|Веревка полиамидная &empty;       14 мм, 48-прядная, бухта 150 м|186|RG14150|3550|3490|3450|
-0|Веревка полиамидная &empty;       16 мм, 48-прядная, бухта 125 м|186|RG16125|3680|3620|3590|
-0|Веревка полиамидная &empty;       18 мм, 48-прядная, бухта 100 м|186|RG18100|3780|3690|3650|
-0|Веревка полиамидная &empty;       20 мм, 48-прядная, бухта 100 м|186|RG20100|4650|4520|4449|
+0|Веревка полиамидная &empty; &nbsp; 6 мм, 16-прядная, бухта 200 м|186|RG06200|2100|2020|1970|
+0|Веревка полиамидная &empty; &nbsp; 8 мм, 24-прядная, бухта 200 м|186|RG08200|2690|2600|2550|
+0|Веревка полиамидная &empty;       10 мм, 24-прядная, бухта 300 м|186|RG10300|5990|5890|5800|
+0|Веревка полиамидная &empty;       12 мм, 24-прядная, бухта 200 м|186|RG12200|5590|5490|5400|
+0|Веревка полиамидная &empty;       14 мм, 48-прядная, бухта 150 м|186|RG14150|5590|5490|5400|
+0|Веревка полиамидная &empty;       16 мм, 48-прядная, бухта 125 м|186|RG16125|5590|5490|5400|
+0|Веревка полиамидная &empty;       18 мм, 48-прядная, бухта 100 м|186|RG18100|5990|5890|5790|
+0|Веревка полиамидная &empty;       20 мм, 48-прядная, бухта 100 м|186|RG20100|7390|7190|7090|
 #1|Веревка ХБ д.10 мм|-186|266.00||Веревка хлопчатобумажная| крученая|В отрезках по 11 погонных метров.<br>Цена с НДС за отрезок 11 метров||/img/pic/strhoz/small/verevka hb.jpg|/img/pic/strhoz/big/verevka hb.jpg
 #0|Веревка ХБ д.12 мм|-186|280.00
 #0|Веревка ХБ д.16 мм|-186|370.00
 
-1|Сетка фасадная|207|FASAD1|4200|3900|3600||| зеленая, в рулонах 4&nbsp;x&nbsp;100&nbsp;м|Сетка для укрытия фасадов, строительных объектов и т.п.<br>Цена за 1 рулон (400 кв.м)||/img/pic/strhoz/small/SETKA FASADNAJA.jpg|/img/pic/strhoz/big/SETKA FASADNAJA.jpg
+1|Сетка фасадная|207|FASAD1|4600|4200|3950||| зеленая, в рулонах 4&nbsp;x&nbsp;100&nbsp;м|Сетка для укрытия фасадов, строительных объектов и т.п.<br>Цена за 1 рулон (400 кв.м)||/img/pic/strhoz/small/SETKA FASADNAJA.jpg|/img/pic/strhoz/big/SETKA FASADNAJA.jpg
 
-1|Ветошь                       |228|VZ404010| 650| 620| 580||Ветошь| в лоскутах 40 х 40 см <span class=art>арт. VZ404010</span>|Цена за 1 брикет 10 кг.||/img/pic/strhoz/small/VETOSH.jpg|/img/pic/strhoz/big/VETOSH.jpg
-1|Холстопрошивное полотно (ХПП)|228|HPP08050|1090|1050| 990||Холстопрошивное полотно (ХПП)| в рулонах 0.80&nbsp;х&nbsp;50&nbsp;м <span class=art>арт. HPP08050</span>|Цена за 1 рулон.||/img/pic/strhoz/small/HPP.jpg|/img/pic/strhoz/big/jpg
+1|Ветошь                       |228|VZ404010| 695| 665| 625||Ветошь| в лоскутах 40 х 40 см <span class=art>арт. VZ404010</span>|Цена за 1 брикет 10 кг.||/img/pic/strhoz/small/VETOSH.jpg|/img/pic/strhoz/big/VETOSH.jpg
+1|Холстопрошивное полотно (ХПП)|228|HPP08050|1190|1120|1070||Холстопрошивное полотно (ХПП)| в рулонах 0.80&nbsp;х&nbsp;50&nbsp;м <span class=art>арт. HPP08050</span>|Цена за 1 рулон.||/img/pic/strhoz/small/HPP.jpg|/img/pic/strhoz/big/jpg
+1|Полотно вафельное в рулонах  |228|PF045070|1590|1540|1490||Полотно вафельное| в рулонах 0.45&nbsp;х&nbsp;70&nbsp;м <span class=art>арт. PF045070</span>|Цена за 1 рулон.||/img/pic/strhoz/small/pol_vaf.jpg|/img/pic/strhoz/big/jpg
 1|Мешковина в рулонах          |228|ME110100|3650|3590|3390||Мешковина| в рулонах 1.10&nbsp;х&nbsp;100&nbsp;м <span class=art>арт. ME110100</span>|Цена за 1 рулон.||/img/pic/strhoz/small/meshkov.jpg|/img/pic/strhoz/big/jpg
-1|Полотно вафельное в рулонах  |228|PF045070|1440|1350|1290||Полотно вафельное| в рулонах 0.45&nbsp;х&nbsp;70&nbsp;м <span class=art>арт. PF045070</span>|Цена за 1 рулон.||/img/pic/strhoz/small/pol_vaf.jpg|/img/pic/strhoz/big/jpg
 
+1|Крестики для укладки плитки 1.0 мм     |106|880645|40,31|37,53|36,14||Крестики| для укладки плитки|Цена с НДС за упаковку 250 шт.||/img/pic/shmal/small/Krestiki for plitki.jpg|/img/pic/shmal/big/Krestiki for plitki.jpg
+0|Крестики для укладки плитки 1.5 мм     |106|880665|40,31|37,53|36,14
+0|Крестики для укладки плитки 2.0 мм     |106|880685|43,09|40,31|38,92
+0|Крестики для укладки плитки 2.5 мм     |106|880695|47,26|44,48|41,70
+0|Крестики для укладки плитки 3.0 мм     |106|880725|50,04|47,26|44,48
+0|Крестики для укладки плитки 4.0 мм     |106|880765|54,21|51,43|48,65
+0|Крестики для укладки плитки 5.0 мм     |106|880805|58,38|54,21|51,43
+1|Клинья для укладки плитки 30 х 6 х 5 мм|106|880225|76,45|68,11|66,72||Клинья| для укладки плитки|Цена с НДС за упаковку 200 шт.||/img/pic/shmal/small/Kliny for plitki.jpg|/img/pic/shmal/big/jpg
+0|0 мм|106|880805|42.00|39.00|norow

@@ -13,6 +13,11 @@ p.spo1, p.spo2 {color:#ff9911}
 p.spo1 a, p.spo1 a:hover{color:#fff;}
 p.spo2 a, p.spo2 a:hover{color:#DDD;}
 p.spo1:hover, p.spo2:hover{background-color:#000;}
+/*abbr {cursor: help;}*/
+.hidden {display: none;}
+.b {font-weight: bold;}
+.c {text-align: center;}
+.i {font-style: italic;}
 /*
 #cat107 .one-good td {vertical-align: top;}
 #cat107 p {vertical-align: middle; display: inline;}
@@ -36,7 +41,6 @@ span.artn {display: none;}
 .moregoods .one-good td.good-txt {vertical-align: middle; padding:2px 0 2px 1px;}
 .moregoods dt {white-space: nowrap;}
 .moregoods dd {font-weight: bold;}
-abbr {cursor: help;}
 
 .tab>tbody>tr>td {white-space: nowrap;}
 .tab tr+tr td+td  {text-align:center;}
@@ -53,7 +57,6 @@ abbr {cursor: help;}
 .tab tr.blkt td {border-top:double; padding-top:3px; }
 .tab tr.blkt2 td {border-top:2px solid #686c6e; padding-top:3px;}
 .tab tr.norow {display: none;}
-.hidden {display: none;}
 
 .tab tr.red  {background-color: #f8e8d8;}
 .tab tr.blue {background-color: #f0f4ff;}
@@ -156,6 +159,13 @@ margin:0;}
 #specoffers_page #all-summa.good-cart p.price span {font-size: 18px /*150%*/;}
 #specoffers_page .spof :last-child .red {font-size: 150%;}
 
+table.one-good.many.ltd, table.one-good.mono.ltd td.good-txt {background-color: #f2f2fc;}
+table.tab.ltd:after, table.one-good.mono.ltd:after {
+  font-weight: bold; font-size: 80%; line-height: 160%; border: none;
+  width: 1px; white-space: nowrap; display: table-caption; caption-side: bottom;}
+table.tab.ltd:after { content: "Продажа данных позиций ограничена наличием на текущую дату."; }
+table.one-good.mono.ltd:after { content: "Продажа этой позиции ограничена наличием на текущую дату."; }
+
 table.one-good.sale1, table.tab.sale1 {background-color: #fff8f8;}
 table.one-good.sale1 td.good-txt .title:before
   { display: inline; content: "Распродажа: "; font-size: 120%; font-weight: bold; font-style: italic; color: #C90000; }
@@ -208,32 +218,26 @@ display:inline;
 
 #nooferta {text-align: center; font-size: 75%; color: #555; line-height: 100%; padding:4px 23px 1px 23px;}
 
-.toptmp1 { position: absolute; top: 270px; left: 300px; width: 800px; }
-/* Hide/adjust this when <div class="toptmp1"> in catalog/index.shtml is not used or changed! */
-/* div.info-cat h1 { margin-top: 88px; } */
-
-#w2014ny {background-color: #fff;}
-#w2014ny div {float: left;}
-#w2014ny2 {text-align: right; margin-right: .4em;}
-#w2014ny3 {text-align: left}
-
-#w2014   {background-color: #58f;}
-#w2014 a {text-decoration: none;}
-#w2014 span:hover {border-bottom: solid 2px #ffffff;}
-#w2014-1 {text-align: center; padding: 3px 0 6px 0; line-height: 140%; color: #fff; font-size: 22px; font-weight: bold; font-family: Times New Roman, serif; font-style: italic; word-spacing: 8px;}
-#w2014-1 b {font-size: 26px; }
-
-#may2013-1 {text-align: center; padding: 6px 0 0 0;}
-#may2013-1 b {color: #f00;}
-#may2013-2 {text-align: center; padding: 4px 0 6px 0;}
+.toptmp1 { white-space: nowrap; position: absolute; top: 252px; left: 70px; margin-left: 25%;
+  padding-top: 5px; line-height: 24px; color: #00c; font-family: Georgia;}
+#ny-1 { font-size: 20px; }
+#ny-2 { font-size: 17px; font-style: italic; }
+#ny-3   {color: #000; padding-top: 2px; line-height: 18px;}
+#ny-3 b {color: #f00;}
+/* Hide/adjust this when <div class="toptmp1"> in ssi/top-tmenu.shtml is not used or changed!
+.bgcolor2 {margin-bottom: 100px;}
+*/
 
 div.ref {text-align: center; font-size: 14px; font-weight: bold; margin: 20px 0px 30px 0}
 div.ref.pdf {font-size: 17px; font-weight: normal; }
 div.ref.pdf a {font-weight: bold; }
 
 /* #cat199 .more_goods {display: none;} */
-#cat175 h1 {margin-bottom: -15px;}
-#cat175 .one-good {margin-top: 30px;}
+/*#cat175 h1 {margin-bottom: -15px;}*/
+#cat175 .one-good {margin-top: 25px;}
+#cat175 .info-cat>table {margin-top: -30px;}
+#cat176 .one-good {margin-top: 35px;}
+#cat176 .info-cat>table {margin-top: -40px;}
 
 /*.more_goods {width:20%;}*/
 /*.moregoods {min-width:15em;max-width:17em;background-color:#fff8e0;padding: 8px 9px 12px 11px;}*/
@@ -257,6 +261,11 @@ div.ref.pdf a {font-weight: bold; }
 
 body.ot37 .desc-good {min-width: 24em;max-width:50em;}
 body.ot37 .price-nds {display: none;}
+#cat155 h1,
+body.ot37 h1 {padding-bottom: 40px;}
+#cat155 .info-cat>table,
+body.ot37 .info-cat>table {position: relative;}
+p.subtit {position: absolute; top: -38px;}
 .price-none {font-weight: bold;}
 
 .desc-good {min-width: 26em;max-width:60em;}
@@ -265,7 +274,6 @@ body.ot37 .price-nds {display: none;}
 #cat217 .desc-good, #cat29 .desc-good, #cat233 .desc-good,
 #cat12 .desc-good, #cat45 .desc-good, #cat260 .desc-good, #cat223 .desc-good,
 #cat118 .desc-good {min-width:30em;}
-#cat14 .desc-good {min-width:32em;}
 #cat245 .desc-good {min-width:34em;}
 #cat190 .desc-good, #cat13 .desc-good, #cat19 .desc-good,
 #cat34 .desc-good, #cat35 .desc-good, #cat77 .desc-good, #cat28 .desc-good,
@@ -275,9 +283,8 @@ body.ot37 .price-nds {display: none;}
 #cat229 .desc-good, #cat20 .desc-good,
 #cat139 .desc-good,
 #cat291 .desc-good, #cat293 .desc-good, #cat309 .desc-good, #cat311 .desc-good,
-#cat14 .desc-good  {min-width:38em;}
 #cat1 .desc-good, #cat3 .desc-good,
-#cat15 .desc-good, #cat107 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
+#cat107 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
 #cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good,
 #cat120 .desc-good {min-width:40em;}
 #cat175 .desc-good, #cat270 .desc-good, #cat191 .desc-good,
@@ -294,9 +301,14 @@ body.ot37 .price-nds {display: none;}
 #cat234 .desc-good {max-width:45em;}
 #cat120 .desc-good,
 #cat235 .desc-good {max-width:55em;}
-#cat176 .desc-good {max-width:65em;}
-#cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat364 .desc-good, #cat379 .desc-good, #cat95 .desc-good,
+#cat227 .desc-good,
+#cat176 .desc-good {max-width:70em;}
+#cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat364 .desc-good, #cat379 .desc-good,
+#cat95 .desc-good, #cat175 .desc-good,
 #cat270 .desc-good {max-width:80em;}
+
+.ot37#cat175 .desc-good, .ot37#cat176 .desc-good,
+.ot37#cat270 .desc-good {min-width:40em; max-width:60em;}
 
 /*#cat333 .tab td {background-color: #fff8f8;}*/
 
