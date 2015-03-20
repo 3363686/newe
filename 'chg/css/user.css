@@ -58,7 +58,7 @@ span.artn {display: none;}
 .tab tr.blkt2 td {border-top:2px solid #686c6e; padding-top:3px;}
 .tab tr.norow {display: none;}
 
-.tab tr.red  {background-color: #f8e8d8;}
+.tab tr.red  {background-color: #ffe4e0;}
 .tab tr.blue {background-color: #f0f4ff;}
 .tab tr.sp1  {background-color: #f6fcf6;}
 .tab tr.sp2  {background-color: #f8f2ff;}
@@ -90,7 +90,7 @@ span.artn {display: none;}
 
 .good-txt ul {padding: 0 0 0 25px;}
 .good-txt li {font-size: 80%; line-height: 90%; margin: 0 0 0 -15px; text-indent: -5px;}
-.good-txt li.inner {list-style-type: none; list-style-image: none;}
+/*.good-txt li.inner {list-style-type: none; list-style-image: none;}*/
 .good-txt li.inner ul {margin-top: 2px; list-style-type: disc; list-style-image: none;}
 .good-txt li.inner li {font-size: 90%;}
 .good-txt ul.deep>li {font-weight: bold;}
@@ -159,12 +159,18 @@ margin:0;}
 #specoffers_page #all-summa.good-cart p.price span {font-size: 18px /*150%*/;}
 #specoffers_page .spof :last-child .red {font-size: 150%;}
 
-table.one-good.many.ltd, table.one-good.mono.ltd td.good-txt {background-color: #f2f2fc;}
-table.tab.ltd:after, table.one-good.mono.ltd:after {
+table.one-good.many.ltd, table.one-good.mono.ltd td.good-txt,
+  table.tab.ltd tr, table.tab.ltdi tr.ltdl {background-color: #faf6e4 /*#f2f2fc*/;}
+table.tab.ltd:after, table.one-good.mono.ltd:after, table.tab.ltdi:after {
   font-weight: bold; font-size: 80%; line-height: 160%; border: none;
   width: 1px; white-space: nowrap; display: table-caption; caption-side: bottom;}
-table.tab.ltd:after { content: "Продажа данных позиций ограничена наличием на текущую дату."; }
 table.one-good.mono.ltd:after { content: "Продажа этой позиции ограничена наличием на текущую дату."; }
+table.tab.ltd:after      { content: "Продажа данных позиций ограничена наличием на текущую дату."; }
+table.tab.ltd.one:after  { content: "Продажа данной позиции ограничена наличием на текущую дату."; }
+table.tab.ltdi.one:after { content: "* - Продажа отмеченной позиции ограничена наличием на текущую дату."; }
+table.tab.ltdi.two:after { content: "* - Продажа отмеченных позиций ограничена наличием на текущую дату."; }
+table.tab tr.ltdl td:before    { content: "* "; }
+table.tab tr.ltdl td.tb:before { content: ""; }
 
 table.one-good.sale1, table.tab.sale1 {background-color: #fff8f8;}
 table.one-good.sale1 td.good-txt .title:before
@@ -241,8 +247,8 @@ div.ref.pdf a {font-weight: bold; }
 
 /*.more_goods {width:20%;}*/
 /*.moregoods {min-width:15em;max-width:17em;background-color:#fff8e0;padding: 8px 9px 12px 11px;}*/
-.moregoods {background-color:#fff8e0;padding: 8px 9px 12px 11px;}
-.moregoods {min-width:15em;max-width:17em;}
+.moregoods {background-color: #fff2e0; padding: 8px 9px 12px 11px; }
+.moregoods {min-width: 15em; max-width: 17em; height: 100%; }
 /*
 .moregoods div div {float: right; min-width:15em; max-width:17em;}
 */
@@ -284,14 +290,14 @@ p.subtit {position: absolute; top: -38px;}
 #cat139 .desc-good,
 #cat291 .desc-good, #cat293 .desc-good, #cat309 .desc-good, #cat311 .desc-good,
 #cat1 .desc-good, #cat3 .desc-good,
-#cat107 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
+#cat107 .desc-good, #cat188 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
 #cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good,
 #cat120 .desc-good {min-width:40em;}
 #cat175 .desc-good, #cat270 .desc-good, #cat191 .desc-good,
 #cat247 .desc-good,
 #cat78 .desc-good, #cat279 .desc-good,
 #cat235 .desc-good {min-width:44em;}
-#cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat364 .desc-good, #cat379 .desc-good,
+#cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat379 .desc-good,
 #cat174 .desc-good, #cat176 .desc-good,
 #cat95 .desc-good {min-width:48em;}
 #cat47 .desc-good,  #cat302 .desc-good,
