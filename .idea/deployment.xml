@@ -7,11 +7,10 @@
           <mappings>
             <mapping deploy="/" local="$PROJECT_DIR$/'chg" web="/" />
             <mapping deploy="/" local="$PROJECT_DIR$/'chg/root" web="/" />
-            <mapping deploy="/" local="$PROJECT_DIR$/'chg/css" web="/" />
+            <mapping deploy="/css" local="$PROJECT_DIR$/'chg/css" web="/css" />
           </mappings>
         </serverdata>
       </paths>
     </serverData>
   </component>
 </project>
-
