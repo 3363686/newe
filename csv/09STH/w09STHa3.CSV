@@ -106,28 +106,30 @@
 #1|Замок навесной|112||149.00||-||| 3Н2-26, 80 мм|||/img/pic/strhoz/small/VS 2.jpg|/img/pic/strhoz/big/VS 2.jpg
 
 # 374/402|Щетка деревянная
-1|Щетка деревянная                                         |374|SZ-C1 | 85.00| 79.00|165.00|402|norow|| 280&#8239;мм, для пола <span class=art>арт. SZ-C1</span>|||/img/pic/strhoz/small/SCHetka dla pola 280 vv.jpg|/img/pic/strhoz/big/SCHetka dla pola 280 vv.jpg
-0|Щетка деревянная для пола, 280&#8239;мм                   |374|SZ-C1 | 89.00| 82.00|75    |402
-1|Щетки палубные                                           |374|SZPALX| 77.00| 72.00|165.00|402|norow|||||/img/pic/strhoz/small/SCHETKA PALUBNAJA.jpg|/img/pic/strhoz/big/SCHETKA PALUBNAJA.jpg
-0|Щетка палубная 200&nbsp;x&nbsp;80&#8239;мм                |374|SZPAL | 82.00| 78.00| 75.00|402|
-0|Щетка палубная 350&nbsp;x&nbsp;80&#8239;мм                |374|SZPALX|115.00|105.00| 95.00|402|
-1|Щетки метро-вокзал                                       |374|SZ500 |125.00|117.00|112.00|402|norow|||||/img/pic/strhoz/small/SCHETKA METRO-VOKZAL 500-700.jpg|/img/pic/strhoz/big/SCHETKA METRO-VOKZAL 500-700.jpg
-0|Щетка метро-вокзал 500&#8239;мм                           |374|SZ500 |125.00|117.00|112.00|402|
-0|Щетка метро-вокзал 700&#8239;мм                           |374|SZ700 |159.00|152.00|145.00|402|
-1|Щетки метро-вокзал                                       |374|S-5М  |139.00|125.00|118.00|402|norow||с металлическим держателем черенка|||/img/pic/strhoz/small/metro_m.jpg|/img/pic/strhoz/big/jpg
-0|Щетка метро-вокзал 500&#8239;мм с металлическим держателем|374|S-5М  |139.00|125.00|118.00|402|
-0|Щетка метро-вокзал 700&#8239;мм с металлическим держателем|374|S-7М  |169.00|162.00|158.00|402|
-1|Щетка сметка                                             |374|SZSM3X| 49.00| 44.00|165.00|402|norow|| 3-х рядная деревянная|||/img/pic/strhoz/small/Schetka smetka.jpg|/img/pic/strhoz/big/Schetka smetka.jpg
-0|Щетка сметка 320&#8239;мм                                 |374|SZSM3 | 39.00| 38.00| 32.00|402|
-0|Щетка сметка 460&#8239;мм                                 |374|SZSM3X| 43.00| 35.00| 37.00|402|
+ 1|Щетка деревянная                                          |374|SZ-C1 | 85.00| 79.00|165.00|402|norow|| 280&#8239;мм, для пола <span class=art>арт. SZ-C1</span>|||/img/pic/strhoz/small/SCHetka dla pola 280 vv.jpg|/img/pic/strhoz/big/SCHetka dla pola 280 vv.jpg
+~0|Щетка деревянная для пола, 280&#8239;мм                   |374|SZ-C1 | 98,00| 93,00| 89,00|402
+ 1|Щетки палубные                                            |374|SZPALX| 77.00| 72.00|165.00|402|norow|||||/img/pic/strhoz/small/SCHETKA PALUBNAJA.jpg|/img/pic/strhoz/big/SCHETKA PALUBNAJA.jpg
+ 0|Щетка палубная 200&nbsp;x&nbsp;80&#8239;мм                |374|SZPAL | 82.00| 78.00| 75.00|402|
+ 0|Щетка палубная 350&nbsp;x&nbsp;80&#8239;мм                |374|SZPALX|115.00|105.00| 95.00|402|
+ 1|Щетки метро-вокзал                                        |374|SZ500 |125.00|117.00|112.00|402|norow|||||/img/pic/strhoz/small/SCHETKA METRO-VOKZAL 500-700.jpg|/img/pic/strhoz/big/SCHETKA METRO-VOKZAL 500-700.jpg
+~0|Щетка метро-вокзал 500&#8239;мм                           |374|SZ500 |139,00|133,00|128,00|402|
+ 0|Щетка метро-вокзал 700&#8239;мм                           |374|SZ700 |159.00|152.00|145.00|402|
+ 1|Щетки метро-вокзал                                        |374|S-5М  |139.00|125.00|118.00|402|norow||с металлическим держателем черенка|||/img/pic/strhoz/small/metro_m.jpg|/img/pic/strhoz/big/jpg
+~0|Щетка метро-вокзал 500&#8239;мм с металлическим держателем|374|S-5М  |155,00|150,00|145,00|402|
+~0|Щетка метро-вокзал 700&#8239;мм с металлическим держателем|374|S-7М  |195,00|188,00|185,00|402|
+ 1|Щетка сметка                                              |374|SZSM3X| 49.00| 44.00|165.00|402|norow|| 3-х рядная деревянная|||/img/pic/strhoz/small/Schetka smetka.jpg|/img/pic/strhoz/big/Schetka smetka.jpg
+~0|Щетка сметка 320&#8239;мм                                 |374|SZSM3 | 42,00| 40,00| 38,00|402|
+ 0|Щетка сметка 460&#8239;мм                                 |374|SZSM3X| 43.00| 38.00| 37.00|402|
 
-1|Щетка по металлу 3-рядная       |240|S3R   |42|40|39||Щетки ручные по металлу| на деревянной ручке|||/img/pic/strhoz/small/SCHetka po metallu der ruchka.jpg|/img/pic/strhoz/big/SCHetka po metallu der ruchka.jpg
-0|Щетка по металлу 4-рядная       |240|S4R   |44|42|40
-0|Щетка по металлу 5-рядная       |240|S5R   |47|45|43
-0|Щетка по металлу 6-рядная       |240|S6R   |49|46|44
-1|Щетка по металлу ручная 5-рядная|240|748675|95|90|88||Щетки по металлу| ручные металлические в пластмассовом корпусе с пластмассовой ручкой SPARTA|||/img/pic/strhoz/small/SCZetka ruchnaja - plastmass sparta.jpg|/img/pic/strhoz/big/SCZetka ruchnaja - plastmass sparta.jpg
-0|Щетка по металлу ручная 6-рядная|240|748685|99|96|92
-1|Щетка по металлу ручная         |240|SLP   |68|65|62||| <span class=art>арт. SLP</span>|металлическая латунированная проволока 30 мм, пластиковая рукоятка 240 мм.||/img/pic/strhoz/small/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg|/img/pic/strhoz/big/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg
+# 240|Щетки ручные по металлу
+1|Щетка по металлу 3-рядная       |240|S3R   |44|42|40|||Щетки ручные по металлу| на деревянной ручке|||/img/pic/strhoz/small/SCHetka po metallu der ruchka.jpg|/img/pic/strhoz/big/SCHetka po metallu der ruchka.jpg
+0|Щетка по металлу 4-рядная       |240|S4R   |48|45|43|
+0|Щетка по металлу 5-рядная       |240|S5R   |50|48|46|
+0|Щетка по металлу 6-рядная       |240|S6R   |52|50|48|
+1|Щетка по металлу ручная 5-рядная|240|748675|95|90|88|||Щетки по металлу| ручные металлические в пластмассовом корпусе с пластмассовой ручкой SPARTA|||/img/pic/strhoz/small/SCZetka ruchnaja - plastmass sparta.jpg|/img/pic/strhoz/big/SCZetka ruchnaja - plastmass sparta.jpg
+0|Щетка по металлу ручная 6-рядная|240|748685|99|96|92|
+1|Щетка по металлу ручная         |240|SLP   |68|65|62|||| <span class=art>арт. SLP</span>|<UL><LI>Металлическая латунированная проволока 30 мм.<LI>Пластиковая рукоятка 240 мм.</UL>||/img/pic/strhoz/small/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg|/img/pic/strhoz/big/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg
+1|Щетка по металлу                |240|748505|68|65|62|||| ручная металлическая SPARTA <span class=art>арт. 748505</span>|<UL><LI>Стальная латунированная проволока.<LI>Пластиковая рукоятка 120 мм.</UL>||/img/pic/strhoz/small/s748505.jpg|/img/pic/strhoz/big/jpg
 
 # 163|Ведра
 1|Ведро оцинкованое        |163|      | 99   | 95.00| 89.00|||| 12&nbsp;л <span class=art>арт. VZN12</span>|||/img/pic/strhoz/small/Vedro ozink 12 l.jpg|/img/pic/strhoz/big/Vedro ozink 12 l.jpg
