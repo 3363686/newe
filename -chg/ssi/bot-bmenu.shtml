@@ -11,19 +11,6 @@
 <div class="copy1"><!--#include virtual="/pcgi/infoblock.pl?1"--></div>
 </div><br clear="all" />
 <div class="ico"><!--#exec cgi="/pcgi/iconz.pl"--></div>
-<script type="text/javascript"><!-- /* build:::5 */ -->
-	var liveTex = true,
-		liveTexID = 29301,
-		liveTex_object = true;
-	(function() {
-		var lt = document.createElement('script');
-		lt.type ='text/javascript';
-		lt.async = true;
-		lt.src = 'http://cs15.livetex.ru/js/client.js';
-		var sc = document.getElementsByTagName('script')[0];
-		sc.parentNode.insertBefore(lt, sc);
-	})();
-</script>
 </td>
 </tr>
 </table>
