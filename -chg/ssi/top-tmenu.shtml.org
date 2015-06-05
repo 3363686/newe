@@ -13,12 +13,26 @@
             <form method="get" action="/search/">
             <table>
                 <tr>
-                    <td><nobr><input size="53" name="text" placeholder="Поиск по сайту" maxlength="200" class="txt"></nobr></td>
+                    <td><nobr><input size="53" name="text" value="Поиск по сайту" maxlength="200" class="txt"></nobr></td>
                     <td><input type="submit" class="b_search" value="Найти"><input type="hidden" value="newe" name="r"></td>
                     <td align="right" class="feedback" valign="middle"><div class="send-mail1"><!--#exec cgi="/pcgi/send-mail-top.pl"--></div></td>
                 </tr>
             </table>
             </form>
+            <script>
+            jQuery(document).ready(function(){
+                jQuery('[name="text"]').focus(function(){
+                    if(this.value=='Поиск по сайту'){
+                        this.value=''
+                    }    
+                });
+                jQuery('[name="text"]').blur(function(){
+                    if(this.value==''){
+                        this.value='Поиск по сайту'
+                    }    
+                });
+            });
+            </script>
             </div>
         </td>
         </tr></table>

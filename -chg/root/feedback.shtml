@@ -1,18 +1,15 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2002/REC-xhtml1-20020801/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <!--#exec cgi="/pcgi/meta_title.pl"-->
-<!--#include virtual="/ssi/style-body-cat.shtml"-->
+<!--#include virtual="/ssi/style-body.shtml"-->
 <!--#include virtual="/ssi/top-tmenu.shtml?$QUERY_STRING"-->
 <!--#include virtual="/ssi/lmenu-spo.shtml?$QUERY_STRING"-->
-<div class="info-cat">
+<div class="info">
 <!--#exec cgi="/pcgi/top-menu.pl"-->
-<!--\\START\\-->
 <h1><!--#exec cgi="/pcgi/page-head.pl"--></h1>
-<!--#exec cgi="/pcgi/section_matrix.pl"-->
-<!--#exec cgi="/pcgi/goods_list.pl"-->
-
-<div class="l1"><nobr>Доставка <span class="l1a"> в пределах Москвы</span></nobr><nobr><span class="l1a"> при заказе от 40 000 руб.</span> бесплатно</nobr>!</div>
-<!--div class="toptmp1"-->
+<!--\\START\\-->
+<!--#include virtual="/pcgi/fb_form.pl?2"-->
+  
 <!--\\END\\-->
 </div>
 <!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->

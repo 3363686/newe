@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2002/REC-xhtml1-20020801/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#exec cgi="/pcgi/meta_title.pl"-->
+<!--#include virtual="/ssi/style-body.shtml"-->
+<!--#include virtual="/ssi/top-tmenu.shtml?$QUERY_STRING"-->
+<!--#include virtual="/ssi/lmenu-spo.shtml?$QUERY_STRING"-->
+<!--\\START\\-->
+<div style="margin:35px 0 0 10px;">
+<!--#exec cgi="/pcgi/section_matrix_main.pl"-->
+<br clear="all" />
+<div class="main-info">
+<div class="l1">Доставка <span class="l1a">в пределах Москвы при заказе от 40 000 руб.</span> бесплатно!</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!--\\END\\-->
+<!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->
+</body></html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2002/REC-xhtml1-20020801/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#exec cgi="/pcgi/meta_title.pl"-->
+<!--#include virtual="/ssi/style-body.shtml"-->
+<!--#include virtual="/ssi/top-tmenu.shtml?$QUERY_STRING"-->
+<!--#include virtual="/ssi/lmenu-spo.shtml?$QUERY_STRING"-->
+<div class="info">
+<!--#exec cgi="/pcgi/top-menu.pl"-->
+<h1><!--#exec cgi="/pcgi/page-head.pl"--></h1>
+<!--\\START\\-->
+<table cellpadding=20><tbody><tr><td><a href="/pricelist/newe.pdf">
+<img title="Наиболее полный и актуальный каталог продукции" alt="Наиболее полный и актуальный каталог продукции" src="/img/gallery/excel.gif"></a></td>
+<td><a title="Наиболее полный и актуальный каталог продукции" href="/pricelist/newe.pdf">
+<u>Скачать прайслист</u></a></td></tr></tbody></table>
+
+
+
+
+
+<!--\\END\\-->
+</div>
+<!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->
+</body></html>

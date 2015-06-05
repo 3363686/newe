@@ -7,12 +7,15 @@
 <div class="info-cat">
 <!--#exec cgi="/pcgi/top-menu.pl"-->
 <!--\\START\\-->
+<table cellpadding="0" style="width:98%;">
+<tr valign="top">
+<td class="desc-good">
 <h1><!--#exec cgi="/pcgi/page-head.pl"--></h1>
-<!--#exec cgi="/pcgi/section_matrix.pl"-->
-<!--#exec cgi="/pcgi/goods_list.pl"-->
+<!--#exec cgi="/pcgi/obj_card.pl"-->
+</td><td class="more_goods">
+<!--#exec cgi="/pcgi/fix_objs.pl"-->
+</td></tr></table>
 
-<div class="l1"><nobr>Доставка <span class="l1a"> в пределах Москвы</span></nobr><nobr><span class="l1a"> при заказе от 40 000 руб.</span> бесплатно</nobr>!</div>
-<!--div class="toptmp1"-->
 <!--\\END\\-->
 </div>
 <!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->

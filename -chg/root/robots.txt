@@ -1,0 +1,7 @@
+User-agent: Browsershots
+Allow: /
+User-Agent: *
+Disallow: /ssi
+Disallow: /files
+Disallow: /js
+Host: www.newe.ru

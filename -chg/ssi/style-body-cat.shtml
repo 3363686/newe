@@ -1,0 +1,4 @@
+<link href="/favicon.ico" rel="shortcut icon" />
+<link href="/css/style.min.css?<!--#exec cgi="/pcgi/css_version.pl"-->" rel="stylesheet" type="text/css">
+</head>
+<body<!--#include virtual="/pcgi/set_body_id.pl?$QUERY_STRING"-->>

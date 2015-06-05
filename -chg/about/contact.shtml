@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2002/REC-xhtml1-20020801/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#exec cgi="/pcgi/meta_title.pl"-->
+<!--#include virtual="/ssi/style-body.shtml"-->
+<!--#include virtual="/ssi/top-tmenu.shtml?$QUERY_STRING"-->
+<!--#include virtual="/ssi/lmenu-spo.shtml?$QUERY_STRING"-->
+<div class="info">
+<!--#exec cgi="/pcgi/top-menu.pl"-->
+<h1><!--#exec cgi="/pcgi/page-head.pl"--></h1>
+<!--\\START\\-->
+<p>Мы работаем с Понедельника по Пятницу с 8 до 18. 
+Чтобы связаться с нами, Вы можете:</p><ul>
+<li>Позвонить по любому из телефонов офиса: <b>(495) 221-04-87, (495) 710-07-20</b>
+<br>или на служебный мобильный кого-либо из менеджеров:<ul>
+<li>ЕЛЕНА    8 985 770-42-50,</li>
+<li>МАРИЯ    8 985 770-42-45,</li>
+<li>ЮЛИЯ      8 985 770-42-47,</li>
+<li>АНДРЕЙ 8 985 770-42-46;</li></ul></li>
+<li>Написать на любой из e-mail:
+<a href="mailto:newe@newe.ru">newe@newe.ru</a>,
+<a href="mailto:elena@newe.ru">elena@newe.ru</a>,
+<a href="mailto:zakaz@newe.ru">zakaz@newe.ru</a>,
+<a href="mailto:and@newe.ru">and@newe.ru</a>,
+<a href="mailto:7100720@mail.ru">7100720@mail.ru</a>;</li>
+<li>Послать письмо (заявку) со страницы <a href="/feedback.shtml">"Обратная связь"</a>;</li>
+<li>Вызвать оператора через онлайн-консультант (голубой ярлычок справа) или оставить сообщение.</li></ul>
+<br>
+<h1>Схема проезда</h1>
+<p><b style="font-size: larger">Москва, ул. Южнопортовая, д. 13, стр. 2</b> (развилка Южнопортовой улицы и 3-го Угрешского проезда).</p>
+<p>От метро <b>Кожуховская</b> на автобусе 193, маршрутке 193&#8239;/&#8239;493 до остановки <b>Южнопортовая улица,&#8239;15</b>.</p>
+<div style="padding: 8px 0 8px;">
+<iframe height="350" frameborder="0" width="100%" scrolling="no" marginwidth="0" marginheight="0" src="//maps.google.ru/maps?f=q&output=embed&&hl=ru&ie=UTF8&z=13&q=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0+%D0%AE%D0%B6%D0%BD%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D0%B4.13+%D1%81.2+(%D0%9E%D0%9E%D0%9E+%C2%AB%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%C2%BB)"></iframe></div>
+<a style="float: left; font-size: 16px;" target="_blank"
+href="//maps.google.ru/maps?f=q&source=embed&hl=ru&ie=UTF8&z=13&q=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0+%D0%AE%D0%B6%D0%BD%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D0%B4.13+%D1%81.2+(%D0%9E%D0%9E%D0%9E+%C2%AB%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%C2%BB)">
+Посмотреть увеличенную карту</a>
+<a style="float: right; font-size: 16px;" target="_blank"
+title="Обзор панорамы можно приближать и удалять, поворачивать (мышкой с зажатой левой кнопкой) и перемещать по стрелкам"
+href="//maps.yandex.ru/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0+%D0%AE%D0%B6%D0%BD%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D0%B4.13+(%D0%9E%D0%9E%D0%9E+%C2%AB%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%C2%BB)&sll=37.699651%2C55.7095&ll=37.700788%2C55.709331&spn=0.007564%2C0.001048&z=17&l=map%2Ccmr%2Cstv%2Csta%2Cpht&ol=stv&oll=37.70078809%2C55.70933122&ost=dir%3A-61.52344908054987%2C6.725260549544156~spn%3A90%2C46.2401526103054">
+Посмотреть панораму на <span style="font-weight: bold; color: #f55">Я</span>ндекс-карте</a>
+<br><br><p style="float: right; font-style: italic;" >По вопросам, связанным с работой этого сайта, пишите на <a href="mailto:admin@newe.ru" target="_blank">admin@newe.ru</a>.</p>
+<!--\\END\\-->
+</div>
+<!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->
+</body></html>

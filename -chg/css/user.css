@@ -253,7 +253,7 @@ div.ref.pdf a {font-weight: bold; }
 .moregoods div div {float: right; min-width:15em; max-width:17em;}
 */
 
-/*.info-cat>table {width:100%;max-width:80em;}*/
+.info-cat>table {width:100%;/*max-width:80em;*/}
 #cat33 .info-cat>table {width:auto;}
 .info-cat>table.cblock {width:282px;}
 .info {max-width:60em;}

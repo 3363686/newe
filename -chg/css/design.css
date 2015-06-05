@@ -448,3 +448,4 @@ text-align: center; cursor: pointer;}
 
 @media screen and (max-width: 1000px) {
     .site_search1 {position: absolute; left: 400px !important; right: auto !important; top: 195px;}
+}
