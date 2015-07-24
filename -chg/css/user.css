@@ -227,11 +227,11 @@ table.one-good.sale1 td#all-summa.good-cart p.price:after { content: " Цена 
 #ny-3 b {color: #f00;}
 #ad1    {color: #e00; font-size: 40px; font-variant: small-caps; font-style: italic; }
 /* Hide/adjust these when <div class="toptmp1"> in ssi/top-tmenu.shtml is not used or changed!
-*/
 #toptmp1bgw {position: absolute; top: 252px; width: 100%; }
 #toptmp1bg1 {height: 100px; margin-left: 308px; background-color: #ffccdd;}
 #toptmp1bg  {height: 100px; margin-left: 290px; background-color: #ff0000; opacity: .1}
 .bgcolor2 {margin-bottom: 100px;}
+*/
 
 div.ref {text-align: center; font-size: 14px; font-weight: bold; margin: 20px 0px 30px 0}
 div.ref.pdf {font-size: 17px; font-weight: normal; }
