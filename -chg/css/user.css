@@ -66,7 +66,7 @@ span.artn {display: none;}
 .one-good.next {display: none;}
 .info-cat .tab.mult2 {width:48% !important; float:left; margin-bottom:15px;}
 .info-cat .tab.mult2.next {margin-left:4%;}
-.tab.mult2 td  {text-align:center;}
+/*.tab.mult2 td  {text-align:center;}*/
 .tab.mult2 tr.subhead td {text-align:left; padding-left: 10px; }
 
 .info-cat .tab.mult9 {width:11% !important; float:left; margin: 0 1px 0 0;}
@@ -246,8 +246,7 @@ div.ref.pdf a {font-weight: bold; }
 
 /*.more_goods {width:20%;}*/
 /*.moregoods {min-width:15em;max-width:17em;background-color:#fff8e0;padding: 8px 9px 12px 11px;}*/
-.moregoods {background-color: #fff2e0; padding: 8px 9px 12px 11px; }
-.moregoods {min-width: 15em; max-width: 17em; height: 100%; }
+.moregoods {width: 240px; background-color: #fff2e0; padding: 8px 9px 12px 11px; }
 /*
 .moregoods div div {float: right; min-width:15em; max-width:17em;}
 */
@@ -264,6 +263,7 @@ div.ref.pdf a {font-weight: bold; }
 .help_newe_ru, .ad_newe_ru {font-size: 90%; text-align: center; color: #ff9911}
 .ad_newe_ru:hover {color: #ffbb55}
 
+body.ot2 .price-nds .price {display: none;}
 body.ot37 .desc-good {min-width: 24em;max-width:50em;}
 body.ot37 .price-nds {display: none;}
 #cat155 h1,
@@ -282,12 +282,12 @@ p.subtit {position: absolute; top: -38px;}
 #cat245 .desc-good {min-width:34em;}
 #cat190 .desc-good, #cat13 .desc-good, #cat19 .desc-good,
 #cat34 .desc-good, #cat35 .desc-good, #cat77 .desc-good, #cat28 .desc-good,
-#cat220 .desc-good, #cat27 .desc-good, #cat197 .desc-good,
+#cat220 .desc-good, #cat27 .desc-good, #cat197 .desc-good, #cat293 .desc-good,
 #cat234 .desc-good, #cat138 .desc-good, #cat212 .desc-good, #cat92 .desc-good,
 #cat191 .desc-good {min-width:36em;}
 #cat229 .desc-good, #cat20 .desc-good,
 #cat139 .desc-good,
-#cat291 .desc-good, #cat293 .desc-good, #cat309 .desc-good, #cat311 .desc-good,
+#cat291 .desc-good, #cat309 .desc-good, #cat311 .desc-good,
 #cat1 .desc-good, #cat3 .desc-good,
 #cat107 .desc-good, #cat188 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
 #cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good,
