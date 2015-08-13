@@ -129,27 +129,29 @@
 
 ##########################################
 # 72|Рулетки
-1|Рулетка BERGEN &nbsp;&nbsp;3.0 м х 16 мм, с автоблокировкой      |72|32G-3016   |175,00|165,00|155,00|| |Рулетки| BERGEN|||/img/pic/instr/small/RULETKA-BERGEN.jpg|/img/pic/instr/big/RULETKA-BERGEN.jpg
-0|Рулетка BERGEN &nbsp;&nbsp;5.0 м х 25 мм, 2 стопора              |72|63G-5025   |239,00|222,00|215,00||
-0|Рулетка BERGEN &nbsp;&nbsp;5.0 м х 25 мм, с автоблокировкой      |72|32G-5025   |285,00|275,00|265,00||
-0|Рулетка BERGEN &nbsp;&nbsp;7.5 м х 25 мм, с автоблокировкой      |72|H02GL-7525 |315,00|305,00|295,00||
-0|Рулетка BERGEN            10.0 м х 25 мм, с автоблокировкой      |72|H02GL-10025|410,00|400,00|390,00||
-1|Рулетка METRIC &nbsp;&nbsp;5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм     |72|570133     |165,00|160,00|155,00|| |Рулетки| METRIC с магнитным крюком|</span></p><UL><LI>Пластиковый корпус высокой прочности.<LI>Надежный внутренний механизм.</UL><p><span class="addt">||/img/pic/instr/small/RUL-METRIC.jpg|/img/pic/instr/big/RUL-METRIC.jpg
-0|Рулетка METRIC &nbsp;&nbsp;7.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм     |72|570135     |255,00|240,00|235,00||
-0|Рулетка METRIC            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм     |72|570136     |325,00|305,00|295,00||
-1|Рулетка REMOSPACE &nbsp;&nbsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм  |72|15-1-323   | 98,00| 94,00| 90,00|| |Рулетки| REMOSPACE, обрезиненный корпус, усиленная лента|</span></p><UL><LI>Корпус рулетки RemoSpace c противоскользящим покрытием изготовлен из ударопрочного пластика и оснащен металлическим поясным зажимом.<LI>Усиленная стальная лента, две кнопки Stop и крюк "истинный ноль".</UL><p><span class="addt">||/img/pic/instr/small/RUL-REMOSPACE.jpg|/img/pic/instr/big/RUL-REMOSPACE.jpg
-0|Рулетка REMOSPACE &nbsp;&nbsp;5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм  |72|15-1-325   |148,00|142,00|138,00||
-0|Рулетка REMOSPACE &nbsp;&nbsp;7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм  |72|15-1-327   |235,00|225,00|215,00||
-0|Рулетка REMOSPACE            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм  |72|15-1-330   |345,00|330,00|320,00||
-1|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                 |72|31078      |119,00|109,00|102,00|| |Рулетки| STRONG|Обрезиненный корпус, зажим для ремня, класс точности: 2||/img/pic/instr/small/Ruletka STRONG.jpg|/img/pic/instr/big/Ruletka STRONG.jpg
-0|Рулетка STRONG 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                 |72|31080      |128,00|118,00|108,00|
-1|Рулетка геодезическая, открытый корпус, 20&nbsp;м х 10&nbsp;мм   |72|314305     |225,00|210,00|200,00|||Рулетки геодезические| SPARTA|</span></p><UL><LI>открытый корпус<LI>ПВХ лента</UL><p><span class="addt">||/img/pic/instr/small/rul_sparta.jpg|/img/pic/instr/big/jpg
-0|Рулетка геодезическая, открытый корпус, 30&nbsp;м х 10&nbsp;мм   |72|314355     |265,00|245,00|235,00|
-0|Рулетка геодезическая, открытый корпус, 50&nbsp;м х 10&nbsp;мм   |72|314405     |425,00|405,00|385,00|
-1|Рулетка геодезическая, закрытый корпус, 30&nbsp;м х 12.5&nbsp;мм |72|31224      |695,00|665,00|650,00|||Рулетки геодезические| MATRIX MASTER|</span></p><UL><li>прочный закрытый корпус с ручкой</li><li>металлическая лента</li></UL><p><span class="addt">||/img/pic/instr/small/Ruletka GEODEZIA.jpg|/img/pic/instr/big/Ruletka GEODEZIA.jpg
-0|Рулетка геодезическая, закрытый корпус, 50&nbsp;м х 12.5&nbsp;мм |72|31226      |925,00|895,00|870,00|
-1|Рулетка T1 Hobbi 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм               |72|15-1-503   | 79,00| 74,00| 71,00|||Рулетки| T1 Hobbi, пластмассовый корпус|||/img/pic/instr/small/T1-Hobbi.jpg|/img/pic/instr/big/jpg
-0|Рулетка T1 Hobbi 5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм               |72|15-1-505   |109,00|105,00|102,00||
+ 1|Рулетка BERGEN &nbsp;&nbsp;3.0 м х 16 мм, с автоблокировкой      |72|32G-3016   | 194,25|178,20|155,00|| |Рулетки| BERGEN|||/img/pic/instr/small/RULETKA-BERGEN.jpg|/img/pic/instr/big/RULETKA-BERGEN.jpg
+ 0|Рулетка BERGEN &nbsp;&nbsp;5.0 м х 25 мм, 2 стопора              |72|63G-5025   | 265,29|239,76|215,00||
+ 0|Рулетка BERGEN &nbsp;&nbsp;5.0 м х 25 мм, с автоблокировкой      |72|32G-5025   | 316,35|297,00|265,00||
+ 0|Рулетка BERGEN &nbsp;&nbsp;7.5 м х 25 мм, с автоблокировкой      |72|H02GL-7525 | 349,65|329,40|295,00||
+ 0|Рулетка BERGEN            10.0 м х 25 мм, с автоблокировкой      |72|H02GL-10025| 455,10|432,00|390,00||
+ 1|Рулетка METRIC &nbsp;&nbsp;5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм     |72|570133     | 183,15|172,80|155,00|| |Рулетки| METRIC с магнитным крюком|</span></p><UL><LI>Пластиковый корпус высокой прочности.<LI>Надежный внутренний механизм.</UL><p><span class="addt">||/img/pic/instr/small/RUL-METRIC.jpg|/img/pic/instr/big/RUL-METRIC.jpg
+ 0|Рулетка METRIC &nbsp;&nbsp;7.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм     |72|570135     | 283,05|259,20|235,00||
+ 0|Рулетка METRIC            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм     |72|570136     | 360,75|329,40|295,00||
+ 1|Рулетка REMOSPACE &nbsp;&nbsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм  |72|15-1-323   | 108,78|101,52| 90,00|| |Рулетки| REMOSPACE, обрезиненный корпус, усиленная лента|</span></p><UL><LI>Корпус рулетки RemoSpace c противоскользящим покрытием изготовлен из ударопрочного пластика и оснащен металлическим поясным зажимом.<LI>Усиленная стальная лента, две кнопки Stop и крюк "истинный ноль".</UL><p><span class="addt">||/img/pic/instr/small/RUL-REMOSPACE.jpg|/img/pic/instr/big/RUL-REMOSPACE.jpg
+ 0|Рулетка REMOSPACE &nbsp;&nbsp;5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм  |72|15-1-325   | 164,28|153,36|138,00||
+ 0|Рулетка REMOSPACE &nbsp;&nbsp;7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм  |72|15-1-327   | 260,85|243,00|215,00||
+ 0|Рулетка REMOSPACE            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм  |72|15-1-330   | 382,95|356,40|320,00||
+ 1|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                 |72|31078      | 119,00|109,00|102,00|| |Рулетки| STRONG|Обрезиненный корпус, зажим для ремня, класс точности: 2||/img/pic/instr/small/Ruletka STRONG.jpg|/img/pic/instr/big/Ruletka STRONG.jpg
+ 0|Рулетка STRONG 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                 |72|31080      | 142,08|127,44|108,00|
+#0|Рулетка STRONG 7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм                 |72|31082      | 249,75|226,80|159,00
+ 1|Рулетка геодезическая, открытый корпус, 20&nbsp;м х 10&nbsp;мм   |72|314305     | 249,75|226,80|200,00|||Рулетки геодезические| SPARTA|</span></p><UL><LI>открытый корпус<LI>ПВХ лента</UL><p><span class="addt">||/img/pic/instr/small/rul_sparta.jpg|/img/pic/instr/big/jpg
+ 0|Рулетка геодезическая, открытый корпус, 30&nbsp;м х 10&nbsp;мм   |72|314355     | 294,15|264,60|235,00|
+ 0|Рулетка геодезическая, открытый корпус, 50&nbsp;м х 10&nbsp;мм   |72|314405     | 471,75|437,40|385,00|
+ 1|Рулетка геодезическая, закрытый корпус, 30&nbsp;м х 12.5&nbsp;мм |72|31224      | 771,45|718,20|650,00|||Рулетки геодезические| MATRIX MASTER|</span></p><UL><li>прочный закрытый корпус с ручкой</li><li>металлическая лента</li></UL><p><span class="addt">||/img/pic/instr/small/Ruletka GEODEZIA.jpg|/img/pic/instr/big/Ruletka GEODEZIA.jpg
+ 0|Рулетка геодезическая, закрытый корпус, 50&nbsp;м х 12.5&nbsp;мм |72|31226      |1026,75|966,60|870,00|
+ 1|Рулетка T1 Hobbi 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм               |72|15-1-503   |  87,69| 79,92| 71,00|||Рулетки| T1 Hobbi, пластмассовый корпус|||/img/pic/instr/small/T1-Hobbi.jpg|/img/pic/instr/big/jpg
+ 0|Рулетка T1 Hobbi 5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм               |72|15-1-505   | 120,99|113,40|102,00||
+#0|Рулетка T1 Hobbi 5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм               |72|15-1-505   | 330,78|302,40|102,00||
 #1|Рулетка ELASTICA &nbsp;&nbsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм   |72|31311      | 89,00| 85,00| 82,00|norow|Рулетки| ELASTICA, обрезиненный корпус (Стандарт)|||/img/pic/instr/small/Ruletka ELASTICA.jpg|/img/pic/instr/big/Ruletka ELASTICA.jpg
 #0|Рулетка ELASTICA &nbsp;&nbsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм   |72|31312      | 89,00| 85,00| 82,00
 #1|Рулетка 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм                       |72|31061      |325,00|305,00|295,00|norow|| DOUBLE FIXATION <span class=art>арт. 31061</span>|</span></p><UL><LI>обрезиненный корпус<LI>2 фиксатора ленты</UL><p><span class="addt">||/img/pic/instr/small/Ruletka DF 10 M.jpg|/img/pic/instr/big/Ruletka DF 10 M.jpg
@@ -161,7 +163,6 @@
 #0|Рулетка ERGONOMISCH &nbsp;&nbsp;5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм|72|31103   |265,00|245,00|215,00
 #0|Рулетка ERGONOMISCH &nbsp;&nbsp;8.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм|72|31104   |335,00|315,00|295,00
 #0|Рулетка ERGONOMISCH 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм           |72|31105   |385,00|365,00|345,00
-#0|Рулетка STRONG 7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм                 |72|31082   |169,00|162,00|159,00
 #1|Рулетка BLACK 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                  |72|31013   | 75,00| 69,00| 65,00| |Рулетки| BLACK, полностью обрезиненный корпус|||/img/pic/instr/small/Ruletka BLACK 5 M.jpg|/img/pic/instr/big/Ruletka BLACK 5 M.jpg
 #0|Рулетка BLACK 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                  |72|31014   |135,00|125,00|115,00|
 #0|Рулетка BLACK 7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм                  |72|31015   |165,00|155,00|148,00|
