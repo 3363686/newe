@@ -263,9 +263,11 @@ div.ref.pdf a {font-weight: bold; }
 .help_newe_ru, .ad_newe_ru {font-size: 90%; text-align: center; color: #ff9911}
 .ad_newe_ru:hover {color: #ffbb55}
 
-body.ot2 .price-nds .price {display: none;}
+body.ot2 .price-nds .q {display: none;}
 body.ot37 .desc-good {min-width: 24em;max-width:50em;}
 body.ot37 .price-nds {display: none;}
+body.ot16 .price-nds .p2,
+body.ot30 .price-nds .p2 {display: none;}
 #cat155 h1,
 body.ot37 h1 {padding-bottom: 40px;}
 #cat155 .info-cat>table,
