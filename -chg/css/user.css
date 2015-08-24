@@ -96,7 +96,7 @@ span.artn {display: none;}
 .good-txt ul.deep>li {font-weight: bold;}
 .good-txt ul.deep li li {font-size: 100%; line-height: 95%; margin: 0 0 0 -5px; text-indent: -5px; list-style-type: square; list-style-image: none;}
 .good-txt ul.deep li li li {font-size: 92%; line-height: 95%; list-style-type: disc; list-style-image: none;}
-.good-txt dl {font-size: 80%; line-height: 95%; max-width: 45em; margin: auto; margin-top: .1em; }
+.good-txt dl {font-size: 80%; line-height: 95%; max-width: 40em; margin: auto; margin-top: .1em; }
 /*.good-txt dt {font-style: italic; float: left; clear: right;}*/
 .good-txt dd {white-space: nowrap;}
 html .good-txt dt {white-space: nowrap;}
