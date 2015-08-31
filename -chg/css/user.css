@@ -161,7 +161,8 @@ margin:0;}
 
 table.one-good.many.ltd, table.one-good.mono.ltd td.good-txt,
   table.tab.ltd tr, table.tab.ltdi tr.ltdl {background-color: #faf6e4 /*#f2f2fc*/;}
-table.tab.ltd:after, table.one-good.mono.ltd:after, table.tab.ltdi:after {
+table.tab.ltd:after, table.one-good.mono.ltd:after, table.tab.ltdi:after,
+table.tab.later0909:after, table.one-good.mono.later0909:after {
   font-weight: bold; font-size: 80%; line-height: 160%; border: none;
   width: 1px; white-space: nowrap; display: table-caption; caption-side: bottom;}
 table.one-good.mono.ltd:after { content: "Продажа этой позиции ограничена наличием на текущую дату."; }
@@ -171,6 +172,8 @@ table.tab.ltdi.one:after { content: "* - Продажа отмеченной п�
 table.tab.ltdi.two:after { content: "* - Продажа отмеченных позиций ограничена наличием на текущую дату."; }
 table.tab tr.ltdl td:before    { content: "* "; }
 table.tab tr.ltdl td.tb:before { content: ""; }
+table.tab.later0909:after, table.one-good.mono.later0909:after {
+  content: "Поставка ожидается 09.09.15."; }
 
 table.one-good.sale1, table.tab.sale1 {background-color: #fff8f8;}
 table.one-good.sale1 td.good-txt .title:before
