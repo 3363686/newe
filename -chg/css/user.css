@@ -172,8 +172,10 @@ table.tab.ltdi.one:after { content: "* - Продажа отмеченной п�
 table.tab.ltdi.two:after { content: "* - Продажа отмеченных позиций ограничена наличием на текущую дату."; }
 table.tab tr.ltdl td:before    { content: "* "; }
 table.tab tr.ltdl td.tb:before { content: ""; }
+/*
 table.tab.later0909:after, table.one-good.mono.later0909:after {
   content: "Поставка ожидается 09.09.15."; }
+*/
 
 table.one-good.sale1, table.tab.sale1 {background-color: #fff8f8;}
 table.one-good.sale1 td.good-txt .title:before
