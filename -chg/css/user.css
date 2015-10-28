@@ -172,10 +172,8 @@ table.tab.ltdi.one:after { content: "* - Продажа отмеченной п�
 table.tab.ltdi.two:after { content: "* - Продажа отмеченных позиций ограничена наличием на текущую дату."; }
 table.tab tr.ltdl td:before    { content: "* "; }
 table.tab tr.ltdl td.tb:before { content: ""; }
-/*
 table.tab.later0909:after, table.one-good.mono.later0909:after {
-  content: "Поставка ожидается 09.09.15."; }
-*/
+  content: "Поставка ожидается 06.10.15."; }
 
 table.one-good.sale1, table.tab.sale1 {background-color: #fff8f8;}
 table.one-good.sale1 td.good-txt .title:before
@@ -273,9 +271,7 @@ body.ot37 .desc-good {min-width: 24em;max-width:50em;}
 body.ot37 .price-nds {display: none;}
 body.ot16 .price-nds .p2,
 body.ot30 .price-nds .p2 {display: none;}
-#cat155 h1,
 body.ot37 h1 {padding-bottom: 40px;}
-#cat155 .info-cat>table,
 body.ot37 .info-cat>table {position: relative;}
 p.subtit {position: absolute; top: -38px;}
 .price-none {font-weight: bold;}
