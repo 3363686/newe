@@ -56,10 +56,10 @@
  0|Правило "Трапеция" 3000&nbsp;мм|215|TR30         | 670| 650| 630|
 
 # 214|Правила с уровнем
- 1|Правило с уровнем 1500&nbsp;мм|214|89635/16-2-150| 895| 860| 840|||Правила с уровнем|, алюминиевые, 2 глазка, 2 рукоятки|||/img/pic/instr/small/PRAVILO S UROVNEM.jpg|/img/pic/instr/big/PRAVILO S UROVNEM.jpg
- 0|Правило с уровнем 2000&nbsp;мм|214|89637/16-2-200|1070|1020| 990|
- 0|Правило с уровнем 2500&nbsp;мм|214|89639/16-2-250|1190|1120|1090|
- 0|Правило с уровнем 3000&nbsp;мм|214|89641/16-2-300|1390|1320|1290|
+ 1|Правило с уровнем 1500&nbsp;мм|214|89635/16-2-150| 925| 880| 860|||Правила с уровнем|, алюминиевые, 2 глазка, 2 рукоятки|||/img/pic/instr/small/PRAVILO S UROVNEM.jpg|/img/pic/instr/big/PRAVILO S UROVNEM.jpg
+ 0|Правило с уровнем 2000&nbsp;мм|214|89637/16-2-200|1120|1070|1040|
+ 0|Правило с уровнем 2500&nbsp;мм|214|89639/16-2-250|1240|1180|1140|
+ 0|Правило с уровнем 3000&nbsp;мм|214|89641/16-2-300|1490|1420|1380|
 
 
 #1|Уровень |212|34020|165|155||norow|Уровни алюминиевые| тип "Рельс" (скелетные) MATRIX|2 глазка плюс один поворотный.||/img/pic/instr/small/URIVENJ RELS.jpg|/img/pic/instr/big/URIVENJ RELS.jpg
@@ -137,12 +137,12 @@
  0|Рулетка METRIC &nbsp;&nbsp;7.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм     |72|570135     | 285,00| 270,00| 250,00||
  0|Рулетка METRIC            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм     |72|570136     | 390,00| 370,00| 350,00||
  1|Рулетка REMOSPACE &nbsp;&nbsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм  |72|15-1-323   | 135,00| 128,00| 119,00|| |Рулетки| REMOSPACE, обрезиненный корпус, усиленная лента|</span></p><UL><LI>Корпус рулетки RemoSpace c противоскользящим покрытием изготовлен из ударопрочного пластика и оснащен металлическим поясным зажимом.<LI>Усиленная стальная лента, две кнопки Stop и крюк "истинный ноль".</UL><p><span class="addt">||/img/pic/instr/small/RUL-REMOSPACE.jpg|/img/pic/instr/big/RUL-REMOSPACE.jpg
- 0|Рулетка REMOSPACE &nbsp;&nbsp;5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм  |72|15-1-325   | 179,00| 169,00| 149,00||
- 0|Рулетка REMOSPACE &nbsp;&nbsp;7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм  |72|15-1-327   | 280,00| 265,00| 245,00||
- 0|Рулетка REMOSPACE            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм  |72|15-1-330   | 390,00| 370,00| 350,00||
-~1|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                 |72|31078      | 135,00| 128,00| 119,00|| |Рулетки| STRONG|Обрезиненный корпус, зажим для ремня, класс точности: 2||/img/pic/instr/small/Ruletka STRONG.jpg|/img/pic/instr/big/Ruletka STRONG.jpg
-~0|Рулетка STRONG 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                 |72|31080      | 169,00| 162,00| 139,00|
-~0|Рулетка STRONG 7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм                 |72|31082      | 265,00| 250,00| 230,00||norow
+ 0|Рулетка REMOSPACE &nbsp;&nbsp;5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм  |72|15-1-325   | 159,00| 152,00| 145,00||
+ 0|Рулетка REMOSPACE &nbsp;&nbsp;7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм  |72|15-1-327   | 265,00| 250,00| 240,00||
+ 0|Рулетка REMOSPACE            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм  |72|15-1-330   | 395,00| 375,00| 365,00||
+~1|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                 |72|31078      | 109,00| 102,00|  98,00|| |Рулетки| STRONG|Обрезиненный корпус, зажим для ремня, класс точности: 2||/img/pic/instr/small/Ruletka STRONG.jpg|/img/pic/instr/big/Ruletka STRONG.jpg
+~0|Рулетка STRONG 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                 |72|31080      | 139,00| 133,00| 128,00|
+~0|Рулетка STRONG 7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм                 |72|31082      | 235,00| 215,00| 198,00||
  1|Рулетка 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм                       |72|31061      | 375,00| 350,00| 330,00||norow|| DOUBLE FIXATION <span class=art>арт. 31061</span>|</span></p><UL><LI>обрезиненный корпус<LI>2 фиксатора ленты</UL><p><span class="addt">||/img/pic/instr/small/Ruletka DF 10 M.jpg|/img/pic/instr/big/Ruletka DF 10 M.jpg
  0|Рулетка DOUBLE FIXATION 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм       |72|31061      | 375,00| 350,00| 330,00
  1|Рулетка геодезическая, открытый корпус, 20&nbsp;м х 10&nbsp;мм   |72|314305     | 320,00| 295,00| 275,00|||Рулетки геодезические| SPARTA|</span></p><UL><LI>открытый корпус<LI>ПВХ лента</UL><p><span class="addt">||/img/pic/instr/small/rul_sparta.jpg|/img/pic/instr/big/jpg
