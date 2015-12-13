@@ -45,8 +45,8 @@
 # 91|Брезентовые Рукавицы
 1|Рукавицы Х/Б с брезентовым наладонником        |91|WHB   |31|29|28|||| <span class=art>арт. WHB</span>|||/img/pic/defence/small/RUKOVICY HB S BREZENTOV NALAD.jpg|/img/pic/defence/big/RUKOVICY HB S BREZENTOV NALAD.jpg
 1|Рукавицы брезентовые с брезентовым наладонником|91|WBB   |48|44|41|||| <span class=art>арт. WBB</span>|||/img/pic/defence/small/RUKOVICY BR S BREZENT NALADONNIKOM.jpg|/img/pic/defence/big/RUKOVICY BR S BREZENT NALADONNIKOM.jpg
-1|Рукавицы утепленные с брезентовым наладонником |91|WU    |55|52|48|90||| <span class=art>арт. WU</span>|||/img/pic/defence/small/RUKAVIZY UTEPLENY S BREZENT NALADONNIKOM.jpg|/img/pic/defence/big/RUKAVIZY UTEPLENY S BREZENT NALADONNIKOM.jpg
-1|Рукавицы утепленные с наладонником             |91|DIA   |50|47|44|90||| "Диагональ" <span class=art>арт. DIA</span>|||/img/pic/defence/small/RUKAVIZY UTEPLEN DIAGONAL.jpg|/img/pic/defence/big/RUKAVIZY UTEPLEN DIAGONAL.jpg
+1|Рукавицы утепленные с брезентовым наладонником |91|WU    |59|55|52|90||| <span class=art>арт. WU</span>|||/img/pic/defence/small/RUKAVIZY UTEPLENY S BREZENT NALADONNIKOM.jpg|/img/pic/defence/big/RUKAVIZY UTEPLENY S BREZENT NALADONNIKOM.jpg
+1|Рукавицы утепленные с наладонником             |91|DIA   |54|51|48|90||| "Диагональ" <span class=art>арт. DIA</span>|||/img/pic/defence/small/RUKAVIZY UTEPLEN DIAGONAL.jpg|/img/pic/defence/big/RUKAVIZY UTEPLEN DIAGONAL.jpg
 1|Рукавицы - краги сварщика                      |91|WELDER|79|74|72|||| брезентовые <strong>огнеупорные</strong> <span class=art>арт. WELDER</span>|||/img/pic/defence/small/KRAGI SVARSHIKA BREZENT - v brezente.jpg|/img/pic/defence/big/KRAGI SVARSHIKA BREZENT - v brezente.jpg
 #1|Рукавицы брезентовые|91||26,90||||||||/img/pic/defence/small/RUKOVICY BR S BREZENT NALADONNIKOM.jpg|/img/pic/defence/big/RUKOVICY BR S BREZENT NALADONNIKOM.jpg
 #1|Рукавицы|91||55,00|51|51||| суконные <span class=art>арт. WS</span>|||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
@@ -100,6 +100,7 @@
 
 # 264|Маска сварщика
  1|Маска сварщика                                     |264|EUR-0120| 139| 133| 128|||| евростандарт пластиковая <span class=art>арт. EUR-0120</span>|||/img/pic/defence/small/MASKA SVARSZIKA PLASTIK.jpg|/img/pic/defence/big/MASKA SVARSZIKA PLASTIK.jpg
+ 1|Маска электросварщика                              |264|89122   | 198| 192| 188|||| пластиковая с откидным блоком светофильтра, SiB <span class=art>арт. 89122</span>|</span></p><UL><LI>Размер смотрового стекла 110 x 90 мм.<LI>Степень затемнения светофильтра DIN 10.</UL>||/img/pic/defence/small/89122.jpg|/img/pic/defence/big/89122.jpg
  1|Маска сварщика                                     |264|FOX-0311|1390|1320|1290|||| КОРУНД "Прима" АСФ 3/11 (Foxweld) <span class=art>арт. FOX-0311</span>|</span></p><UL><LI>Автоматически затемняемый светофильтр (АСФ) со степенью затемнения от 3 до 11 DIN.<LI>2 независимых фотодатчика, время срабатывания: 0.0002 - 0.0005с. Регулировка чувствительности: режимы "сварка" и "резка".<LI>Питание от солнечных батарей; имеется встроенный аккумулятор.<LI>Установочные размеры светофильтра 110&nbsp;&#215;&nbsp90&nbsp;&#215;&nbsp9&nbsp;мм. Размер смотрового окна 98&nbsp;&#215;&nbsp35&nbsp;мм. Вес 490&nbsp;г.</UL><p><span class="addt">||/img/pic/defence/small/maska_korund_prima_asf_3_11.jpg|/img/pic/defence/big/maska_korund_prima_asf_3_11.jpg
  1|Очки газосварщика                                  |264|3H1     |  85|  81|  78|||| 3H1-Г2 <span class=art>арт. 3Н1</span>|||/img/pic/defence/small/zn1.jpg|/img/pic/defence/big/zn1.jpg
  1|Очки газосварщика с откидными стеклами             |264|89148   |  98|  95|  93|||| MATRIX <span class=art>арт. 89148</span>|||/img/pic/defence/small/OCHKI GAZOSVARSHIKA OTKIDNY STEKLA.jpg|/img/pic/defence/big/OCHKI GAZOSVARSHIKA OTKIDNY STEKLA.jpg
@@ -113,7 +114,7 @@
  1|Очки защитные                                      |263|GPT     |  48|  45|  42|||| "ТРУД", прозрачные <span class=art>арт. GPT</span>|</span></p><UL><LI>Изготовлены из ударопрочного поликарбоната, имеют УФ стабилизирующую добавку.<LI>Широко применяются на производстве и в быту.</UL><p><span class="addt">||/img/pic/defence/small/Ochki TRUD.jpg|/img/pic/defence/big/Ochki TRUD.jpg
  1|Очки защитные                                      |263|GP-1/2/3|  48|  45|  42|||| "СТИЛЬ" <span class=art>арт. GP-1/2/3</span>|</span></p><UL><LI>Изготовлены из ударопрочного поликарбоната, имеют УФ стабилизирующую добавку.<LI>Широко применяются на производстве и в быту.<LI>ТРИ цвета: прозрачные, желтые, дымчатые.</UL><p><span class="addt">||/img/pic/defence/small/Ochki STIL.jpg|/img/pic/defence/big/Ochki STIL.jpg
  1|Очки защитные закрытого типа с непрямой вентиляцией|263|89160   |  59|  55|  48|||| MATRIX <span class=art>арт. 89160</span>|</span></p><UL><LI>Стекло - 2-миллиметровый ударопрочный поликарбонат.<LI>Специальные клапаны особой конструкции предохраняют от запотевания.</UL><p><span class="addt">||/img/pic/defence/small/89160.jpg|/img/pic/defence/big/jpg
- 1|Щиток защитный                                     |263|PSH1    | 119| 109|  99|||| НБТ-1 "ИСТОК", полистирол <span class=art>арт. PSH1</span>|||/img/pic/defence/small/SCHITOK SVARSZIKA.jpg|/img/pic/defence/big/SCHITOK SVARSZIKA.jpg
+ 1|Щиток защитный                                     |263|PSH1    | 125| 116| 109|||| НБТ-1 "ИСТОК", полистирол <span class=art>арт. PSH1</span>|||/img/pic/defence/small/SCHITOK SVARSZIKA.jpg|/img/pic/defence/big/SCHITOK SVARSZIKA.jpg
 #1|Очки защитные                                      |263|89169   |59   |55|52||| закрытого типа <span class=art>арт. 89169</span>|</span></p><UL><LI>Специальные клапаны от запотевания<LI>Линзы изготовлены из 2-мм ударопрочного поликарбоната</UL><p><span class="addt">||/img/pic/defence/small/OCHKI ZAKRYTOGO TIPA.jpg|/img/pic/defence/big/OCHKI ZAKRYTOGO TIPA.jpg
 #1|Очки защитные|263|0550|39|36|35||| с непрямой вентиляцией <span class=art>арт. 0550</span>|||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
 #1|Очки защитные|263||39,00|37||| "ТРУД" <span class=art>арт. GP-001/002/003</span>|</span></p><UL><LI>Изготовлены из ударопрочного поликарбоната, имеют УФ стабилизирующую добавку.<LI>Широко применяются на производстве и в быту.<LI>ТРИ цвета: прозрачные, желтые, дымчатые.</UL><p><span class="addt">||/img/pic/defence/small/Ochki TRUD.jpg|/img/pic/defence/big/Ochki TRUD.jpg
@@ -149,11 +150,14 @@
 
 #1|Сигнальный жилет MATRIX, размер  XL|223|89510|169|149||Жилеты сигнальные| MATRIX|Цвета: оражевый, лимонный, неон.||/img/pic/defence/small/JILET SIGNAL.jpg|/img/pic/defence/big/JILET SIGNAL.jpg
 #0|Сигнальный жилет MATRIX, размер XXL|223|89512|169|159
-1|Сигнальный жилет тип Т сетка, размер  XXL|223|JST-XXL|199|192|188||Жилеты сигнальные| тип Т сетка, цвет: оражевый|||/img/pic/defence/small/JILET SIGNAL.jpg|/img/pic/defence/big/JILET SIGNAL.jpg
-0|Сигнальный жилет тип Т сетка, размер XXXL|223|JST    |199|192|188
-1|Каска строительная защитная|            157|PH-001-OR| 99| 92| 88|||, ударопрочный пластик <span class=art>арт. PH-001-WI/OR/RED/BL</span>|Цвета: белый, оранжевый, красный, синий.||/img/pic/defence/small/KASKA STROITELNAJA.jpg|/img/pic/defence/big/KASKA STROITELNAJA.jpg
-1|Каска строительная                       |157|KE-1/2 |345|330|310||| "ЕВРОПА" с храповым механизмом|Цвета: белый <span class=art>арт. KE-1</span>, оранжевый <span class=art>арт. KE-2</span>.||/img/pic/defence/small/Kaska s hrap.jpg|/img/pic/defence/big/Kaska s hrap.jpg
-1|Подшлемник полушерстяной                 |157|       |135|130|125||| под строительную каску|||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
+# 223|Жилеты сигнальные
+1|Сигнальный жилет тип Т сетка, размер  XXL|223|JST-XXL|199|192|188|||Жилеты сигнальные| тип Т сетка, цвет: оражевый|||/img/pic/defence/small/JILET SIGNAL.jpg|/img/pic/defence/big/JILET SIGNAL.jpg
+0|Сигнальный жилет тип Т сетка, размер XXXL|223|JST    |199|192|188|
+
+# 157|Каска строительная
+1|Каска строительная защитная|            157|PH-001-OR| 99| 92| 88||||, ударопрочный пластик <span class=art>арт. PH-001-WI/OR/RED/BL</span>|Цвета: белый, оранжевый, красный, синий.||/img/pic/defence/small/KASKA STROITELNAJA.jpg|/img/pic/defence/big/KASKA STROITELNAJA.jpg
+1|Каска строительная                       |157|KE-1/2 |345|330|310|||| "ЕВРОПА" с храповым механизмом|Цвета: белый <span class=art>арт. KE-1</span>, оранжевый <span class=art>арт. KE-2</span>.||/img/pic/defence/small/Kaska s hrap.jpg|/img/pic/defence/big/Kaska s hrap.jpg
+1|Подшлемник полушерстяной                 |157|UNDV   |125|116|109|||| под строительную каску <span class=art>арт. UNDV</span>|||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
 
 # 158|Плащ
 1|Плащ БМ нейлоновый|158|MS- |520|490|470||||, прошитые швы|Цвета: синий, желтый, зеленый<br>Размеры: XL, XXL, XXXL||/img/pic/defence/small/PLASH JELTY.jpg|/img/pic/defence/big/PLASH JELTY.jpg
@@ -172,7 +176,7 @@
 #1|Костюм для общепроизводственных работ:|97||880||||| куртка и полукомбинезон|Накладные карманы с клапаном, манжеты на пуговице. Ткань смесовая. 50% хлопок, 50% п/э, 210 г/м.кв. Цвет: синий, желтая полоса||/img/pic/defence/big/kos.jpg
 
 # 276|Комбинезон защитный
-1|Комбинезон защитный|276|4500-|129|122|118|||Комбинезон защитный от пыли и грязи| из нетканого материала <span class=art>арт. 4500-</span>|Цвета: белый, синий.<br>Размеры: XL, XXL||/img/pic/defence/small/combinezon.jpg|/img/pic/defence/big/jpg
+1|Комбинезон защитный|276|4500-|149|142|138|||Комбинезон защитный от пыли и грязи| из нетканого материала <span class=art>арт. 4500-</span>|Цвета: белый, синий.<br>Размеры: XL, XXL||/img/pic/defence/small/combinezon.jpg|/img/pic/defence/big/jpg
 
 # 95|Сапоги Ботинки
  1|Сапоги ПВХ          |95|SBM-      |360|340|330|||Сапоги рабочие <abbr title="материал: поливинилхлорид">ПВХ</abbr> с манжетой|, высота 35 см, цвет Олива, размеры: 42-45 <span class=art>арт. SBM-</span>|</span></p><UL><LI>Сапоги с манжетой изготовлены методом литья из высококачественного сырья.<LI>Голенище имеет толстые стенки (не менее 1,8 мм), что повышает износоустойчивость обуви. Толщина стенок сапога уменьшается от подошвы к верху сапога для снижения массы.<LI>Подошва имеет толщину не менее 1,5 см, что позволяет не чувствовать при ходьбе камни, ветки деревьев и прочие предметы. Протектор разработан с учетом достижений шинной промышленности: препятствует скольжению, налипанию грязи, застреванию мелкого мусора в рифе.<LI>Манжета препятствует попаданию внутрь сапога воды, пыли и мелкого мусора.<LI>Температурный диапазон от -10°С до +30°С.</UL><p><span class="addt">||/img/pic/defence/small/SBM1.jpg|/img/pic/defence/big/SBM2.gif

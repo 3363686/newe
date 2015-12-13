@@ -48,7 +48,8 @@ table td {border-collapse: collapse; border: none;}
 .tmenu a:hover, .tmenu-open a:hover {text-decoration: underline;}
 .tmenu a:hover {color: #f8ddaa;}
 .tmenu-open a:hover {color: #A7BDC4;}
-.cart {background: url(/img/cart.gif) left no-repeat; padding-left: 28px;}
+.cart {background: url(/img/cart.gif) left no-repeat; padding-left: 33px;}
+.tmenu-open .cart {background: url(/img/cart-open.gif) left no-repeat;}
 .goods {color: #27333a;}
 .tmenu-open .goods {color: #b2b3b3;}
 .bgcolor1 {background-color: #171E22;}
@@ -204,7 +205,7 @@ img.mini {margin: 10px 0;}
 .cart-tab {margin: 5px 0 5px 0; width: 100%;}
 .cart-tab .good-txt {width: 50%; border: 1px solid #E5E5E5; border-right: none;}
 .cart-tab .good-cart {width: 108px; border: 1px solid #E5E5E5; border-right: none; border-left: none;}
-.kolvo {padding: 10px 7px 0 0; border: 1px solid #E5E5E5; border-right: none; border-left: none;}
+.kolvo {padding: 10px 7px 0 0; border: 1px solid #E5E5E5; border-right: none; border-left: none; text-align: center;}
 .kolvo p {text-align: center; padding: 0; color: #27333A; font-size: 13px;}
 p.delete {text-align: right; padding: 3px 3px 10px 0; background-color: #E5E5E5;}
 p.delete img {margin: 0 !important;}

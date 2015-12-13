@@ -1,6 +1,9 @@
 /* !!! ? */
 /*.tmenu-tab {margin-bottom: -25px;}*/
 /* 30.04.14 */
+
+.tab .rub {font-weight: normal;}
+
 abbr, acronym, .one-good .dop a, li span[title] {border-bottom: 1px dotted; }
 abbr, acronym {margin-bottom: -3px; font-style: italic; color: #007700}
 b abbr, b acronym, .dop abbr, .dop acronym, .title abbr, .title acronym {font-style: inherit; color: #005000}
@@ -173,9 +176,10 @@ table.tab.ltdi.two:after { content: "* - Продажа отмеченных п�
 table.tab tr.ltdl td:before    { content: "* "; }
 table.tab tr.ltdl td.tb:before { content: ""; }
 table.tab.later0909:after, table.one-good.mono.later0909:after {
-  content: "Поставка ожидается 16.11.15."; }
+  content: "Поставка ожидается 23.11.15."; }
 
 table.one-good.sale1, table.tab.sale1 {background-color: #fff8f8;}
+table.tab tr.sale1 {background-color: #ffece8;}
 table.one-good.sale1 td.good-txt .title:before
   { display: inline; content: "Распродажа: "; font-size: 120%; font-weight: bold; font-style: italic; color: #C90000; }
 table.one-good.sale1 td#all-summa.good-cart p.ed {display: none;}
@@ -297,7 +301,7 @@ p.subtit {position: absolute; top: -38px;}
 #cat120 .desc-good {min-width:40em;}
 #cat175 .desc-good, #cat270 .desc-good, #cat191 .desc-good,
 #cat247 .desc-good,
-#cat78 .desc-good, #cat279 .desc-good,
+#cat78 .desc-good, #cat279 .desc-good, #cat335 .desc-good,
 #cat235 .desc-good {min-width:44em;}
 #cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat379 .desc-good,
 #cat174 .desc-good, #cat176 .desc-good,
