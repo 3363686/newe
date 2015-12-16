@@ -11,7 +11,7 @@
 <!--#exec cgi="/pcgi/section_matrix.pl"-->
 <!--#exec cgi="/pcgi/goods_list.pl"-->
 
-<div class="l1"><nobr>Доставка <span class="l1a"> в пределах Москвы</span></nobr><nobr><span class="l1a"> при заказе от 40 000 руб.</span> бесплатно</nobr>!</div>
+<div class="l1"><nobr>Доставка <span class="l1a"> в пределах Москвы</span></nobr><nobr><span class="l1a"> при заказе от 70 000 руб.</span> бесплатно</nobr>!</div>
 <!--div class="toptmp1"-->
 <!--\\END\\-->
 </div>

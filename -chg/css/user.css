@@ -10,6 +10,7 @@ b abbr, b acronym, .dop abbr, .dop acronym, .title abbr, .title acronym {font-st
 abbr:hover, acronym:hover, li span[title]:hover {border-bottom: 1px solid; cursor: help; }
 a:active {outline: none; -moz-outline-style: none;}
 a:focus {outline: none; -moz-outline-style: none;}
+h5 {font-size: 130%; font-weight: bold; text-align: center; padding: 12px 40px 5px 0; margin: 0;}
 p.spo1 {background-color:#485257;}
 p.spo2 {background-color:#27333A;}
 p.spo1, p.spo2 {color:#ff9911}
@@ -261,7 +262,10 @@ div.ref.pdf a {font-weight: bold; }
 .info-cat>table {width:100%;/*max-width:80em;*/}
 #cat33 .info-cat>table {width:auto;}
 .info-cat>table.cblock {width:282px;}
-.info {max-width:60em;}
+/*
+.info-cat {margin-left: -48px; margin-right: 48px; padding-left: 6% !important;}
+*/
+.info {max-width: 42em; margin-left: -40px; padding-left: 6% !important;}
 .article p {text-align: justify;}
 .article a {text-decoration: none; color: inherit;}
 .article li {margin: 2px 0;}
@@ -289,7 +293,7 @@ p.subtit {position: absolute; top: -38px;}
 #cat245 .desc-good {min-width:34em;}
 #cat190 .desc-good, #cat13 .desc-good, #cat19 .desc-good,
 #cat34 .desc-good, #cat35 .desc-good, #cat77 .desc-good, #cat28 .desc-good,
-#cat220 .desc-good, #cat27 .desc-good, #cat197 .desc-good, #cat293 .desc-good,
+#cat220 .desc-good, #cat27 .desc-good, #cat197 .desc-good,
 #cat234 .desc-good, #cat138 .desc-good, #cat212 .desc-good, #cat92 .desc-good,
 #cat191 .desc-good {min-width:36em;}
 #cat229 .desc-good, #cat20 .desc-good,
@@ -297,7 +301,7 @@ p.subtit {position: absolute; top: -38px;}
 #cat291 .desc-good, #cat309 .desc-good, #cat311 .desc-good,
 #cat1 .desc-good, #cat3 .desc-good,
 #cat107 .desc-good, #cat188 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
-#cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good,
+#cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good, #cat293 .desc-good,
 #cat120 .desc-good {min-width:40em;}
 #cat175 .desc-good, #cat270 .desc-good, #cat191 .desc-good,
 #cat247 .desc-good,
