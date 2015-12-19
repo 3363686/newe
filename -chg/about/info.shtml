@@ -11,7 +11,8 @@
 <h2 style="margin:0 0 10px;font:bold 15px Arial,sans-serif;">Материалы в стадии подготовки.</h2>
   Материалы&emsp13;в&numsp;стадии&puncsp;подготовки Материалы в стадии подготовки Материалы в стадии подготовки
   123456789012&emsp13;34&emsp14;56789012345678901234567890 &prime;
-  12345678901&numsp;234&ensp;56&thinsp;78&puncsp;9012345678901234567890 &Prime; &mdash; &ndash; &dash;
+  12345678901&numsp;234&ensp;56&thinsp;78&puncsp;90&ZeroWidthSpace;12 &ZeroWidthSpace;&ZeroWidthSpace;&ZeroWidthSpace;345678901234567890&Prime;
+  890&numsp;890 &mdash; 890 &ndash; 890 &dash;
 <!--\\END\\-->
 </div>
 <!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->
