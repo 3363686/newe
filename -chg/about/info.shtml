@@ -8,39 +8,10 @@
 <!--#exec cgi="/pcgi/top-menu.pl"-->
 <h1><!--#exec cgi="/pcgi/page-head.pl"--></h1>
 <!--\\START\\-->
-<h2 style="margin:0 0 10px;font:bold 15px Arial,sans-serif;">PW</h2>
-<table style="border-collapse:collapse;background:#FFF;font-family:Arial,Helvetica,sans-serif;color:#000;">
-<tr valign="top">
-<td style="padding:0 10px;text-align:center;padding-bottom:15px;"><a href="http://market.yandex.ru/model.xml?modelid=10616181&hid=6427100"><img src="http://mdata.yandex.net/i?path=b1216160153_img_id4781552895401165628.jpeg&size=2" border="0" alt=""></a></td>
-<td style="padding-bottom:15px;">
-<div style="padding-bottom:6px;font-size:11px;">
-<a href="http://market.yandex.ru" style="color:#000;">Яндекс.Маркет</a> / <a href="http://market.yandex.ru/catalog.xml?hid=91009">Компьютеры</a> / <a href="http://market.yandex.ru/catalog.xml?hid=10604359">Компьютеры</a> / <a href="http://market.yandex.ru/catalog.xml?hid=6427100">Планшеты</a>
-</div>
-<div style="margin-bottom:4px;padding:0 0 6px;">
-<div style="font-size:13px;">
-<a href="http://market.yandex.ru/model.xml?modelid=10616181&hid=6427100"><b>Wexler TAB 10q</b></a> — <span class="b-prices b-prices__range">от <span class="b-prices__num" itemprop="lowPrice">9 789</span><span class="b-prices__currency"> руб.</span></span> | <a style="color:#000;" href="http://market.yandex.ru/model.xml?modelid=10616181&hid=6427100">Все цены</a> (17)
-                </div>
-<div style="margin:3px 0;font-size:11px;">экран 10.1", 1280x800, емкостный, мультитач, Android 4.2, встроенная память 16 Гб, microSDHC, Wi-Fi, Bluetooth, 3G, GPS, гироскоп, две фотокамеры, mini HDMI, вес 644 г</div>
-</div>
-</td>
-</tr>
-<tr valign="top">
-<td style="padding:0 10px;text-align:center;padding-bottom:15px;"><a href="http://market.yandex.ru/model.xml?modelid=10599117&hid=6427100"><img src="http://mdata.yandex.net/i?path=b0928170216_img_id679495064719444401.jpeg&size=2" border="0" alt=""></a></td>
-<td style="padding-bottom:15px;">
-<div style="padding-bottom:6px;font-size:11px;">
-<a href="http://market.yandex.ru" style="color:#000;">Яндекс.Маркет</a> / <a href="http://market.yandex.ru/catalog.xml?hid=91009">Компьютеры</a> / <a href="http://market.yandex.ru/catalog.xml?hid=10604359">Компьютеры</a> / <a href="http://market.yandex.ru/catalog.xml?hid=6427100">Планшеты</a>
-</div>
-<div style="margin-bottom:4px;padding:0 0 6px;">
-<div style="font-size:13px;">
-<a href="http://market.yandex.ru/model.xml?modelid=10599117&hid=6427100"><b>PiPO M6 Pro 32Gb 3G</b></a> — <span class="b-prices b-prices__range">от <span class="b-prices__num" itemprop="lowPrice">9 450</span><span class="b-prices__currency"> руб.</span></span> | <a style="color:#000;" href="http://market.yandex.ru/model.xml?modelid=10599117&hid=6427100">Все цены</a> (12)
-                </div>
-<div style="margin:3px 0;font-size:11px;">экран 9.7", 2048x1536, емкостный, мультитач, Android 4.2, встроенная память 32 Гб, microSDXC, Wi-Fi, Bluetooth, 3G, GPS, гироскоп, две фотокамеры, mini HDMI, вес 620 г</div>
-</div>
-</td>
-</tr>
-</table>
-
-
+<h2 style="margin:0 0 10px;font:bold 15px Arial,sans-serif;">Материалы в стадии подготовки.</h2>
+  <!--Материалы&emsp13;в&numsp;стадии&puncsp;подготовки Материалы в стадии подготовки Материалы в стадии подготовки-->
+  <!--123456789012345678901234567890&zeta;-->
+  <!--12&z3456789012345678901234567890&nb-->
 <!--\\END\\-->
 </div>
 <!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->
