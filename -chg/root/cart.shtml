@@ -7,95 +7,11 @@
 <div class="info-cat">
 <!--#exec cgi="/pcgi/top-menu.pl"-->
 <!--\\START\\-->
-<table cellpadding="0" style="width:98%; margin-top:10px;">
-<tr valign="top">
-<td class="cart-list">
-
 <h1><!--#exec cgi="/pcgi/page-head.pl"--></h1>
-<table cellpadding="0" class="cart-tab">
-<tr valign="top">
-<td class="good-txt"><p><a href="#">Сетки металлические Сетки металлические металлические</a></p>
-<p class="desc">50x3 мм<br />0,5х2, 1х2</p></td>
-<td class="kolvo"><p>кол-во<br /><input type="Text" name="" size="3" /></p></td>
-<td class="good-cart">
-<p class="price"><span>33 000</span> руб.</p><p class="ed">до 200 кв. м c НДС</p></td>
-<td class="good-cart" id="all-summa"><p class="delete"><a href="#"><img src="/img/del.gif" width="14" height="14" alt="" /></a></p>
-<p class="price" id="summa"><span>119 000</span> руб.</p><p class="ed">общая сумма</p></td>
-</tr>
-
-<tr><td colspan="4"><img src="/img/1pix.gif" width="1" height="10" alt="" /></td></tr>
-<tr valign="top">
-<td class="good-txt"><p><a href="#">Сетки металлические Сетки металлические металлические</a></p>
-<p class="desc">50x3 мм<br />0,5х2, 1х2</p></td>
-<td class="kolvo"><p>кол-во<br /><input type="Text" name="" size="3" /></p></td>
-<td class="good-cart">
-<p class="price"><span>33 000</span> руб.</p><p class="ed">от 200 до 1000 кв. м c НДС</p></td>
-<td class="good-cart" id="all-summa"><p class="delete"><a href="#"><img src="/img/del.gif" width="14" height="14" alt="" /></a></p>
-<p class="price" id="summa"><span>119 000</span> руб.</p><p class="ed">общая сумма</p></td>
-</tr>
-
-<tr><td colspan="4"><img src="/img/1pix.gif" width="1" height="10" alt="" /></td></tr>
-<tr valign="top">
-<td class="good-txt"><p><a href="#">Сетки металлические Сетки металлические металлические</a></p>
-<p class="desc">50x3 мм<br />0,5х2, 1х2</p></td>
-<td class="kolvo"><p>кол-во<br /><input type="Text" name="" size="3" /></p></td>
-<td class="good-cart">
-<p class="price"><span>33 000</span> руб.</p><p class="ed">до 200 кв. м c НДС</p></td>
-<td class="good-cart" id="all-summa"><p class="delete"><a href="#"><img src="/img/del.gif" width="14" height="14" alt="" /></a></p>
-<p class="price" id="summa"><span>119 000</span> руб.</p><p class="ed">общая сумма</p></td>
-</tr>
-
-</table>
-
-
-<div class="orange"><img src="/img/1pix.gif" width="1" height="4" alt="" /></div>
-<p class="count"><a href="#">Пересчитать</a></p><!-- когда псевдо-кнопка не действительна, то ссылки нет -->
-<p class="allsum">Сумма вашего заказа: <big>4000</big> руб.</p>
-
-<br clear="all" />
-</td><td class="order-good">
-
-<h2>Оформить заказ</h2>
-<table cellpadding="0" class="order-form">
-<tbody>
-<tr><td></td><td></td></tr>
-<tr>
-<td>Компания:</td>
-<td><input type="text" size="30" value="" name="company"></td>
-</tr>
-<tr>
-<td>Ваше имя:<b class="red">*</b></td>
-<td><input type="text" size="30" value="" name="name"></td>
-</tr>
-<tr>
-<td>E-mail:<b class="red">*</b></td>
-<td><input type="text" size="30" value="" name="email"></td>
-</tr>
-<tr>
-<td>Телефон:<b class="red">*</b></td>
-<td><input type="text" size="30" value="" name="phone"></td>
-</tr>
-<tr>
-<td>Страна:<b class="red">*</b></td>
-<td><input type="text" size="30" value="" name="country"></td>
-</tr>
-<tr>
-<td>Город:<b class="red">*</b></td>
-<td><input type="text" size="30" value="" name="city"></td>
-</tr>
-<tr>
-<td>Почтовый&nbsp;индекс:</td>
-<td><input type="text" size="30" value="" name="zip"></td>
-</tr>
-<tr>
-<td>Адрес&nbsp;доставки:</td>
-<td><textarea rows="4" name="address" rows="8" cols="33"></textarea></td>
-</tr>
-<tr>
-<td colspan="2"><p class="to_order"><a href="#">Заказать</a></p></td>
-</tr>
-</tbody></table>
-</td></tr></table>
+<p>Заказ товаров на сайте работает в тестовом режиме.</p>
+Сумма заказа для оформления с доставкой должна быть не менее 2000 руб.
+<br><br>
+<!--#exec cgi="/pcgi/fb_form_order.pl"-->
 
 <!--\\END\\-->
 </div>

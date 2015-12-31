@@ -1,57 +1,65 @@
-1<div id="ny-2">В эти дни мы работаем <b>5, 6, 7 и 8 мая</b>, а затем <b>с 12 мая</b> в обычном режиме.</div>
+<div id="may2013-1">Уважаемые клиенты! Поздравляем Вас с праздниками <b>1 мая</b> и <b>Днем Победы</b>!</div>
+<div id="may2013-2">В эти дни мы работаем <b>6, 7 и 8 мая</b>, а затем <b>с 13 мая</b> в обычном режиме.</div>
+<div id="may2013-3"></div>
 
+<div id="toptmp1bg"><div id="toptmp1" class="ny">
+  <div id="ny-1">Уважаемые клиенты! Поздравляем Вас с наступающим <b>Новым годом</b>!</div>
+  <div id="ny-2">В период новогодних праздников мы работаем в таком режиме:</div>
+  <div id="ny-3">
+    <table>
+      <tr class="day-w"><td>пн-вт 28 и 29 декабря</td><td>в обычном режиме, с 8 до 18</td></tr>
+      <tr class="day-s"><td>ср 30 декабря</td><td>с 8 до 14</td></tr>
+      <tr class="day-h"><td>чт 31 декабря</td><td>выходной</td></tr>
+      <tr class="day-h"><td>с 1 по 10 января 2016 г.</td><td>новогодние каникулы</td></tr>
+      <tr class="day-w"><td>с пн 11 января 2016 г.</td><td>в обычном режиме</td></tr>
+    </table>
+  </div>
+</div>
+</div>
+<div id="ny-2">В эти дни мы работаем <b>5, 6, 7 и 8 мая</b>, а затем <b>с 12 мая</b> в обычном режиме.</div>
 
 <div class="toptmp1">
   <div id="may2013-1">Уважаемые клиенты! Поздравляем Вас с праздниками <b>1 мая</b> и <b>Днем Победы</b>!</div>
   <div id="may2013-2">В эти дни мы работаем <b>5, 6, 7 и 8 мая</b>, а затем <b>с 12 мая</b> в обычном режиме.</div>
 </div>
 
-
 <div class="toptmp1">
   <div id="may2013-1"><b>Внимание!</b> В среду <b>10 сентября</b> по причине замены городского энергетического оборудования<br>в офисе и на складе <b>не будет электричества</b> и не будут работать стационарные телефоны.</div>
   <div id="may2013-2"><b>Просьба звонить по <a href="/about/contact.shtml">мобильным телефонам</a>!</b><br>Можно высылать заявки на почту - выставление счетов начнется с <b>15:00</b></div>
 </div>
 
-
-=========================
-#w2014ny {background-color: #fff;}
-#w2014ny div {float: left;}
-#w2014ny2 {text-align: right; margin-right: .4em;}
-#w2014ny3 {text-align: left}
-
-#w2014   {background-color: #58f;}
-#w2014 a {text-decoration: none;}
-#w2014 span:hover {border-bottom: solid 2px #ffffff;}
-#w2014-1 {text-align: center; padding: 3px 0 6px 0; line-height: 140%; color: #fff; font-size: 22px; font-weight: bold; font-family: Times New Roman, serif; font-style: italic; word-spacing: 8px;}
-#w2014-1 b {font-size: 26px; }
-
-#may2013-1 {text-align: center; padding: 6px 0 0 0;}
-#may2013-1 b {color: #f00;}
-#may2013-2 {text-align: center; padding: 4px 0 6px 0;}
-
 <div id="w2014ny">
-<div>Работаем по следующему графику:</div><div id="w2014ny2">
-Суббота 28 декабря<br>                
-Воскресенье 29 декабря<br>                
-Понедельник 30 декабря<br>
-со Вторника 31 декабря по Вторник 7 января<br>
-с Четверга 9 января<br>                
+  <div>Работаем по следующему графику:</div><div id="w2014ny2">
+  Суббота 28 декабря<br>
+  Воскресенье 29 декабря<br>
+  Понедельник 30 декабря<br>
+  со Вторника 31 декабря по Вторник 7 января<br>
+  с Четверга 9 января<br>
 </div><div id="w2014ny3">
- - с 9 до 15<br>
- - выходной<br>
- - с 8:30 до 15<br>
- - новогодние праздники<br>
- - в обычном режиме<br>
+  - с 9 до 15<br>
+  - выходной<br>
+  - с 8:30 до 15<br>
+  - новогодние праздники<br>
+  - в обычном режиме<br>
 </div></div>
-
 
 <div id="w2014"><a href="/catalog/cat233.shtml">
   <div id="w2014-1"><span>Распродажа <b>тепловентиляторов</b> и <b>тепловых пушек</b>!</span></div>
 </a></div>
 
-
-<div id="may2013-1">Уважаемые клиенты! Поздравляем Вас с праздниками <b>1 мая</b> и <b>Днем Победы</b>!</div>
-<div id="may2013-2">В эти дни мы работаем <b>6, 7 и 8 мая</b>, а затем <b>с 13 мая</b> в обычном режиме.</div>
-<div id="may2013-3"></div>
-
-
+<div id="toptmp1bgw"><div id="toptmp1bg"></div></div>
+<div id="toptmp1">
+  <div id="ad1">Снижение цен!</div>
+  <div class="ref">
+    <table class="cblock" cellpadding="0">
+      <tbody><tr><td><a href="/catalog/cat47.shtml"><img src="/img/pic/drill/small/BURY SDS PLUS.jpg" alt="" height="70" width="98"></a></td>
+        <td class="txt"><a href="/catalog/cat47.shtml">Буры по бетону SDS+ BERGEN</a></td>
+        <td class="arrow"><a href="/catalog/cat47.shtml"><img src="/img/1pix.gif" alt="" height="30" width="20"></a></td>
+      </tr></tbody></table>
+    <table class="cblock" cellpadding="0">
+      <tbody><tr><td><a href="/catalog/cat47.shtml"><img src="/img/pic/drill/small/BURY SDS PLUS.jpg" alt="" height="70" width="98"></a></td>
+        <td class="txt"><a href="/catalog/cat47.shtml">Бур по бетону SDS+ UNIVERSE 6&nbsp;×&nbsp;110&thinsp;мм</a></td>
+        <td class="arrow"><a href="/catalog/cat47.shtml"><img src="/img/1pix.gif" alt="" height="30" width="20"></a></td>
+      </tr></tbody></table>
+  </div>
+</div>

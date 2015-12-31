@@ -1,40 +1,27 @@
 <table cellpadding="0" class="top-tab">
 <tr valign="top">
-<td style="width:320px;"><!--#exec cgi="/pcgi/logo.pl"--><br />
-<div class="phone"><p class="phones"><!--#include virtual="/pcgi/infoblock.pl?4"--></p><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p></div>
-</td><td class="top-main"><img src="/img/top-up.png" width="90" height="189" alt="" /></td></tr>
-<tr><td colspan="2">
-        <table cellpadding="0" class="tmenu-tab">
-        <tr><td><table cellpadding="0"><tr>
-        <!--#exec cgi="/pcgi/main-menu.pl"-->
-        </tr></table></td>
-        <td align="right" class="site_search">
-            <div class="site_search1">
-            <form method="get" action="/search/">
-            <table>
-                <tr>
-                    <td><nobr><input size="53" name="text" placeholder="Поиск по сайту" maxlength="200" class="txt"></nobr></td>
-                    <td><input type="submit" class="b_search" value="Найти"><input type="hidden" value="newe" name="r"></td>
-                    <td align="right" class="feedback" valign="middle"><div class="send-mail1"><!--#exec cgi="/pcgi/send-mail-top.pl"--></div></td>
-                </tr>
-            </table>
-            </form>
-            </div>
-        </td>
-        </tr></table>
-  <!-- div id="toptmp1bgw"><div id="toptmp1bg"></div></div>
-  <div id="toptmp1">
-    <div id="ad1">Снижение цен!</div>
-    <div class="ref">
-      <table class="cblock" cellpadding="0">
-        <tbody><tr><td><a href="/catalog/cat47.shtml"><img src="/img/pic/drill/small/BURY SDS PLUS.jpg" alt="" height="70" width="98"></a></td>
-          <td class="txt"><a href="/catalog/cat47.shtml">Буры по бетону SDS+ BERGEN</a></td>
-          <td class="arrow"><a href="/catalog/cat47.shtml"><img src="/img/1pix.gif" alt="" height="30" width="20"></a></td>
-        </tr></tbody></table>
-      <table class="cblock" cellpadding="0">
-        <tbody><tr><td><a href="/catalog/cat47.shtml"><img src="/img/pic/drill/small/BURY SDS PLUS.jpg" alt="" height="70" width="98"></a></td>
-          <td class="txt"><a href="/catalog/cat47.shtml">Бур по бетону SDS+ UNIVERSE 6&nbsp;×&nbsp;110&thinsp;мм</a></td>
-          <td class="arrow"><a href="/catalog/cat47.shtml"><img src="/img/1pix.gif" alt="" height="30" width="20"></a></td>
-        </tr></tbody></table>
-    </div>
-  </div -->
+<td style="width:320px;"><a href="/index.shtml" title="На главную"><img src="/img/logo.gif?-3" width="256" height="80" style="margin: 0 0 20px 24px;" alt="ООО Компания Фронт" /></a></td>
+<td class="top-main"><div class="phone"><p class="phones"><!--#include virtual="/pcgi/infoblock.pl?4"--></p></div></td>
+<td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p></td></tr>
+<tr><td colspan="3">
+  <table cellpadding="0" class="tmenu-tab">
+    <tr><td><table cellpadding="0" width="100%"><tr>
+      <!--#exec cgi="/pcgi/main-menu.pl"-->
+      <!--#exec cgi="/pcgi/cart_info.pl"-->
+      <td align="right" class="site_search">
+        <div class="site_search1">
+        <form method="get" action="/search/">
+        <table>
+          <tr>
+            <td><input name="text" placeholder="Поиск по сайту" maxlength="200" class="txt" /></td>
+            <td><input type="submit" class="b_search" value="Найти" /><input type="hidden" value="newe" name="r" /></td>
+            <td align="right" class="feedback" valign="middle"><div class="send-mail1"><!--#exec cgi="/pcgi/send-mail-top.pl"--></div></td>
+          </tr>
+        </table>
+        </form>
+        </div>
+      </td>
+    </tr></table>
+    </td>
+  </tr></table>
+
