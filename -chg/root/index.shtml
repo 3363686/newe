@@ -4,19 +4,6 @@
 <!--#include virtual="/ssi/style-body.shtml"-->
 <!--#include virtual="/ssi/top-tmenu.shtml?$QUERY_STRING"-->
 <!--#include virtual="/ssi/lmenu-spo.shtml?$QUERY_STRING"-->
-<div id="toptmp1bg" class="ny"><div id="toptmp1">
-  <div id="ny-1"><nobr>Уважаемые клиенты! Поздравляем Вас</nobr> <nobr>с наступающим <b>Новым годом!</b></nobr></div>
-  <div id="ny-2">В период новогодних праздников мы работаем так:</div>
-  <div id="ny-3">
-    <table>
-      <!-- tr class="day-w"><td class="day">пн-вт 28 и 29 декабря</td><td>&mdash;&ensp;в обычном режиме, с 8 до 18</td></tr -->
-      <tr class="day-s"><td class="day">ср 30 декабря</td><td>&mdash;&ensp;с 8 до 14</td></tr>
-      <tr class="day-h"><td class="day">чт 31 декабря</td><td>&mdash;&ensp;выходной</td></tr>
-      <tr class="day-h"><td class="day">с 1 по 10 января 2016 г.</td><td>&mdash;&ensp;новогодние каникулы</td></tr>
-      <tr class="day-w"><td class="day">с пн 11 января 2016 г.</td><td>&mdash;&ensp;в обычном режиме</td></tr>
-    </table>
-  </div>
-</div></div>
 <!--\\START\\-->
 <div style="margin:35px 0 0 10px;">
 <!--#exec cgi="/pcgi/section_matrix_main.pl"-->
