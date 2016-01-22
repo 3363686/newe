@@ -1,12 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Доставка</title>
-</head>
-<body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2002/REC-xhtml1-20020801/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#exec cgi="/pcgi/meta_title.pl"-->
+<!--#include virtual="/ssi/style-body.shtml"-->
+<!--#include virtual="/ssi/top-tmenu.shtml?$QUERY_STRING"-->
+<!--#include virtual="/ssi/lmenu-spo.shtml?$QUERY_STRING"-->
+<div class="info">
+<!--#exec cgi="/pcgi/top-menu.pl"-->
+<h1><!--#exec cgi="/pcgi/page-head.pl"--></h1>
+<!--\\START\\-->
 <p>Доставка оплаченных заказов осуществляется на объекты Москвы и Московской области. Заказы из других регионов России обеспечиваются доставкой до транспортной компании.</p>
-<h5>Тарифы на доставку:</h5>
+<p>Более точную информацию по доставке Вашего заказа Вы можете узнать у Вашего менеджера или в Отделе логистики: <b>+7(495) 221-04-87 доб. 104</b>.</p>
+<h5>Базовые тарифы на доставку:</h5>
 <ol>
   <li>При сумме заказа от <b>70 000</b> рублей в пределах МКАД либо до транспортной компании доставка <b>бесплатная</b> (независимо от грузоподъемности автомобиля).
   </li>
@@ -14,11 +18,13 @@
     <table>
       <tr>
         <td>- в пределах МКАД и до транспортной компании</td>
-        <td>&nbsp;&nbsp;&nbsp;&nbsp;<b>1500</b> руб.</td>
+        <td></td>
+        <td><b>1500</b> руб.</td>
       </tr>
       <tr>
         <td>- Подмосковье</td>
-        <td>от <b>2500</b> до <b>3500</b> руб.</td>
+        <td>от&nbsp;</td>
+        <td><b>2500</b> до <b>3500</b> руб.</td>
       </tr>
     </table>
   </li>
@@ -26,15 +32,18 @@
     <table>
       <tr>
         <td>- в пределах МКАД и до транспортной компании</td>
-        <td>&nbsp;&nbsp;&nbsp;&nbsp;<b>3200</b> руб.</td>
+        <td></td>
+        <td><b>3200</b> руб.</td>
       </tr>
       <tr>
         <td>- Подмосковье</td>
-        <td>от <b>4500</b> руб.</td>
+        <td>от&nbsp;</td>
+        <td><b>4500</b> руб.</td>
       </tr>
     </table>
   </li>
 </ol>
-<p>Более точную информацию по доставке Вашего заказа Вы можете узнать у Вашего менеджера или в Отделе логистики: <b>+7(495) 221-04-87 доб. 104</b>.</p>
-</body>
-</html>
+<!--\\END\\-->
+</div>
+<!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->
+</body></html>
