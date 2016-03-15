@@ -2,8 +2,6 @@
 /*.tmenu-tab {margin-bottom: -25px;}*/
 /* 30.04.14 */
 
-.tab .rub {font-weight: normal;}
-
 abbr, acronym, .one-good .dop a, li span[title] {border-bottom: 1px dotted; }
 abbr, acronym {margin-bottom: -3px; font-style: italic; color: #007700}
 b abbr, b acronym, .dop abbr, .dop acronym, .title abbr, .title acronym {font-style: inherit; color: #005000}
@@ -22,6 +20,10 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .b {font-weight: bold;}
 .c {text-align: center;}
 .i {font-style: italic;}
+
+.tab .rub {font-weight: normal;}
+.info-cat { padding-top: 0; }
+
 /*
 #cat107 .one-good td {vertical-align: top;}
 #cat107 p {vertical-align: middle; display: inline;}
@@ -166,7 +168,8 @@ margin:0;}
 table.one-good.many.ltd, table.one-good.mono.ltd td.good-txt,
   table.tab.ltd tr, table.tab.ltdi tr.ltdl {background-color: #faf6e4 /*#f2f2fc*/;}
 table.tab.ltd:after, table.one-good.mono.ltd:after, table.tab.ltdi:after,
-table.tab.later0909:after, table.one-good.mono.later0909:after {
+table.tab.later0909:after, table.one-good.mono.later0909:after,
+table.tab.later1103:after, table.one-good.mono.later1103:after {
   font-weight: bold; font-size: 80%; line-height: 160%; border: none;
   width: 1px; white-space: nowrap; display: table-caption; caption-side: bottom;}
 table.one-good.mono.ltd:after { content: "Продажа этой позиции ограничена наличием на текущую дату."; }
@@ -177,7 +180,9 @@ table.tab.ltdi.two:after { content: "* - Продажа отмеченных п�
 table.tab tr.ltdl td:before    { content: "* "; }
 table.tab tr.ltdl td.tb:before { content: ""; }
 table.tab.later0909:after, table.one-good.mono.later0909:after {
-  content: "Поставка ожидается в феврале-марте 2016 г."; }
+  content: "Поставка ожидается в апреле 2016 г."; }
+table.tab.later1103:after, table.one-good.mono.later1103:after {
+  content: "Поставка ожидается 11 марта 2016 г."; }
 
 table.one-good.sale1, table.tab.sale1 {background-color: #fff8f8;}
 table.tab tr.sale1 {background-color: #ffece8;}
@@ -235,8 +240,9 @@ table.tab tr.nocart td.good-cart a { display: none; }
 #toptmp1 { margin-left: -80px; margin-right: 20%; padding: 0px 0 12px 5%; font-family: Georgia; }
 #toptmp1 .ref { margin-top: 0; }
 #toptmp1bg.ny b {color: #fa8;}
+#toptmp1bg.f23 b {color: #f00;}
 #ny-1 { font-size: 24px; font-weight: bold; font-style: italic; text-align: center; }
-#ny-2 { font-size: 17px; color: #000; text-align: center; }
+#ny-2 { margin: 4px; font-size: 17px; color: #000; text-align: center; }
 #ny-3   { font-size: 16px; color: #000; padding-top: 2px; line-height: 18px;}
 #ny-3 b {color: #f00;}
 #ny-3 table {margin: auto}
