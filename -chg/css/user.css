@@ -197,7 +197,11 @@ table.one-good.sale1 td#all-summa.good-cart p.price:after { content: " Цена 
 
 table.tab tr.nocart {background-color: #fff8e0; }
 table.tab tr.nocart td.good-cart a { display: none; }
-
+/*
+.K4000 { padding: 0px 10px; background-color: #ffcc99; overflow: visible; }
+.K4000t { padding: 0px 0px 0px 10px; display: none; }
+.K4000:hover .K4000t { display: inline; }
+*/
 .l1 {clear: both; color: #555; text-align: center; font-size: 24px; font-weight: bold; font-family: Times New Roman, serif; font-style: italic; margin: 6px 0px -12px 0;}
 .l1a {font-weight: normal;}
 .main-info .l2 {color: #666; text-align: center; font-size: 16px; margin: 6px 0px -12px 0}
