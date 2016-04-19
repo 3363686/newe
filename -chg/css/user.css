@@ -66,6 +66,7 @@ span.artn {display: none;}
 .tab tr.blkt2 td {border-top:2px solid #686c6e; padding-top:3px;}
 .tab tr.norow {display: none;}
 
+.tab tr.bold {font-weight: bold;}
 .tab tr.red  {background-color: #ffe4e0;}
 .tab tr.blue {background-color: #f0f4ff;}
 .tab tr.sp1  {background-color: #f6fcf6;}
@@ -172,7 +173,7 @@ table.one-good.many.ltd, table.one-good.mono.ltd td.good-txt,
 table.tab.ltd:after, table.one-good.mono.ltd:after, table.tab.ltdi:after,
 table.tab.later0909:after, table.one-good.mono.later0909:after,
 table.tab.later1204:after, table.one-good.mono.later1204:after,
-table.tab.later1103:after, table.one-good.mono.later1103:after {
+table.tab.later2204:after, table.one-good.mono.later2204:after {
   font-weight: bold; font-size: 80%; line-height: 160%; border: none;
   width: 1px; white-space: nowrap; display: table-caption; caption-side: bottom;}
 table.one-good.mono.ltd:after { content: "Продажа этой позиции ограничена наличием на текущую дату."; }
@@ -184,10 +185,10 @@ table.tab tr.ltdl td:before    { content: "* "; }
 table.tab tr.ltdl td.tb:before { content: ""; }
 table.tab.later0909:after, table.one-good.mono.later0909:after {
   content: "Поставка ожидается в апреле 2016 г."; }
-table.tab.later1103:after, table.one-good.mono.later1103:after {
-  content: "Поставка ожидается в конце марта 2016 г."; }
 table.tab.later1204:after, table.one-good.mono.later1204:after {
   content: "Поставка ожидается 12 апреля 2016 г."; }
+table.tab.later2204:after, table.one-good.mono.later2204:after {
+  content: "Поставка ожидается 22 апреля 2016 г."; }
 
 table.one-good.sale1, table.tab.sale1 {background-color: #fff8f8;}
 table.tab tr.sale1 {background-color: #ffece8;}
