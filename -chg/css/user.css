@@ -66,6 +66,10 @@ span.artn {display: none;}
 .tab tr.blkt2 td {border-top:2px solid #686c6e; padding-top:3px;}
 .tab tr.norow {display: none;}
 
+td.choose {text-align: center;}
+body.ot37 td.choose {display: none;}
+.nocart   td.choose a {display: none;}
+
 .tab tr.bold {font-weight: bold;}
 .tab tr.red  {background-color: #ffe4e0;}
 .tab tr.blue {background-color: #f0f4ff;}
@@ -246,13 +250,16 @@ table.tab tr.nocart td.good-cart a { display: none; }
 
 /*#toptmp1w  {position: relative; top: 163px; width: 100%; height: 155px; background-color: #fee; }*/
 /*#toptmp1bg  {!*position: absolute; top: 163px; width: 100%;*! margin-left: 280px; height: 155px; }*/
-#toptmp1bg.ny {background-color: #8af; color: #fff; }
+#toptmp1bg {background-color: #9bf; color: #fff; }
 #toptmp1 { margin-left: -80px; margin-right: 20%; padding: 0px 0 12px 5%; font-family: Georgia; }
 #toptmp1 .ref { margin-top: 0; }
-#toptmp1bg.ny b {color: #fa8;}
+#toptmp1.ny b {color: #d00;}
+#toptmp1.ny #may-2 b {color: #600;}
 #toptmp1bg.f23 b {color: #f00;}
 #ny-1 { font-size: 24px; font-weight: bold; font-style: italic; text-align: center; }
 #ny-2 { margin: 4px; font-size: 17px; color: #000; text-align: center; }
+#may-1 { font-size: 24px; font-weight: bold; font-style: italic; text-align: center; }
+#may-2 { margin: 4px; font-size: 19px; color: #000; text-align: center; }
 #ny-3   { font-size: 16px; color: #000; padding-top: 2px; line-height: 18px;}
 #ny-3 b {color: #f00;}
 #ny-3 table {margin: auto}
