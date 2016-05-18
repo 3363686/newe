@@ -62,9 +62,13 @@
 #0|Лом-гвоздодер усиленный 900 x 29 x 15 мм MATRIX |260|25235|425|410|400
 
 # 261/400|Кирка-кайло
-1|Кирка строительная|                                  261|KF1590|1590|1520|1490|400|||, фиберглассовая обрезиненная рукоятка, 1500&nbsp;г, 900&#8239;мм <span class=art>арт. KF1590</span>|||/img/pic/strhoz/small/KIRKA.jpg|/img/pic/strhoz/big/KIRKA.jpg
-1|Кирка-кайло двустороннее                            |261|18640 |1890|1840|1790|400||| TRUPER TP-5F <span class=art>арт. 18640</span>|Кирка-кайло двустороннее, 2.3 кг, фиберглассовая рукоятка 91 см.||/img/pic/strhoz/small/TP-5F.jpg|/img/pic/strhoz/big/TP-5F.jpg
-1|Кирка-кайло двустороннее                            |261|19647 | 920| 880| 860|400||| TRUPER TJA-1 <span class=art>арт. 19647</span>|Кирка-кайло двустороннее, фиберглассовая рукоятка 36 см.||/img/pic/strhoz/small/t19647.jpg|/img/pic/strhoz/big/t19647.jpg
+1|Кирка       строительная              |261|KF1590|1590|1520|1490|400|norow|Кирка       строительная|, фиберглассовая обрезиненная рукоятка 900&#8239;мм</span>|||/img/pic/strhoz/small/KIRKA.jpg|/img/pic/strhoz/big/KIRKA.jpg
+0|Кирка строительная, 1000 г            |261|KF1090|1090|1040| 995|400|
+0|Кирка строительная, 1500 г            |261|KF1590|1290|1220|1180|400|
+1|Кирка-кайло двустороннее              |261|18640 |1890|1840|1790|400|norow|Кирка-кайло двустороннее| TRUPER TP-5F <span class=art>арт. 18640</span>|Кирка-кайло двустороннее, 2.3 кг, фиберглассовая рукоятка 91 см.||/img/pic/strhoz/small/TP-5F.jpg|/img/pic/strhoz/big/TP-5F.jpg
+0|Кирка-кайло двустороннее TRUPER TP-5F |261|18640 |1890|1840|1790|400|
+1|Кирка-кайло двустороннее              |261|19647 | 920| 880| 860|400|norow|Кирка-кайло двустороннее| TRUPER TJA-1 <span class=art>арт. 19647</span>|Кирка-кайло двустороннее, фиберглассовая рукоятка 36 см.||/img/pic/strhoz/small/t19647.jpg|/img/pic/strhoz/big/t19647.jpg
+0|Кирка-кайло двустороннее TRUPER TJA-1 |261|19647 | 920| 880| 860|400|
 #1|Кирка-MINI|261||295.00|280|269|||, фиберглассовая обрезиненная рукоятка, 450 г, 385&#8239;мм MATRIX <span class=art>арт. 21828</span>|Кирка изготовлена методом свободной ковки из стали марки 50. Твердость 48 HRc.||/img/pic/strhoz/small/KIRKA21828.jpg|/img/pic/strhoz/big/jpg
 
 # 371/401|Метлы и веники
@@ -151,7 +155,7 @@
 #1|Щетка по металлу ручная         |240|SLP   | 68| 65|62|||| <span class=art>арт. SLP</span>|</span></p><UL><LI>Металлическая латунированная проволока 30 мм.<LI>Пластиковая рукоятка 240 мм.</UL><p><span class="addt">||/img/pic/strhoz/small/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg|/img/pic/strhoz/big/SCZetka ruchnaja - ODNORJADNAJA sparta.jpg
 
 # 163|Ведра
-1|Ведро оцинкованое                    |163|VZN12 | 99   | 95.00| 89.00|||| 12&nbsp;л <span class=art>арт. VZN12</span>|||/img/pic/strhoz/small/Vedro ozink 12 l.jpg|/img/pic/strhoz/big/Vedro ozink 12 l.jpg
+1|Ведро оцинкованое                    |163|VZN12 |112,00|107.00| 99.00|||| 12&nbsp;л <span class=art>арт. VZN12</span>|||/img/pic/strhoz/small/Vedro ozink 12 l.jpg|/img/pic/strhoz/big/Vedro ozink 12 l.jpg
 1|Ведро 12 л.       круглое            |163|BU-12C| 59,00| 55,00| 50,00|||Вёдра| резинопластиковые|||/img/pic/strhoz/small/Vedro rezinoplastic.jpg|/img/pic/strhoz/big/Vedro rezinoplastic.jpg
 0|Ведро 16 л. прямоугольное            |163|BU-16R|106,00| 98,00| 92,00|
 0|Ведро 20 л.       круглое            |163|BU-20C|115,00|107,00| 99,00|
