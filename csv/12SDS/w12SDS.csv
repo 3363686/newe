@@ -126,10 +126,8 @@
 # 47|Ασπϋ οξ αεςξνσ δλÿ οεπτξπΰςξπΰ SDS Plus BERGEN
  1|Ασπ SDS PLUS &numsp;5 &#215;&numsp;160 μμ, BERGEN  |47|&numsp;5 &#215;&numsp;160 μμ, BERGEN  |B+05160 |  67|  65|  62||mult2|Ασπϋ οξ αεςξνσ δλÿ οεπτξπΰςξπΰ SDS Plus||||/img/pic/drill/small/BURY SDS PLUS.jpg|/img/pic/drill/big/BURY SDS PLUS.jpg
  0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;110 μμ, BERGEN  |47|&numsp;6 &#215;&numsp;110 μμ, BERGEN  |B+06110 |  62|  59|  56||blkt2
- 0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;110 μμ, OPTIM   |47|&numsp;6 &#215;&numsp;110 μμ, OPTIM   |790611  |  52|  48|  45||blue
  0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;110 μμ, UNIVERSE|47|&numsp;6 &#215;&numsp;110 μμ, UNIVERSE|SG06110 |  62|  59|  56||blue
  0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;160 μμ, BERGEN  |47|&numsp;6 &#215;&numsp;160 μμ, BERGEN  |B+06160 |  68|  64|  59|
- 0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;160 μμ, OPTIM   |47|&numsp;6 &#215;&numsp;160 μμ, OPTIM   |790616  |  52|  48|  44||blue
  0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;160 μμ, UNIVERSE|47|&numsp;6 &#215;&numsp;160 μμ, UNIVERSE|SG06160 |  68|  64|  59||blue
  0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;210 μμ, BERGEN  |47|&numsp;6 &#215;&numsp;210 μμ, BERGEN  |B+06210 |  89|  84|  79|
  0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;210 μμ, UNIVERSE|47|&numsp;6 &#215;&numsp;210 μμ, UNIVERSE|SG06210 |  89|  84|  79||blue
@@ -165,7 +163,6 @@
  0|Ασπ SDS PLUS 12       &#215;&numsp;260 μμ, BERGEN  |47|12       &#215;&numsp;260 μμ, BERGEN  |B+12260 | 145| 138| 132|
  0|Ασπ SDS PLUS 12       &#215;&numsp;310 μμ, BERGEN  |47|12       &#215;&numsp;310 μμ, BERGEN  |B+12310 | 158| 151| 144|
  0|Ασπ SDS PLUS 12       &#215;&numsp;350 μμ, BERGEN  |47|12       &#215;&numsp;350 μμ, BERGEN  |B+12350 | 177| 168| 162|
- 0|Ασπ SDS PLUS 12       &#215;&numsp;460 μμ, OPTIM   |47|12       &#215;&numsp;460 μμ, OPTIM   |791246  | 160| 150| 140||blue
  0|Ασπ SDS PLUS 12       &#215;&numsp;460 μμ, BERGEN  |47|12       &#215;&numsp;460 μμ, BERGEN  |B+12460 | 240| 225| 215|
  0|Ασπ SDS PLUS 12       &#215;&numsp;600 μμ, BERGEN  |47|12       &#215;&numsp;600 μμ, BERGEN  |B+12600 | 340| 325| 310||
  0|Ασπ SDS PLUS 12       &#215;1000       μμ, BERGEN  |47|12       &#215;1000       μμ, BERGEN  |B+121000| 730| 695| 675|
@@ -212,3 +209,17 @@
  0|Ασπ SDS PLUS 32       &#215;&numsp;600 μμ, BERGEN  |47|32       &#215;&numsp;600 μμ, BERGEN  |B+32600 |1890|1820|1780|
  0|Ασπ SDS PLUS 32       &#215;&numsp;800 μμ, BERGEN  |47|32       &#215;&numsp;800 μμ, BERGEN  |B+32800 |2450|2380|2330|
  0|Ασπ SDS PLUS 32       &#215;1000       μμ, BERGEN  |47|32       &#215;1000       μμ, BERGEN  |B+321000|2990|2900|2840|
+
+# 468|Ασπϋ οξ αεςξνσ δλÿ οεπτξπΰςξπΰ SDS Plus OPTIM
+ 1|Ασπ SDS PLUS &numsp;5 &#215;&numsp;160 μμ, OPTIM|468|&numsp;5 &#215;&numsp;160 μμ|790611| 42| 40| 39||norow |Ασπϋ οξ αεςξνσ δλÿ οεπτξπΰςξπΰ SDS Plus| OPTIM|||/img/pic/drill/small/BURY SDS PLUS.jpg|/img/pic/drill/big/BURY SDS PLUS.jpg
+ 0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;110 μμ, OPTIM|468|&numsp;6 &#215;&numsp;110 μμ|790611| 42| 40| 39||
+ 0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;160 μμ, OPTIM|468|&numsp;6 &#215;&numsp;160 μμ|790616| 46| 43| 41||
+ 0|Ασπ SDS PLUS &numsp;8 &#215;&numsp;600 μμ, OPTIM|468|&numsp;8 &#215;&numsp;600 μμ|790860|145|135|130||blkt2
+ 0|Ασπ SDS PLUS 10       &#215;&numsp;210 μμ, OPTIM|468|10       &#215;&numsp;210 μμ|791021| 74| 72| 69||blkt2
+ 0|Ασπ SDS PLUS 10       &#215;&numsp;310 μμ, OPTIM|468|10       &#215;&numsp;310 μμ|791031| 99| 94| 91||
+ 0|Ασπ SDS PLUS 10       &#215;&numsp;460 μμ, OPTIM|468|10       &#215;&numsp;460 μμ|791046|139|133|129||
+ 0|Ασπ SDS PLUS 12       &#215;&numsp;160 μμ, OPTIM|468|12       &#215;&numsp;160 μμ|791216| 59| 55| 52||blkt2
+ 0|Ασπ SDS PLUS 12       &#215;&numsp;260 μμ, OPTIM|468|12       &#215;&numsp;260 μμ|791226| 79| 75| 72||
+ 0|Ασπ SDS PLUS 12       &#215;&numsp;460 μμ, OPTIM|468|12       &#215;&numsp;460 μμ|791246| 89| 84| 82||
+ 0|Ασπ SDS PLUS 12       &#215;1000       μμ, OPTIM|468|12       &#215;1000       μμ|791210|400|385|375||
+ 0|Ασπ SDS PLUS 14       &#215;&numsp;260 μμ, OPTIM|468|14       &#215;&numsp;260 μμ|791426|135|129|125||blkt2
