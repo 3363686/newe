@@ -1,7 +1,4 @@
-/* !!! ? */
-/*.tmenu-tab {margin-bottom: -25px;}*/
-/* 30.04.14 */
-
+/* Normalize */
 abbr, acronym, .one-good .dop a, li span[title] {border-bottom: 1px dotted; }
 abbr, acronym {margin-bottom: -3px; font-style: italic; color: #007700}
 b abbr, b acronym, .dop abbr, .dop acronym, .title abbr, .title acronym {font-style: inherit; color: #005000}
@@ -21,10 +18,53 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .c {text-align: center;}
 .i {font-style: italic;}
 
-.phone .phones {line-height: 180%;}
+/* tmp
+.ny2017a  {padding-left: 5px; white-space: nowrap; font-family: Georgia serif; font-style: italic;}
+.ny2017a1 {font-size: 36px; font-weight: bold; color: #80b0ff;}
+.ny2017a2 {border: none; margin: 0px 3px 0px 0px;}
+.ny2017a3 {font-size: 42px; font-weight: bold; color: #ff2a2a;}
+.ny2017a4 {padding-left: 24px; line-height: 14px; font-size: 13px; color: #ff2a2a; }
+.ny2017w  {margin: -12px 0 0 15px; line-height: 14px; font-size: 13px; color: #ffffff; }
+.top-tab .address_top .adres {margin-top: 1px;}
+*/
+
+/**** Main & patches to DESIGN.CSS ****/
+/* top */
+/* .top-tab>tbody>tr>td>a>img {margin: 0px 0px 5px 23px !important;} */
+.phone {width: 240px; height: 43px; margin: 14px 0 0 40px; padding: 8px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
+.phone .phones {color: #fff; font-size: 28px; margin: 0; padding: 0 0px 0 5px;}
+.address_top {width: 100%;}
+.address_top .adres {font-size: 15px; line-height: 140%; padding: 0; margin: 20px 0 0 0; color: #fff; white-space: pre;}
+.address_top .adres a {color: #fff; text-decoration: none; font-size: 18px;}
+.address_top .adres a:hover {color: #fff; text-decoration: underline;}
+/* left menu */
+.lmenu {margin: 2px 0 12px; padding: 0;}
+.lmenu li {margin: 1px 0; padding: 0; font-size: 14px; line-height: 115%; text-align: left; list-style: none;}
+.lmenu li:hover, .lmenu li.open {background: url(/img/lmenu_bg.gif) right top repeat-y;}
+.lmenu li a, .lmenu li.open span {display: inline-block; width: 253px; padding: 5px 1px 4px 23px; background: url(/img/bull_left.gif) 6px center no-repeat; color: #fff; text-decoration: none;}
+.lmenu li.open span {color: #828e95;}
+.lmenu li.open > a {font-weight: bold; color: #faeac8;}
+/*2*/
+.lmenu li ul {margin: 0; padding: 0 0 0 15px;}
+.lmenu li ul li {margin: 1px 0; font-size: 13px; line-height: 115%;}
+.lmenu li ul li a, .lmenu li ul li.open span {width: 240px; padding: 4px 1px 3px 20px; background: url(/img/bull.gif) 6px center no-repeat;}
+.lmenu li ul li a:hover {text-decoration: underline;}
+.lmenu li ul li.open > a {font-weight: bold; color: #faeac8;}
+/*3*/
+.lmenu li ul li ul {margin: 0; padding: 0 0 0 10px;}
+.lmenu li ul li ul li {font-size: 12px; line-height: 110%;}
+.lmenu li ul li ul li a, .lmenu li ul li ul li.open span {width: 230px; background: none;}
 .call {line-height: 200%;}
 .tab .rub {font-weight: normal;}
-.info-cat { padding-top: 0; }
+.info-cat {padding: 0px 0 40px 15px;}
+td.white>div.about { padding-left: 12px;}
+.tmenu {padding: 0 11px;}
+.tmenu a {color: #eee;}
+.tmenu:nth-child(7) a {color: #fff;}
+.site_search {padding-left: 5px}
+.feedback {padding: 0 10px 0 8px;}
+.desc-good {padding: 5px 0px 0px 0;}
+.more_goods {width: 272px;}
 
 /*
 #cat107 .one-good td {vertical-align: top;}
@@ -39,22 +79,23 @@ span.artn {display: none;}
 .one-good a {text-decoration: none;}
 .one-good td {vertical-align: middle; padding-top:4px; padding-bottom:4px;}
 .one-good td td {vertical-align: middle; padding: 0 20px; line-height:90%;}
-.one-good td.good-txt {padding-top:0px; padding-bottom:4px;}
-/*.one-good td.good-txt .dop,*/ .one-good td.good-txt .addt {font-size: 90%; line-height: 100%;}
-.one-good.neat .addt {padding: .2ex 0 0 0;}
-.one-good .addt {padding: .2ex 0 0ex 0;}
-.one-good td.good-txt p {font-size: 100%; line-height: 100%; padding:0;}
+.one-good td.good-txt .addt {font-size: 90%; line-height: 100%;}
+.one-good td.good-txt {padding: 0px 2px 1px 1.5%;}
+.one-good.neat td.good-txt {padding-bottom: 1px;}
+.one-good .addt {padding: 1px 0 0ex 0;}
+.one-good td.good-txt p {font-size: 100%; line-height: 100%; padding:0; margin-left: -4px;}
+.one-good.neat td.good-txt p {line-height: 87.5%; padding-top: 1px;}
 .one-good td.nop p, .one-good td.nopnob p {display: none;}
 .one-good td.nop img {border: 1px solid #bbb;}
-.moregoods .one-good td.good-txt {vertical-align: middle; padding:2px 0 2px 1px;}
-.moregoods dt {white-space: nowrap;}
-.moregoods dd {font-weight: bold;}
+
+.desc-good .one-good.many.notable {margin-bottom: 25px !important}
+.tab.notable {display: none}
 
 .tab>tbody>tr>td {white-space: nowrap;}
 .tab tr+tr td+td  {text-align:center;}
-.tab.nocenter tr+tr td+td {text-align:left;}
-.tab.nocenter tr+tr td+td.tb {text-align:center;}
-.tab.allcenter tr td {text-align:center;}
+/*.tab*/.nocenter tr+tr td+td {text-align:left;}
+/*.tab*/.nocenter tr+tr td+td.tb {text-align:center;}
+/*.tab*/.allcenter tr td {text-align:center;}
 
 .tab tr.subhead {background-color:#d8ecff; /*font-weight:bold;*/}
 .tab tr.subhead td {padding-left:20px; }
@@ -78,8 +119,8 @@ body.ot37 td.choose {display: none;}
 .tab tr.sp2  {background-color: #f8f2ff;}
 
 .one-good.next {display: none;}
-.info-cat .tab.mult2 {width:48% !important; float:left; margin-bottom:15px;}
-.info-cat .tab.mult2.next {margin-left:4%;}
+.info-cat .tab.mult2 {width:49% !important; float:left; margin-bottom:15px;}
+.info-cat .tab.mult2.next {margin-left:2%;}
 /*.tab.mult2 td  {text-align:center;}*/
 .tab.mult2 tr.subhead td {text-align:left; padding-left: 10px; }
 
@@ -101,9 +142,11 @@ body.ot37 td.choose {display: none;}
 .one-good.inline .addt, .more_goods .addt {display: inline;}
 .one-good .larger {font-size: larger;}
 .one-good /*.title*/ strong {color:#ff0000; /*font-size: 130%; font-family: Times New Roman, serif;*/}
+.one-good .for   {display: block; font-style: italic; font-size: 14px; line-height: 95%;}
 
 .good-txt ul {padding: 0 0 0 25px;}
-.good-txt li {font-size: 80%; line-height: 90%; margin: 0 0 0 -15px; text-indent: -5px;}
+.good-txt>ul {padding: 0 0 0 20px;}
+.good-txt li {font-size: 80%; line-height: 90%; margin: 0 0 0 -15px; text-indent: -2px;}
 /*.good-txt li.inner {list-style-type: none; list-style-image: none;}*/
 .good-txt li.inner ul {margin-top: 2px; list-style-type: disc; list-style-image: none;}
 .good-txt li.inner li {font-size: 90%;}
@@ -135,8 +178,7 @@ html .good-txt dt {white-space: nowrap;}
 .one-good.rp .good-cart .price {color:#c90000;}
 .one-good.bp .good-cart .price {font-weight: bold;}
 /**/
-.one-good .good-cart{width: 7em;} /* 6.1 */
-/*.one-good .good-cart{width: 12.0ex;}*/
+.good-cart{width: 5em;}
 #cat199 .one-good .good-cart{width: 7.5em;} /* 6.6 */
 
 .one-good .addph * {margin-top: -20px;}
@@ -147,6 +189,11 @@ ul.vaca {margin:20px -12px 20px;}
 ul.vaca  li {list-style-type: none; list-style-image: none;}
 
 /*-*/
+.moregoods {width: 240px; background-color: #fff2e0; padding: 10px 9px 12px 11px; margin-top: -65px; margin-bottom: -35px;}
+.moregoods .one-good td.good-txt {vertical-align: middle; padding: 0px 4px 0px 12px;}
+.moregoods p {line-height: 110%;}
+.moregoods dt {white-space: nowrap;}
+.moregoods dd {font-weight: bold;}
 .more_goods dl {margin-top:0;}
 .more_goods dl * {display: inline; margin:0;}
 .more_goods dl a {text-decoration: none; color:#000;}
@@ -176,9 +223,9 @@ margin:0;}
 table.one-good.many.ltd, table.one-good.mono.ltd td.good-txt,
   table.tab.ltd tr, table.tab.ltdi tr.ltdl {background-color: #faf6e4 /*#f2f2fc*/;}
 table.tab.ltd:after, table.one-good.mono.ltd:after, table.tab.ltdi:after,
-table.tab.later0909:after, table.one-good.mono.later0909:after,
-table.tab.later1204:after, table.one-good.mono.later1204:after,
-table.tab.later2204:after, table.one-good.mono.later2204:after {
+table.tab.later0000:after, table.one-good.mono.later0000:after,
+table.tab.later0001:after, table.one-good.mono.later0001:after,
+table.tab.later1204:after, table.one-good.mono.later1204:after {
   font-weight: bold; font-size: 80%; line-height: 160%; border: none;
   width: 1px; white-space: nowrap; display: table-caption; caption-side: bottom;}
 table.one-good.mono.ltd:after { content: "Продажа этой позиции ограничена наличием на текущую дату."; }
@@ -186,14 +233,20 @@ table.tab.ltd:after      { content: "Продажа данных позиций 
 table.tab.ltd.one:after  { content: "Продажа данной позиции ограничена наличием на текущую дату."; }
 table.tab.ltdi.one:after { content: "* - Продажа отмеченной позиции ограничена наличием на текущую дату."; }
 table.tab.ltdi.two:after { content: "* - Продажа отмеченных позиций ограничена наличием на текущую дату."; }
+table.tab.ltdi.later_one:after { content: "* - Отмеченной позиции сейчас нет в продаже."; }
+table.tab.ltdi.later_two:after { content: "* - Отмеченных позиций сейчас нет в продаже."; }
 table.tab tr.ltdl td:before    { content: "* "; }
-table.tab tr.ltdl td.tb:before { content: ""; }
-table.tab.later0909:after, table.one-good.mono.later0909:after {
-  content: "Поставка ожидается в апреле 2016 г."; }
+table.tab tr.ltdl td.tb:before, table.tab tr.ltdl td.good-cart:before { content: ""; }
+table.tab.later0000:after, table.one-good.mono.later0000:after {
+  content: "Поставка ожидается в ближайшее время"; }
+table.tab.later0001:after, table.one-good.mono.later0001:after {
+  /*content: "Товар временно отсутствует в продаже"; }*/
+  content: "Поставка ожидается 14 ноября 2016 г."; }
 table.tab.later1204:after, table.one-good.mono.later1204:after {
-  content: "Поставка ожидается 12 апреля 2016 г."; }
-table.tab.later2204:after, table.one-good.mono.later2204:after {
-  content: "Поставка ожидается 9 июня 2016 г."; }
+  content: "Поставка ожидается в ноябре 2016 г."; }
+
+.cblock .desc.txt {color: #ee0000; font-size: 12px; padding: 2px 0 0 1px; white-space: nowrap; overflow: visible;}
+#cat424 .cblock {margin-bottom: 10px}
 
 table.one-good.sale1, table.tab.sale1 {background-color: #fff8f8;}
 table.tab tr.sale1 {background-color: #ffece8;}
@@ -213,16 +266,19 @@ table.tab tr.nocart td.good-cart a { display: none; }
 .K4000t { padding: 0px 0px 0px 10px; display: none; }
 .K4000:hover .K4000t { display: inline; }
 */
-.l1 {clear: both; color: #555; text-align: center; font-size: 24px; font-weight: bold; font-family: Times New Roman, serif; font-style: italic; margin: 6px 0px -12px 0;}
+.l1 {clear: both; color: #444; text-align: center; font-size: 24px; font-weight: bold; font-family: Times New Roman, serif; font-style: italic; margin: 0 18% -12px -20px; padding-top: 35px;}
 .l1a {font-weight: normal;}
 .main-info .l2 {color: #666; text-align: center; font-size: 16px; margin: 6px 0px -12px 0}
 .l3 {font-size: 22px; margin: 16px 0px -12px 0;
   display: block;
 }
 .main-info .l3 {margin-bottom: -12px;}
-.l1, .l2, .l3, div.ref {width: 101%;
+.l2, .l3, div.ref {width: 101%;
   margin-left: -18px;
 }
+
+.desc-good > b {font-size: 14px; display: block; margin-bottom: -16px;}
+.desc-good > a {color: #0000cc}
 
 .desc-good .ref .t {
   margin: 15px;
@@ -237,14 +293,20 @@ table.tab tr.nocart td.good-cart a { display: none; }
   margin: 15px;
   display: inline-block;
 }
+.ref {text-align: center; margin: 0px auto 0 auto;}
+div.ref.pdf {font-size: 17px; font-weight: normal; }
+div.ref.pdf a {font-weight: bold; }
+
+table.ref {}
+.ref .adv {padding: 20px 0px 0 0; vertical-align: middle; font-size: larger; font-weight: bold;}
 .ref .cblock {
   background-position: right center;
-  width: 215px;
-  margin-right: 15px;
+  width: 240px;
+  margin: 25px 10px 0px 25px;
 }
 .ref .cblock .arrow {padding-right: 0;}
-.ref .cblock .txt   {padding-left: 5px; font-size: 12px; line-height: 130%;}
-.ref .cblock .txt i {font-size: 14px; line-height: 130%;}
+.ref .cblock .txt   {padding: 0 0 1px 8px; font-size: 14px; line-height: 120%;}
+.ref .cblock .txt i {font-size: 14px;}
 .ref .cblock a, .ref .cblock a:hover      {color: #000000;}
 
 #nooferta {text-align: center; font-size: 75%; color: #555; line-height: 100%; padding:4px 23px 1px 23px;}
@@ -273,30 +335,15 @@ table.tab tr.nocart td.good-cart a { display: none; }
 .bgcolor2 {margin-bottom: 150px;}
 */
 
-div.ref {text-align: center; font-size: 14px; font-weight: bold; margin: 20px 0px 30px 0}
-div.ref.pdf {font-size: 17px; font-weight: normal; }
-div.ref.pdf a {font-weight: bold; }
-
 /* #cat199 .more_goods {display: none;} */
 /*#cat175 h1 {margin-bottom: -15px;}*/
 #cat175 .one-good {margin-top: 25px;}
-#cat175 .info-cat>table {margin-top: -30px;}
+#cat175 .more_goods {padding-top: 30px;}
+#cat175 .info-cat>table {margin-top: -19px;}
 #cat176 .one-good {margin-top: 35px;}
-#cat176 .info-cat>table {margin-top: -40px;}
+#cat176 .more_goods {padding-top: 40px;}
+#cat176 .info-cat>table {margin-top: -28px;}
 
-/*.more_goods {width:20%;}*/
-/*.moregoods {min-width:15em;max-width:17em;background-color:#fff8e0;padding: 8px 9px 12px 11px;}*/
-.moregoods {width: 240px; background-color: #fff2e0; padding: 8px 9px 12px 11px; }
-/*
-.moregoods div div {float: right; min-width:15em; max-width:17em;}
-*/
-
-.info-cat>table {width:100%;/*max-width:80em;*/}
-#cat33 .info-cat>table {width:auto;}
-.info-cat>table.cblock {width:282px;}
-/*
-.info-cat {margin-left: -48px; margin-right: 48px; padding-left: 6% !important;}
-*/
 .info {max-width: 42em; margin-left: -40px; padding-left: 6% !important;}
 .article p {text-align: justify;}
 .article a {text-decoration: none; color: inherit;}
@@ -306,7 +353,7 @@ div.ref.pdf a {font-weight: bold; }
 .help_newe_ru, .ad_newe_ru {font-size: 90%; text-align: center; color: #ff9911}
 .ad_newe_ru:hover {color: #ffbb55}
 
-body.ot2 .price-nds .q {display: none;}
+body.ot2 .price-nds .p2, body.ot2 .price-nds .p3 {display: none;}
 body.ot37 .desc-good {min-width: 24em;max-width:50em;}
 body.ot37 .price-nds {display: none;}
 body.ot16 .price-nds .p2,
@@ -316,7 +363,8 @@ body.ot37 .info-cat>table {position: relative;}
 p.subtit {position: absolute; top: -38px;}
 .price-none {font-weight: bold;}
 
-.desc-good {min-width: 26em;max-width:60em;}
+.desc-good {min-width: 40em;}
+/*
 #cat266 .desc-good,
 #cat32 .desc-good {min-width:28em;}
 #cat217 .desc-good, #cat29 .desc-good, #cat233 .desc-good,
@@ -334,31 +382,48 @@ p.subtit {position: absolute; top: -38px;}
 #cat1 .desc-good, #cat3 .desc-good,
 #cat107 .desc-good, #cat188 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
 #cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good, #cat293 .desc-good,
-#cat120 .desc-good {min-width:40em;}
-#cat175 .desc-good, #cat270 .desc-good, #cat191 .desc-good,
+#cat120 .desc-good, #cat191 .desc-good {min-width:40em;}
+*/
+#cat70  .desc-good
+{min-width:42em;}
+#cat175 .desc-good, #cat270 .desc-good,
 #cat247 .desc-good,
-#cat78 .desc-good, #cat279 .desc-good, #cat335 .desc-good,
-#cat235 .desc-good {min-width:44em;}
+#cat78  .desc-good, #cat279 .desc-good, #cat335 .desc-good, #cat148 .desc-good,
+#cat416 .desc-good,
+#cat235 .desc-good
+{min-width:44em;}
 #cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat379 .desc-good,
 #cat174 .desc-good, #cat176 .desc-good,
-#cat95 .desc-good {min-width:48em;}
-#cat302 .desc-good, #cat414 .desc-good, #cat78 .desc-good,
-#cat48 .desc-good {min-width:52em;}
-#cat422 .desc-good,
-#cat47 .desc-good {min-width:56em;}
+#cat95  .desc-good
+{min-width:48em;}
+#cat468 .desc-good
+{min-width:50em;}
+#cat414 .desc-good,
+#cat78 .desc-good,
+#cat47  .desc-good,
+#cat48  .desc-good
+{min-width:52em;}
+#cat422 .desc-good
+{min-width:56em;}
 /*
 */
-#cat234 .desc-good {max-width:45em;}
-#cat120 .desc-good,
-#cat235 .desc-good {max-width:55em;}
-#cat227 .desc-good, #cat195 .desc-good,
-#cat176 .desc-good {max-width:70em;}
-#cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat364 .desc-good, #cat379 .desc-good,
+/* table.top-tab {max-width: 1600px; margin: auto;} 70em=1120px -> 1698 px */
+.info-cat>table {width:100%;  /*margin: auto; max-width:80em;*/}
+.info-cat>table.cblock {width:282px;}
+.desc-good {max-width: 60em;}
+#cat227 .desc-good,
 #cat107 .desc-good, #cat95 .desc-good, #cat175 .desc-good,
+#cat176 .desc-good {max-width:70em;}
+#cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat364 .desc-good,
 #cat270 .desc-good {max-width:80em;}
 
 .ot37#cat175 .desc-good, .ot37#cat176 .desc-good,
 .ot37#cat270 .desc-good {min-width:40em; max-width:60em;}
+
+/*
+body#cat101 .ref {position: absolute; top: 140px; right: 272px; left: 680px;}
+body#cat101 h1 {padding: 20px 0 25px 0;}
+*/
 
 /*#cat333 .tab td {background-color: #fff8f8;}*/
 

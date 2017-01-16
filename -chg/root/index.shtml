@@ -5,12 +5,11 @@
 <!--#include virtual="/ssi/top-tmenu.shtml?$QUERY_STRING"-->
 <!--#include virtual="/ssi/lmenu-spo.shtml?$QUERY_STRING"-->
 <!--\\START\\-->
-<div style="margin:35px 0 0 10px;">
+<div class="info-cat" style="margin:5px 0 0 0;">
+<!-- div style="margin:35px 0 0 10px;" -->
 <!--#exec cgi="/pcgi/section_matrix_main.pl"-->
 <br clear="all" />
-<div class="main-info">
-<div class="l1">Доставка <span class="l1a">в пределах Москвы при заказе 50&thinsp;000&thinsp;руб.</span> бесплатно!</div>
-</div>
+  <div class="l1">Доставка <span class="l1a"> в пределах МКАД</span> <span class="l1a">при заказе свыше 20&thinsp;000&thinsp;руб.</span> бесплатно!</div>
 </div>
 <!--\\END\\-->
 <!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->

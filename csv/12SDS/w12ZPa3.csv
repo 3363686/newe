@@ -2,13 +2,13 @@
  1|«убило SDS Max&thinsp; &nbsp;        18&#215;25&#215;280 мм MATRIX|49|70341     | 295,00| 280,00| 265,00| |norow|«убила плоские SDS Max, SDS Plus||||/img/pic/drill/small/ZUBILA SDS.jpg|/img/pic/drill/big/ZUBILA SDS.jpg
  0|«убило SDS Max&thinsp; &nbsp;        18&#215;25&#215;280 мм MATRIX|49|70341     | 295,00| 280,00| 265,00||norow
  0|«убило SDS Max &nbsp; &nbsp; &nbsp; &nbsp;   25&#215;400 мм BERGEN|49|8525400   | 390,00| 370,00| 350,00|
-~0|«убило SDS Max &nbsp; &nbsp; &nbsp; &nbsp;  25&#215;400 мм HAGWERT|49|509008    | 545,00| 520,00| 510,00|
-~0|«убило SDS Max &nbsp; &nbsp; &nbsp; &nbsp;  25&#215;600 мм HAGWERT|49|509012    | 798,00| 770,00| 750,00|
+~0|«убило SDS Max &nbsp; &nbsp; &nbsp; &nbsp;  25&#215;400 мм HAGWERT|49|509008    | 495,00| 480,00| 465,00|
+~0|«убило SDS Max &nbsp; &nbsp; &nbsp; &nbsp;  25&#215;600 мм HAGWERT|49|509012    | 825,00| 795,00| 780,00|
  0|«убило SDS Max &nbsp; &nbsp; &nbsp; &nbsp;   40&#215;280 мм BERGEN|49|8510280   | 370,00| 350,00| 330,00|
  0|«убило SDS Max &nbsp; &nbsp; &nbsp; &nbsp;   40&#215;400 мм BERGEN|49|851340400 | 470,00| 440,00| 410,00|
  0|«убило SDS Max &nbsp; &nbsp; &nbsp; &nbsp;   40&#215;600 мм BERGEN|49|8510600   | 580,00| 540,00| 510,00|
  0|«убило SDS Max &nbsp; &nbsp; &nbsp; &nbsp;   50&#215;400 мм BERGEN|49|8550400   | 460,00| 430,00| 410,00|
-~0|«убило SDS Max &nbsp; &nbsp; &nbsp; &nbsp;  50&#215;400 мм HAGWERT|49|509009    | 770,00| 760,00| 740,00|
+~0|«убило SDS Max &nbsp; &nbsp; &nbsp; &nbsp;  50&#215;400 мм HAGWERT|49|509009    | 795,00| 775,00| 760,00|
  0|«убило SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;  18&#215;400 мм BERGEN|49|8101400   | 360,00| 330,00| 320,00||blkt
  0|«убило SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;  40&#215;250 мм BERGEN|49|81631425  | 360,00| 330,00| 320,00|
 ~0|«убило SDS Plus &nbsp; &nbsp; &nbsp; &nbsp; 40&#215;250 мм HAGWERT|49|509003    | 495,00| 460,00| 440,00|
@@ -35,7 +35,7 @@
  0|ѕика SDS Max &emsp; &nbsp; &nbsp; &nbsp;        18&#215;280 мм BERGEN|49|8502280| 330,00| 310,00| 290,00|
  0|ѕика SDS Max &emsp; &nbsp; &nbsp; &nbsp;        18&#215;400 мм BERGEN|49|8502400| 380,00| 350,00| 335,00|
  0|ѕика SDS Max &emsp; &nbsp; &nbsp; &nbsp;        18&#215;600 мм BERGEN|49|8502600| 520,00| 490,00| 470,00||
-~0|ѕика SDS Max &nbsp; &nbsp; &nbsp; &nbsp; &ensp; &emsp; 400 мм HAGWERT|49|509007 | 545,00| 520,00| 510,00|
+~0|ѕика SDS Max &nbsp; &nbsp; &nbsp; &nbsp; &ensp; &emsp; 400 мм HAGWERT|49|509007 | 490,00| 470,00| 455,00|
 ~0|ѕика SDS Max &nbsp; &nbsp; &nbsp; &nbsp; &ensp; &emsp; 600 мм HAGWERT|49|509011 | 898,00| 865,00| 845,00|
  0|ѕика SDS Plus&nbsp;6-гранна€                            400 мм BERGEN|49|8162400| 330,00| 310,00| 290,00||blkt
 ~0|ѕика SDS Plus&nbsp;кругла€ &nbsp;&nbsp;                250 мм HAGWERT|49|509001 | 285,00| 265,00| 250,00|
@@ -57,17 +57,3 @@
 
 #1|Ћопатка SDS Max&nbsp;                                40&#215;400|49|        |155|-||Ћопатки SDS Max
 #0|Ћопатка SDS Max&nbsp;                                40&#215;600|49|        |225|-
-
-#0|ѕика SDS Plus&nbsp;                  14&#215;400 6-гранна€ BERGEN|49|8162400 |179|177
-#0|ѕика SDS Plus&nbsp;                  14&#215;280 кругла€   BERGEN|49|8102280 |149|139
-#0|ѕика SDS Plus&nbsp;                  14&#215;400 кругла€   BERGEN|49|8102400 |168|159
-#0|ѕика SDS Plus&nbsp;                  14&#215;600 кругла€   BERGEN|49|8502600 |222|215
-
-#########################
-#########################
-#1|«убило SDS Max&nbsp;               18&#215;25&#215;280 MATRIX    |319|70341  |144||«убила плоские SDS Max||||/img/pic/drill/small/ZUBILA SDS.jpg|/img/pic/drill/big/ZUBILA SDS.jpg|5
-#0|«убило SDS Max&nbsp;               25&#215;50&#215;360 MATRIX    |319|70344  |211|norow
-#1|ѕика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;280 MATRIX|319|70346  |122||ѕики SDS Max, SDS Plus||||/img/pic/drill/small/PIKA SDS .jpg|/img/pic/drill/big/PIKA SDS .jpg|12
-##0|ѕика SDS Max &nbsp;  &nbsp; &nbsp; &nbsp;      18&#215;600 MATRIX|319|70348  |155
-#0|ѕика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;  14&#215;250 Ѕј–— - CrV|319|70303  |111|norow
-##0|ѕика SDS Plus &nbsp; &nbsp; &nbsp; &nbsp;      14&#215;250 MATRIX|319|70340  | 99
