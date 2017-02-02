@@ -241,7 +241,7 @@ table.tab.later0000:after, table.one-good.mono.later0000:after {
   content: "Поставка ожидается в ближайшее время"; }
 table.tab.later0001:after, table.one-good.mono.later0001:after {
   /*content: "Товар временно отсутствует в продаже"; }*/
-  content: "Поставка ожидается 1 февраля 2017 г."; }
+  content: "Поставка ожидается во второй половине февраля 2017 г."; }
 table.tab.later1204:after, table.one-good.mono.later1204:after {
   content: "Поставка ожидается в ноябре 2016 г."; }
 
