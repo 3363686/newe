@@ -113,10 +113,10 @@ body.ot37 td.choose {display: none;}
 .tab .thin td {color: #666; padding-top: 3px; line-height: 100%;}
 
 .tab tr.bold {font-weight: bold;}
-.tab tr.red  {background-color: #ffe4e0;}
+.tab tr.red  {background-color: #ffe6e6;}
 .tab tr.blue {background-color: #f0f4ff;}
-.tab tr.sp1  {background-color: #f6fcf6;}
-.tab tr.sp2  {background-color: #f8f2ff;}
+.tab tr.sp1  {background-color: #ecffec;}
+.tab tr.sp2  {background-color: #fceaff;}
 
 .one-good.next {display: none;}
 .info-cat .tab.mult2 {width:49% !important; float:left; margin-bottom:15px;}
@@ -142,7 +142,8 @@ body.ot37 td.choose {display: none;}
 .one-good.inline .addt, .more_goods .addt {display: inline;}
 .one-good .larger {font-size: larger;}
 .one-good /*.title*/ strong {color:#ff0000; /*font-size: 130%; font-family: Times New Roman, serif;*/}
-.one-good .for   {display: block; font-style: italic; font-size: 14px; line-height: 95%;}
+.one-good .for   {display: block; font-style: italic; font-size: 14px; margin: -2px 0 1px -1px;}
+.one-good .for.strong {color:#ff0000; font-weight: bold;}
 
 .good-txt ul {padding: 0 0 0 25px;}
 .good-txt>ul {padding: 0 0 0 20px;}
@@ -243,7 +244,7 @@ table.tab.later0001:after, table.one-good.mono.later0001:after {
   /*content: "Товар временно отсутствует в продаже"; }*/
   content: "Поставка ожидается во второй половине февраля 2017 г."; }
 table.tab.later1204:after, table.one-good.mono.later1204:after {
-  content: "Поставка ожидается в ноябре 2016 г."; }
+  content: "Поставка ожидается 15 февраля 2017 г."; }
 
 .cblock .desc.txt {color: #ee0000; font-size: 12px; padding: 2px 0 0 1px; white-space: nowrap; overflow: visible;}
 #cat424 .cblock {margin-bottom: 10px}
@@ -297,7 +298,14 @@ table.tab tr.nocart td.good-cart a { display: none; }
 div.ref.pdf {font-size: 17px; font-weight: normal; }
 div.ref.pdf a {font-weight: bold; }
 
-table.ref {}
+div.refbanner {padding-right: 269px; }
+.refbanner table {margin: auto;}
+.refbantab {background-color: #f0e8ff; padding: 1px 12px 10px;}
+.refbanner a { color: #000; text-decoration: none;}
+.refbanner tr.hdr {font-size: 18px;}
+.refbanner tr.sub {font-size: 12px; line-height: 4px;}
+.refbanner td {text-align: center;}
+
 .ref .adv {padding: 20px 0px 0 0; vertical-align: middle; font-size: larger; font-weight: bold;}
 .ref .cblock {
   background-position: right center;
