@@ -19,6 +19,8 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .i {font-style: italic;}
 
 /* tmp
+div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
+.addtop1 {color: #eeeeff; font-size: 20px; margin: 8px 0 0 12px;}
 .ny2017a  {padding-left: 5px; white-space: nowrap; font-family: Georgia serif; font-style: italic;}
 .ny2017a1 {font-size: 36px; font-weight: bold; color: #80b0ff;}
 .ny2017a2 {border: none; margin: 0px 3px 0px 0px;}
@@ -109,7 +111,9 @@ span.artn {display: none;}
 
 td.choose {text-align: center;}
 body.ot37 td.choose {display: none;}
-.nocart   td.choose a {display: none;}
+body.ot36 td.choose {width: 20px; padding: 2px; }
+body.ot36 td.choose a {font-size: 0; width: 16px; height: 16px; background-image: url("/img/design/cart16.png")}
+.nocart, .subhead  td.choose a {display: none;}
 .tab .thin td {color: #666; padding-top: 3px; line-height: 100%;}
 
 .tab tr.bold {font-weight: bold;}
@@ -142,7 +146,7 @@ body.ot37 td.choose {display: none;}
 .one-good.inline .addt, .more_goods .addt {display: inline;}
 .one-good .larger {font-size: larger;}
 .one-good /*.title*/ strong {color:#ff0000; /*font-size: 130%; font-family: Times New Roman, serif;*/}
-.one-good .for   {display: block; font-style: italic; font-size: 14px; margin: -2px 0 1px -1px;}
+.one-good .for   {display: block; font-style: italic; font-size: 14px; margin: 0 0 2px -1px; line-height: 85%}
 .one-good .for.strong {color:#ff0000; font-weight: bold;}
 
 .good-txt ul {padding: 0 0 0 25px;}
@@ -154,13 +158,16 @@ body.ot37 td.choose {display: none;}
 .good-txt ul.deep>li {font-weight: bold;}
 .good-txt ul.deep li li {font-size: 100%; line-height: 95%; margin: 0 0 0 -5px; text-indent: -5px; list-style-type: square; list-style-image: none;}
 .good-txt ul.deep li li li {font-size: 92%; line-height: 95%; list-style-type: disc; list-style-image: none;}
-.good-txt dl {font-size: 80%; line-height: 95%; max-width: 40em; margin: auto; margin-top: .1em; }
+.good-txt dl {font-size: 80%; line-height: 95%; max-width: 30em; margin: 2px auto auto -40px; padding-left: 10%;}
+#cat120 .good-txt dl {max-width: 25em;}
+#cat216 .good-txt dl {max-width: 34em;}
+#cat199 .good-txt dl, #cat297 .good-txt dl {max-width: 39em;}
 /*.good-txt dt {font-style: italic; float: left; clear: right;}*/
 .good-txt dd {white-space: nowrap;}
 html .good-txt dt {white-space: nowrap;}
 .good-txt dt {font-style: italic; float: left; clear: both;}
 .good-txt dt.sub {clear: both; text-indent: 1em;}
-.good-txt dd {font-weight: bold; float: right; clear: right; margin: 0 6px; overflow: visible;}
+.good-txt dd {font-weight: bold; float: right; clear: right; margin: 0 2px; overflow: visible;}
 .good-txt br {clear: both; margin: .2ex 0 .0ex 0;}
 .good-txt p {clear: both;}
 .one-good .good-cart .price {padding: 1px 2px 1px 2px;}
@@ -392,7 +399,7 @@ p.subtit {position: absolute; top: -38px;}
 #cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good, #cat293 .desc-good,
 #cat120 .desc-good, #cat191 .desc-good {min-width:40em;}
 */
-#cat70  .desc-good
+#cat70  .desc-good, #cat548 .desc-good
 {min-width:42em;}
 #cat175 .desc-good, #cat270 .desc-good,
 #cat247 .desc-good,
