@@ -39,6 +39,7 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .address_top .adres {font-size: 15px; line-height: 140%; padding: 0; margin: 20px 0 0 0; color: #fff; white-space: pre;}
 .address_top .adres a {color: #fff; text-decoration: none; font-size: 18px;}
 .address_top .adres a:hover {color: #fff; text-decoration: underline;}
+.top-cert {padding: 2px 12px 5px 30px;}
 /* left menu */
 .lmenu {margin: 2px 0 12px; padding: 0;}
 .lmenu li {margin: 1px 0; padding: 0; font-size: 14px; line-height: 115%; text-align: left; list-style: none;}
@@ -251,7 +252,7 @@ table.tab.later0001:after, table.one-good.mono.later0001:after {
   /*content: "Товар временно отсутствует в продаже"; }*/
   content: "Поставка ожидается во второй половине февраля 2017 г."; }
 table.tab.later1204:after, table.one-good.mono.later1204:after {
-  content: "Поставка ожидается 15 февраля 2017 г."; }
+  content: "Поставка ожидается 26 февраля 2017 г."; }
 
 .cblock .desc.txt {color: #ee0000; font-size: 12px; padding: 2px 0 0 1px; white-space: nowrap; overflow: visible;}
 #cat424 .cblock {margin-bottom: 10px}
@@ -283,6 +284,20 @@ table.tab tr.nocart td.good-cart a { display: none; }
 .main-info .l3 {margin-bottom: -12px;}
 .l2, .l3, div.ref {width: 101%;
   margin-left: -18px;
+}
+
+.top-pic a {position: relative;}
+.ftitle:hover{white-space:pre;}
+.ftitle:hover::after {
+  content: attr(data-title); /* Выводим текст */
+  /*width: 200px*/; position: absolute; /* Абсолютное позиционирование */
+  left: -80px; top: 20px; /* Положение подсказки */
+  z-index: 1; /* Отображаем подсказку поверх других элементов */
+  color:#000; background: rgba(255,255,204,0.8); /* Полупрозрачный цвет фона */
+  font-family: Arial, sans-serif; /* Гарнитура шрифта */
+  font-size: 12px; /* Размер текста подсказки */
+  padding: 10px 15px; /* Поля */
+  border: 1px solid #666; /* Параметры рамки */
 }
 
 .desc-good > b {font-size: 14px; display: block; margin-bottom: -16px;}
@@ -364,6 +379,8 @@ div.refbanner {padding-right: 269px; }
 .article a {text-decoration: none; color: inherit;}
 .article li {margin: 2px 0;}
 .article ul {margin: -2px 0 10px 0;}
+table.gal {width: 90%; margin: auto;}
+table.gal img {border: 1px solid #777; margin: 15px 12px 20px;}
 .info .right {float: right; font-style: italic; font-size: 125%; padding: 10px 5em 0 0;}
 .help_newe_ru, .ad_newe_ru {font-size: 90%; text-align: center; color: #ff9911}
 .ad_newe_ru:hover {color: #ffbb55}
