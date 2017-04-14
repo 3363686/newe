@@ -1,8 +1,10 @@
 <table cellpadding="0" class="top-tab">
-<tr valign="top">
-<td ><a href="/index.shtml" title="На главную"><img src="/img/logo.gif?-3" style="margin: 0 0 5px 23px;" alt="ООО Экватор" /></a></td>
-<td class="top-main"><div class="phone"><p class="phones"><!--#include virtual="/pcgi/infoblock.pl?4"--></p></div></td>
-<td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p></td>
+  <tr valign="top">
+    <td rowspan="3"><a href="/index.shtml" title="На главную"><img src="/img/logo.gif?-3" style="margin: 0 0 5px 23px;" alt="ООО Экватор" /></a></td>
+    <td class="top-main"><div class="phone"><p class="phones"><!--#include virtual="/pcgi/infoblock.pl?4"--></p></div></td>
+    <td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p>
+    </td></tr><tr><td class="ny2017a" colspan="2"><span class="ny2017a1">Новогодняя акция</span> <img class="ny2017a2" src="\img\snow.png"> <span class="ny2017a3">скидка 10% на всё!</span>
+</td></tr><tr><td class="ny2017a4" colspan="2">Акция проводится с <b>19</b> по <b>27</b> декабря 2016 г. &nbsp; <b>Условие:</b> Выписанный счет действителен 2 рабочих дня.
 <td class="top-cert"><a href="/about/index.shtml"><img src="/img/design/cert/small/all_cert.gif"><!-- img src="/img/design/cert/small/all_cert.jpg"><img src="/img/design/cert/small/all_cert.png" --></a>
 </td></tr><tr><td colspan="4">
   <table cellpadding="0" class="tmenu-tab">

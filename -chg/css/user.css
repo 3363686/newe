@@ -19,6 +19,7 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .i {font-style: italic;}
 
 /* tmp
+*/
 div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
 .addtop1 {color: #eeeeff; font-size: 20px; margin: 8px 0 0 12px;}
 .ny2017a  {padding-left: 5px; white-space: nowrap; font-family: Georgia serif; font-style: italic;}
@@ -28,7 +29,6 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .ny2017a4 {padding-left: 24px; line-height: 14px; font-size: 13px; color: #ff2a2a; }
 .ny2017w  {margin: -12px 0 0 15px; line-height: 14px; font-size: 13px; color: #ffffff; }
 .top-tab .address_top .adres {margin-top: 1px;}
-*/
 
 /**** Main & patches to DESIGN.CSS ****/
 /* top */
@@ -119,7 +119,8 @@ body.ot36 td.choose a {font-size: 0; width: 16px; height: 16px; background-image
 
 .tab tr.bold {font-weight: bold;}
 .tab tr.red  {background-color: #ffe6e6;}
-.tab tr.blue {background-color: #f0f4ff;}
+.dop .blue   {background-color: #e6eaff; padding: 0px 8px 1px 4px;}
+.tab tr.blue {background-color: #ecf0ff;}
 .tab tr.sp1  {background-color: #ecffec;}
 .tab tr.sp2  {background-color: #fceaff;}
 
@@ -230,18 +231,21 @@ margin:0;}
 #specoffers_page .spof :last-child .red {font-size: 150%;}
 
 table.one-good.many.ltd, table.one-good.mono.ltd td.good-txt,
-  table.tab.ltd tr, table.tab.ltdi tr.ltdl {background-color: #faf6e4 /*#f2f2fc*/;}
+table.tab.ltd tr, table.tab.ltdi tr.ltdl {background-color: #faf6e4 /*#f2f2fc*/;}
+table.one-good.many.later0001, table.one-good.mono.later0001 td.good-txt,
+table.tab.later0001 tr,                  {background-color: #f6f6f8;}
 table.tab.ltd:after, table.one-good.mono.ltd:after, table.tab.ltdi:after,
+table.tab.sale1:after, table.one-good.mono.sale1:after,
 table.tab.later0000:after, table.one-good.mono.later0000:after,
 table.tab.later0001:after, table.one-good.mono.later0001:after,
 table.tab.later1204:after, table.one-good.mono.later1204:after {
   font-weight: bold; font-size: 80%; line-height: 160%; border: none;
   width: 1px; white-space: nowrap; display: table-caption; caption-side: bottom;}
 table.one-good.mono.ltd:after { content: "Продажа этой позиции ограничена наличием на текущую дату."; }
-table.tab.ltd:after      { content: "Продажа данных позиций ограничена наличием на текущую дату."; }
-table.tab.ltd.one:after  { content: "Продажа данной позиции ограничена наличием на текущую дату."; }
-table.tab.ltdi.one:after { content: "* - Продажа отмеченной позиции ограничена наличием на текущую дату."; }
-table.tab.ltdi.two:after { content: "* - Продажа отмеченных позиций ограничена наличием на текущую дату."; }
+table.tab.ltd:after     , table.tab.sale1:after      { content: "Продажа данных позиций ограничена наличием на текущую дату."; }
+table.tab.ltd.one:after , table.tab.sale1.one:after  { content: "Продажа данной позиции ограничена наличием на текущую дату."; }
+table.tab.ltdi.one:after, table.tab.sale1i.one:after { content: "* - Продажа отмеченной позиции ограничена наличием на текущую дату."; }
+table.tab.ltdi.two:after, table.tab.sale1i.two:after { content: "* - Продажа отмеченных позиций ограничена наличием на текущую дату."; }
 table.tab.ltdi.later_one:after { content: "* - Отмеченной позиции сейчас нет в продаже."; }
 table.tab.ltdi.later_two:after { content: "* - Отмеченных позиций сейчас нет в продаже."; }
 table.tab tr.ltdl td:before    { content: "* "; }
@@ -249,10 +253,10 @@ table.tab tr.ltdl td.tb:before, table.tab tr.ltdl td.good-cart:before { content:
 table.tab.later0000:after, table.one-good.mono.later0000:after {
   content: "Поставка ожидается в ближайшее время"; }
 table.tab.later0001:after, table.one-good.mono.later0001:after {
-  /*content: "Товар временно отсутствует в продаже"; }*/
-  content: "Поставка ожидается во второй половине февраля 2017 г."; }
+  content: "Товар временно отсутствует в продаже"; }
 table.tab.later1204:after, table.one-good.mono.later1204:after {
-  content: "Поставка ожидается 26 февраля 2017 г."; }
+content: "Поставка ожидается 26 февраля 2017 г."; }
+/* content: "Поставка ожидается во второй половине февраля 2017 г."; } */
 
 .cblock .desc.txt {color: #ee0000; font-size: 12px; padding: 2px 0 0 1px; white-space: nowrap; overflow: visible;}
 #cat424 .cblock {margin-bottom: 10px}
@@ -428,7 +432,7 @@ p.subtit {position: absolute; top: -38px;}
 #cat174 .desc-good, #cat176 .desc-good,
 #cat95  .desc-good
 {min-width:48em;}
-#cat468 .desc-good
+#cat468 .desc-good, #cat414 .desc-good
 {min-width:50em;}
 #cat78 .desc-good,
 #cat47  .desc-good,
