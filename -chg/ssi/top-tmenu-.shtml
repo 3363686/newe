@@ -8,6 +8,17 @@
     </td></tr><tr><td colspan="4">
   <table cellpadding="0" class="tmenu-tab">
 ======================================================================
+    <table cellpadding="0" class="top-tab">
+      <tr valign="top">
+        <td rowspan="3"><a href="/index.shtml" title="На главную"><img src="/img/logo.gif?-3" style="margin: 0 0 5px 23px;" alt="ООО Экватор" /></a></td>
+        <td class="top-main"><div class="phone"><p class="phones"><!--#include virtual="/pcgi/infoblock.pl?4"--></p></div></td>
+        <td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p>
+        <td rowspan="3" class="top-cert"><a href="/about/index.shtml"><img src="/img/design/cert/small/all_cert.gif"></a>
+        </td></tr><tr><td class="ny2017a" colspan="2"><span class="ny2017a1">Акция: </span><span class="ny2017a3">скидка 10% на всё*!</span>
+    </td></tr><tr><td class="ny2017a4" colspan="2">&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<b>*</b> &mdash; Акция не распространяется на <b>Электроинструмент</b> и <b>Электроды</b>.<br>Акция проводится с <b>17</b> по <b>21</b> апреля 2017 г. &nbsp; &nbsp; &nbsp;<b>Условие:</b> Выписанный счет действителен <b>2</b> рабочих дня.
+    </td></tr><tr><td colspan="4">
+      <table cellpadding="0" class="tmenu-tab">
+
 <td class="top-pic"><a target="_blank" href="https://google.gik-team.com/?q=%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D1%81+8+%D0%BC%D0%B0%D1%80%D1%82%D0%B0" class="ftitle" data-title="Самых красивых, обаятельных, любимых, привлекательных&#xa;ООО `Экватор' поздравляет с праздником 8 марта!&#xa;&#xa;&#x9;Спасибо вам за вашу доброту!&#xa;&#x9;За ваше русское великое терпенье,&#xa;&#x9;За лишний нерабочий день в году,&#xa;&#x9;За день обычный, ставший воскресеньем!"><img style="margin: 0px 35px 0 0" src="/img/design/08-03-17.png"></a></td>
 <td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p>
 </td></tr><tr><td colspan="4">

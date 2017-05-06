@@ -19,16 +19,17 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .i {font-style: italic;}
 
 /* tmp
-*/
 div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
 .addtop1 {color: #eeeeff; font-size: 20px; margin: 8px 0 0 12px;}
-.ny2017a  {padding-left: 5px; white-space: nowrap; font-family: Georgia serif; font-style: italic;}
-.ny2017a1 {font-size: 36px; font-weight: bold; color: #80b0ff;}
+.ny2017a  {padding-left: 40px; white-space: nowrap; font-family: Georgia serif; font-style: italic;}
+.ny2017a1 {font-size: 34px; font-weight: bold; color: #dddddd; line-height: 28px;}
 .ny2017a2 {border: none; margin: 0px 3px 0px 0px;}
-.ny2017a3 {font-size: 42px; font-weight: bold; color: #ff2a2a;}
-.ny2017a4 {padding-left: 24px; line-height: 14px; font-size: 13px; color: #ff2a2a; }
-.ny2017w  {margin: -12px 0 0 15px; line-height: 14px; font-size: 13px; color: #ffffff; }
-.top-tab .address_top .adres {margin-top: 1px;}
+.ny2017a3 {font-size: 60px; font-weight: bold; color: #00f8ff; line-height: 20px;}
+.ny2017a4 {padding-left: 39px; line-height: 14px; font-size: 13px; color: #eeeeee;}
+.ny2017a4 b {color: #ffffff;}
+.ny2017w  {margin: -12px 0 0 15px; line-height: 14px; font-size: 13px; color: #ffffff;}
+.top-tab .address_top .adres {margin-top: -1px;}
+*/
 
 /**** Main & patches to DESIGN.CSS ****/
 /* top */
@@ -39,24 +40,24 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .address_top .adres {font-size: 15px; line-height: 140%; padding: 0; margin: 20px 0 0 0; color: #fff; white-space: pre;}
 .address_top .adres a {color: #fff; text-decoration: none; font-size: 18px;}
 .address_top .adres a:hover {color: #fff; text-decoration: underline;}
-.top-cert {padding: 2px 12px 5px 30px;}
+.top-cert {vertical-align: middle; padding: 0px 12px 0px 30px;}
 /* left menu */
 .lmenu {margin: 2px 0 12px; padding: 0;}
-.lmenu li {margin: 1px 0; padding: 0; font-size: 14px; line-height: 115%; text-align: left; list-style: none;}
+.lmenu li {margin: 1px 0; padding: 0; font-size: 14px; line-height: 12px; text-align: left; list-style: none;}
 .lmenu li:hover, .lmenu li.open {background: url(/img/lmenu_bg.gif) right top repeat-y;}
-.lmenu li a, .lmenu li.open span {display: inline-block; width: 253px; padding: 5px 1px 4px 23px; background: url(/img/bull_left.gif) 6px center no-repeat; color: #fff; text-decoration: none;}
+.lmenu li a, .lmenu li.open span {display: inline-block; width: 253px; padding: 7px 1px 6px 23px; background: url(/img/bull_left.gif) 6px center no-repeat; color: #fff; text-decoration: none;}
 .lmenu li.open span {color: #828e95;}
 .lmenu li.open > a {font-weight: bold; color: #faeac8;}
 /*2*/
 .lmenu li ul {margin: 0; padding: 0 0 0 15px;}
-.lmenu li ul li {margin: 1px 0; font-size: 13px; line-height: 115%;}
-.lmenu li ul li a, .lmenu li ul li.open span {width: 240px; padding: 4px 1px 3px 20px; background: url(/img/bull.gif) 6px center no-repeat;}
+.lmenu li ul li {margin: 1px 0; font-size: 13px; line-height: 11px;}
+.lmenu li ul li a, .lmenu li ul li.open span {width: 240px; padding: 5px 1px 6px 20px; background: url(/img/bull.gif) 6px center no-repeat;}
 .lmenu li ul li a:hover {text-decoration: underline;}
 .lmenu li ul li.open > a {font-weight: bold; color: #faeac8;}
 /*3*/
-.lmenu li ul li ul {margin: 0; padding: 0 0 0 10px;}
-.lmenu li ul li ul li {font-size: 12px; line-height: 110%;}
-.lmenu li ul li ul li a, .lmenu li ul li ul li.open span {width: 230px; background: none;}
+.lmenu li ul li ul {margin: 0 0 0 30px; padding: 0;}
+.lmenu li ul li ul li {font-size: 12px; line-height: 13px; color: #ff9900; list-style-type: disc;}
+.lmenu li ul li ul li a, .lmenu li ul li ul li.open span {width: 230px; padding: 3px 1px 4px 0px; background: none;}
 .call {line-height: 200%;}
 .tab .rub {font-weight: normal;}
 .info-cat {padding: 0px 0 40px 15px;}
@@ -114,15 +115,17 @@ td.choose {text-align: center;}
 body.ot37 td.choose {display: none;}
 body.ot36 td.choose {width: 20px; padding: 2px; }
 body.ot36 td.choose a {font-size: 0; width: 16px; height: 16px; background-image: url("/img/design/cart16.png")}
-.nocart, .subhead  td.choose a {display: none;}
+.nocart td.choose a, .subhead  td.choose a {display: none;}
 .tab .thin td {color: #666; padding-top: 3px; line-height: 100%;}
 
 .tab tr.bold {font-weight: bold;}
 .tab tr.red  {background-color: #ffe6e6;}
-.dop .blue   {background-color: #e6eaff; padding: 0px 8px 1px 4px;}
 .tab tr.blue {background-color: #ecf0ff;}
+.dop .blue   {background-color: #e6eaff; padding: 0px 8px 1px 4px;}
 .tab tr.sp1  {background-color: #ecffec;}
+.dop .sp1    {background-color: #dcffdc; padding: 0px 8px 1px 4px;}
 .tab tr.sp2  {background-color: #fceaff;}
+.dop .sp2    {background-color: #fae0ff; padding: 0px 8px 1px 4px;}
 
 .one-good.next {display: none;}
 .info-cat .tab.mult2 {width:49% !important; float:left; margin-bottom:15px;}
@@ -324,7 +327,7 @@ table.tab tr.nocart td.good-cart a { display: none; }
 div.ref.pdf {font-size: 17px; font-weight: normal; }
 div.ref.pdf a {font-weight: bold; }
 
-div.refbanner {padding-right: 269px; }
+div.refbanner page {padding-right: 269px; }
 .refbanner table {margin: auto;}
 .refbantab {background-color: #f0e8ff; padding: 1px 12px 10px;}
 .refbanner a { color: #000; text-decoration: none;}
@@ -420,7 +423,7 @@ p.subtit {position: absolute; top: -38px;}
 #cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good, #cat293 .desc-good,
 #cat120 .desc-good, #cat191 .desc-good {min-width:40em;}
 */
-#cat70  .desc-good, #cat548 .desc-good
+#cat70  .desc-good, #cat522 .desc-good, #cat548 .desc-good
 {min-width:42em;}
 #cat175 .desc-good, #cat270 .desc-good,
 #cat247 .desc-good,
