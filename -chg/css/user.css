@@ -21,15 +21,19 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 /* tmp
 div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
 .addtop1 {color: #eeeeff; font-size: 20px; margin: 8px 0 0 12px;}
-.ny2017a  {padding-left: 40px; white-space: nowrap; font-family: Georgia serif; font-style: italic;}
-.ny2017a1 {font-size: 34px; font-weight: bold; color: #dddddd; line-height: 28px;}
-.ny2017a2 {border: none; margin: 0px 3px 0px 0px;}
-.ny2017a3 {font-size: 60px; font-weight: bold; color: #00f8ff; line-height: 20px;}
+.ny2017a1 {font-size: 24px; font-weight: bold; color: #00f8ff; line-height: 28px;}
 .ny2017a4 {padding-left: 39px; line-height: 14px; font-size: 13px; color: #eeeeee;}
 .ny2017a4 b {color: #ffffff;}
 .ny2017w  {margin: -12px 0 0 15px; line-height: 14px; font-size: 13px; color: #ffffff;}
-.top-tab .address_top .adres {margin-top: -1px;}
 */
+div.phone {margin-top: 2px;}
+.top-tab .address_top .adres {margin-top: 8px;}
+.ny2017a  {padding-left: 84px; white-space: nowrap; font-family: Georgia serif; font-style: italic;}
+.ny2017a1 {font-size: 24px; font-weight: bold; color: #00f8ff; line-height: 28px;}
+.ny2017a1 {font-size: 24px; font-weight: bold; color: #dddddd; line-height: 28px;}
+.ny2017a2 {border: none; margin: 0px 3px 0px 0px;}
+.ny2017a3 {font-size: 30px; font-weight: bold; color: #00f8ff; line-height: 20px;}
+.ny2017a3 {font-size: 30px; font-weight: bold; color: #ffffff; line-height: 20px;}
 
 /**** Main & patches to DESIGN.CSS ****/
 /* top */
@@ -126,6 +130,7 @@ body.ot36 td.choose a {font-size: 0; width: 16px; height: 16px; background-image
 .dop .sp1    {background-color: #dcffdc; padding: 0px 8px 1px 4px;}
 .tab tr.sp2  {background-color: #fceaff;}
 .dop .sp2    {background-color: #fae0ff; padding: 0px 8px 1px 4px;}
+li.ui-menu-item {background-color: #f0f0e0;}
 
 .one-good.next {display: none;}
 .info-cat .tab.mult2 {width:49% !important; float:left; margin-bottom:15px;}
@@ -239,6 +244,7 @@ table.one-good.many.later0001, table.one-good.mono.later0001 td.good-txt,
 table.tab.later0001 tr,                  {background-color: #f6f6f8;}
 table.tab.ltd:after, table.one-good.mono.ltd:after, table.tab.ltdi:after,
 table.tab.sale1:after, table.one-good.mono.sale1:after,
+table.tab.callprice:after, table.one-good.mono.callprice:after,
 table.tab.later0000:after, table.one-good.mono.later0000:after,
 table.tab.later0001:after, table.one-good.mono.later0001:after,
 table.tab.later1204:after, table.one-good.mono.later1204:after {
@@ -253,6 +259,8 @@ table.tab.ltdi.later_one:after { content: "* - Отмеченной позици
 table.tab.ltdi.later_two:after { content: "* - Отмеченных позиций сейчас нет в продаже."; }
 table.tab tr.ltdl td:before    { content: "* "; }
 table.tab tr.ltdl td.tb:before, table.tab tr.ltdl td.good-cart:before { content: ""; }
+table.tab.callprice:after, table.one-good.mono.callprice:after {
+  content: "Цена по запросу"; }
 table.tab.later0000:after, table.one-good.mono.later0000:after {
   content: "Поставка ожидается в ближайшее время"; }
 table.tab.later0001:after, table.one-good.mono.later0001:after {

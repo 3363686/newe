@@ -1,12 +1,13 @@
 <table cellpadding="0" class="top-tab">
   <tr valign="top">
-    <td ><a href="/index.shtml" title="На главную"><img src="/img/logo.gif?-3" style="margin: 0 0 5px 23px;" alt="ООО Экватор" /></a></td>
+    <td rowspan="2"><a href="/index.shtml" title="На главную"><img src="/img/logo.gif?-3" style="margin: 0 0 5px 23px;" alt="ООО Экватор" /></a></td>
     <td class="top-main"><div class="phone"><p class="phones"><!--#include virtual="/pcgi/infoblock.pl?4"--></p></div></td>
-    <td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p></td>
-    <td class="top-cert"><a href="/about/index.shtml"><img src="/img/design/cert/small/all_cert.gif"><!-- img src="/img/design/cert/small/all_cert.jpg"><img src="/img/design/cert/small/all_cert.png" --></a>
-    </td></tr><tr><td colspan="4">
+    <td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p>
+    <td rowspan="2" class="top-cert"><a href="/about/index.shtml"><img src="/img/design/cert/small/all_cert.gif"></a>
+    </td></tr><tr><td class="ny2017a" colspan="2"><span class="ny2017a1">Курьерская доставка в пределах МКАД:</span><span class="ny2017a3"> 250 руб.</span>
+</td></tr><tr><td colspan="4">
   <table cellpadding="0" class="tmenu-tab">
-    <tr><td><table cellpadding="0" width="100%"><tr>
+  <tr><td><table cellpadding="0" width="100%"><tr>
       <!--#exec cgi="/pcgi/main-menu.pl"-->
       <!--#exec cgi="/pcgi/cart_info.pl"-->
       <td align="right" class="site_search">
