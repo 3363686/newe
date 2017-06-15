@@ -12,11 +12,11 @@
       <!--#exec cgi="/pcgi/cart_info.pl"-->
       <td align="right" class="site_search">
         <div class="site_search1">
-        <form method="get" action="/search/">
+        <form method="get" action="#">
         <table>
           <tr>
-            <td><input name="text" placeholder="Поиск по сайту" maxlength="200" class="txt" /></td>
-            <td><input type="submit" class="b_search" value="Найти" /><input type="hidden" value="newe" name="r" /></td>
+            <td><input name="label" placeholder="Поиск по товарам" maxlength="200" id="good_srch" class="txt" autocomplete="off"></td>
+            <td></td>
             <td align="right" class="feedback" valign="middle"><div class="send-mail1"><!--#exec cgi="/pcgi/send-mail-top.pl"--></div></td>
           </tr>
         </table>
@@ -26,4 +26,3 @@
     </tr></table>
     </td>
   </tr></table>
-

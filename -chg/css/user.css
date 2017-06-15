@@ -251,12 +251,13 @@ table.tab.later1204:after, table.one-good.mono.later1204:after {
   font-weight: bold; font-size: 80%; line-height: 160%; border: none;
   width: 1px; white-space: nowrap; display: table-caption; caption-side: bottom;}
 table.one-good.mono.ltd:after { content: "Продажа этой позиции ограничена наличием на текущую дату."; }
-table.tab.ltd:after     , table.tab.sale1:after      { content: "Продажа данных позиций ограничена наличием на текущую дату."; }
-table.tab.ltd.one:after , table.tab.sale1.one:after  { content: "Продажа данной позиции ограничена наличием на текущую дату."; }
-table.tab.ltdi.one:after, table.tab.sale1i.one:after { content: "* - Продажа отмеченной позиции ограничена наличием на текущую дату."; }
+table.tab.ltd:after      { content: "Продажа данных позиций ограничена наличием на текущую дату."; }
+table.tab.ltd.one:after  { content: "Продажа данной позиции ограничена наличием на текущую дату."; }
+table.tab.ltdi.one:after { content: "* - Продажа отмеченной позиции ограничена наличием на текущую дату."; }
 table.tab.ltdi.two:after, table.tab.sale1i.two:after { content: "* - Продажа отмеченных позиций ограничена наличием на текущую дату."; }
-table.tab.ltdi.later_one:after { content: "* - Отмеченной позиции сейчас нет в продаже."; }
+table.tab.sale1:after    { content: "Распродажа ограничена количеством товара на складе."; }
 table.tab.ltdi.later_two:after { content: "* - Отмеченных позиций сейчас нет в продаже."; }
+table.tab.ltdi.later_one:after { content: "* - Отмеченной позиции сейчас нет в продаже."; }
 table.tab tr.ltdl td:before    { content: "* "; }
 table.tab tr.ltdl td.tb:before, table.tab tr.ltdl td.good-cart:before { content: ""; }
 table.tab.callprice:after, table.one-good.mono.callprice:after {
@@ -268,6 +269,7 @@ table.tab.later0001:after, table.one-good.mono.later0001:after {
 table.tab.later1204:after, table.one-good.mono.later1204:after {
 content: "Поставка ожидается 26 февраля 2017 г."; }
 /* content: "Поставка ожидается во второй половине февраля 2017 г."; } */
+table.tab.next:after    { content: ""; }
 
 .cblock .desc.txt {color: #ee0000; font-size: 12px; padding: 2px 0 0 1px; white-space: nowrap; overflow: visible;}
 #cat424 .cblock {margin-bottom: 10px}
@@ -443,8 +445,7 @@ p.subtit {position: absolute; top: -38px;}
 #cat174 .desc-good, #cat176 .desc-good,
 #cat95  .desc-good
 {min-width:48em;}
-#cat468 .desc-good, #cat414 .desc-good
-{min-width:50em;}
+#cat468 .desc-good, #cat414 .desc-good,
 #cat78 .desc-good,
 #cat47  .desc-good,
 #cat48  .desc-good
