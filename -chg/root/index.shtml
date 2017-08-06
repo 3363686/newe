@@ -9,7 +9,7 @@
 <!-- div style="margin:35px 0 0 10px;" -->
 <!--#exec cgi="/pcgi/section_matrix_main.pl"-->
 <br clear="all" />
-  <div class="l1">Доставка <span class="l1a"> в пределах МКАД</span> <span class="l1a">при заказе свыше 20&thinsp;000&thinsp;руб.</span> бесплатно!</div>
+  <div class="l1">Доставка <span class="l1a"> в пределах МКАД</span> <span class="l1a">при заказе свыше 30&thinsp;000&thinsp;руб.</span> бесплатно!</div>
 </div>
 <!--\\END\\-->
 <!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->
