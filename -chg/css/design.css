@@ -212,8 +212,10 @@ p.delete img {margin: 0 !important;}
 .results .info {padding: 0 0 10px 10px; color: #848484;}
 .pages {font-size: 87.5%;}
 .footerYS {font-size: 80%; color: #848484; text-align: right;}
+/* Moved to user.css
 .site_search {padding: 0 0 0 10px; width: 100%;}
 .site_search .txt {width: 200px; height: 21px; margin: 0;}
+*/
 @font-face {
   font-family: 'PT Rouble Sans';
   font-style: normal;

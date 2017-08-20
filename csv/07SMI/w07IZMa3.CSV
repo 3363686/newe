@@ -104,7 +104,7 @@
 #0|Уровень "Рельс",       2000 мм|212|34041   |485|465|450
 
 ######################### Sale
-# 344 # 489
+# 344 -># 489
  1|GROSS &nbsp;&nbsp;400 мм (без рукояток)                   |344||34324   | 2|400|489|norow|Высококачественный усиленный уровень| GROSS <span class=art>арт. 34324</span>|</span></p><UL><LI>Изготовлен из алюминия.<LI>Фрезерованная база.<LI>Ударопрочные заглушки.<LI>3 глазка.<LI>Точность: 0,5 мм/м (0,029&deg;).</UL><p><span class="addt">||/img/pic/instr/small/UROVEN GROSS.jpg|/img/pic/instr/big/UROVEN GROSS.jpg
  0|Уровень GROSS 400 мм усиленный                            |344||34324   | 2|400|489|
  1|Уровень алюминиевый фрезерованный, &nbsp;&nbsp;600&nbsp;мм|344||33221   | 5|250|489||Уровни алюминиевые| MATRIX фрезерованные|3 глазка, 2 эргономические рукоятки.||/img/pic/instr/small/Uroven MATRIX frezirovan.jpg|/img/pic/instr/big/Uroven MATRIX frezirovan.jpg
@@ -189,23 +189,23 @@
 
 ##########################################
 # 72|Строительные рулетки
-~1|Рулетка Т2 HOBBI &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|15-1-      |  59,95|  58,00|  57,00||norow|Рулетки| Т2 HOBBI, обрезиненный корпус|</span></p><UL><LI>Эргономичный обрезиненный корпус из ABC-пластика.<LI>Усиленная лента со специальным износоустойчивым покрытием.<LI>Механизм возврата ленты и два фиксатора.</UL><p><span class="addt">||/img/pic/instr/small/15-1-515.jpg|/img/pic/instr/big/15-1-515.jpg
-~0|Рулетка Т2 HOBBI &numsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм HOBBI   |72|15-1-513   |  59,95|  58,00|  57,00|
-~0|Рулетка Т2 HOBBI &numsp;5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм HOBBI   |72|15-1-515   |  98,00|  95,00|  91,00|
-~0|Рулетка Т2 HOBBI       10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм HOBBI   |72|15-1-510   | 198,00| 192,00| 188,00|
- 1|Рулетка REMOSPACE &nbsp;&nbsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм   |72|15-1-323   | 127.00| 114.00| 106.00|| |Рулетки| REMOSPACE, обрезиненный корпус, усиленная лента|</span></p><UL><LI>Корпус рулетки RemoSpace c противоскользящим покрытием изготовлен из ударопрочного пластика и оснащен металлическим поясным зажимом.<LI>Усиленная стальная лента, две кнопки Stop и крюк "истинный ноль".</UL><p><span class="addt">||/img/pic/instr/small/RUL-REMOSPACE.jpg|/img/pic/instr/big/RUL-REMOSPACE.jpg
- 0|Рулетка REMOSPACE &nbsp;&nbsp;5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм   |72|15-1-325   | 179.00| 160.00| 155.00||
- 0|Рулетка REMOSPACE &nbsp;&nbsp;7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм   |72|15-1-327   | 285.00| 250.00| 240.00||
- 0|Рулетка REMOSPACE            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм   |72|15-1-330   | 398.00| 370.00| 360.00||
-~1|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                  |72|31078      | 104.00|  94.00|  89.00||norow|Рулетки| STRONG|Обрезиненный корпус, зажим для ремня, класс точности: 2||/img/pic/instr/small/Ruletka STRONG.jpg|/img/pic/instr/big/Ruletka STRONG.jpg
-~0|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                  |72|31078      |  89,00|  85,00|  79,95||
-~0|Рулетка STRONG 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                  |72|31080      | 108,00| 104,00|  99,95|
-~0|Рулетка STRONG 7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм                  |72|31082      | 225,00| 215,00| 208,00||
-~1|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  59,95|  58,00|  57,00||norow ltd|Рулетки| ELASTICA, обрезиненный корпус (Стандарт)|||/img/pic/instr/small/Ruletka ELASTICA.jpg|/img/pic/instr/big/Ruletka ELASTICA.jpg
-~0|Рулетка ELASTICA &numsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм         |72|31311      |  59,95|  58,00|  57,00|
-~0|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  82,00|  80,00|  78,00|
-~0|Рулетка ELASTICA &numsp;7.5&nbsp;м&nbsp;х&nbsp;24&nbsp;мм         |72|31313      | 139,00| 133,00| 129,00|
-~0|Рулетка ELASTICA            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм    |72|31314      | 198,00| 192,00| 185,00|
+~1|Рулетка Т2 HOBBI &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|15-1-      |  62,00|  60,00|  58,00||norow|Рулетки| Т2 HOBBI, обрезиненный корпус|</span></p><UL><LI>Эргономичный обрезиненный корпус из ABC-пластика.<LI>Усиленная лента со специальным износоустойчивым покрытием.<LI>Механизм возврата ленты и два фиксатора.</UL><p><span class="addt">||/img/pic/instr/small/15-1-515.jpg|/img/pic/instr/big/15-1-515.jpg
+~0|Рулетка Т2 HOBBI &numsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм HOBBI   |72|15-1-513   |  62,00|  60,00|  58,00|
+~0|Рулетка Т2 HOBBI &numsp;5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм HOBBI   |72|15-1-515   | 105,00| 102,00|  98,00|
+~0|Рулетка Т2 HOBBI       10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм HOBBI   |72|15-1-510   | 209,00| 202,00| 194,00|
+ 1|Рулетка REMOSPACE &nbsp;&nbsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм   |72|15-1-323   | 127,00| 114,00| 106,00|| |Рулетки| REMOSPACE, обрезиненный корпус, усиленная лента|</span></p><UL><LI>Корпус рулетки RemoSpace c противоскользящим покрытием изготовлен из ударопрочного пластика и оснащен металлическим поясным зажимом.<LI>Усиленная стальная лента, две кнопки Stop и крюк "истинный ноль".</UL><p><span class="addt">||/img/pic/instr/small/RUL-REMOSPACE.jpg|/img/pic/instr/big/RUL-REMOSPACE.jpg
+ 0|Рулетка REMOSPACE &nbsp;&nbsp;5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм   |72|15-1-325   | 189,00| 179,00| 169,00||
+ 0|Рулетка REMOSPACE &nbsp;&nbsp;7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм   |72|15-1-327   | 285,00| 250,00| 240,00||
+ 0|Рулетка REMOSPACE            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм   |72|15-1-330   | 398,00| 370,00| 360,00||
+~1|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                  |72|31078      |  93,00|  90,00|  85,00||norow|Рулетки| STRONG|Обрезиненный корпус, зажим для ремня, класс точности: 2||/img/pic/instr/small/Ruletka STRONG.jpg|/img/pic/instr/big/Ruletka STRONG.jpg
+~0|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                  |72|31078      |  93,00|  90,00|  85,00||
+~0|Рулетка STRONG 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                  |72|31080      | 115,00| 109,00| 102,00|
+~0|Рулетка STRONG 7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм                  |72|31082      | 239,00| 233,00| 224,00||
+~1|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  62,00|  60,00|  58,00||norow|Рулетки| ELASTICA, обрезиненный корпус (Стандарт)|||/img/pic/instr/small/Ruletka ELASTICA.jpg|/img/pic/instr/big/Ruletka ELASTICA.jpg
+~0|Рулетка ELASTICA &numsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм         |72|31311      |  62,00|  60,00|  58,00|
+~0|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  85,00|  83,00|  81,00|
+~0|Рулетка ELASTICA &numsp;7.5&nbsp;м&nbsp;х&nbsp;24&nbsp;мм         |72|31313      | 145,00| 141,00| 137,00|
+~0|Рулетка ELASTICA            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм    |72|31314      | 209,00| 202,00| 194,00|
  1|Рулетка гео, откр. корп.                                          |72|           | 268,00| 262,00| 249,00||norow ltdi one|Рулетки геодезические, открытый корпус||||/img/pic/instr/small/rulgeoo1.jpg|/img/pic/instr/big/rulgeoo1.jpg
 #0|Рулетка гео, открытый корпус, ПВХ лента,     20 м х 10 мм SPARTA  |72|314305     | 268,00| 262,00| 249,00||ltdl
 #0|Рулетка гео, открытый корпус, ПВХ лента,     30 м х 10 мм SPARTA  |72|314355     | 380,00| 370,00| 350,00||ltdl
@@ -246,7 +246,7 @@
 #1|Рулетка 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                        |72|        | 99,00| 92,00|      ||| EKTO   <span class=art>арт.      </span>|</span></p><UL><LI>стальная полностью<LI>обрезиненный корпус<LI>стопорная кнопка</UL><p><span class="addt">||/img/pic/instr/small/RULRTKA EKTO 5 M.jpg|/img/pic/instr/big/RULRTKA EKTO 5 M.jpg
 
 ######################### Sale
-# 491 # 490
+# 491 -># 490
  1|Рулетка T1 Hobbi &numsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм        |491||15-1-503   | 3| 45|490||Рулетки| Hobbi, пластмассовый корпус|||/img/pic/instr/small/T1-Hobbi.jpg|/img/pic/instr/big/jpg
  0|Рулетка T1 Hobbi &numsp;5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм        |491||15-1-505   | 2| 88|490|
  0|Рулетка T2 Hobbi 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм              |491||15-1-510   |15|133|490|
