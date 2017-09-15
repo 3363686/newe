@@ -50,7 +50,7 @@ h1 {line-height: 125%;}
 .lmenu li {margin: 1px 0; padding: 0; font-size: 14px; line-height: 12px; text-align: left; list-style: none;}
 .lmenu li:hover, .lmenu li.open {background: url(/img/lmenu_bg.gif) right top repeat-y;}
 .lmenu li a, .lmenu li.open span {display: inline-block; width: 253px; padding: 7px 1px 6px 23px; background: url(/img/bull_left.gif) 6px center no-repeat; color: #fff; text-decoration: none;}
-.lmenu li.open span {color: #828e95;}
+.lmenu li.open span {color: #aaaabb;}
 .lmenu li.open > a {font-weight: bold; color: #faeac8;}
 /*2*/
 .lmenu li ul {margin: 0; padding: 0 0 0 15px;}
@@ -274,6 +274,8 @@ table.tab.next:after    { content: ""; }
 
 p.callprice { font-weight: bold; padding: 0px; }
 p.callprice:after { content: "Цена по запросу"; }
+p.onlyrest  { font-weight: bold; padding: 0px; }
+p.onlyrest:after  { content: "Продажа осуществляется строго по складским остаткам."; }
 
 .cblock .desc.txt {color: #ee0000; font-size: 12px; padding: 2px 0 0 1px; white-space: nowrap; overflow: visible;}
 #cat424 .cblock {margin-bottom: 10px}
@@ -365,7 +367,7 @@ div.refbanner page {padding-right: 269px; }
 /*#toptmp1w  {position: relative; top: 163px; width: 100%; height: 155px; background-color: #fee; }*/
 /*#toptmp1bg  {!*position: absolute; top: 163px; width: 100%;*! margin-left: 280px; height: 155px; }*/
 #toptmp1bg {background-color: #9bf; color: #fff; }
-#toptmp1 { margin-left: -80px; margin-right: 20%; padding: 0px 0 12px 5%; font-family: Georgia; }
+#toptmp1 { margin-left: -80px; margin-right: 20%; padding: 0px 0 12px 5%; font-family: Georgia, serif; }
 #toptmp1 .ref { margin-top: 0; }
 #toptmp1.ny b {color: #d00;}
 #toptmp1.ny #may-2 b {color: #600;}
@@ -470,6 +472,11 @@ p.subtit {position: absolute; top: -38px;}
 
 .ot37#cat175 .desc-good, .ot37#cat176 .desc-good,
 .ot37#cat270 .desc-good {min-width:40em; max-width:60em;}
+
+ul.lmenu > li:nth-child(4) > ul > li:nth-child(1) > a,
+ul.lmenu > li:nth-child(4) > ul > li:nth-child(2) > a    {font-size: 20px; color: #ff7c00; font-family: Georgia, serif}
+ul.lmenu > li:nth-child(4) > ul > li:nth-child(1) > span,
+ul.lmenu > li:nth-child(4) > ul > li:nth-child(2) > span {font-size: 20px; font-weight: bold; font-family: Georgia, serif}
 
 /*
 body#cat101 .ref {position: absolute; top: 140px; right: 272px; left: 680px;}

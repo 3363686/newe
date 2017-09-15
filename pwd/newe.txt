@@ -31,7 +31,7 @@ admin@newe.ru		LJK3v2cfx
 ame@newe.ru			hif234csa
 contacts@newe.ru    53gwFiujhq
 elena@newe.ru		vwT4342o9
-newe@newe.ru		VP31121964 OH3wvdsw3
+newe@newe.ru		VP31121964
 pavel@newe.ru		h9G543DSAD
 test@newe.ru		43VWEVfe42
 
@@ -76,6 +76,10 @@ admin.jivosite.com	admin@newe.ru		newE001
 										gor@newe.ru			newE001 Юлия  	Менеджер
 										polina@newe.ru	newE001 Полина  Менеджер
 
+=====================================
+https://merchants.google.com/Signup 	-		Google Merchant Center
+										ecu.newe@gmail.com	300725eq
+=====================================
 ООО Компания Фронт: Комплектация строительных площадок металлоизделиями, строительными инструментами и инвентарем
 ООО Компания Фронт поставляет мелким и крупным оптом металлические сетки, проволоку, крепеж; строительный, монтажный и отделочный инструмент и оборудование; строительно-хозяйственный инвентарь; средства защиты и спецодежду; абразивы, сварочные электроды, буры и сверла, монтажную пену, герметики и другие расходные материалы. Гибкие цены. Склад вблизи Третьего транспортного кольца. Доставка.
 Металлические сетки, проволока, электроды, крепеж; строительный, монтажный и отделочный инструмент; средства защиты; абразивы, буры и сверла. Мелкий и крупный опт. Склад вблизи ТТК. Доставка.
@@ -85,6 +89,7 @@ admin.jivosite.com	admin@newe.ru		newE001
 Яндекс.Поиск
 <div class="ya-site-form ya-site-form_inited_no" onclick="return {'bg': '#ffcc00', 'target': '_blank', 'language': 'ru', 'suggest': true, 'tld': 'ru', 'site_suggest': true, 'action': 'http://yandex.ru/sitesearch', 'webopt': false, 'fontsize': 12, 'arrow': false, 'fg': '#000000', 'searchid': '1897786', 'logo': 'rb', 'websearch': false, 'type': 3}"><form action="http://yandex.ru/sitesearch" method="get" target="_blank"><input type="hidden" name="searchid" value="1897786" /><input type="hidden" name="l10n" value="ru" /><input type="hidden" name="reqenc" value="" /><input type="text" name="text" value="" /><input type="submit" value="Найти" /></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;(' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1&&(e.className+=' ya-page_js_yes');s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
 
+=====================================
 QR:
 ООО Компания Фронт:
 Поставщик металлических сеток, проволоки, метизной продукции, строительного инструмента, инвентаря и оборудования.
