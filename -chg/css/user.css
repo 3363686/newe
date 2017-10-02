@@ -22,8 +22,6 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
 .addtop1 {color: #eeeeff; font-size: 20px; margin: 8px 0 0 12px;}
 .ny2017a1 {font-size: 24px; font-weight: bold; color: #00f8ff; line-height: 28px;}
-.ny2017a4 {padding-left: 39px; line-height: 14px; font-size: 13px; color: #eeeeee;}
-.ny2017a4 b {color: #ffffff;}
 .ny2017w  {margin: -12px 0 0 15px; line-height: 14px; font-size: 13px; color: #ffffff;}
 */
 .ny2017a  {padding-left: 42px; text-align: center; font-family: Georgia serif; font-style: italic;}
@@ -31,6 +29,12 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .ny2017a2 {border: none; margin: 0px 3px 0px 0px;}
 .ny2017a3 {font-size: 30px; font-weight: bold; color: #ffffff; line-height: 20px;}
 .ny2017b  {padding: 0px 0px 6px 42px; text-align: center; font-weight: bold; color: #00f8ff; font-size: 16px; line-height: 7px;}
+
+.top-tab.act .ny2017a  {padding-left: 12px;}
+.top-tab.act .ny2017a1 {font-size: 22px; line-height: 16px; color: #ff5500;}
+.top-tab.act .ny2017a3 {font-size: 30px; line-height: 16px; color: #00f8ff;}
+.top-tab.act .ny2017a4 {padding-left: 39px; text-align: center; font-size: 13px; line-height: 19px; color: #eeeeee;}
+.top-tab.act .ny2017a4 b {color: #ffffff;}
 
 /**** Main & patches to DESIGN.CSS ****/
 /* top */
