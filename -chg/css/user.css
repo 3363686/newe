@@ -42,9 +42,11 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .phone {width: 240px; height: 43px; margin: -2px 0 0 40px; padding: 6px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
 .phone .phones {color: #fff; font-size: 28px; margin: 0; padding: 0 0px 0 5px;}
 .address_top {width: 100%;}
-.address_top .adres {font-size: 15px; line-height: 140%; padding: 0; margin: 0; color: #fff; white-space: pre;}
-.address_top .adres a {color: #fff; text-decoration: none; font-size: 18px;}
+.address_top .adres {padding: 0; margin: 0; color: #fff;}
+.address_top .adres a {color: #fff; text-decoration: none; font-size: 18px; line-height: 19px; }
 .address_top .adres a:hover {color: #fff; text-decoration: underline;}
+.address_top .adres.time {font-size: 15px; line-height: 15px; margin: 0px 0 -1px 14px;}
+.address_top .adres.cm   {font-size: 15px; line-height: 14px; margin: 0px 0 -1px 14px; font-weight: bold}
 .top-cert {vertical-align: middle; padding: 0px 6px 0px 24px;}
 p.crumbs {line-height: 125%; padding: 2px 0 6px; margin: 0; }
 p.crumbs, p.crumbs a, p.crumbs a:hover {color: #808080; }
