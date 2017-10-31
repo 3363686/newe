@@ -41,7 +41,7 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 /* .top-tab>tbody>tr>td>a>img {margin: 0px 0px 5px 23px !important;} */
 .phone {width: 240px; height: 43px; margin: -2px 0 0 40px; padding: 6px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
 .phone .phones {color: #fff; font-size: 28px; margin: 0; padding: 0 0px 0 5px;}
-.address_top {width: 100%;}
+.address_top {width: 100%; white-space: nowrap}
 .address_top .adres {padding: 0; margin: 0; color: #fff;}
 .address_top .adres a {color: #fff; text-decoration: none; font-size: 18px; line-height: 19px; }
 .address_top .adres a:hover {color: #fff; text-decoration: underline;}
@@ -178,7 +178,8 @@ li.ui-menu-item {background-color: #f0f0e0;}
 .good-txt dl {font-size: 80%; line-height: 95%; max-width: 30em; margin: 2px auto auto -40px; padding-left: 10%;}
 #cat120 .good-txt dl {max-width: 25em;}
 #cat216 .good-txt dl {max-width: 34em;}
-#cat199 .good-txt dl, #cat297 .good-txt dl {max-width: 39em;}
+#cat199 .good-txt dl, #cat180
+.good-txt dl {max-width: 39em;}
 /*.good-txt dt {font-style: italic; float: left; clear: right;}*/
 .good-txt dd {white-space: nowrap;}
 html .good-txt dt {white-space: nowrap;}
@@ -449,16 +450,14 @@ p.subtit {position: absolute; top: -38px;}
 {min-width:42em;}
 #cat175 .desc-good, #cat270 .desc-good,
 #cat247 .desc-good,
-#cat78  .desc-good, #cat279 .desc-good, #cat335 .desc-good, #cat148 .desc-good,
+#cat279 .desc-good, #cat335 .desc-good, #cat148 .desc-good,
 #cat416 .desc-good,
 #cat235 .desc-good
 {min-width:44em;}
 #cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat379 .desc-good,
-#cat174 .desc-good, #cat176 .desc-good,
-#cat95  .desc-good
+#cat174 .desc-good, #cat176 .desc-good
 {min-width:48em;}
 #cat468 .desc-good, #cat414 .desc-good,
-#cat78 .desc-good,
 #cat47  .desc-good,
 #cat48  .desc-good
 {min-width:52em;}

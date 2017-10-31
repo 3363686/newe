@@ -189,11 +189,11 @@
 
 ##########################################
 # 72|Строительные рулетки
-~1|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  59,00|  56,00|  54,00||norow|Рулетки| ELASTICA, обрезиненный корпус (Стандарт)|||/img/pic/instr/small/Ruletka ELASTICA.jpg|/img/pic/instr/big/Ruletka ELASTICA.jpg
-~0|Рулетка ELASTICA &numsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм         |72|31311      |  59,00|  56,00|  54,00|
-~0|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  79,95|  77,00|  75,00|
-~0|Рулетка ELASTICA &numsp;7.5&nbsp;м&nbsp;х&nbsp;24&nbsp;мм         |72|31313      | 129,00| 124,00| 121,00|
-~0|Рулетка ELASTICA            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм    |72|31314      | 189,00| 184,00| 181,00|
+~1|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  59,98|  57,88|  55,98||norow|Рулетки| ELASTICA, обрезиненный корпус (Стандарт)|||/img/pic/instr/small/Ruletka ELASTICA.jpg|/img/pic/instr/big/Ruletka ELASTICA.jpg
+~0|Рулетка ELASTICA &numsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм         |72|31311      |  59,98|  57,88|  55,98|
+~0|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  86,98|  84,88|  81,98|
+~0|Рулетка ELASTICA &numsp;7.5&nbsp;м&nbsp;х&nbsp;24&nbsp;мм         |72|31313      | 139,98| 134,98| 131,98|
+~0|Рулетка ELASTICA            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм    |72|31314      | 198,98| 193,98| 189,88|
 #1|Рулетка Т2 HOBBI &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|15-1-      |  62,00|  60,00|  58,00||norow|Рулетки| Т2 HOBBI, обрезиненный корпус|</span></p><UL><LI>Эргономичный обрезиненный корпус из ABC-пластика.<LI>Усиленная лента со специальным износоустойчивым покрытием.<LI>Механизм возврата ленты и два фиксатора.</UL><p><span class="addt">||/img/pic/instr/small/15-1-515.jpg|/img/pic/instr/big/15-1-515.jpg
 #0|Рулетка Т2 HOBBI &numsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм HOBBI   |72|15-1-513   |  62,00|  60,00|  58,00|
 #0|Рулетка Т2 HOBBI &numsp;5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм HOBBI   |72|15-1-515   | 105,00| 102,00|  98,00|
@@ -202,10 +202,10 @@
  0|Рулетка REMOSPACE &nbsp;&nbsp;5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм   |72|15-1-325   | 159,00| 155,00| 151,00||
  0|Рулетка REMOSPACE &nbsp;&nbsp;7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм   |72|15-1-327   | 279,00| 269,00| 262,00||
  0|Рулетка REMOSPACE            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм   |72|15-1-330   | 398,00| 388,00| 382,00||
-~1|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                  |72|31078      |  79,95|  77,00|  75,00||norow|Рулетки| STRONG|Обрезиненный корпус, зажим для ремня, класс точности: 2||/img/pic/instr/small/Ruletka STRONG.jpg|/img/pic/instr/big/Ruletka STRONG.jpg
-~0|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                  |72|31078      |  79,95|  77,00|  75,00||
-~0|Рулетка STRONG 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                  |72|31080      | 109,00| 105,00|  99,95|
-~0|Рулетка STRONG 7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм                  |72|31082      | 198,00| 194,00| 189,00||
+~1|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                  |72|31078      |  79,98|  76,98|  74,45||norow|Рулетки| STRONG|Обрезиненный корпус, зажим для ремня, класс точности: 2||/img/pic/instr/small/Ruletka STRONG.jpg|/img/pic/instr/big/Ruletka STRONG.jpg
+~0|Рулетка STRONG 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм                  |72|31078      |  79,98|  76,98|  74,45||
+~0|Рулетка STRONG 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                  |72|31080      |  98,95|  96,98|  92,98|
+~0|Рулетка STRONG 7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм                  |72|31082      | 198,98| 193,98| 189,88||
  1|Рулетка гео, откр. корп.                                          |72|           | 268,00| 262,00| 249,00||norow ltdi one|Рулетки геодезические, открытый корпус||||/img/pic/instr/small/rulgeoo1.jpg|/img/pic/instr/big/rulgeoo1.jpg
 #0|Рулетка гео, открытый корпус, ПВХ лента,     20 м х 10 мм SPARTA  |72|314305     | 268,00| 262,00| 249,00||ltdl
 #0|Рулетка гео, открытый корпус, ПВХ лента,     30 м х 10 мм SPARTA  |72|314355     | 380,00| 370,00| 350,00||ltdl
