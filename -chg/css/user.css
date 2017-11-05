@@ -177,9 +177,9 @@ li.ui-menu-item {background-color: #f0f0e0;}
 .good-txt ul.deep li li li {font-size: 92%; line-height: 95%; list-style-type: disc; list-style-image: none;}
 .good-txt dl {font-size: 80%; line-height: 95%; max-width: 30em; margin: 2px auto auto -40px; padding-left: 10%;}
 #cat120 .good-txt dl {max-width: 25em;}
-#cat216 .good-txt dl {max-width: 34em;}
-#cat199 .good-txt dl, #cat180
-.good-txt dl {max-width: 39em;}
+#cat180 .good-txt dl {max-width: 39em;}
+#cat198 .good-txt dl, #cat199 .good-txt dl, #cat431 .good-txt dl {max-width: 35em;}
+#cat216 .good-txt dl {max-width: 39em;}
 /*.good-txt dt {font-style: italic; float: left; clear: right;}*/
 .good-txt dd {white-space: nowrap;}
 html .good-txt dt {white-space: nowrap;}
@@ -205,7 +205,7 @@ html .good-txt dt {white-space: nowrap;}
 .one-good.bp .good-cart .price {font-weight: bold;}
 /**/
 .good-cart{width: 5em;}
-#cat199 .one-good .good-cart{width: 7.5em;} /* 6.6 */
+/* #cat199 .one-good .good-cart{width: 7.5em;} (???) 6.6 */
 
 .one-good .addph * {margin-top: -20px;}
 
@@ -478,10 +478,10 @@ p.subtit {position: absolute; top: -38px;}
 .ot37#cat175 .desc-good, .ot37#cat176 .desc-good,
 .ot37#cat270 .desc-good {min-width:40em; max-width:60em;}
 
-ul.lmenu > li:nth-child(4) > ul > li:nth-child(1) > a,
-ul.lmenu > li:nth-child(4) > ul > li:nth-child(2) > a    {font-size: 20px; color: #ff7c00; font-family: Georgia, serif}
-ul.lmenu > li:nth-child(4) > ul > li:nth-child(1) > span,
-ul.lmenu > li:nth-child(4) > ul > li:nth-child(2) > span {font-size: 20px; font-weight: bold; font-family: Georgia, serif}
+ul.lmenu > li:nth-child(5) > ul > li:nth-child(1) > a,
+ul.lmenu > li:nth-child(5) > ul > li:nth-child(2) > a    {font-size: 20px; color: #ff7c00; font-family: Georgia, serif}
+ul.lmenu > li:nth-child(5) > ul > li:nth-child(1) > span,
+ul.lmenu > li:nth-child(5) > ul > li:nth-child(2) > span {font-size: 20px; font-weight: bold; font-family: Georgia, serif}
 
 /*
 body#cat101 .ref {position: absolute; top: 140px; right: 272px; left: 680px;}
