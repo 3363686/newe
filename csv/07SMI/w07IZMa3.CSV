@@ -189,11 +189,14 @@
 
 ##########################################
 # 72|Строительные рулетки
-~1|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  59,98|  57,88|  55,98||norow|Рулетки| ELASTICA, обрезиненный корпус (Стандарт)|||/img/pic/instr/small/Ruletka ELASTICA.jpg|/img/pic/instr/big/Ruletka ELASTICA.jpg
+#1|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  59,98|  57,88|  55,98||norow|Рулетки| ELASTICA, обрезиненный корпус (Стандарт)|||/img/pic/instr/small/Ruletka ELASTICA.jpg|/img/pic/instr/big/Ruletka ELASTICA.jpg
+~1|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  59,98|  57,88|  55,98||norow|Рулетки| ELASTICA (SPARTA) /<span class="blue"> T2 (HOBBI),</span> обрезиненный корпус (Стандарт)|||/img/pic/instr/small/Ruletka ELASTICA.jpg|/img/pic/instr/big/Ruletka ELASTICA.jpg
 ~0|Рулетка ELASTICA &numsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм         |72|31311      |  59,98|  57,88|  55,98|
-~0|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  86,98|  84,88|  81,98|
+~0|Рулетка ELASTICA &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|31312      |  89,95|  87,00|  85,00|
+ 0|Рулетка Т2 HOBBI &numsp;5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм         |72|15-1-515   |  95,00|  92,00|  89,00||blue
 ~0|Рулетка ELASTICA &numsp;7.5&nbsp;м&nbsp;х&nbsp;24&nbsp;мм         |72|31313      | 139,98| 134,98| 131,98|
 ~0|Рулетка ELASTICA            10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм    |72|31314      | 198,98| 193,98| 189,88|
+ 0|Рулетка Т2 HOBBI       10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм         |72|15-1-510   | 198,98| 193,98| 194,00||blue
 #1|Рулетка Т2 HOBBI &numsp;5.0&nbsp;м&nbsp;х&nbsp;18&nbsp;мм         |72|15-1-      |  62,00|  60,00|  58,00||norow|Рулетки| Т2 HOBBI, обрезиненный корпус|</span></p><UL><LI>Эргономичный обрезиненный корпус из ABC-пластика.<LI>Усиленная лента со специальным износоустойчивым покрытием.<LI>Механизм возврата ленты и два фиксатора.</UL><p><span class="addt">||/img/pic/instr/small/15-1-515.jpg|/img/pic/instr/big/15-1-515.jpg
 #0|Рулетка Т2 HOBBI &numsp;3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм HOBBI   |72|15-1-513   |  62,00|  60,00|  58,00|
 #0|Рулетка Т2 HOBBI &numsp;5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм HOBBI   |72|15-1-515   | 105,00| 102,00|  98,00|
