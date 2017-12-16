@@ -133,6 +133,7 @@ body.ot36 td.choose a {font-size: 0; width: 16px; height: 16px; background-image
 .tab tr.red  {background-color: #ffe6e6;}
 .tab tr.blue {background-color: #ecf0ff;}
 .dop .blue   {background-color: #e6eaff; padding: 0px 8px 1px 4px;}
+.dop .ltdl   {background-color: #f6f2c0; padding: 0px 8px 1px 4px;}
 .tab tr.sp1  {background-color: #ecffec;}
 .dop .sp1    {background-color: #dcffdc; padding: 0px 8px 1px 4px;}
 .tab tr.sp2  {background-color: #fceaff;}
