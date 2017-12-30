@@ -283,7 +283,8 @@ table.tab.next:after    { content: ""; }
 p.callprice { font-weight: bold; padding: 0px; }
 p.callprice:after { content: "Цена по запросу"; }
 p.onlyrest  { font-weight: bold; padding: 0px; }
-p.onlyrest:after  { content: "Продажа осуществляется строго по складским остаткам."; }
+p.onlyrest:after  { content: "Продажа данных позиций ограничена наличием на текущую дату."; }
+/*p.onlyrest:after  { content: "Продажа осуществляется строго по складским остаткам."; }*/
 
 .cblock .desc.txt {color: #ee0000; font-size: 12px; padding: 2px 0 0 1px; white-space: nowrap; overflow: visible;}
 #cat424 .cblock {margin-bottom: 10px}
