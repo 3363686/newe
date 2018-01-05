@@ -4,8 +4,8 @@
     <td class="top-main"><div class="phone"><p class="phones"><!--#include virtual="/pcgi/infoblock.pl?4"--></p></div></td>
     <td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p>
     <td rowspan="3" class="top-cert"><a href="/about/index.shtml"><img src="/img/design/cert/small/all_cert.gif"></a>
-    </td></tr><tr><td class="ny2017a" colspan="2"><span class="ny2017a1">Курьерская доставка в пределах МКАД:</span><span class="ny2017a3"> 250 руб.</span>
-</td></tr><tr><td class="ny2017b" colspan="2">Принимаем к оплате пластиковые карты
+  </td></tr><tr><td class="ny2017a" colspan="2"><img class="ny2017a2" src="\img\snow.png"> <span class="ny2018a1">С Новым годом!</span> <img class="ny2017a2" src="\img\snow.png">
+</td></tr><tr><td class="ny2017b" colspan="2">Ждём вас со вторника 9 января 2018 года
 </td></tr><tr><td colspan="4">
   <table cellpadding="0" class="tmenu-tab">
   <tr><td><table cellpadding="0" width="100%"><tr>
