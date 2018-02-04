@@ -122,6 +122,7 @@ span.artn {display: none;}
 .tab tr.blkt td {border-top:double; padding-top:3px; }
 .tab tr.blkt2 td {border-top:2px solid #686c6e; padding-top:3px;}
 .tab tr.norow {display: none;}
+.tab tr.empty td {visibility: hidden;}
 
 td.choose {text-align: center;}
 /*body.ot37 td.choose {display: none;}*/
@@ -263,8 +264,8 @@ table.tab.later1204:after, table.one-good.mono.later1204:after {
 table.one-good.mono.ltd:after { content: "Продажа этой позиции ограничена наличием на текущую дату."; }
 table.tab.ltd:after      { content: "Продажа данных позиций ограничена наличием на текущую дату."; }
 table.tab.ltd.one:after  { content: "Продажа данной позиции ограничена наличием на текущую дату."; }
+table.tab.ltdi:after, table.tab.sale1i:after { content: "* - Продажа отмеченных позиций ограничена наличием на текущую дату."; }
 table.tab.ltdi.one:after { content: "* - Продажа отмеченной позиции ограничена наличием на текущую дату."; }
-table.tab.ltdi.two:after, table.tab.sale1i.two:after { content: "* - Продажа отмеченных позиций ограничена наличием на текущую дату."; }
 table.tab.sale1:after    { content: "Распродажа ограничена количеством товара на складе."; }
 table.tab.ltdi.later_two:after { content: "* - Отмеченных позиций сейчас нет в продаже."; }
 table.tab.ltdi.later_one:after { content: "* - Отмеченной позиции сейчас нет в продаже."; }
@@ -277,8 +278,8 @@ table.tab.later0000:after, table.one-good.mono.later0000:after {
 table.tab.later0001:after, table.one-good.mono.later0001:after {
   content: "Товар временно отсутствует в продаже"; }
 table.tab.later1204:after, table.one-good.mono.later1204:after {
-content: "Поставка ожидается 26 февраля 2017 г."; }
-/* content: "Поставка ожидается во второй половине февраля 2017 г."; } */
+/*content: "Поставка ожидается 26 февраля 2017 г."; }*/
+content: "Поставка ожидается во второй половине февраля 2018 г."; }
 table.tab.next:after    { content: ""; }
 
 p.callprice { font-weight: bold; padding: 0px; }
