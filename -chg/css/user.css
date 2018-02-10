@@ -465,13 +465,13 @@ p.subtit {position: absolute; top: -38px;}
 #cat416 .desc-good,
 #cat235 .desc-good
 {min-width:44em;}
+#cat414 .desc-good,
+#cat47  .desc-good, #cat48  .desc-good
+{min-width:45em;}
+#cat468 .desc-good,
 #cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat379 .desc-good,
 #cat174 .desc-good, #cat176 .desc-good
 {min-width:48em;}
-#cat468 .desc-good, #cat414 .desc-good,
-#cat47  .desc-good,
-#cat48  .desc-good
-{min-width:52em;}
 #cat422 .desc-good
 {min-width:56em;}
 /*
