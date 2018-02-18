@@ -70,7 +70,7 @@ h1 {line-height: 125%;}
 .lmenu li ul li ul li {font-size: 12px; line-height: 13px; color: #ff9900; list-style-type: disc;}
 .lmenu li ul li ul li a, .lmenu li ul li ul li.open span {width: 230px; padding: 3px 1px 4px 0px; background: none;}
 .call {line-height: 200%;}
-.tab .rub {font-weight: normal;}
+.tab .rub {font-weight: normal; font-size: larger; line-height: 50%; position: relative; top: 1px;}
 .info-cat {padding: 0px 0 40px 15px;}
 td.white>div.about { padding-left: 12px;}
 .tmenu {padding: 0 11px;}
@@ -119,15 +119,16 @@ span.artn {display: none;}
 .tab tr.subhead td.tb, .tab tr.subhead td.tb *,
 .tab tr.subhead td.tr, .tab tr.subhead td.tr *
   {color:#d8ecff; /*visibility: hidden; display: none;*/}
+.tab tr.subhead td.choose
+  {background-color:#d8ecff; }
 .tab tr.blkt td {border-top:double; padding-top:3px; }
 .tab tr.blkt2 td {border-top:2px solid #686c6e; padding-top:3px;}
 .tab tr.norow {display: none;}
 .tab tr.empty td {visibility: hidden;}
+/*.tab tr.empty td.choose {visibility: hidden;}*/
 
 td.choose {text-align: center;}
 /*body.ot37 td.choose {display: none;}*/
-body.ot36 td.choose {width: 20px; padding: 2px; }
-body.ot36 td.choose a {font-size: 0; width: 16px; height: 16px; background-image: url("/img/design/cart16.png")}
 .nocart td.choose a, .subhead  td.choose a {display: none;}
 .tab .thin td {color: #666; padding-top: 3px; line-height: 100%;}
 
@@ -152,7 +153,18 @@ li.ui-menu-item {background-color: #f0f0e0;}
 .info-cat .tab.mult9.last {margin-right: -10px;}
 .tab.mult9 th  {font-weight: normal;}
 .tab.mult9 td  {text-align: right; padding: 3px 5px 3px 0px;}
-.tab.mult9 tr.subhead td {text-align: center; font-weight: bold; padding: 3px 5px 3px 0px;}
+.tab.mult9 tr.subhead td {text-align: center; font-weight: bold; padding: 3px 1px 3px 1px;}
+.tab.mult9 tr.blkt2 td {padding-top: 2px;}
+.tab.mult9.norow th {display: none;}
+.tab.mult9.norow td {text-align: center; padding: 3px 1px 3px 1px;}
+body.ot36 .tab.mult9 td.choose {width: 20px; padding: 0 0 0 2px; }
+body.ot36 td.choose a {font-size: 0; width: 16px; height: 16px; background-image: url("/img/design/cart16.png")}
+.one-good.mono.nopic {margin: -1px 0 2px 0;}
+.one-good.mono.nopic img, .one-good.mono.nopic td.choose {display: none;}
+.one-good.mono.nopic .good-cart {width: 6em; padding: 1px 0 2px 0;}
+.one-good.mono.nopic .good-cart .ed {font-size: 13px; line-height: 105%;}
+.one-good.mono.nopic .good-cart .price {line-height: 100%;}
+span.nopic {float: right; margin-right: 98px; font-weight: bold;}
 
 /*
 #cat120 .title {font-size: larger; font-variant: small-caps;}
@@ -455,9 +467,9 @@ p.subtit {position: absolute; top: -38px;}
 #cat1 .desc-good, #cat3 .desc-good,
 #cat107 .desc-good, #cat188 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
 #cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good, #cat293 .desc-good,
-#cat120 .desc-good, #cat191 .desc-good {min-width:40em;}
+#cat120 .desc-good, #cat191 .desc-good, #cat548 .desc-good {min-width:40em;}
 */
-#cat70  .desc-good, #cat522 .desc-good, #cat548 .desc-good, #cat610 .desc-good
+#cat70  .desc-good, #cat522 .desc-good, #cat610 .desc-good
 {min-width:42em;}
 #cat35  .desc-good, #cat175 .desc-good, #cat270 .desc-good,
 #cat247 .desc-good,
