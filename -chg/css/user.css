@@ -228,6 +228,8 @@ html .good-txt dt {white-space: nowrap;}
 ol.vaca {margin:15px 5px 25px;}
 ul.vaca {margin:20px -12px 20px;}
 ul.vaca  li {list-style-type: none; list-style-image: none;}
+.info ul ul li {list-style-type: disc; list-style-image: none; color: #EC8810;}
+.info ul ul li span {color: #000;}
 
 /*-*/
 .moregoods {width: 240px; background-color: #fff2e0; padding: 10px 9px 12px 11px; margin-top: -65px; margin-bottom: -35px;}
@@ -270,6 +272,7 @@ table.tab.sale1:after, table.one-good.mono.sale1:after,
 table.tab.callprice:after, table.one-good.mono.callprice:after,
 table.tab.later0000:after, table.one-good.mono.later0000:after,
 table.tab.later0001:after, table.one-good.mono.later0001:after,
+table.tab.later1803:after, table.one-good.mono.later1803:after,
 table.tab.later1204:after, table.one-good.mono.later1204:after {
   font-weight: bold; font-size: 80%; line-height: 160%; border: none;
   width: 1px; white-space: nowrap; display: table-caption; caption-side: bottom;}
@@ -290,8 +293,9 @@ table.tab.later0000:after, table.one-good.mono.later0000:after {
 table.tab.later0001:after, table.one-good.mono.later0001:after {
   content: "Товар временно отсутствует в продаже"; }
 table.tab.later1204:after, table.one-good.mono.later1204:after {
-/*content: "Поставка ожидается 26 февраля 2017 г."; }*/
-content: "Поставка ожидается во второй половине февраля 2018 г."; }
+  content: "Поставка ожидается во второй половине февраля 2018 г."; }
+table.tab.later1803:after, table.one-good.mono.later1803:after {
+  content: "Поставка ожидается в марте 2018 г."; }
 table.tab.next:after    { content: ""; }
 
 p.callprice { font-weight: bold; padding: 0px; }
@@ -480,10 +484,11 @@ p.subtit {position: absolute; top: -38px;}
 #cat414 .desc-good,
 #cat47  .desc-good, #cat48  .desc-good
 {min-width:45em;}
-#cat468 .desc-good,
 #cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat379 .desc-good,
 #cat174 .desc-good, #cat176 .desc-good
 {min-width:48em;}
+#cat468 .desc-good
+{min-width:50em;}
 #cat422 .desc-good
 {min-width:56em;}
 /*
