@@ -133,10 +133,10 @@
 #0|Ασπ οξ αεςξνσ SDS+       20 &#215;&numsp;460 μμ HAGWERT        |414|      20 &#215; 460 μμ|  562055|365,00|355,00|346,00|| ltdl
 
 # 47|Ασπϋ οξ αεςξνσ δλÿ οεπτξπΰςξπΰ SDS Plus BERGEN
- 1|Ασπ SDS PLUS &numsp;5 &#215;&numsp;160 μμ, BERGEN  |47|&numsp;5 &#215;&numsp;160 μμ|B+05160 |  57,75|  54,60|  51,45||mult2 norow|Ασπϋ οξ αεςξνσ δλÿ οεπτξπΰςξπΰ SDS Plus| BERGEN|||/img/pic/drill/small/BURY SDS PLUS.jpg|/img/pic/drill/big/BURY SDS PLUS.jpg
+ 1|Ασπ SDS PLUS &numsp;5 &#215;&numsp;160 μμ, BERGEN  |47|&numsp;5 &#215;&numsp;160 μμ|B+05160 |  57,75|  54,60|  51,45||mult2 norow ltdi one|Ασπϋ οξ αεςξνσ δλÿ οεπτξπΰςξπΰ SDS Plus| BERGEN|||/img/pic/drill/small/BURY SDS PLUS.jpg|/img/pic/drill/big/BURY SDS PLUS.jpg
  0|Ασπ SDS PLUS &numsp;5 &#215;&numsp;160 μμ, BERGEN  |47|&numsp;5 &#215;&numsp;160 μμ|B+05160 |  59,00|  56,00|  54,00|
  0|Ασπ SDS PLUS &numsp;5 &#215;&numsp;260 μμ, BERGEN  |47|&numsp;5 &#215;&numsp;260 μμ|B+05260 |  99,00|  95,00|  92,00|
-~0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;110 μμ, BERGEN  |47|&numsp;6 &#215;&numsp;110 μμ|B+06110 |  48,98|  46,00|  44,00||blkt2|
+~0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;110 μμ, BERGEN  |47|&numsp;6 &#215;&numsp;110 μμ|B+06110 |  48,98|  46,00|  44,00||blkt2 ltdl
 ~0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;160 μμ, BERGEN  |47|&numsp;6 &#215;&numsp;160 μμ|B+06160 |  54,98|  52,00|  49,98|
 ~0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;210 μμ, BERGEN  |47|&numsp;6 &#215;&numsp;210 μμ|B+06210 |  69,98|  66,65|  64,00|
  0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;260 μμ, BERGEN  |47|&numsp;6 &#215;&numsp;260 μμ|B+06260 |  98,00|  97,00|  93,00|
@@ -217,38 +217,42 @@
  0|Ασπ SDS PLUS 32       &#215;1000       μμ, BERGEN  |47|32       &#215;1000       μμ|B+321000|2750,00|2720,00|2655,00|
 #0|Ασπ SDS PLUS 12       &#215;&numsp;460 μμ, BERGEN  |47|12       &#215;&numsp;460 μμ|B+12460 | 207,90| 201,60| 197,40|
 #0|Ασπ SDS PLUS 14       &#215;&numsp;160 μμ, BERGEN  |47|14       &#215;&numsp;160 μμ|B+14160 | 114,45| 110,25| 103,95|
- 0|&nbsp;|468|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||blkt2 empty
- 0|&nbsp;|468|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
- 0|&nbsp;|468|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
- 0|&nbsp;|468|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
- 0|&nbsp;|468|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
- 0|&nbsp;|468|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
+ 0|&nbsp;|47|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||blkt2 empty
+ 0|&nbsp;|47|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
+ 0|&nbsp;|47|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
+ 0|&nbsp;|47|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
+ 0|&nbsp;|47|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
+ 0|&nbsp;|47|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
 
 # 468|Ασπϋ οξ αεςξνσ δλÿ οεπτξπΰςξπΰ SDS Plus OPTIM
  1|Ασπ SDS PLUS &numsp;5 &#215;&numsp;160 μμ, OPTIM|468|&numsp;5 &#215;&numsp;160 μμ|790511| 39,98| 38,45| 37,25||mult2 norow|Ασπϋ οξ αεςξνσ δλÿ οεπτξπΰςξπΰ SDS Plus| OPTIM|||/img/pic/drill/small/BURY SDS PLUS.jpg|/img/pic/drill/big/BURY SDS PLUS.jpg
  0|Ασπ SDS PLUS &numsp;5 &#215;&numsp;110 μμ, OPTIM|468|&numsp;5 &#215;&numsp;110 μμ|790511| 39,98| 38,45| 37,25||
  0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;110 μμ, OPTIM|468|&numsp;6 &#215;&numsp;110 μμ|790611| 29,98| 29,25| 28,98||blkt2
- 0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;160 μμ, OPTIM|468|&numsp;6 &#215;&numsp;160 μμ|790616| 34,95| 33,45| 32,45||
- 0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;210 μμ, OPTIM|468|&numsp;6 &#215;&numsp;210 μμ|790621| 51,95| 50,00| 49,00||
- 0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;260 μμ, OPTIM|468|&numsp;6 &#215;&numsp;260 μμ|790626| 72,00| 69,95| 68,25||
- 0|Ασπ SDS PLUS &numsp;8 &#215;&numsp;110 μμ, OPTIM|468|&numsp;8 &#215;&numsp;110 μμ|790811| 38,98| 37,98| 37,45||blkt2
- 0|Ασπ SDS PLUS &numsp;8 &#215;&numsp;160 μμ, OPTIM|468|&numsp;8 &#215;&numsp;160 μμ|790816| 47,90| 46,00| 44,50||
- 0|Ασπ SDS PLUS &numsp;8 &#215;&numsp;210 μμ, OPTIM|468|&numsp;8 &#215;&numsp;210 μμ|790821| 55,95| 54,00| 52,95||
- 0|Ασπ SDS PLUS &numsp;8 &#215;&numsp;260 μμ, OPTIM|468|&numsp;8 &#215;&numsp;260 μμ|790826| 63,98| 61,35| 58,98||
- 0|Ασπ SDS PLUS &numsp;8 &#215;&numsp;310 μμ, OPTIM|468|&numsp;8 &#215;&numsp;310 μμ|790831| 94,25| 91,25| 89,98||
+ 0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;160 μμ, OPTIM|468|&numsp;6 &#215;&numsp;160 μμ|790616| 36,95| 33,45| 32,45||
+ 0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;210 μμ, OPTIM|468|&numsp;6 &#215;&numsp;210 μμ|790621| 53,95| 51,00| 49,98||
+ 0|Ασπ SDS PLUS &numsp;6 &#215;&numsp;260 μμ, OPTIM|468|&numsp;6 &#215;&numsp;260 μμ|790626| 75,00| 72,00| 68,25||
+ 0|Ασπ SDS PLUS &numsp;8 &#215;&numsp;110 μμ, OPTIM|468|&numsp;8 &#215;&numsp;110 μμ|790811| 39,98| 37,98| 37,45||blkt2
+ 0|Ασπ SDS PLUS &numsp;8 &#215;&numsp;160 μμ, OPTIM|468|&numsp;8 &#215;&numsp;160 μμ|790816| 49,90| 46,98| 44,98||
+ 0|Ασπ SDS PLUS &numsp;8 &#215;&numsp;210 μμ, OPTIM|468|&numsp;8 &#215;&numsp;210 μμ|790821| 57,95| 55,45| 53,95||
+ 0|Ασπ SDS PLUS &numsp;8 &#215;&numsp;260 μμ, OPTIM|468|&numsp;8 &#215;&numsp;260 μμ|790826| 65,98| 62,98| 59,98||
+ 0|Ασπ SDS PLUS &numsp;8 &#215;&numsp;310 μμ, OPTIM|468|&numsp;8 &#215;&numsp;310 μμ|790831| 96,25| 93,00| 89,98||
  0|&nbsp;|468|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||blkt2 empty
  0|&nbsp;|468|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
+ 0|&nbsp;|468|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
+ 0|&nbsp;|468|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;||empty
  1|Ασπ SDS PLUS 10       &#215;&numsp;160 μμ, OPTIM|468|10       &#215;&numsp;160 μμ|791016| 50,98| 48,98| 47,45||mult2 next norow
- 0|Ασπ SDS PLUS 10       &#215;&numsp;160 μμ, OPTIM|468|10       &#215;&numsp;160 μμ|791016| 50,98| 48,98| 47,45||
+ 0|Ασπ SDS PLUS 10       &#215;&numsp;160 μμ, OPTIM|468|10       &#215;&numsp;160 μμ|791016| 52,98| 51,00| 48,98||
  0|Ασπ SDS PLUS 10       &#215;&numsp;260 μμ, OPTIM|468|10       &#215;&numsp;260 μμ|791026| 74,98| 72,25| 69,98||
- 0|Ασπ SDS PLUS 10       &#215;&numsp;310 μμ, OPTIM|468|10       &#215;&numsp;310 μμ|791031| 77,95| 76,00| 74,00||
- 0|Ασπ SDS PLUS 10       &#215;&numsp;350 μμ, OPTIM|468|10       &#215;&numsp;350 μμ|791035|112,98|108,45|105,00||
- 0|Ασπ SDS PLUS 12       &#215;&numsp;160 μμ, OPTIM|468|12       &#215;&numsp;160 μμ|791216| 69,98| 67,98| 65,98||blkt2
- 0|Ασπ SDS PLUS 12       &#215;&numsp;260 μμ, OPTIM|468|12       &#215;&numsp;260 μμ|791226| 79,85| 77,98| 76,45||
- 0|Ασπ SDS PLUS 12       &#215;&numsp;310 μμ, OPTIM|468|12       &#215;&numsp;310 μμ|791231| 89,98| 87,65| 86,45||
- 0|Ασπ SDS PLUS 12       &#215;&numsp;350 μμ, OPTIM|468|12       &#215;&numsp;350 μμ|791235|108,75|105,00|103,75||
- 0|Ασπ SDS PLUS 12       &#215;&numsp;460 μμ, OPTIM|468|12       &#215;&numsp;460 μμ|791246|125,00|122,00|118,00||
- 0|Ασπ SDS PLUS 14       &#215;&numsp;310 μμ, OPTIM|468|14       &#215;&numsp;310 μμ|791431|129,00|125,00|121,00||blkt2
+ 0|Ασπ SDS PLUS 10       &#215;&numsp;310 μμ, OPTIM|468|10       &#215;&numsp;310 μμ|791031| 79,95| 77,00| 75,00||
+ 0|Ασπ SDS PLUS 10       &#215;&numsp;350 μμ, OPTIM|468|10       &#215;&numsp;350 μμ|791035|116,98|112,00|108,00||
+ 0|Ασπ SDS PLUS 12       &#215;&numsp;160 μμ, OPTIM|468|12       &#215;&numsp;160 μμ|791216| 72,98| 70,98| 68,98||blkt2
+ 0|Ασπ SDS PLUS 12       &#215;&numsp;210 μμ, OPTIM|468|12       &#215;&numsp;210 μμ|791221| 74,98| 72,45| 70,25||
+ 0|Ασπ SDS PLUS 12       &#215;&numsp;260 μμ, OPTIM|468|12       &#215;&numsp;260 μμ|791226| 83,85| 81,98| 78,45||
+ 0|Ασπ SDS PLUS 12       &#215;&numsp;310 μμ, OPTIM|468|12       &#215;&numsp;310 μμ|791231| 91,98| 88,98| 86,98||
+ 0|Ασπ SDS PLUS 12       &#215;&numsp;350 μμ, OPTIM|468|12       &#215;&numsp;350 μμ|791235|112,75|109,00|104,00||
+ 0|Ασπ SDS PLUS 12       &#215;&numsp;460 μμ, OPTIM|468|12       &#215;&numsp;460 μμ|791246|128,00|124,00|119,00||
+ 0|Ασπ SDS PLUS 14       &#215;&numsp;310 μμ, OPTIM|468|14       &#215;&numsp;310 μμ|791431|139,00|134,00|129,00||blkt2
+ 0|Ασπ SDS PLUS 16       &#215;&numsp;210 μμ, OPTIM|468|16       &#215;&numsp;210 μμ|791621|128,00|123,00|117,00||blkt2
  0|Ασπ SDS PLUS 20       &#215;&numsp;600 μμ, OPTIM|468|20       &#215;&numsp;600 μμ|792060|369,00|362,00|355,00||blkt2
  0|Ασπ SDS PLUS 28       &#215;&numsp;600 μμ, OPTIM|468|28       &#215;&numsp;600 μμ|792860|798,00|788,00|777,00||blkt2
 #0|Ασπ SDS PLUS 14       &#215;&numsp;260 μμ, OPTIM|468|14       &#215;&numsp;260 μμ|791426|138.00|133.00|129.00||blkt2
