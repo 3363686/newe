@@ -392,9 +392,9 @@ div.refbanner page {padding-right: 269px; }
 h2.refs {text-align: center; position: relative; left: -100px; font-size: 150%; color: #ec8911;}
 h2+table.cblock {float: none; margin: 10px auto 0px auto; position: relative; left: -100px; }
 /*h2+table.cblock {margin: auto}*/
-/* Костыли для ссылки на top-level раздел с кривой иконкой */
-body#cat50 h2+table.cblock img {width: 70px; height: 70px;}
-body#cat201 table.cblock img {height: 70px;}
+/* Костыли для ссылки на top-level раздел с кривой квадратной иконкой */
+.ref .cblock td:nth-child(1) img,
+body#cat50 h2+.cblock td:nth-child(1) img {width: auto; height: 70px;}
 
 #nooferta {text-align: center; font-size: 75%; color: #555; line-height: 100%; padding:4px 23px 1px 23px;}
 
