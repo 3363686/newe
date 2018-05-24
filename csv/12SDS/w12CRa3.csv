@@ -18,35 +18,40 @@
 
 # 281|Коронки BIMETAL Хвостовики
  1|Коронка BIMETAL 20 мм                               |281|BIM20| 155,15| 149,80| 144,45||norow|Коронки| BIMETAL|ДСП, фанера, пластмасса и др.||/img/pic/drill/small/Coronka BIMETAL.jpg|/img/pic/drill/big/Coronka BIMETAL.jpg
- 0|Коронка BIMETAL 19 мм                               |281|BIM19| 139| 133| 129|
- 0|Коронка BIMETAL 25 мм                               |281|BIM25| 149| 141| 138|
- 0|Коронка BIMETAL 29 мм                               |281|BIM29| 185| 178| 172|
- 0|Коронка BIMETAL 30 мм                               |281|BIM30| 215| 205| 195|
- 0|Коронка BIMETAL 32 мм                               |281|BIM32| 225| 210| 198|
- 0|Коронка BIMETAL 35 мм                               |281|BIM35| 245| 230| 220|
- 0|Коронка BIMETAL 38 мм                               |281|BIM38| 265| 250| 240|
- 0|Коронка BIMETAL 41 мм                               |281|BIM41| 279| 265| 250|
- 0|Коронка BIMETAL 44 мм                               |281|BIM44| 298| 274| 260|
- 0|Коронка BIMETAL 51 мм                               |281|BIM51| 309| 298| 285|
- 0|Коронка BIMETAL 54 мм                               |281|BIM54| 325| 305| 295|
- 0|Коронка BIMETAL 60 мм                               |281|BIM60| 389| 375| 360|
- 0|Коронка BIMETAL 64 мм                               |281|BIM64| 398| 380| 365|
- 0|Коронка BIMETAL 68 мм                               |281|BIM68| 425| 398| 370|
- 0|Коронка BIMETAL 83 мм                               |281|BIM83| 535| 505| 490|
- 1|Хвостовик SDS Plus для коронок BIMETAL до 30 мм     |281|HBM30| 149| 144| 139|||Хвостовики (держатели для коронки) SDS Plus| для коронок BIMETAL|||/img/pic/drill/small/Hvostovik DLJA KORONOK BIMETALL.jpg|/img/pic/drill/big/Hvostovik DLJA KORONOK BIMETALL.jpg
- 0|Хвостовик SDS Plus для коронок BIMETAL свыше 30 мм  |281|HBB30| 249| 239| 229|
-#1|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  29 мм|281|5029 | 339| 327| 315||ltd|Коронки HSS Bi-Metal, переменный шаг VARIOZAHN| MPS (Германия)|ДСП, фанера, пластмасса и др.||/img/pic/drill/small/mps068.jpg|/img/pic/drill/big/mps068.jpg
-#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  35 мм|281|5035 | 395| 378| 359||
-#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  41 мм|281|5041 | 445| 425| 405||
-#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  44 мм|281|5044 | 465| 445| 420||
-#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  51 мм|281|5051 | 498| 475| 455||
-#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  60 мм|281|5060 | 578| 550| 530||
-#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  64 мм|281|5064 | 598| 575| 555||
-#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  68 мм|281|5068 | 616| 595| 569||
-#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  83 мм|281|5083 | 765| 745| 715||
-#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия) 100 мм|281|5100 | 885| 855| 835||
-#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия) 102 мм|281|5102 | 915| 895| 865||
-#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия) 105 мм|281|5105 | 945| 925| 895||
-#1|Хвостовик SDS Plus для коронок MPS 14 - 30 мм       |281|5507 | 735,00| 703,50| 677,25||ltd|Хвостовики (держатели для коронки) SDS Plus| для коронок HSS Bi-Metal, переменный шаг VARIOZAHN MPS (Германия)|||/img/pic/drill/small/mps32-210.jpg|/img/pic/drill/big/mps32-210.jpg
-#0|Хвостовик SDS Plus для коронок MPS 32 - 152 мм      |281|5508 |1207,50|1165,50|1113,00||
+ 0|Коронка BIMETAL 19 мм                               |281|BIM19   | 133| 131| 129|
+ 0|Коронка BIMETAL 25 мм HARDAX                        |281|36-7-825| 139| 134| 131|
+ 0|Коронка BIMETAL 29 мм                               |281|BIM29   | 188| 183| 179|
+ 0|Коронка BIMETAL 30 мм                               |281|BIM30   | 195| 191| 188|
+ 0|Коронка BIMETAL 32 мм                               |281|BIM32   | 198| 193| 191|
+ 0|Коронка BIMETAL 35 мм                               |281|BIM35   | 239| 233| 224|
+ 0|Коронка BIMETAL 38 мм                               |281|BIM38   | 242| 238| 233|
+ 0|Коронка BIMETAL 41 мм                               |281|BIM41   | 255| 248| 242|
+ 0|Коронка BIMETAL 44 мм                               |281|BIM44   | 279| 272| 268|
+ 0|Коронка BIMETAL 51 мм HARDAX                        |281|36-7-851| 289| 282| 277|
+ 0|Коронка BIMETAL 54 мм                               |281|BIM54   | 298| 293| 288|
+ 0|Коронка BIMETAL 60 мм                               |281|BIM60   | 333| 325| 315|
+ 0|Коронка BIMETAL 64 мм                               |281|BIM64   | 355| 345| 333|
+ 0|Коронка BIMETAL 68 мм HARDAX                        |281|36-7-868| 365| 355| 344|
+ 0|Коронка BIMETAL 83 мм                               |281|BIM83   | 469| 455| 444|
+ 1|Хвостовики (держатели) для коронок           BIMETAL|281|        | 149| 144| 139||norow||, HARDAX|</span><span class="for">Центрирующее сверло в комплекте с державкой предназначено для для надежной фиксации и центровки сверлильной коронки||/img/pic/drill/small/Hvostovik DLJA KORONOK BIMETALL.jpg|/img/pic/drill/big/Hvostovik DLJA KORONOK BIMETALL.jpg
+ 0|6-гранный хвостовик для коронок BIMETAL до    30 мм |281|36-8-003| 139| 134| 131|
+ 0|6-гранный хвостовик для коронок BIMETAL свыше 30 мм |281|36-8-004| 239| 233| 225|
+ 0|Хвостовик SDS Plus  для коронок BIMETAL до    30 мм |281|36-8-001| 139| 134| 131|
+ 0|Хвостовик SDS Plus  для коронок BIMETAL свыше 30 мм |281|36-8-002| 239| 233| 225|
+ 1|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  29 мм|281|5029    | 255| 255| 255||norow sale1|Коронки HSS Bi-Metal, переменный шаг VARIOZAHN| MPS (Германия)|ДСП, фанера, пластмасса и др.||/img/pic/drill/small/mps068.jpg|/img/pic/drill/big/mps068.jpg
+ 0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  35 мм|281|5035    | 266| 266| 266||
+ 0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  41 мм|281|5041    | 288| 288| 288||
+ 0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  44 мм|281|5044    | 333| 333| 333||
+ 0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  83 мм|281|5083    | 555| 555| 555||
+ 0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия) 100 мм|281|5100    | 667| 667| 667||
+ 0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия) 102 мм|281|5102    | 699| 699| 699||
+#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия) 105 мм|281|5105    | 945| 925| 895||
+#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  51 мм|281|5051    | 498| 475| 455||
+#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  60 мм|281|5060    | 578| 550| 530||
+#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  64 мм|281|5064    | 598| 575| 555||
+#0|Коронка HSS Bi-Metal VARIOZAHN MPS (Германия)  68 мм|281|5068    | 616| 595| 569||
+#1|Хвостовик SDS Plus для коронок MPS 14 - 30 мм       |281|5507    | 735,00| 703,50| 677,25||ltd|Хвостовики (держатели для коронки) SDS Plus| для коронок HSS Bi-Metal, переменный шаг VARIOZAHN MPS (Германия)|||/img/pic/drill/small/mps32-210.jpg|/img/pic/drill/big/mps32-210.jpg
+#0|Хвостовик SDS Plus для коронок MPS 32 - 152 мм      |281|5508    |1207,50|1165,50|1113,00||
+#1|Хвостовик SDS Plus для коронок BIMETAL до 30 мм     |281|HBM30   | 149| 144| 139|||Хвостовики (держатели для коронки) SDS Plus| для коронок BIMETAL|||/img/pic/drill/small/Hvostovik DLJA KORONOK BIMETALL.jpg|/img/pic/drill/big/Hvostovik DLJA KORONOK BIMETALL.jpg
+#0|Хвостовик SDS Plus для коронок BIMETAL свыше 30 мм  |281|HBB30   | 249| 239| 229|
 
