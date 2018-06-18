@@ -203,14 +203,6 @@
 
 ##########################################
 # 72,cat72|Строительные рулетки
- 1|Рулетка BOHRER "Стандарт" 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм      |72|41011025   | 279,00| 272,00| 265,00||norow|Рулетка| BOHRER "Стандарт" 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм <span class="art">арт. 41011025</span>|<br>С фиксатором, обрезиненный ударопрочный корпус||/img/pic/instr/small/Ruletka-BOHRER-41011025.jpg|/img/pic/instr/big/Ruletka-BOHRER-41011025.jpg
- 0|Рулетка BOHRER "Стандарт" 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм      |72|41011025   | 279,00| 272,00| 265,00
- 1|Рулетка BOHRER "Мастер" 10.0&nbsp;м&nbsp;х&nbsp;32&nbsp;мм        |72|41021032   | 333,00| 324,00| 316,00||norow|Рулетка| BOHRER "Мастер" 10.0&nbsp;м&nbsp;х&nbsp;32&nbsp;мм <span class="art">арт. 41021032</span>|<br>3 фиксации (с боковым фиксатором), обрезиненный ударопрочный корпус||/img/pic/instr/small/Ruletka-BOHRER-41021032.jpg|/img/pic/instr/big/Ruletka-BOHRER-41021032.jpg
- 0|Рулетка BOHRER "Мастер" 10.0&nbsp;м&nbsp;х&nbsp;32&nbsp;мм        |72|41021032   | 333,00| 324,00| 316,00
- 1|Рулетка BOHRER "Profi" 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм          |72|41030316   | 109,00| 104,00|  99,00||norow|Рулетки| BOHRER "Profi"|<br>Обрезиненный корпус, магнитный зацеп, автостоп||/img/pic/instr/small/Ruletka-BOHRER.jpg|/img/pic/instr/big/Ruletka-BOHRER.jpg
- 0|Рулетка BOHRER "Profi" 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм          |72|41030316   | 109,00| 104,00|  99,00|
- 0|Рулетка BOHRER "Profi" 5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм          |72|41030525   | 198,00| 193,00| 188,00|
- 0|Рулетка BOHRER "Profi" 7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм          |72|41030725   | 265,00| 258,00| 245,00|
  1|Рулетка 5.0 м х 25 мм с магнитом и автостопом                     |72|570153     | 209,00| 202,00| 198,00||norow|| METRIC + <span class="art">арт. 570153</span>|</span></p><UL><LI>Класс точности II.<LI>Стальная лента со стойким к истиранию покрытием.<LI>Корпус из ударопрочного пластика, обрезинен и проклеен, снабжен металлической клипсой для удобства ношения.<LI>Магнит и функция автостоп для автоматической фиксации ленты в выдвинутом состоянии.</UL><p><span class="addt">||/img/pic/instr/small/RULETKA METRIC.jpg|/img/pic/instr/big/RULETKA METRIC.jpg
  0|Рулетка METRIC+ 5.0 м х 25 мм с магнитом и автостопом             |72|570153     | 209,00| 202,00| 198,00|
  1|Рулетки с автоматической блокировкой                              |72|           | 229,00| 222,00| 215,00||norow|| HARDY ПРОФИ, эргономическое исполнение|Высокое качество, прочный корпус||/img/pic/instr/small/0700-451603.jpg|/img/pic/instr/big/0700-451603.jpg
@@ -279,6 +271,14 @@
 #0|Рулетка ERGONOMISCH 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм           |72|31105   |385,00|365,00|345,00
 #1|Рулетка 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                        |72|*31088  | 95,00| 88,00| 82,00||| CONTINUOUS FIXATION <span class=art>арт. 31088</span>|Обрезиненный корпус, два фиксатора ленты, зажим для ремня, класс точности: 2.||/img/pic/instr/small/Ruletka CONTINUOUS FIXATION.jpg|/img/pic/instr/big/Ruletka CONTINUOUS FIXATION.jpg
 #1|Рулетка 5.0&nbsp;м&nbsp;х&nbsp;19&nbsp;мм                        |72|        | 99,00| 92,00|      ||| EKTO   <span class=art>арт.      </span>|</span></p><UL><LI>стальная полностью<LI>обрезиненный корпус<LI>стопорная кнопка</UL><p><span class="addt">||/img/pic/instr/small/RULRTKA EKTO 5 M.jpg|/img/pic/instr/big/RULRTKA EKTO 5 M.jpg
+#1|Рулетка BOHRER "Стандарт" 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм      |72|41011025   | 279,00| 272,00| 265,00||norow|Рулетка| BOHRER "Стандарт" 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм <span class="art">арт. 41011025</span>|<br>С фиксатором, обрезиненный ударопрочный корпус||/img/pic/instr/small/Ruletka-BOHRER-41011025.jpg|/img/pic/instr/big/Ruletka-BOHRER-41011025.jpg
+#0|Рулетка BOHRER "Стандарт" 10.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм      |72|41011025   | 279,00| 272,00| 265,00
+#1|Рулетка BOHRER "Мастер" 10.0&nbsp;м&nbsp;х&nbsp;32&nbsp;мм        |72|41021032   | 333,00| 324,00| 316,00||norow|Рулетка| BOHRER "Мастер" 10.0&nbsp;м&nbsp;х&nbsp;32&nbsp;мм <span class="art">арт. 41021032</span>|<br>3 фиксации (с боковым фиксатором), обрезиненный ударопрочный корпус||/img/pic/instr/small/Ruletka-BOHRER-41021032.jpg|/img/pic/instr/big/Ruletka-BOHRER-41021032.jpg
+#0|Рулетка BOHRER "Мастер" 10.0&nbsp;м&nbsp;х&nbsp;32&nbsp;мм        |72|41021032   | 333,00| 324,00| 316,00
+#1|Рулетка BOHRER "Profi" 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм          |72|41030316   | 109,00| 104,00|  99,00||norow|Рулетки| BOHRER "Profi"|<br>Обрезиненный корпус, магнитный зацеп, автостоп||/img/pic/instr/small/Ruletka-BOHRER.jpg|/img/pic/instr/big/Ruletka-BOHRER.jpg
+#0|Рулетка BOHRER "Profi" 3.0&nbsp;м&nbsp;х&nbsp;16&nbsp;мм          |72|41030316   | 109,00| 104,00|  99,00|
+#0|Рулетка BOHRER "Profi" 5.0&nbsp;м&nbsp;х&nbsp;25&nbsp;мм          |72|41030525   | 198,00| 193,00| 188,00|
+#0|Рулетка BOHRER "Profi" 7.5&nbsp;м&nbsp;х&nbsp;25&nbsp;мм          |72|41030725   | 265,00| 258,00| 245,00|
 
 ######################### Sale
 # 491,cat491 -># 490,cat490
