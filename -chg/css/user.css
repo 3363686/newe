@@ -270,6 +270,7 @@ table.tab.later0001 tr,                  {background-color: #f6f6f8;}
 table.tab.ltd:after, table.one-good.mono.ltd:after, table.tab.ltdi:after,
 table.tab.sale1:after, table.one-good.mono.sale1:after,
 table.tab.callprice:after, table.one-good.mono.callprice:after,
+table.tab.postoffer:after, table.one-good.mono.postoffer:after,
 table.tab.later0000:after, table.one-good.mono.later0000:after,
 table.tab.later0001:after, table.one-good.mono.later0001:after,
 table.tab.later1803:after, table.one-good.mono.later1803:after,
@@ -288,6 +289,8 @@ table.tab tr.ltdl td:before    { content: "* "; }
 table.tab tr.ltdl td.tb:before, table.tab tr.ltdl td.good-cart:before { content: ""; }
 table.tab.callprice:after, table.one-good.mono.callprice:after {
   content: "Цена по запросу"; }
+table.tab.postoffer:after, table.one-good.mono.postoffer:after {
+  content: "Под заказ"; }
 table.tab.later0000:after, table.one-good.mono.later0000:after {
   content: "Поставка ожидается в ближайшее время"; }
 table.tab.later0001:after, table.one-good.mono.later0001:after {
@@ -299,7 +302,9 @@ table.tab.later1803:after, table.one-good.mono.later1803:after {
 table.tab.next:after    { content: ""; }
 
 p.callprice { font-weight: bold; padding: 0px; }
-p.callprice:after { content: "Цена по запросу"; }
+p.callprice:after { content: "Под заказ"; }
+p.postoffer { font-weight: bold; padding: 0px; }
+p.postoffer:after { content: "Под заказ"; }
 p.onlyrest  { font-weight: bold; padding: 0px; }
 p.onlyrest:after  { content: "Продажа данных позиций ограничена наличием на текущую дату."; }
 /*p.onlyrest:after  { content: "Продажа осуществляется строго по складским остаткам."; }*/
