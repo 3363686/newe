@@ -29,24 +29,6 @@
 #1|Лопата совковая|101||79.00|69.00||inline|| с ребром жесткости|||/img/pic/strhoz/small/LOPATA SOVKOVAJA S REBROM ZOSTK.jpg|/img/pic/strhoz/big/LOPATA SOVKOVAJA S REBROM ZOSTK.jpg
 #1|Лопата снеговая|101||195|185|180|inline|| 375&nbsp;x&nbsp;330&#8239;мм| стальная оцинкованная <span class=art>арт. 61536</span>||/img/pic/strhoz/small/LOPATA SNEG OZINKOVANNAJA.jpg|/img/pic/strhoz/big/LOPATA SNEG OZINKOVANNAJA.jpg
 
-<div class="refbanner page" style="padding-right: 270px"><a href="cat203.shtml"><table><tr><td class="refbantab"><table cellpadding="4">
-  <tr class="hdr"><td colspan="4">а также: Снегоуборочный инвентарь</td></tr><tr>
-  <td
-    ><img src="/img/pic/strhoz/small/LOPATA SNEG ALLUMINIJ.jpg"
-    ><img src="/img/pic/strhoz/small/ZV01.jpg"
-    ><img src="/img/pic/strhoz/small/ZV02.png"
-  ></td>
-  <td><img src="/img/pic/strhoz/small/dvij0.jpg"></td>
-  <td><img src="/img/pic/strhoz/small/LEDORUB TOPOR.jpg"></td>
-  <td><img src="/img/pic/strhoz/small/LEDORUB SKREBOK.jpg"></td>
-</tr><tr class="sub">
-  <td>Лопаты снеговые и уборочные</td>
-  <td>Движки для снега</td>
-  <td>Ледорубы</td>
-  <td>Скребки</td>
-</tr>
-</table></td></tr></table></a></div>
-
 # 203,cat203|Снегоуборочный инвентарь
  1|Лопаты снеговые алюминиевые с металлической планкой             |203|RW.35    |389|375|345||norow ltdi one|||||/img/pic/strhoz/small/LOPATA SNEG ALLUMINIJ.jpg|/img/pic/strhoz/big/LOPATA SNEG ALLUMINIJ.jpg
 #0|Лопата алюм. снеговая 3-бортная 375 х 500 мм, с металл. планкой |203|RW.35    |389|375|345||
@@ -785,7 +767,7 @@
 #1|Лента барьерная|114||75.00|69.00||| 75&#8239;мм&#8239;x&#8239;100&#8239;м "CYCLONE"|||/img/pic/strhoz/small/Bariernaja lenta CYCLONE.jpg|/img/pic/strhoz/big/Bariernaja lenta CYCLONE.jpg
 #1|Лента сигнальная|114||109.00|95.00||| красно-белая 50&#8239;мм&#8239;x&#8239;200&#8239;м|||/img/pic/strhoz/small/Signalnaja lenta.jpg|/img/pic/strhoz/big/Signalnaja lenta.jpg
 
-# 186,cat186|Веревки строительные
+# 186,cat186|Веревки и шпагат !Веревки строительные
 # 600,cat600|Веревка полиамидная
 1|Веревка полиамидная &empty;10 мм, 24-прядная, бухта 100 м       |600|RG06200 |1785|1745|1715||norow|Веревка полиамидная| в бухтах|Высокая прочность, стойкость ко многим химическим реагентам.<br><br>Цена за бухту.||/img/pic/strhoz/small/verevka poliam 24 pr.jpg|/img/pic/strhoz/big/verevka poliam 24 pr.jpg
 0|Веревка полиамидная &empty; &nbsp; 6 мм, 16-прядная, бухта 200 м|600|RG06200 |1785|1745|1715||
@@ -804,9 +786,10 @@
 #0|Веревка ХБ д.16 мм|-600|370.00
 
 # 601,cat601|Шпагат
- 1|Шпагат льнопеньковый              100 м|601|93874   |59,98|56,98|54,98||||, 1.125 ктекс (т.е. 1.125 г/м)   <span class="art">арт.    93874</span>|||/img/pic/strhoz/small/93874n.jpg|/img/pic/strhoz/big/93874n.jpg
+ 1|Шпагат полипропиленовый белый      500м|601|51-5-500| 169| 164| 159||||, 1000 текс (т.е. 1.0 г/м)     <span class="art">арт. 51-5-500</span>|Разрывная нагрузка не менее 25 кг||/img/pic/strhoz/small/51-5-500.jpg|/img/pic/strhoz/big/51-5-500.jpg
+#1|Шпагат льнопеньковый              100 м|601|93874   |59,98|56,98|54,98||||, 1.125 ктекс (т.е. 1.125 г/м)   <span class="art">арт.    93874</span>|||/img/pic/strhoz/small/93874n.jpg|/img/pic/strhoz/big/93874n.jpg
 #1|Шпагат полипропиленовый красный    60 м|601|93975   |34,98|32,98|30,98||||, 1200 текс (т.е. 1.2 г/м) SiB <span class="art">арт.    93975</span>|||/img/pic/strhoz/small/93975n.jpg|/img/pic/strhoz/big/93975n.jpg
- 1|Шпагат полипропиленовый белый     150 м|601|93880   |64,98|61,98|59,98||||, 35 кгc, 800 текс (т.е. 0.8 г/м) <span class="art">арт. 93880</span>|</span></p><UL><LI>Шпагат полипропиленовый крученый имеет повышенную фибрилляцию и не подвержен гниению.<LI>Разрывная нагрузка не менее 35 кгc.</UL><p><span class="addt">||/img/pic/strhoz/small/93880.jpg|/img/pic/strhoz/big/93880.jpg
+#1|Шпагат полипропиленовый белый     150 м|601|93880   |64,98|61,98|59,98||||, 35 кгc, 800 текс (т.е. 0.8 г/м) <span class="art">арт. 93880</span>|</span></p><UL><LI>Шпагат полипропиленовый крученый имеет повышенную фибрилляцию и не подвержен гниению.<LI>Разрывная нагрузка не менее 35 кгc.</UL><p><span class="addt">||/img/pic/strhoz/small/93880.jpg|/img/pic/strhoz/big/93880.jpg
 #1|Шпагат полипропиленовый белый     150 м|601|51-5-150|  52|  49|  47||||, 1000 текс (т.е. 1.0 г/м)     <span class="art">арт. 51-5-150</span>|Разрывная нагрузка не менее 25 кг||/img/pic/strhoz/small/51-5-150.jpg|/img/pic/strhoz/big/51-5-150.jpg
 
 # 602,cat602 -># 620,cat620|Шнурка строительная
