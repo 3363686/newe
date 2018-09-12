@@ -431,10 +431,10 @@ body#cat454 h2+.cblock td:nth-child(1) img
 
 /* #cat199 .more_goods {display: none;} */
 /*#cat175 h1 {margin-bottom: -15px;}*/
-#cat175 .one-good {margin-top: 25px;}
+#cat175 .desc-good .one-good {margin-top: 25px;}
 #cat175 .more_goods {padding-top: 30px;}
 #cat175 .info-cat>table {margin-top: -19px;}
-#cat176 .one-good {margin-top: 35px;}
+#cat176 .desc-good .one-good {margin-top: 35px;}
 #cat176 .more_goods {padding-top: 40px;}
 #cat176 .info-cat>table {margin-top: -28px;}
 
