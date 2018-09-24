@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2002/REC-xhtml1-20020801/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#exec cgi="/pcgi/meta_title.pl"-->
+<!--#include virtual="/ssi/style-body.shtml"-->
+<!--#include virtual="/ssi/top-tmenu.shtml?$QUERY_STRING"-->
+<!--#include virtual="/ssi/lmenu-spo.shtml?$QUERY_STRING"-->
+<!--\\START\\-->
+<div id="mt1">
+  <p class="descr">Основные разделы и страницы сайта</p><p class="list">
+    <a href="/catalog/cat506.shtml"><h1>Малярка:</h1></a>
+    <a href="/catalog/cat507.shtml"><h2>Малярные валики</h2></a>
+    (фасадные <a href="/catalog/cat585.shtml">MaxProfi</a>,
+    для побелок <a href="/catalog/cat522.shtml">Gepardakryl и Mikroakryl</a>,
+    красок на водной основе <a href="/catalog/cat559.shtml">Roma и Torino</a>,
+    <a href="/catalog/cat523.shtml">эмалей</a>;
+    <a href="/catalog/cat54.shtml"> поролоновые</a>,
+    <a href="/catalog/cat525.shtml">велюровые</a>,
+    <a href="/catalog/cat530.shtml">структурные для декоративных покрытий</a>,
+    <a href="/catalog/cat529.shtml">кожаные для декоративной штукатурки</a>,
+    <a href="/catalog/cat531.shtml">игольчатые для наливных полов</a>,
+    <a href="/catalog/cat532.shtml">прижимные</a>) и
+    <a href="/catalog/cat532.shtml">рукоятки (бюгели) для валиков</a>;
+  </p><p class="list">
+    <a href="/catalog/cat507.shtml"><h2>Малярные кисти</h2></a>
+    (<a href="/catalog/cat506.shtml">макловицы</a>,
+    <a href="/catalog/cat506.shtml">плоские</a>
+    <a href="/catalog/cat506.shtml">разных</a>
+    <a href="/catalog/cat506.shtml">видов</a> и
+    <a href="/catalog/cat506.shtml">круглые <i>("ручники")</i></a>,
+    <a href="/catalog/cat506.shtml">флейцевые</a>,
+    <a href="/catalog/cat506.shtml">угловые</a>,
+    <a href="/catalog/cat506.shtml">радиаторные</a>,
+    <a href="/catalog/cat506.shtml">маховые</a>);
+<!--
+    <a href="/catalog/cat506.shtml">Mikroakryl</a>,
+    <a href="/catalog/cat506.shtml"><h2>Малярные кисти:</h2></a>
+-->
+  </p>
+</div>
+<div class="info-cat" style="margin:5px 0 0 0;">
+<!-- div style="margin:35px 0 0 10px;" -->
+<!--#exec cgi="/pcgi/section_matrix_main.pl"-->
+<br clear="all" />
+  <div class="l1">Доставка <span class="l1a"> в пределах МКАД</span> <span class="l1a">при заказе свыше 30&thinsp;000&thinsp;руб.</span> бесплатно!</div>
+</div>
+<!--\\END\\-->
+<!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->
+</body></html>
