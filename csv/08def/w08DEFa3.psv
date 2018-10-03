@@ -68,6 +68,10 @@
 #0|Спилковые комбинир. перчатки "Optima" фирмы Elementa, жесткая крага|383|EO-001-120|66|62
 
 # 87,cat87|Перчатки с нитриловым покрытием
+ 1|Перчатки с нитриловым покрытием            |87|NS.K| 98,00| 94,00| 89,90||norow|| СТАНДАРТ, полный облив, на краге      <span class=art>арт. NS.K</span>          |Механически и маслобензостойкие.||/img/pic/defence/small/NITRAS 3440.jpg|/img/pic/defence/big/NITRAS 3440.jpg
+ 0|Перчатки с нитриловым покрытием, на краге  |87|NS.K| 98,00| 94,00| 89,90
+ 1|Перчатки с нитриловым покрытием            |87|NS.R| 98,00| 94,00| 89,90||norow|| СТАНДАРТ, полный облив, на манжете    <span class=art>арт. NS.R</span>          |Механически и маслобензостойкие.||/img/pic/defence/small/NITRAS 3420.jpg|/img/pic/defence/big/NITRAS 3420.jpg
+ 0|Перчатки с нитриловым покрытием, на манжете|87|NS.R| 98,00| 94,00| 89,90
  1|Перчатки нитриловый облив            |87|4420.10   |133,00|131,00|126,00||norow|| Arcticus 4420, манжет Р, размер 10 <span class=art>арт. 4420.10</span>|</span><span class="for">Перчатки трикотажные "Стандарт", полностью облитые нитрилом, синего цвета</span></p><UL><LI><b>Трикотажный манжет.</b><LI><b>Основа:</b> хлопчатобумажный трикотаж типа «джерси» с антибактериальной пропиткой <b>Sanitized</b>.<LI><b>Материал покрытия:</b> <b>трехслойный</b> нитрилбутилдиеновый каучук.<LI><b>Защита:</b> от механических повреждений, контактов с нефтью и нефтепродуктами. Антистатичны.</UL><p><span class="addt">||/img/pic/defence/small/A4420.jpg|/img/pic/defence/big/A4420.jpg
  0|Перчатки нитриловый облив 4420       |87|4420.10   |133,00|131,00|126,00
  1|Перчатки нитриловый облив            |87|4420ECU.10|117,00|114,00|109,00||norow|| Arcticus 4420 ECO, манжет Р, размер 10 <span class=art>арт. 4420ECU.10</span>|</span><span class="for">Перчатки трикотажные "Ecological", полностью облитые нитрилом, синего цвета</span></p><UL><LI><b>Трикотажный манжет.</b><LI><b>Основа:</b> хлопчатобумажный трикотаж типа «джерси».<LI><b>Материал покрытия:</b> двухслойный нитрилбутилдиеновый каучук.<LI><b>Защита:</b> от механических повреждений, контактов с нефтью и нефтепродуктами. Антистатичны.</UL><p><span class="addt">||/img/pic/defence/small/A4420ECO.jpg|/img/pic/defence/big/A4420ECO.jpg
@@ -80,10 +84,6 @@
 #0|Перчатки нитриловый облив 3420 NITRAS |87|N.3420.10|136,00|131,00|127,00
 #1|Перчатки нитриловый облив                  |87|NO.K|109,00|103,00| 98,00||norow||               на краге      <span class=art>арт. NO.K</span>          |Механически и маслобензостойкие.||/img/pic/defence/small/NITRAS 3440.jpg|/img/pic/defence/big/NITRAS 3440.jpg
 #0|Перчатки нитриловый облив, на краге        |87|NO.K|109,00|103,00| 98,00
-#1|Перчатки с нитриловым покрытием            |87|NS-R| 98,00| 94,00| 89,00||norow|| полный облив, на манжете    <span class=art>арт. NS-R</span>          |Механически и маслобензостойкие.||/img/pic/defence/small/NITRAS 3420.jpg|/img/pic/defence/big/NITRAS 3420.jpg
-#0|Перчатки с нитриловым покрытием, на манжете|87|NS-R| 98,00| 94,00| 89,00
-#1|Перчатки с нитриловым покрытием            |87|NS-K| 88,00| 85,00| 79,98||norow|| полный облив, на краге      <span class=art>арт. NS-K</span>          |Механически и маслобензостойкие.||/img/pic/defence/small/NITRAS 3440.jpg|/img/pic/defence/big/NITRAS 3440.jpg
-#0|Перчатки с нитриловым покрытием, на краге  |87|NS-K| 88,00| 85,00| 79,98
 #1|Перчатки с нитриловым покрытием|86|1L      |94,00|88,00|85,00|  ||| <span class=art>арт. 1L</span>|Перчатки общего производственного назначения.||/img/pic/defence/small/Perchatki HB ODINARNY LATEX.jpg|/img/pic/defence/big/Perchatki HB ODINARNY LATEX.jpg
 #1|Перчатки с нитриловым покрытием|86|2L      |94,00|88,00|84,00|  ||| <span class=art>арт. 2L</span>|Перчатки общего производственного назначения.||/img/pic/defence/small/Perchatki DVOJNOY LATEX.jpg|/img/pic/defence/big/Perchatki DVOJNOY LATEX.jpg
 
@@ -122,7 +122,7 @@
 1|Рукавицы брезентовые с брезентовым наладонником|91|WBB   |54,00|52,00|49,00|||| <span class=art>арт. WBB</span>|||/img/pic/defence/small/RUKOVICY BR S BREZENT NALADONNIKOM.jpg|/img/pic/defence/big/RUKOVICY BR S BREZENT NALADONNIKOM.jpg
 1|Рукавицы утепленные с брезентовым наладонником |91|WU    |62,00|58,00|54,00|90||| <span class=art>арт. WU</span>|||/img/pic/defence/small/RUKAVIZY UTEPLENY S BREZENT NALADONNIKOM.jpg|/img/pic/defence/big/RUKAVIZY UTEPLENY S BREZENT NALADONNIKOM.jpg
 1|Рукавицы утепленные с наладонником             |91|DIA   |56,00|52,00|49,00|90||| "Диагональ" <span class=art>арт. DIA</span>|||/img/pic/defence/small/RUKAVIZY UTEPLEN DIAGONAL.jpg|/img/pic/defence/big/RUKAVIZY UTEPLEN DIAGONAL.jpg
-1|Рукавицы - краги сварщика                      |91|WELDER|89,00|85,00|82,00|||| брезентовые <strong>огнеупорные</strong> <span class=art>арт. WELDER</span>|||/img/pic/defence/small/KRAGI SVARSHIKA BREZENT - v brezente.jpg|/img/pic/defence/big/KRAGI SVARSHIKA BREZENT - v brezente.jpg
+#1|Рукавицы - краги сварщика                      |91|WELDER|89,00|85,00|82,00|||| брезентовые <strong>огнеупорные</strong> <span class=art>арт. WELDER</span>|||/img/pic/defence/small/KRAGI SVARSHIKA BREZENT - v brezente.jpg|/img/pic/defence/big/KRAGI SVARSHIKA BREZENT - v brezente.jpg
 #1|Рукавицы|91||55,00|51|51||| суконные <span class=art>арт. WS</span>|||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
 #1|Вачеги|91||55,00|51|51||| цельнокроеные <span class=art>арт. WCH</span>|||/img/pic/defence/small/jpg|/img/pic/defence/big/jpg
 

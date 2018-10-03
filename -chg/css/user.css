@@ -38,12 +38,15 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .top-tab.act .ny2017a4 b {color: #ffffff;}
 
 /**** SEO block ****/
+#mt1 {clear: both;}
 #mt1 {padding: 0 30px 0 14px;}
 #mt1 h1 {padding: 12px 0 0 0; line-height: 100%; font-size: 150%;}
 #mt1 h2 {padding: 0; font-size: 150%; display: inline;}
 #mt1 h3 {padding: 0; font-size: 120%; display: inline;}
 #mt1 p  {padding: 0; }
+#mt1 li.lih2 {position: relative; left: -23px;}
 #mt1 a {}
+
 
 /**** Main & patches to DESIGN.CSS ****/
 /* top */

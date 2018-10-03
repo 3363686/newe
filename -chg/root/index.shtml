@@ -5,120 +5,122 @@
 <!--#include virtual="/ssi/top-tmenu.shtml?$QUERY_STRING"-->
 <!--#include virtual="/ssi/lmenu-spo.shtml?$QUERY_STRING"-->
 <!--\\START\\-->
-<div id="mt1">
-  <h1>Самые ходовые товары для строительства, ремонта и отделки</h1>
-  <a href="/catalog/cat506.shtml"><h2>Малярка</h2></a>:
-  <a href="/catalog/cat507.shtml"><h3>Малярные валики</h3></a>
-  (фасадные <a href="/catalog/cat585.shtml">MaxProfi</a>,
-  для побелок <a href="/catalog/cat522.shtml">Gepardakryl и Mikroakryl</a>,
-  для красок на водной основе <a href="/catalog/cat559.shtml">Roma и Torino</a>,
-  для эмалей и масляных красок &mdash; <a href="/catalog/cat523.shtml">меховые и Синтекс</a>;
-  <a href="/catalog/cat54.shtml"> поролоновые</a>,
-  <a href="/catalog/cat525.shtml">велюровые</a>,
-  <a href="/catalog/cat532.shtml">прижимные</a>,
-  <a href="/catalog/cat585.shtml">мини-валики</a>; для декоративных покрытий &mdash;
-  <a href="/catalog/cat530.shtml">структурные</a> и
-  <a href="/catalog/cat529.shtml">кожаные</a>; для наливных полов &mdash;
-  <a href="/catalog/cat531.shtml">игольчатые</a>; и
-  <a href="/catalog/cat534.shtml">рукоятки (бюгели) для валиков</a>;
-  <p></p>
-  <a href="/catalog/cat508.shtml"><h3>Малярные кисти</h3></a>
-  (<a href="/catalog/cat538.shtml">макловицы</a>,
-  <a href="/catalog/cat535.shtml">плоские</a>
-  <a href="/catalog/cat569.shtml">разных</a>
-  <a href="/catalog/cat570.shtml">видов</a> и
-  <a href="/catalog/cat536.shtml">круглые <i>("ручники")</i></a>,
-  <a href="/catalog/cat71.shtml" >флейцевые</a>,
-  <a href="/catalog/cat606.shtml">угловые</a>,
-  <a href="/catalog/cat537.shtml">радиаторные</a>,
-  <a href="/catalog/cat539.shtml">маховые</a>);
-  <p></p>
-  <a href="/catalog/cat510.shtml">Гладилки</a>,
-  <a href="/catalog/cat511.shtml">Тёрки</a>,
-  <a href="/catalog/cat512.shtml">Мастерки (кельмы)</a>,
-  <a href="/catalog/cat513.shtml">Шпатели</a>,
-  <a href="/catalog/cat608.shtml">Уровни</a>,
-  <a href="/catalog/cat555.shtml">Правила</a> и
-  <a href="/catalog/cat556.shtml">Правила с уровнем</a>,
-  <a href="/catalog/cat578.shtml">Миксеры</a> и
-  <a href="/catalog/cat514.shtml">насадки (мешалки)</a>;
-  <p></p>Вспомогательные малярные и строительные инструменты
-  (<a href="/catalog/cat515.shtml">Вёдра</a> и
-  <a href="/catalog/cat516.shtml">Кюветы</a>,
-  <a href="/catalog/cat547.shtml">Строительные ножи</a>,
-  <a href="/catalog/cat517.shtml">Малярные карандаши</a>,
-  <a href="/catalog/cat580.shtml">Маркеры и мелки</a>,
-  <a href="/catalog/cat620.shtml">Шнурка</a>,
-  <a href="/catalog/cat599.shtml">Отвесы</a>);
-  <p></p>
-  <a href="/catalog/cat518.shtml"><h3>Строительные ленты</h3></a>:
-  <a href="/catalog/cat588.shtml">Малярные</a>,
-  <a href="/catalog/cat589.shtml">Упаковочные (скотч)</a>,
-  <a href="/catalog/cat591.shtml">Монтажные</a>,
-  <a href="/catalog/cat593.shtml">Алюминиевые</a>,
-  <a href="/catalog/cat594.shtml">Стеклотканевые</a> и
-  <a href="/catalog/cat597.shtml">Стрейч (паллетная плёнка)</a>.
-  <p></p>
-  <a href="/catalog/cat23.shtml" ><h2>Абразивы</h2></a>:
-  <a href="/catalog/cat23.shtml" ><h3>Отрезные круги</h3></a> по металлу (пр-ва
-  <a href="/catalog/cat24.shtml" >г. Луга</a> и
-  <a href="/catalog/cat120.shtml">особо качественные немецкие KlingSpor</a>) и
-  <a href="/catalog/cat25.shtml" >по камню</a>;
-  <p></p><h3>Алмазные</h3>
-  <a href="/catalog/cat28.shtml" >диски</a> и
-  <a href="/catalog/cat189.shtml">зачистные чашки</a>;
-  <p></p>
-  <a href="/catalog/cat29.shtml" >Пильные диски</a>,
-  <a href="/catalog/cat183.shtml">щетки для УШМ и дрели</a>;
-  <a href="/catalog/cat26.shtml" >зачистные обдирочные</a>,
-  <a href="/catalog/cat298.shtml">шлифовальные фибровые</a> и
-  <a href="/catalog/cat27.shtml" >лепестковые торцевые</a> круги;
-  <p></p><h3>Самозакрепляющиеся абразивы</h3>:
-  <a href="/catalog/cat545.shtml">абразивные круги</a>,
-  <a href="/catalog/cat575.shtml">полировальные войлочные</a> и
-  <a href="/catalog/cat574.shtml">круги-сетки</a>; и
-  <a href="/catalog/cat557.shtml">насадки для них на дрель и УШМ</a>;
-  <p></p>
-  <a href="/catalog/cat241.shtml"><h3>Абразивная сетка</h3></a>,
-  <a href="/catalog/cat67.shtml" >сеткодержатели и шлифовальные бруски</a>;
-  <p></p><h3>Шлифовальная шкурка</h3>:
-  <a href="/catalog/cat565.shtml">в листах</a>,
-  <a href="/catalog/cat30.shtml" >рулонах</a>,
-  <a href="/catalog/cat135.shtml">мини-рулонах</a> и
-  <a href="/catalog/cat549.shtml">в виде бесконечной ленты</a>;
-  <p></p>
-  <a href="/catalog/cat577.shtml">Губка абразивная шлифовальная</a>,
-  <a href="/catalog/cat240.shtml">Щетки ручные по металлу</a>.
-  <p></p>
-  <a href="/catalog/cat46.shtml"><h2>Буры по бетону</h2></a>
-  <a href="/catalog/cat48.shtml">SDS Max</a> и
-  <a href="/catalog/cat47.shtml">SDS plus</a>,
-  <a href="/catalog/cat504.shtml">Смазка для буров</a>;
-  <a href="/catalog/cat49.shtml">Зубила</a> и
-  <a href="/catalog/cat211.shtml">Пики</a> для перфораторов SDS Max и SDS+.
-  <p></p>
-  <a href="/catalog/cat46.shtml"><h2>Свёрла</h2></a>:
-  <a href="/catalog/cat230.shtml">по металлу</a>,
-  <a href="/catalog/cat79.shtml">по бетону</a>,
-  <a href="/catalog/cat420.shtml">по стеклу и керамике</a>,
-  <a href="/catalog/cat422.shtml">по дереву</a>.
-  <p></p>
-  <a href="/catalog/cat46.shtml"><h2>Монтажная пена</h2></a>,
-  <a href="/catalog/cat422.shtml">пистолеты</a> и
-  <a href="/catalog/cat422.shtml">очистители</a> для неё;
-  <a href="/catalog/cat422.shtml">Герметики</a> и
-  <a href="/catalog/cat422.shtml">пистолеты</a> для них;
-  <a href="/catalog/cat422.shtml">Монтажный клей (&laquo;Жидкие гвозди&raquo;)</a>.
-  <p></p>
-  <a href="/catalog/cat310.shtml"><h2>Проводятся распродажи и акции</h2></a>.
-  <h1>Все разделы сайта</h1>
-</div>
 <div class="info-cat" style="margin:5px 0 0 0;">
 <!-- div style="margin:35px 0 0 10px;" -->
 <!--#exec cgi="/pcgi/section_matrix_main.pl"-->
-<br clear="all" />
-  <div class="l1">Доставка <span class="l1a"> в пределах МКАД</span> <span class="l1a">при заказе свыше 30&thinsp;000&thinsp;руб.</span> бесплатно!</div>
 </div>
+<div id="mt1">
+  <h1>Самые ходовые товары для строительства, ремонта и отделки</h1><ul>
+    <li class="lih2">
+      <a href="/catalog/cat506.shtml"><h2>Малярка</h2></a>:
+      <a href="/catalog/cat507.shtml"><h3>Малярные валики</h3></a>
+      (фасадные <a href="/catalog/cat585.shtml">MaxProfi</a>,
+      для побелок <a href="/catalog/cat522.shtml">Gepardakryl и Mikroakryl</a>,
+      для красок на водной основе <a href="/catalog/cat559.shtml">Roma и Torino</a>,
+      для эмалей и масляных красок &mdash; <a href="/catalog/cat523.shtml">меховые и Синтекс</a>;
+      <a href="/catalog/cat54.shtml"> поролоновые</a>,
+      <a href="/catalog/cat525.shtml">велюровые</a>,
+      <a href="/catalog/cat532.shtml">прижимные</a>,
+      <a href="/catalog/cat585.shtml">мини-валики</a>; для декоративных покрытий &mdash;
+      <a href="/catalog/cat530.shtml">структурные</a> и
+      <a href="/catalog/cat529.shtml">кожаные</a>; для наливных полов &mdash;
+      <a href="/catalog/cat531.shtml">игольчатые</a>; и
+      <a href="/catalog/cat534.shtml">рукоятки (бюгели) для валиков</a>;
+    <li>
+      <a href="/catalog/cat508.shtml"><h3>Малярные кисти</h3></a>
+      (<a href="/catalog/cat538.shtml">макловицы</a>,
+      <a href="/catalog/cat535.shtml">плоские</a>
+      <a href="/catalog/cat569.shtml">разных</a>
+      <a href="/catalog/cat570.shtml">видов</a> и
+      <a href="/catalog/cat536.shtml">круглые <i>("ручники")</i></a>,
+      <a href="/catalog/cat71.shtml" >флейцевые</a>,
+      <a href="/catalog/cat606.shtml">угловые</a>,
+      <a href="/catalog/cat537.shtml">радиаторные</a>,
+      <a href="/catalog/cat539.shtml">маховые</a>);
+    <li>
+      <a href="/catalog/cat510.shtml">Гладилки</a>,
+      <a href="/catalog/cat511.shtml">Тёрки</a>,
+      <a href="/catalog/cat512.shtml">Мастерки (кельмы)</a>,
+      <a href="/catalog/cat513.shtml">Шпатели</a>,
+      <a href="/catalog/cat608.shtml">Уровни</a>,
+      <a href="/catalog/cat555.shtml">Правила</a> и
+      <a href="/catalog/cat556.shtml">Правила с уровнем</a>,
+      <a href="/catalog/cat578.shtml">Миксеры</a> и
+      <a href="/catalog/cat514.shtml">насадки (мешалки)</a>;
+    <li>Вспомогательные малярные и строительные инструменты
+      (<a href="/catalog/cat515.shtml">Вёдра</a> и
+      <a href="/catalog/cat516.shtml">Кюветы</a>,
+      <a href="/catalog/cat547.shtml">Строительные ножи</a>,
+      <a href="/catalog/cat517.shtml">Малярные карандаши</a>,
+      <a href="/catalog/cat580.shtml">Маркеры и мелки</a>,
+      <a href="/catalog/cat620.shtml">Шнурка</a>,
+      <a href="/catalog/cat599.shtml">Отвесы</a>);
+    <li>
+      <a href="/catalog/cat518.shtml"><h3>Строительные ленты</h3></a>:
+      <a href="/catalog/cat588.shtml">Малярные</a>,
+      <a href="/catalog/cat589.shtml">Упаковочные (скотч)</a>,
+      <a href="/catalog/cat591.shtml">Монтажные</a>,
+      <a href="/catalog/cat593.shtml">Алюминиевые</a>,
+      <a href="/catalog/cat594.shtml">Стеклотканевые</a> и
+      <a href="/catalog/cat597.shtml">Стрейч (паллетная плёнка)</a>.
+    <li class="lih2">
+      <a href="/catalog/cat23.shtml" ><h2>Абразивы</h2></a>:
+      <a href="/catalog/cat23.shtml" ><h3>Отрезные круги</h3></a> по металлу (пр-ва
+      <a href="/catalog/cat24.shtml" >г. Луга</a> и
+      <a href="/catalog/cat120.shtml">особо качественные немецкие KlingSpor</a>) и
+      <a href="/catalog/cat25.shtml" >по камню</a>;
+    <li><h3>Алмазные</h3>
+      <a href="/catalog/cat28.shtml" >диски</a> и
+      <a href="/catalog/cat189.shtml">зачистные чашки</a>;
+    <li>
+      <a href="/catalog/cat29.shtml" >Пильные диски</a>,
+      <a href="/catalog/cat183.shtml">щетки для УШМ и дрели</a>;
+      <a href="/catalog/cat26.shtml" >зачистные обдирочные</a>,
+      <a href="/catalog/cat298.shtml">шлифовальные фибровые</a> и
+      <a href="/catalog/cat27.shtml" >лепестковые торцевые</a> круги;
+    <li><h3>Самозакрепляющиеся абразивы</h3>:
+      <a href="/catalog/cat545.shtml">абразивные круги</a>,
+      <a href="/catalog/cat575.shtml">полировальные войлочные</a> и
+      <a href="/catalog/cat574.shtml">круги-сетки</a>; и
+      <a href="/catalog/cat557.shtml">насадки для них на дрель и УШМ</a>;
+    <li>
+      <a href="/catalog/cat241.shtml"><h3>Абразивная сетка</h3></a>,
+      <a href="/catalog/cat67.shtml" >сеткодержатели и шлифовальные бруски</a>;
+    <li><h3>Шлифовальная шкурка</h3>:
+      <a href="/catalog/cat565.shtml">в листах</a>,
+      <a href="/catalog/cat30.shtml" >рулонах</a>,
+      <a href="/catalog/cat135.shtml">мини-рулонах</a> и
+      <a href="/catalog/cat549.shtml">в виде бесконечной ленты</a>;
+    <li>
+      <a href="/catalog/cat577.shtml">Губка абразивная шлифовальная</a>,
+      <a href="/catalog/cat240.shtml">Щетки ручные по металлу</a>.
+    <li class="lih2">
+      <a href="/catalog/cat46.shtml"><h2>Буры по бетону</h2></a>
+      <a href="/catalog/cat48.shtml">SDS Max</a> и
+      <a href="/catalog/cat47.shtml">SDS plus</a>,
+      <a href="/catalog/cat504.shtml">Смазка для буров</a>;
+      <a href="/catalog/cat49.shtml">Зубила</a> и
+      <a href="/catalog/cat211.shtml">Пики</a> для перфораторов SDS Max и SDS+.
+    <li class="lih2">
+      <a href="/catalog/cat46.shtml"><h2>Свёрла</h2></a>:
+      <a href="/catalog/cat230.shtml">по металлу</a>,
+      <a href="/catalog/cat79.shtml">по бетону</a>,
+      <a href="/catalog/cat420.shtml">по стеклу и керамике</a>,
+      <a href="/catalog/cat422.shtml">по дереву</a>.
+    <li class="lih2">
+      <a href="/catalog/cat175.shtml"><h2>Монтажная пена</h2></a>,
+      <a href="/catalog/cat191.shtml">пистолеты</a> и
+      <a href="/catalog/cat194.shtml">очистители</a> для неё;
+      <a href="/catalog/cat176.shtml">Герметики</a> и
+      <a href="/catalog/cat192.shtml">пистолеты</a> для них;
+      <a href="/catalog/cat270.shtml">Монтажный клей (&laquo;Жидкие гвозди&raquo;)</a>.
+    <li class="lih2">
+      <a href="/catalog/cat310.shtml"><h2>Проводятся распродажи и акции</h2></a>.
+  </ul>
+  <!--<h1>Все разделы сайта</h1>-->
+</div>
+  <br clear="all" />
+  <div class="l1">Доставка <span class="l1a"> в пределах МКАД</span> <span class="l1a">при заказе свыше 30&thinsp;000&thinsp;руб.</span> бесплатно!</div>
 <!--\\END\\-->
 <!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->
 </body></html>
