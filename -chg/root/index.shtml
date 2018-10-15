@@ -8,7 +8,6 @@
 <div class="info-cat" style="margin:5px 0 0 0;">
 <!-- div style="margin:35px 0 0 10px;" -->
 <!--#exec cgi="/pcgi/section_matrix_main.pl"-->
-</div>
 <div id="mt1">
   <h1>Самые ходовые товары для строительства, ремонта и отделки</h1><ul>
     <li class="lih2">
@@ -122,5 +121,6 @@
   <br clear="all" />
   <div class="l1">Доставка <span class="l1a"> в пределах МКАД</span> <span class="l1a">при заказе свыше 30&thinsp;000&thinsp;руб.</span> бесплатно!</div>
 <!--\\END\\-->
+</div>
 <!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->
 </body></html>

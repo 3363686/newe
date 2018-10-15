@@ -97,8 +97,8 @@ td.white>div.about { padding-left: 12px;}
 #cat107 .one-good td {vertical-align: top;}
 #cat107 p {vertical-align: middle; display: inline;}
 */
-.art {/*float:right;*/ padding: 0 2px 0 2px; white-space:nowrap;
-font-style: normal; font-weight: normal; background-color:#e8f4ff;}
+.art {/*float:right;*/ padding: 0 3px 0 3px; white-space:nowrap;
+font-style: normal; font-weight: normal; background-color:#e6f2ff;}
 .one-good .art {font-size:80%;}
 .one-good li .art {font-size: 88%;}
 span.artn {display: none;}
@@ -323,10 +323,14 @@ p.onlyrest:after  { content: "Продажа данных позиций огр�
 .cblock .desc.txt {color: #ee0000; font-size: 12px; padding: 2px 0 0 1px; white-space: nowrap; overflow: visible;}
 #cat424 .cblock {margin-bottom: 10px}
 
-table.one-good.sale1, table.tab.sale1 {background-color: #fff8f8;}
+table.one-good.sale1, table.tab.sale1 {background-color: #fff4f4;}
 table.tab tr.sale1 {background-color: #ffece8;}
 table.one-good.sale1 td.good-txt .title:before
   { display: inline; content: "Распродажа: "; font-size: 120%; font-weight: bold; font-style: italic; color: #C90000; }
+table.one-good.lowp1, table.tab.lowp1.lowall {background-color: #f2ffec;}
+table.tab tr.lowp1 {background-color: #f0fff4;}
+table.one-good.lowp1 td.good-txt .title:before
+  { display: inline; float: right; content: "Акция!"; font-size: 120%; padding: 7px 2%; margin: 0 -2px 1px 1%;/*line-height: 120%;*/ font-weight: bold; font-style: italic; background-color: yellow; color: #C90000; }
 table.one-good.sale1 td#all-summa.good-cart p.ed {display: none;}
 table.one-good.sale1 td#all-summa.good-cart { width: 0; }
 table.one-good.sale1 td#all-summa.good-cart { width: auto !ie; }
