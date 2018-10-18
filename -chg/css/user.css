@@ -533,6 +533,13 @@ ul.lmenu > li:nth-child(5) > ul > li:nth-child(2) > a    {font-size: 20px; color
 ul.lmenu > li:nth-child(5) > ul > li:nth-child(1) > span,
 ul.lmenu > li:nth-child(5) > ul > li:nth-child(2) > span {font-size: 20px; font-weight: bold; font-family: Georgia, serif}
 
+#cat46 table.cblock:nth-child(14) {margin-bottom: 38px;}
+#cat46 table.cblock:nth-child(15) {clear: both;}
+#cat46 table.cblock:nth-child(15):before {content: "Свёрла по металлу";
+  font-size: 160%; font-weight: normal; text-align: left; color: #ec8911;
+  line-height: 0; position: relative; top: -31px; display: table-caption; width: max-content;}
+@-moz-document url-prefix() {#cat46 table.cblock:nth-child(15):before {display: unset;}}
+
 /*
 body#cat101 .ref {position: absolute; top: 140px; right: 272px; left: 680px;}
 body#cat101 h1 {padding: 20px 0 25px 0;}
