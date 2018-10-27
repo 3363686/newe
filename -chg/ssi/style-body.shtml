@@ -1,5 +1,5 @@
 <link href="/favicon.ico" rel="shortcut icon" />
 <link href="/css/style.min.css?<!--#exec cgi="/pcgi/css_version.pl"-->" rel="stylesheet" type="text/css">
 <meta name="yandex-verification" content="9da24c8261828713" />
-o</head>
+</head>
 <body<!--#include virtual="/pcgi/set_body_id.pl?$QUERY_STRING"-->>
