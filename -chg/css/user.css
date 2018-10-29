@@ -25,6 +25,8 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .ny2017w  {margin: -12px 0 0 15px; line-height: 14px; font-size: 13px; color: #ffffff;}
 */
 .ny2017a  {padding-left: 42px; text-align: center; font-family: Georgia serif; font-style: italic; white-space: nowrap;}
+.ny2017a a       {text-decoration: none;}
+.ny2017a a:hover {text-decoration: underline; color: #fff;}
 .ny2017a1 {font-size: 24px; font-weight: bold; color: #dddddd; line-height: 28px}
 .ny2018a1 {margin: 0 20px 0 25px; font-size: 48px; font-weight: bold; color: #88bbff; line-height: 28px}
 .ny2017a2 {border: none; margin: 0px 3px 0px 0px;}
