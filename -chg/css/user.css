@@ -254,10 +254,10 @@ ul.vaca  li {list-style-type: none; list-style-image: none;}
 .more_goods dl * {display: inline; margin:0;}
 .more_goods dl a {text-decoration: none; color:#000;}
 .more_goods dl a:hover {text-decoration: underline;}
-.more_goods dl .title {line-height:140%;}
+.more_goods dl .title {line-height:17px;}
 .more_goods dl .dop {font-style: italic;}
 .more_goods .good-txt, .more_goods dl {font-size:85% !important;}
-.more_goods .good-txt p, .more_goods dt, .more_goods dd {font-size:90% !important;}
+.more_goods .good-txt p, .more_goods dt, .more_goods dd {font-size:12px !important;}
 /*line-height:110% !important;*/
 .more_goods .one-good td {vertical-align:top}
 /*.more_goods .one-good td.good-txt p span {display: block;}*/
@@ -540,6 +540,7 @@ ul.lmenu > li:nth-child(5) > ul > li:nth-child(2) > span {font-size: 20px; font-
 #cat46 table.cblock:nth-child(15):before {content: "Свёрла по металлу";
   font-size: 160%; font-weight: normal; text-align: left; color: #ec8911;
   line-height: 0; position: relative; top: -31px; display: table-caption; width: max-content;}
+/* "display: table-caption" нужен для MS и WebKit (Blink) браузеров, а Мозилле он только мешает! */
 @-moz-document url-prefix() {#cat46 table.cblock:nth-child(15):before {display: unset;}}
 
 /*
