@@ -302,6 +302,8 @@ table.tab tr.ltdl td:before    { content: "* "; }
 table.tab tr.ltdl td.tb:before, table.tab tr.ltdl td.good-cart:before { content: ""; }
 table.tab.callprice:after, table.one-good.mono.callprice:after {
   content: "Цена по запросу"; }
+table.tab.callprice.some:after, table.one-good.mono.callprice.some:after {
+  content: "На товары, цена которых не проставлена, цена по запросу"; }
 table.tab.postoffer:after, table.one-good.mono.postoffer:after {
   content: "Под заказ"; }
 table.tab.later0000:after, table.one-good.mono.later0000:after {
