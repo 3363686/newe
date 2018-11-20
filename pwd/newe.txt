@@ -1,5 +1,5 @@
 CMS
-http://4sitecms.metodlab.ru
+https://4s.metodlab.ru/
 Логин: newe
 Пароль: KNJfzc32ax
 Логин: newe_office
