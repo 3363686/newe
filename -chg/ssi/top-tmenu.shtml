@@ -1,29 +1,32 @@
 <table cellpadding="0" class="top-tab">
   <tr valign="top">
-    <td rowspan="3"><a href="/index.shtml" title="На главную"><img src="/img/logo.gif?-3" style="margin: 0 0 8px 23px;" alt="ООО Экватор" /></a></td>
-    <td class="top-main"><div class="phone"><p class="phones"><!--#include virtual="/pcgi/infoblock.pl?4"--></p></div></td>
+    <td rowspan="2"><a href="/index.shtml" title="На главную"><img src="/img/logo.gif?-3" style="margin: 0 0 8px 23px;" alt="ООО Экватор" /></a>
+    <td class="top-main"><div class="phone"><p class="phones"><!--#include virtual="/pcgi/infoblock.pl?4"--></p></div>
     <td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p>
-    <td rowspan="3" class="top-cert"><a href="/about/index.shtml"><img src="/img/design/cert/small/all_cert-18053.gif"></a>
-    </td></tr><tr><td class="ny2017a" colspan="2"><a href="/about/delivery.shtml"><span class="ny2017a1">Курьерская доставка в пределах МКАД:</span><span class="ny2017a3"> 350 руб.</span></a>
-</td></tr><tr><td class="ny2017b" colspan="2">В офисе принимаем к оплате пластиковые карты
-</td></tr><tr><td colspan="4">
-  <table cellpadding="0" class="tmenu-tab">
-  <tr><td><table cellpadding="0" width="100%"><tr>
+    <td rowspan="2" class="top-cert"><a href="/about/index.shtml"><img src="/img/design/cert/small/all_cert-18053.gif"></a>
+  </tr><tr>
+    <td class="ny2017a"><img class="ny2017a2" src="\img\snow.png"> <span class="ny2017a1">С Новым годом!</span> <img class="ny2017a2r" src="\img\snow.png">
+    <td><table class="ny2017w">
+      <tr><td colspan="2" class="ny2017a4">Наш график работы в новогодние дни:</tr>
+      <tr><td>сб 29.12.2018<td> &mdash; с 8:30 до 14:00</tr>
+      <tr><td>вс 30.12.2018 &mdash; вт 08.01.2019<td> &mdash; новогодние праздники</tr>
+      <tr><td>ср 09.01.2019 и далее<td> &mdash; в обычном режиме</tr>
+    </table>
+  </tr><tr><td colspan="4">
+    <table cellpadding="0" class="tmenu-tab"><tr><td>
+      <table cellpadding="0" width="100%"><tr>
       <!--#exec cgi="/pcgi/main-menu.pl"-->
       <!--#exec cgi="/pcgi/cart_info.pl"-->
-      <td align="right" class="site_search">
-        <div class="site_search1">
-        <form method="get" action="#">
-        <table>
-          <tr>
-            <td><input name="label" placeholder="Поиск по товарам" maxlength="200" id="good_srch" class="txt" autocomplete="off"></td>
-            <td></td>
-            <td align="right" class="feedback" valign="middle"><div class="send-mail1"><!--#exec cgi="/pcgi/send-mail-top.pl"--></div></td>
-          </tr>
-        </table>
-        </form>
-        </div>
-      </td>
+        <td align="right" class="site_search"><div class="site_search1">
+          <form method="get" action="#">
+            <table>
+              <tr>
+                <td><input name="label" placeholder="Поиск по товарам" maxlength="200" id="good_srch" class="txt" autocomplete="off">
+                <td>
+                <td align="right" class="feedback" valign="middle"><div class="send-mail1"><!--#exec cgi="/pcgi/send-mail-top.pl"--></div>
+              </tr>
+            </table>
+          </form>
+        </div></td>
+      </tr></table>
     </tr></table>
-    </td>
-  </tr></table>
