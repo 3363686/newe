@@ -5,9 +5,10 @@
     <td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p>
     <td rowspan="2" class="top-cert"><a href="/about/index.shtml"><img src="/img/design/cert/small/all_cert-18053.gif"></a>
   </tr><tr>
-    <td class="ny2017a"><img class="ny2017a2" src="\img\snow.png"> <span class="ny2017a1">С Новым годом!</span> <img class="ny2017a2r" src="\img\snow.png">
+    <td class="ny2017a">
+      <div class="ny2017a4">Наш график работы в новогодние дни:</div>
+      <img class="ny2017a2" src="\img\snow.png"> <span class="ny2017a1">С Новым годом!</span> <img class="ny2017a2r" src="\img\snow.png">
     <td><table class="ny2017w">
-      <tr><td colspan="2" class="ny2017a4">Наш график работы в новогодние дни:</tr>
       <tr><td>сб 29.12.2018<td> &mdash; с 8:30 до 14:00</tr>
       <tr><td>вс 30.12.2018 &mdash; вт 08.01.2019<td> &mdash; новогодние праздники</tr>
       <tr><td>ср 09.01.2019 и далее<td> &mdash; в обычном режиме</tr>

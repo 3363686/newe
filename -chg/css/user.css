@@ -34,6 +34,7 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .ny2017a1 {font-size: 35px; font-weight: bold; color: #00f8ff; }
 .ny2017a2 {border: none; margin: 0px 2px 0px 0px;}
 .ny2017a2r{border: none; margin: 0px -40px 0px 1px;}
+.ny2017a4 {margin: -3px -80px 3px 0px; font-size: 15px; font-style: normal; font-family: "Arial", "Helvetica", sans-serif; font-weight: bold; color: #ffffff; }
 .ny2017w  {margin: -1px 0 0 55px; line-height: 14px; font-size: 13px; color: #ffffff;}
 /* tmp end */
 
@@ -65,7 +66,7 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .address_top .adres a:hover {color: #fff; text-decoration: underline;}
 .address_top .adres.time {font-size: 15px; line-height: 15px; margin: 0px 0 -1px 14px;}
 .address_top .adres.time.to17 {margin: 0 -20px -1px -25px;}
-.address_top .adres.cm   {font-size: 15px; line-height: 14px; margin: 0px 0 -1px 80px; font-weight: bold}
+.address_top .adres.cm   {font-size: 14px; line-height: 14px; margin: 0px 0 -1px 95px; font-weight: bold}
 .top-cert {vertical-align: middle; padding: 0px 6px 0px 24px;}
 p.crumbs {line-height: 125%; padding: 2px 0 6px; margin: 0; }
 p.crumbs, p.crumbs a, p.crumbs a:hover {color: #808080; }
@@ -151,7 +152,9 @@ td.choose {text-align: center;}
 .tab .thin td {color: #666; padding-top: 3px; line-height: 100%;}
 
 .tab tr.bold {font-weight: bold;}
-.tab tr.red  {background-color: #ffe6e6;}
+table.one-good.many.ltd, table.one-good.mono.ltd td.good-txt,
+table.tab.ltd tr, table.tab.ltdi tr.ltdl {background-color: #faf6e4 /*#f2f2fc*/;}
+.tab tr.red  {background-color: /*#ffe6e6*/ #ffffaa;} /* yellow! */
 .tab tr.blue {background-color: #ecf0ff;}
 .dop .blue   {background-color: #e6eaff; padding: 0px 8px 1px 4px;}
 .dop .ltdl   {background-color: #f6f2c0; padding: 0px 8px 1px 4px;}
@@ -281,8 +284,6 @@ margin:0;}
 #specoffers_page #all-summa.good-cart p.price span {font-size: 18px /*150%*/;}
 #specoffers_page .spof :last-child .red {font-size: 150%;}
 
-table.one-good.many.ltd, table.one-good.mono.ltd td.good-txt,
-table.tab.ltd tr, table.tab.ltdi tr.ltdl {background-color: #faf6e4 /*#f2f2fc*/;}
 table.one-good.many.later0001, table.one-good.mono.later0001 td.good-txt,
 table.tab.later0001 tr,                  {background-color: #f6f6f8;}
 table.tab.ltd:after, table.one-good.mono.ltd:after, table.tab.ltdi:after,
