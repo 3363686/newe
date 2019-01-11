@@ -30,12 +30,12 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 /* tmp begin
 div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
 .addtop1 {color: #eeeeff; font-size: 20px; margin: 8px 0 0 12px;}
-*/
 .ny2017a1 {font-size: 35px; font-weight: bold; color: #00f8ff; }
 .ny2017a2 {border: none; margin: 0px 2px 0px 0px;}
 .ny2017a2r{border: none; margin: 0px -40px 0px 1px;}
 .ny2017a4 {margin: -3px -80px 3px 0px; font-size: 15px; font-style: normal; font-family: "Arial", "Helvetica", sans-serif; font-weight: bold; color: #ffffff; }
 .ny2017w  {margin: -1px 0 0 55px; line-height: 14px; font-size: 13px; color: #ffffff;}
+*/
 /* tmp end */
 
 .top-tab.act .ny2017a  {padding-left: 12px;}
@@ -66,7 +66,7 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .address_top .adres a:hover {color: #fff; text-decoration: underline;}
 .address_top .adres.time {font-size: 15px; line-height: 15px; margin: 0px 0 -1px 14px;}
 .address_top .adres.time.to17 {margin: 0 -20px -1px -25px;}
-.address_top .adres.cm   {font-size: 14px; line-height: 14px; margin: 0px 0 -1px 95px; font-weight: bold}
+.address_top .adres.cm   {font-size: 15px; line-height: 15px; margin: 0px 0 -1px 95px; font-weight: bold}
 .top-cert {vertical-align: middle; padding: 0px 6px 0px 24px;}
 p.crumbs {line-height: 125%; padding: 2px 0 6px; margin: 0; }
 p.crumbs, p.crumbs a, p.crumbs a:hover {color: #808080; }
