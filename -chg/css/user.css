@@ -504,9 +504,9 @@ p.subtit {position: absolute; top: -38px;}
 #cat107 .desc-good, #cat188 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
 #cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good, #cat293 .desc-good,
 #cat120 .desc-good, #cat191 .desc-good, #cat548 .desc-good {min-width:40em;}
-*/
 #cat70  .desc-good, #cat522 .desc-good, #cat610 .desc-good
 {min-width:42em;}
+*/
 #cat35  .desc-good, #cat175 .desc-good, #cat270 .desc-good,
 #cat247 .desc-good,
 #cat279 .desc-good, #cat335 .desc-good, #cat148 .desc-good,
@@ -515,7 +515,7 @@ p.subtit {position: absolute; top: -38px;}
 {min-width:44em;}
 #cat414 .desc-good,
 #cat47  .desc-good, #cat48  .desc-good
-{min-width:45em;}
+{min-width:46em;}
 #cat361 .desc-good, #cat362 .desc-good, #cat363 .desc-good, #cat379 .desc-good,
 #cat174 .desc-good, #cat176 .desc-good
 {min-width:48em;}
