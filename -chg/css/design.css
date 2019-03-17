@@ -71,7 +71,7 @@ padding: 0px 0px 0px 15px; line-height: 120%; width: 100%;}
 .arrow {padding-right: 6px;}
 .main-info {padding: 15px 30px 25px 0;}
 .main-info h1 {font-size: 150%; color: #000;}
-.about {color: #848484; font-size: 80%; margin-left: 13px; float: left; width: 40%; min-width: 270px;}
+.about {color: #848484; font-size: 80%; float: left; width: 30.5%;}
 body[class] .about {margin-left: 0px;}
 .call {font-size: 110%; line-height: 110%; float: left; width: 20%; min-width: 140px; background: url(/img/phone_sm.gif) left no-repeat; padding-left: 20px;}
 .bgcolor2 {background-color: #949494;}

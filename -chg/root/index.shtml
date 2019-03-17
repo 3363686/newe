@@ -8,8 +8,8 @@
 <div class="info-cat" style="margin:5px 0 0 0;">
 <!-- div style="margin:35px 0 0 10px;" -->
 <!--#exec cgi="/pcgi/section_matrix_main.pl"-->
-<div id="mt1">
-  <h1>Самые ходовые товары для строительства, ремонта и отделки</h1><ul>
+<div id="mt1"><nobr></nobr>
+  <br/><h1>Вы можете купить или заказать на нашем сайте или в офисе компании<br/>самые ходовые товары для строительства, ремонта и отделки</h1><ul>
     <li class="lih2">
       <a href="/catalog/cat506.shtml"><h2>Малярка</h2></a>:
       <a href="/catalog/cat507.shtml"><h3>Малярные валики</h3></a>

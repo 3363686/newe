@@ -1,20 +1,22 @@
 </td></tr>
 <tr><td valign="bottom" class="white">
 <div class="about"><!--#include virtual="/pcgi/infoblock.pl?6"--></div>
-<div class="call"><em><!--#include virtual="/pcgi/infoblock.pl?4"--></em></div>
+<div class="call bot"><em><!--#include virtual="/pcgi/infoblock.pl?9"--></em></div>
 <div class="send-mail2"><!--#exec cgi="/pcgi/send-mail.pl"--></div>
 <br clear="all" /><br />
 </td></tr></table>
 <div class="bot_bg">
-<div id="nooferta">Данный информационный ресурс не является публичной офертой в соответствии со статьей 437 (п.2) ГК РФ. <nobr>Наличие и стоимость товаров уточняйте по телефону.</nobr></div>
+<div id="nooferta">Данный информационный ресурс не является публичной офертой в соответствии со статьей 437 (п.2) ГК РФ. Наличие&nbsp;и&nbsp;стоимость&nbsp;товаров&nbsp;уточняйте&nbsp;по&nbsp;телефону.</div>
 <p class="copy">&copy; 2010-<!--#exec cgi="/pcgi/year.pl"--> Newe.ru<br /><a href="http://www.4site.ru" target="_blank">Работает на 4Site CMS</a> / <a href="http://www.methodlab.ru/price/support.shtml" target="_blank" title="Поддержка сайта">Поддержка сайта</a>: Method Lab</p>
-<div class="copy1"><!--#include virtual="/pcgi/infoblock.pl?1"--></div>
+<p class="copy1">
+  <a href="/map.shtml"><img width="14" height="12" class="map_site" alt="Карта сайта" src="/img/1pix.gif" /> Карта сайта</a>
+</p>
 </div><br clear="all" />
-<div class="ico"><!--#exec cgi="/pcgi/iconz.pl"--></div>
 </td>
 </tr>
 </table>
-<script src='/js/scripts.min.js?<!--#exec cgi="/pcgi/js_version.pl"-->'></script>
+<!--#include virtual="/pcgi/infoblock.pl?1"-->
+<script src="/js/scripts.min.js?<!--#exec cgi='/pcgi/js_version.pl'-->" type="text/javascript"></script>
 <!-- BEGIN JIVOSITE CODE {literal} -->
 <script type='text/javascript'>
   (function(){ var widget_id = 'qt5dG9EbZm';
