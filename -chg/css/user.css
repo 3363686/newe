@@ -475,7 +475,8 @@ table.gal img {border: 1px solid #777; margin: 15px 12px 20px;}
 .help_newe_ru, .ad_newe_ru {font-size: 90%; text-align: center; color: #ff9911}
 .ad_newe_ru:hover {color: #ffbb55}
 
-body.ot2 .price-nds .p2, body.ot2 .price-nds .p3 {display: none;}
+#cat310  .price-nds .p2, #cat310  .price-nds .const {display: none;}
+body.ot2 .price-nds .p2, body.ot2 .price-nds .p3    {display: none;}
 body.ot37 .desc-good {min-width: 24em;max-width:50em;}
 body.ot37 .price-nds {display: none;}
 body.ot16 .price-nds .p2,
