@@ -38,6 +38,8 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 */
 /* tmp end */
 
+.main-msg   {text-align: center; font-size: 20px; font-weight: normal; color: #ddeeff; padding: 5px 20px 8px 0;}
+.main-msg a {text-align: center; font-size: 20px; font-weight: bold; color: #ffffff;}
 .top-tab.act .ny2017a  {padding-left: 12px;}
 .top-tab.act .ny2017a1 {font-size: 22px; line-height: 16px; color: #ff5500;}
 .top-tab.act .ny2017a3 {font-size: 30px; line-height: 16px; color: #00f8ff;}
