@@ -3,8 +3,8 @@
  0|Лопата               совковая, рельсовая сталь РС|101|PC-S2| 144,00| 141,00| 137,00|
  1|Лопата                                   штыковая|101|PC-K2| 144,00| 141,00| 137,00||norow||, рельсовая сталь РС <span class=art>арт. PC-K2</span>|<table class="asul"><tr><td>Высота с тулейкой<td>365 мм<tr><td>Высота без тулейки<td>280 мм<tr><td>Ширина полотна<td>210 мм<tr><td>Вес<td>780 г<tr><td>Толщина стали<td>1.8 мм</table>||/img/pic/strhoz/small/Lopata STYK RS.jpg|/img/pic/strhoz/big/Lopata STYK RS.jpg
  0|Лопата               штыковая, рельсовая сталь РС|101|PC-K2| 144,00| 141,00| 137,00|
- 1|Лопата уборочная                                 |101|ZV02 | 139,00| 133,00| 129,00||norow|| оцинкованная, 360 х 465 мм <span class=art>арт. ZV02</span>|||/img/pic/strhoz/small/ZV02.png|/img/pic/strhoz/big/jpg
- 0|Лопата уборочная оцинкованная, 360 х 465 мм      |101|ZV02 | 139,00| 133,00| 129,00||
+#1|Лопата уборочная                                 |101|ZV02 | 139,00| 133,00| 129,00||norow|| оцинкованная, 360 х 465 мм <span class=art>арт. ZV02</span>|||/img/pic/strhoz/small/ZV02.png|/img/pic/strhoz/big/jpg
+#0|Лопата уборочная оцинкованная, 360 х 465 мм      |101|ZV02 | 139,00| 133,00| 129,00||
 #1|Лопата совковая     усиленная                    |101|IVA-S|      -|      -|      -||norow ltd one callprice|| без черенка <span class=art>арт. IVA-S</span>|<table class="asul"><tr><td>Высота с тулейкой<td>350 мм<tr><td>Высота без тулейки<td>280 мм<tr><td>Ширина полотна<td>230 мм<tr><td>Вес<td>950 г<tr><td>Толщина стали<td>1.8 мм</table>||/img/pic/strhoz/small/Lopata SOVKOVAJA.jpg|/img/pic/strhoz/big/Lopata SOVKOVAJA.jpg
 #0|Лопата совковая     усиленная без черенка        |101|IVA-S|      -|      -|      -|
 #1|Лопата               штыковая                    |101|IVA-K|      -|      -|      -||norow ltd one callprice|| без черенка <span class=art>арт. IVA-K</span>|<table class="asul"><tr><td>Высота с тулейкой<td>382 мм<tr><td>Высота без тулейки<td>280 мм<tr><td>Ширина полотна<td>204 мм<tr><td>Вес<td>790 г<tr><td>Толщина стали<td>1.8 мм</table>||/img/pic/strhoz/small/Lopata STYKOVAJA.jpg|/img/pic/strhoz/big/Lopata STYKOVAJA.jpg
