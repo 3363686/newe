@@ -26,6 +26,7 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .ny2018a1 {margin: 0 20px 0 25px; font-size: 48px; font-weight: bold; color: #88bbff; line-height: 28px}
 .ny2017a3 {font-size: 30px; font-weight: bold; color: #ffffff; line-height: 20px;}
 .ny2017b  {padding: 0px 0px 6px 14%; text-align: left; font-weight: bold; color: #00f8ff; font-size: 16px; line-height: 7px;}
+.ny2017b2 {padding: 0px 0px 6px  3%; text-align: left; font-weight: bold; color: #00f8ff; font-size: 24px; }
 /* regular end */
 /* tmp begin
 div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
@@ -210,7 +211,7 @@ span.nopic {float: right; margin-right: 98px; font-weight: bold;}
 .good-txt li {font-size: 80%; line-height: 90%; margin: 0 0 0 -15px; text-indent: -2px;}
 /*.good-txt li.inner {list-style-type: none; list-style-image: none;}*/
 .good-txt li.inner ul {margin-top: 2px; list-style-type: disc; list-style-image: none;}
-.good-txt li.inner li {font-size: 90%;}
+.good-txt li.inner li {font-size: 95%;}
 .good-txt ul.deep>li {font-weight: bold;}
 .good-txt ul.deep li li {font-size: 100%; line-height: 95%; margin: 0 0 0 -5px; text-indent: -5px; list-style-type: square; list-style-image: none;}
 .good-txt ul.deep li li li {font-size: 92%; line-height: 95%; list-style-type: disc; list-style-image: none;}
