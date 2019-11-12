@@ -26,7 +26,7 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .ny2018a1 {margin: 0 20px 0 25px; font-size: 48px; font-weight: bold; color: #88bbff; line-height: 28px}
 .ny2017a3 {font-size: 30px; font-weight: bold; color: #ffffff; line-height: 20px;}
 .ny2017b  {padding: 0px 0px 6px 14%; text-align: left; font-weight: bold; color: #00f8ff; font-size: 16px; line-height: 7px;}
-.ny2017b2 {padding: 0px 0px 6px  3%; text-align: left; font-weight: bold; color: #00f8ff; font-size: 24px; }
+.ny2017b2 {padding: 0px 0px 6px  3%; text-align: left; font-weight: bold; color: #00f8ff; font-size: 20px; }
 /* regular end */
 /* tmp begin
 div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
@@ -554,13 +554,13 @@ ul.lmenu > li:nth-child(5) > ul > li:nth-child(2) > a    {font-size: 20px; color
 ul.lmenu > li:nth-child(5) > ul > li:nth-child(1) > span,
 ul.lmenu > li:nth-child(5) > ul > li:nth-child(2) > span {font-size: 20px; font-weight: bold; font-family: Georgia, serif}
 
-#cat46 table.cblock:nth-child(12) {margin-bottom: 38px;}
-#cat46 table.cblock:nth-child(13) {clear: both;}
-#cat46 table.cblock:nth-child(13):before {content: "Свёрла по металлу";
+#cat46 table.cblock:nth-child(14) {margin-bottom: 38px;}
+#cat46 table.cblock:nth-child(15) {clear: both;}
+#cat46 table.cblock:nth-child(15):before {content: "Свёрла по металлу";
   font-size: 160%; font-weight: normal; text-align: left; color: #ec8911;
   line-height: 0; position: relative; top: -31px; display: table-caption; width: max-content;}
 /* "display: table-caption" нужен для MS и WebKit (Blink) браузеров, а Мозилле он только мешает! */
-@-moz-document url-prefix() {#cat46 table.cblock:nth-child(13):before {display: unset;}}
+@-moz-document url-prefix() {#cat46 table.cblock:nth-child(15):before {display: unset;}}
 
 /*
 body#cat101 .ref {position: absolute; top: 140px; right: 272px; left: 680px;}
