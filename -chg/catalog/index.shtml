@@ -11,7 +11,7 @@
 <!--#exec cgi="/pcgi/section_matrix.pl"-->
 <!--#exec cgi="/pcgi/goods_list.pl"-->
 
-<div class="l1">Доставка <span class="l1a"> в пределах МКАД</span> <span class="l1a">при заказе свыше 30&thinsp;000&thinsp;руб.</span> бесплатно!</div>
+<div class="l1">Доставка <span class="l1a"> в пределах МКАД</span> <span class="l1a">при заказе свыше 20&thinsp;000&thinsp;руб.</span> бесплатно!</div>
 <!--\\END\\-->
 </div>
 <!--#include virtual="/ssi/bot-bmenu.shtml?$QUERY_STRING"-->
