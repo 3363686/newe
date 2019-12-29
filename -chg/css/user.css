@@ -19,7 +19,7 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .i {font-style: italic;}
 
 /* regular begin */
-.ny2017a  {padding-left: 10%; text-align: left; font-family: Georgia serif; font-style: italic; white-space: nowrap;}
+.ny2017a  {padding-left: 1%; text-align: left; font-family: Georgia serif; font-style: italic; white-space: nowrap;}
 .ny2017a a       {text-decoration: none;}
 .ny2017a a:hover {text-decoration: underline; color: #fff;}
 .ny2017a1 {font-size: 24px; font-weight: bold; color: #dddddd; line-height: 28px}
@@ -29,14 +29,14 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .ny2017b2 {padding: 0px 0px 6px  3%; text-align: left; font-weight: bold; color: #00f8ff; font-size: 20px; }
 /* regular end */
 /* tmp begin
+*/
 div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
 .addtop1 {color: #eeeeff; font-size: 20px; margin: 8px 0 0 12px;}
 .ny2017a1 {font-size: 35px; font-weight: bold; color: #00f8ff; }
 .ny2017a2 {border: none; margin: 0px 2px 0px 0px;}
 .ny2017a2r{border: none; margin: 0px -40px 0px 1px;}
-.ny2017a4 {margin: -3px -80px 3px 0px; font-size: 15px; font-style: normal; font-family: "Arial", "Helvetica", sans-serif; font-weight: bold; color: #ffffff; }
+.ny2017a4 {margin: -3px -80px 3px 80px; font-size: 15px; font-style: normal; font-family: "Arial", "Helvetica", sans-serif; font-weight: bold; color: #ffffff; }
 .ny2017w  {margin: -1px 0 0 55px; line-height: 14px; font-size: 13px; color: #ffffff;}
-*/
 /* tmp end */
 
 .main-msg   {text-align: center; font-size: 20px; font-weight: normal; color: #ddeeff; padding: 5px 20px 8px 0;}
