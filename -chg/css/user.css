@@ -19,10 +19,10 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .i {font-style: italic;}
 
 /* regular begin */
-.ny2017a  {padding-left: 96px; text-align: left; font-family: Georgia serif; font-style: italic; white-space: nowrap;}
+.ny2017a  {padding-left: 80px; text-align: left; font-family: Georgia serif; font-style: italic; white-space: nowrap;}
 .ny2017a a       {text-decoration: none;}
 .ny2017a a:hover {text-decoration: underline; color: #fff;}
-.ny2017a1 {font-size: 24px; font-weight: bold; color: #dddddd; line-height: 28px}
+.ny2017a1 {font-size: 22px; font-weight: bold; color: #dddddd; /*Doesn't work! line-height: 28px*/}
 .ny2018a1 {margin: 0 20px 0 25px; font-size: 48px; font-weight: bold; color: #88bbff; line-height: 28px}
 .ny2017a3 {font-size: 30px; font-weight: bold; color: #ffffff; line-height: 20px;}
 .ny2017b  {padding: 0px 0px 6px 14%; text-align: left; font-weight: bold; color: #00f8ff; font-size: 16px; line-height: 7px;}
