@@ -18,6 +18,9 @@ p.spo1:hover, p.spo2:hover{background-color:#000;}
 .c {text-align: center;}
 .i {font-style: italic;}
 
+/* Disable mobile Chrome to increase font: https://stackoverflow.com/questions/11289166/chrome-on-android-resizes-font */
+body {-webkit-text-size-adjust: none;}
+
 /* regular begin */
 .ny2017a  {padding-left: 80px; text-align: left; font-family: Georgia serif; font-style: italic; white-space: nowrap;}
 .ny2017a a       {text-decoration: none;}
@@ -62,8 +65,9 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 /**** Main & patches to DESIGN.CSS ****/
 /* top */
 /* .top-tab>tbody>tr>td>a>img {margin: 0px 0px 5px 23px !important;} */
-.phone {width: 240px; height: 43px; margin: -2px 0 0 40px; padding: 6px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
-.phone .phones {color: #fff; font-size: 28px; margin: 0; padding: 0 0px 0 5px;}
+.phone {display: block; text-decoration: none; width: 240px; height: 43px; margin: -2px 0 0 40px; padding: 6px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
+.phone:hover {cursor: inherit;}
+.phone .phones {color: #fff; font-size: 28px; line-height: 140%; margin: 0; padding: 0 0px 0 5px;}
 .address_top {width: 100%; white-space: nowrap}
 .address_top .adres {padding: 0; margin: 0 0 0 23px; color: #fff;}
 .address_top .adres a {color: #fff; text-decoration: none; font-size: 18px; line-height: 19px; }
@@ -257,6 +261,8 @@ ul.vaca  li {list-style-type: none; list-style-image: none;}
 .info ul ul li {list-style-type: disc; list-style-image: none; color: #EC8810;}
 .info ul ul li span {color: #000;}
 
+/* !!!!!!!!!!!! Mobile TMP !!!!!!!!!!!!!!!!!!!! */
+.more_goods {display: none;}
 /*-*/
 .moregoods {width: 240px; background-color: #fff2e0; padding: 10px 9px 12px 11px; margin-top: -65px; margin-bottom: -35px;}
 .moregoods .one-good td.good-txt {vertical-align: middle; padding: 0px 4px 0px 12px;}
@@ -364,8 +370,8 @@ table.tab tr.nocart td.good-cart a { display: none; }
 .K4000t { padding: 0px 0px 0px 10px; display: none; }
 .K4000:hover .K4000t { display: inline; }
 */
-.l1 {clear: both; color: #444; text-align: center; font-size: 24px; font-weight: bold; font-family: Times New Roman, serif; font-style: italic; margin: 0 18% -12px -20px; padding-top: 35px;}
-.l1a {font-weight: normal;}
+.l1 {clear: both; color: #444; text-align: center; margin: 0 18% -12px -20px; padding-top: 35px; font-size: 24px; font-weight: bold; font-family: Times New Roman, serif; font-style: italic;}
+.l1a {font-weight: normal; white-space: nowrap;}
 .main-info .l2 {color: #666; text-align: center; font-size: 16px; margin: 6px 0px -12px 0}
 .l3 {font-size: 22px; margin: 16px 0px -12px 0;
   display: block;
