@@ -262,7 +262,10 @@ ul.vaca  li {list-style-type: none; list-style-image: none;}
 .info ul ul li span {color: #000;}
 
 /* !!!!!!!!!!!! Mobile TMP !!!!!!!!!!!!!!!!!!!! */
+/*
 .more_goods {display: none;}
+*/
+
 /*-*/
 .moregoods {width: 240px; background-color: #fff2e0; padding: 10px 9px 12px 11px; margin-top: -65px; margin-bottom: -35px;}
 .moregoods .one-good td.good-txt {vertical-align: middle; padding: 0px 4px 0px 12px;}
