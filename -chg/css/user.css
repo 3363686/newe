@@ -265,7 +265,6 @@ ul.vaca  li {list-style-type: none; list-style-image: none;}
 /*
 .more_goods {display: none;}
 */
-
 /*-*/
 .moregoods {width: 240px; background-color: #fff2e0; padding: 10px 9px 12px 11px; margin-top: -65px; margin-bottom: -35px;}
 .moregoods .one-good td.good-txt {vertical-align: middle; padding: 0px 4px 0px 12px;}
@@ -526,6 +525,7 @@ p.subtit {position: absolute; top: -38px;}
 #cat139 .desc-good,
 #cat291 .desc-good, #cat309 .desc-good, #cat311 .desc-good,
 #cat1 .desc-good, #cat3 .desc-good,
+#cat416 .desc-good,
 #cat107 .desc-good, #cat188 .desc-good, #cat227 .desc-good, #cat30 .desc-good,
 #cat117 .desc-good, #cat254 .desc-good, #cat230 .desc-good, #cat293 .desc-good,
 #cat120 .desc-good, #cat191 .desc-good, #cat548 .desc-good {min-width:40em;}
@@ -535,7 +535,6 @@ p.subtit {position: absolute; top: -38px;}
 #cat35  .desc-good, #cat175 .desc-good, #cat270 .desc-good,
 #cat247 .desc-good,
 #cat279 .desc-good, #cat335 .desc-good, #cat148 .desc-good,
-#cat416 .desc-good,
 #cat235 .desc-good
 {min-width:44em;}
 #cat414 .desc-good,
