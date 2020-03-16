@@ -455,8 +455,10 @@ body#cat454 h2+.cblock td:nth-child(1) img
 
 /*#toptmp1w  {position: relative; top: 163px; width: 100%; height: 155px; background-color: #fee; }*/
 /*#toptmp1bg  {!*position: absolute; top: 163px; width: 100%;*! margin-left: 280px; height: 155px; }*/
-#toptmp1bg {background-color: #9bf; color: #fff; }
-#toptmp1 { margin-left: -80px; margin-right: 20%; padding: 0px 0 12px 5%; font-family: Georgia, serif; }
+#toptmp1bg {background-color: #58f; color: #fff; }
+#toptmp1 {
+  margin-left: -600px; padding: 10px 0 12px 50%; font-size: larger; font-family: Georgia, serif; }
+#toptmp1 a {color: #fcc;}
 #toptmp1 .ref { margin-top: 0; }
 #toptmp1.ny b {color: #d00;}
 #toptmp1.ny #may-2 b {color: #600;}
@@ -471,7 +473,7 @@ body#cat454 h2+.cblock td:nth-child(1) img
 #ny-3 td {padding: 0% 10px;}
 #ny-3 td.day {font-family: sans-serif;}
 #ad1    {color: #e00; font-size: 40px; font-variant: small-caps; font-style: italic; }
-/* Hide/adjust these when <div class="toptmp1"> in ssi/top-tmenu.shtml is not used or changed!
+/* Hide/adjust these when <div id="toptmp1"> in ssi/top-tmenu.shtml is not used or changed!
 #toptmp1bgw {position: absolute; top: 252px; width: 100%; }
 #toptmp1bg1 {height: 100px; margin-left: 308px; background-color: #ffccdd;}
 .bgcolor2 {margin-bottom: 150px;}
