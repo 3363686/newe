@@ -68,11 +68,12 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .phone {display: block; text-decoration: none; width: 240px; height: 43px; margin: -2px 0 0 40px; padding: 6px 0px 0 32px; background: url(/img/phone.gif) left top no-repeat; }
 .phone:hover {cursor: inherit;}
 .phone .phones {color: #fff; font-size: 28px; line-height: 140%; margin: 0; padding: 0 0px 0 5px;}
+.phone .phones.gray {color: #888}
 .address_top {width: 100%; white-space: nowrap}
 .address_top .adres {padding: 0; margin: 0 0 0 23px; color: #fff;}
 .address_top .adres a {color: #fff; text-decoration: none; font-size: 18px; line-height: 19px; }
 .address_top .adres a:hover {color: #fff; text-decoration: underline;}
-.address_top .adres.time {font-size: 15px; line-height: 15px; margin: 0px 0 -1px 14px;}
+.address_top .adres.time {font-size: 15px; line-height: 15px; margin: 0px 0 -1px 64px;}
 .address_top .adres.time.to17 {margin: 0 -20px -1px -25px;}
 .address_top .adres.cm   {font-size: 15px; line-height: 15px; margin: 0px 0 -1px 95px; font-weight: bold}
 .top-cert {vertical-align: middle; padding: 0px 6px 0px 24px;}
@@ -456,9 +457,7 @@ body#cat454 h2+.cblock td:nth-child(1) img
 /*#toptmp1w  {position: relative; top: 163px; width: 100%; height: 155px; background-color: #fee; }*/
 /*#toptmp1bg  {!*position: absolute; top: 163px; width: 100%;*! margin-left: 280px; height: 155px; }*/
 #toptmp1bg {background-color: #58f; color: #fff; }
-
- {
-  margin-left: -600px; padding: 10px 0 12px 50%; font-size: larger; font-family: Georgia, serif; }
+#toptmp1 {margin-left: -600px; padding: 2px 0 8px 55%; font-size: larger; font-family: Georgia, serif; }
 #toptmp1 a {color: #fcc;}
 #toptmp1 .ref { margin-top: 0; }
 #toptmp1.ny b {color: #d00;}
