@@ -1,7 +1,7 @@
 <table cellpadding="0" class="top-tab">
   <tr valign="top">
     <td rowspan="3"><a href="/index.shtml" title="На главную"><img src="/img/logo.gif?-3" style="margin: 0 0 8px 23px;" alt="ООО Экватор" /></a>
-    <td class="top-main"><div class="phone" href="tel:+74952210487"><p class="phones gray"><!--#include virtual="/pcgi/infoblock.pl?4"--></p></div>
+    <td class="top-main"><div class="phone phonea" href="tel:+74952210487"><p class="phones gray"><!--#include virtual="/pcgi/infoblock.pl?4"--></p></div>
     <td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p>
     <td rowspan="3" class="top-cert"><a href="/about/index.shtml"><img src="/img/design/cert/small/all_cert-18053.gif"></a>
   </tr><tr>
