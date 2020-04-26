@@ -170,9 +170,9 @@ table.tab.ltd tr, table.tab.ltdi tr.ltdl {background-color: #faf6e4 /*#f2f2fc*/;
 .tab tr.blue {background-color: #ecf0ff;}
 .dop .blue   {background-color: #e6eaff; padding: 0px 8px 1px 4px;}
 .dop .ltdl   {background-color: #f6f2c0; padding: 0px 8px 1px 4px;}
-.tab tr.sp1  {background-color: #ecffec;}
+.sp1  {background-color: #ecffec;}
 .dop .sp1    {background-color: #dcffdc; padding: 0px 8px 1px 4px;}
-.tab tr.sp2  {background-color: #fceaff;}
+.sp2  {background-color: #fceaff;}
 .dop .sp2    {background-color: #fae0ff; padding: 0px 8px 1px 4px;}
 li.ui-menu-item {background-color: #f0f0e0;}
 
