@@ -507,9 +507,11 @@ body.ot37 .desc-good {min-width: 24em;max-width:50em;}
 body.ot37 .price-nds {display: none;}
 body.ot16 .price-nds .p2,
 body.ot30 .price-nds .p2 {display: none;}
-body.ot37 h1 {padding-bottom: 40px;}
+body#cat230 h1,
+body.ot37   h1 {padding-bottom: 66px;}
+#cat230   .info-cat>table,
 body.ot37 .info-cat>table {position: relative;}
-p.subtit {position: absolute; top: -38px;}
+p.subtit {position: absolute; top: -56px;}
 .price-none {font-weight: bold;}
 
 .desc-good {min-width: 39.5em;}
