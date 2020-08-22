@@ -34,14 +34,11 @@
     <table>
       <tr>
         <td>- при заказе от <b>1500 руб.</b></td>
-        <td><b>300</b> руб.</td><td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
-      </tr>
-      <tr>
-        <td colspan=3>(для заказов весом до <b>5 кг</b> и габаритами в пределах примерно <b>20 &times; 40 &times; 50 см.</b>)</td>
+        <td>&emsp;&emsp;<b>300</b> руб.</td>
       </tr>
       <tr>
         <td>- при заказе менее <b>1500 руб.</b></td>
-        <td><b>самовывоз</b></td><td></td>
+        <td>&emsp;&emsp;<b>самовывоз</b></td>
       </tr>
     </table>
   </li>
