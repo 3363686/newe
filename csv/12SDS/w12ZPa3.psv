@@ -5,12 +5,12 @@
 #0|«убило SDS Max &nbsp; &nbsp; &nbsp;&nbsp;    25&#215;600 мм HAGWERT|49|509012       |419,53|410,84|403,39||
 #0|«убило SDS Max &nbsp;&ensp;&emsp;            50&#215;400 мм HAGWERT|49|509009       |383,53|376,08|369,88||
  1|«убила дл€ перфораторов SDS Max, SDS Plus                          |49|             |225,75|225,75|225,75||norow|| плоские|||/img/pic/drill/small/ZUBILA SDS.jpg|/img/pic/drill/big/ZUBILA SDS.jpg
- 0|«убило SDS Max &nbsp; &nbsp;&emsp;    25&#215;400 мм RENNBOHR OPTIM|49|792007       |328,00|320,00|310,00||
+ 0|«убило SDS Max &nbsp; &nbsp;&emsp;    25&#215;400 мм RENNBOHR OPTIM|49|792007       |388,00|373,00|365,00||
  0|«убило SDS Max &nbsp; &nbsp;&emsp;    25&#215;600 мм RENNBOHR OPTIM|49|792008       |378,00|364,00|353,00||
- 0|«убило SDS Max &nbsp; &nbsp;&emsp;    50&#215;400 мм RENNBOHR OPTIM|49|792009       |398,00|385,00|375,00||
- 0|«убило SDS Plus&ensp;         14&#215;20&#215;250 мм RENNBOHR OPTIM|49|792002       |128,00|123,00|120,00||blkt
- 0|«убило SDS Plus&ensp;         14&#215;20&#215;400 мм RENNBOHR OPTIM|49|792006       |278,00|269,00|262,00||
- 0|«убило SDS Plus&ensp;         14&#215;40&#215;250 мм RENNBOHR OPTIM|49|792003       |149,00|144,00|141,00||
+ 0|«убило SDS Max &nbsp; &nbsp;&emsp;    50&#215;400 мм RENNBOHR OPTIM|49|792009       |428,00|415,00|398,00||
+ 0|«убило SDS Plus&ensp;         14&#215;20&#215;250 мм RENNBOHR OPTIM|49|792002       |148,00|144,00|141,00||blkt
+ 0|«убило SDS Plus&ensp;         14&#215;20&#215;400 мм RENNBOHR OPTIM|49|792006       |298,00|292,00|288,00||
+ 0|«убило SDS Plus&ensp;         14&#215;40&#215;250 мм RENNBOHR OPTIM|49|792003       |158,00|154,00|151,00||
  0|«убило SDS Max &nbsp;                18&#215;25&#215;400 мм BERGEN |49|B.ZM.2540    |378,00|364,00|353,00||blkt
  0|«убило SDS Max &nbsp;                18&#215;40&#215;280 мм BERGEN |49|B.ZM.4028    |378,00|364,00|353,00||
  0|«убило SDS Max &nbsp;                18&#215;40&#215;400 мм BERGEN |49|B.ZM.4040    |448,00|430,00|415,00||
@@ -58,9 +58,9 @@
 
 # 211,cat211|ѕики дл€ перфоратора SDS
  1|ѕики   дл€ перфораторов                                           |211|             |288,75|273,00|257,25||norow || SDS Max, SDS Plus|||/img/pic/drill/small/PIKA SDS .jpg|/img/pic/drill/big/PIKA SDS .jpg
- 0|ѕика SDS Max &emsp; &emsp; &emsp; &emsp;     400 мм Rennbohr-OPTIM|211|792012       |288,00|282,00|275,00||
- 0|ѕика SDS Max &emsp; &emsp; &nbsp; &nbsp;    18&#215;600 мм OPTIM  |211|791013       |398,00|388,00|375,00||
- 0|ѕика SDS Plus &emsp; &emsp; &emsp; &emsp;    250 мм Rennbohr-OPTIM|211|792005       |128,00|124,00|121,00||blkt
+ 0|ѕика SDS Max &emsp; &emsp; &emsp; &emsp;     400 мм Rennbohr-OPTIM|211|792012       |298,00|292,00|288,00||
+ 0|ѕика SDS Max &emsp; &emsp; &nbsp; &nbsp;    18&#215;600 мм OPTIM  |211|791013       |428,00|415,00|398,00||
+ 0|ѕика SDS Plus &emsp; &emsp; &emsp; &emsp;    250 мм Rennbohr-OPTIM|211|792005       |148,00|144,00|141,00||blkt
  0|ѕика SDS Max &emsp; &emsp; &nbsp; &nbsp;    18&#215;280 мм BERGEN |211|B.PM.28      |338,00|330,00|320,00||blkt
  0|ѕика SDS Max &emsp; &emsp; &nbsp; &nbsp;    18&#215;400 мм BERGEN |211|B.PM.40      |378,00|368,00|357,00||
  0|ѕика SDS Max &emsp; &emsp; &nbsp; &nbsp;    18&#215;600 мм BERGEN |211|B.PM.60      |528,00|515,00|500,00||
