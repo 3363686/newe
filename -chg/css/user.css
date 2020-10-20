@@ -182,6 +182,16 @@ li.ui-menu-item {background-color: #f0f0e0;}
 /*.tab.mult2 td  {text-align:center;}*/
 .tab.mult2 tr.subhead td {text-align:left; padding-left: 10px; }
 
+.info-cat .tab.mult8 {width:12.4% !important; float:left; margin: 0 1px 0 0;}
+.info-cat .tab.mult8.last {margin-right: -10px;}
+.tab.mult8 th  {font-weight: normal;}
+.tab.mult8 td  {text-align: right; padding: 3px 5px 3px 0px;}
+.tab.mult8 tr.subhead td {text-align: center; font-weight: bold; padding: 3px 1px 3px 1px;}
+.tab.mult8 tr.blkt2 td {padding-top: 2px;}
+.tab.mult8.norow th {display: none;}
+.tab.mult8.norow td {text-align: center; padding: 3px 1px 3px 1px;}
+body.ot36 .tab.mult8 td.choose {width: 20px; padding: 0 0 0 2px; }
+
 .info-cat .tab.mult9 {width:11% !important; float:left; margin: 0 1px 0 0;}
 .info-cat .tab.mult9.last {margin-right: -10px;}
 .tab.mult9 th  {font-weight: normal;}
@@ -191,7 +201,9 @@ li.ui-menu-item {background-color: #f0f0e0;}
 .tab.mult9.norow th {display: none;}
 .tab.mult9.norow td {text-align: center; padding: 3px 1px 3px 1px;}
 body.ot36 .tab.mult9 td.choose {width: 20px; padding: 0 0 0 2px; }
+
 body.ot36 td.choose a {font-size: 0; width: 16px; height: 16px; background-image: url("/img/design/cart16.png")}
+
 .one-good.mono.nopic {margin: -1px 0 2px 0;}
 .one-good.mono.nopic img, .one-good.mono.nopic td.choose {display: none;}
 .one-good.mono.nopic .good-cart {width: 6em; padding: 1px 0 2px 0;}
