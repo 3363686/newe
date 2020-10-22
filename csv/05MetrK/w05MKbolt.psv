@@ -245,7 +245,7 @@
 
 ########################
 <br><h1 style="text-align:center">Справочно: Примерное количество болтов <nobr>DIN 933</nobr> <nobr>в 1 кг</nobr></h1>
-<table class="tab mult9">
+<table class="tab mult8">
   <tr><th>Дли-<br>на,<br>мм<th>К-во<br>в<br>1 кг
   <tr class="subhead"><td colspan=2> M6
   <tr><td> 14<td><b>210</b>
@@ -271,7 +271,7 @@
   <tr><td>140<td><b> 37</b>
   <tr><td>150<td><b> 35</b>
 </table>
-<table class="tab mult9">
+<table class="tab mult8">
   <tr><th>Дли-<br>на,<br>мм<th>К-во<br>в<br>1 кг
   <tr class="subhead"><td colspan=2> M8
   <tr><td> 14<td><b>95</b>
@@ -297,7 +297,7 @@
   <tr><td>140<td><b>21</b>
   <tr><td>150<td><b>19</b>
 </table>
-<table class="tab mult9">
+<table class="tab mult8">
   <tr><th>Дли-<br>на,<br>мм<th>К-во<br>в<br>1 кг
   <tr class="subhead"><td colspan=2> M10
   <tr><td> 20<td><b>47</b>
@@ -323,7 +323,7 @@
   <tr><td>150<td><b>12</b>
   <tr><td>190<td><b>10</b>
 </table>
-<table class="tab mult9">
+<table class="tab mult8">
   <tr><th>Дли-<br>на,<br>мм<th>К-во<br>в<br>1 кг
   <tr class="subhead"><td colspan=2> M12
   <tr><td> 20<td><b>32</b>
@@ -349,7 +349,7 @@
   <tr><td>150<td><b> 8</b>
   <tr><td>160<td><b> 8</b>
 </table>
-<table class="tab mult9">
+<table class="tab mult8">
   <tr><th>Дли-<br>на,<br>мм<th>К-во<br>в<br>1 кг
   <tr class="subhead"><td colspan=2> M14
   <tr><td> 20<td><b>21</b>
@@ -375,7 +375,7 @@
   <tr><td>150<td><b> 6</b>
   <tr><td>160<td><b> 5</b>
 </table>
-<table class="tab mult9">
+<table class="tab mult8">
   <tr><th>Дли-<br>на,<br>мм<th>К-во<br>в<br>1 кг
   <tr class="subhead"><td colspan=2> M16
   <tr><td> 40<td><b>11.1</b>
@@ -401,7 +401,7 @@
   <tr><td>190<td><b> 3.4</b>
   <tr><td>200<td><b> 3.2</b>
 </table>
-<table class="tab mult9">
+<table class="tab mult8">
   <tr><th>Дли-<br>на,<br>мм<th>К-во<br>в<br>1 кг
   <tr class="subhead"><td colspan=2> M18
   <tr><td> 40<td><b>8.8</b>
@@ -427,7 +427,7 @@
   <tr><td>190<td><b>2.6</b>
   <tr><td>200<td><b>2.5</b>
 </table>
-<table class="tab mult9">
+<table class="tab last mult8">
   <tr><th>Дли-<br>на,<br>мм<th>К-во<br>в<br>1 кг
   <tr class="subhead"><td colspan=2> M20
   <tr><td> 40<td><b>6.5</b>
@@ -453,6 +453,7 @@
   <tr><td>190<td><b>2.2</b>
   <tr><td>200<td><b>2.1</b>
 </table>
+<!-->
 <table class="tab last mult9">
   <tr><th>Дли-<br>на,<br>мм<th>К-во<br>в<br>1 кг
   <tr class="subhead"><td colspan=2> M22
@@ -479,6 +480,7 @@
   <tr><td>200<td><b>0.5</b>
   <tr><td>220<td><b>0.5</b>
 </table>
+<-->
 
 ##################################################################
 #1|М6                                         |35 |0.0045 кг |107.00|99.00   ||subhead|Болт оцинкованный| DIN 933, шестигранная головка, полная резьба|Цена за 1 кг||/img/pic/metrkr/small/Bolt Zn Polnaja rezba.jpg|/img/pic/metrkr/big/Bolt Zn Polnaja rezba.jpg
