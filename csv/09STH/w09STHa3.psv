@@ -1,8 +1,8 @@
 # 101,cat101 -># 395,cat395|Лопата
- 1|Лопата                                   совковая|101|ST.651  | 198,00| 194,00| 192,00||norow||, рельсовая сталь 65Г <span class=art>арт. ST.651</span>|||/img/pic/strhoz/small/Lopata SOVOK RS.jpg|/img/pic/strhoz/big/Lopata SOVOK RS.jpg
- 0|Лопата              совковая, рельсовая сталь 65Г|101|ST.651  | 198,00| 194,00| 192,00|
- 1|Лопата                                   штыковая|101|ST.652  | 198,00| 194,00| 192,00||norow||, рельсовая сталь 65Г <span class=art>арт. ST.652</span>|||/img/pic/strhoz/small/Lopata STYK RS.jpg|/img/pic/strhoz/big/Lopata STYK RS.jpg
- 0|Лопата              штыковая, рельсовая сталь 65Г|101|ST.652  | 198,00| 194,00| 192,00|
+ 1|Лопата                                   совковая|101|ST.651  | 198,00| 198,00| 198,00||norow||, рельсовая сталь 65Г <span class=art>арт. ST.651</span>|||/img/pic/strhoz/small/Lopata SOVOK RS.jpg|/img/pic/strhoz/big/Lopata SOVOK RS.jpg
+ 0|Лопата              совковая, рельсовая сталь 65Г|101|ST.651  | 198,00| 198,00| 198,00|
+ 1|Лопата                                   штыковая|101|ST.652  | 198,00| 198,00| 198,00||norow||, рельсовая сталь 65Г <span class=art>арт. ST.652</span>|||/img/pic/strhoz/small/Lopata STYK RS.jpg|/img/pic/strhoz/big/Lopata STYK RS.jpg
+ 0|Лопата              штыковая, рельсовая сталь 65Г|101|ST.652  | 198,00| 198,00| 198,00|
 #1|Лопата                                   совковая|101|IV.01   | 198,00| 194,00| 189,00||norow||, рельсовая сталь <span class=art>арт. IV.01</span>|||/img/pic/strhoz/small/Lopata SOVOK RS.jpg|/img/pic/strhoz/big/Lopata SOVOK RS.jpg
 #0|Лопата               совковая, рельсовая сталь   |101|IV.01   | 198,00| 194,00| 189,00|
 #1|Лопата                                   штыковая|101|IV.02   | 198,00| 194,00| 189,00||norow||, рельсовая сталь <span class=art>арт. IV.02</span>|||/img/pic/strhoz/small/Lopata STYK RS.jpg|/img/pic/strhoz/big/Lopata STYK RS.jpg
