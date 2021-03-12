@@ -457,7 +457,7 @@ h2+table.cblock {float: none; margin: 10px auto 0px auto; position: relative; le
   /* Отменить Центрирование там, где ссылок несколько */
 #cat64  h2+table.cblock, #cat424 h2+table.cblock, #cat65  h2+table.cblock,
 #cat506 h2+table.cblock, #cat507 h2+table.cblock, #cat508 h2+table.cblock, #cat513 h2+table.cblock,
-#cat50 h2+table.cblock, #cat100 h2+table.cblock
+#cat50  h2+table.cblock, #cat100 h2+table.cblock, #cat46  h2+table.cblock
   {float: left; margin-right: 30px; position: static; }
 /* Отменить Центрирование там, где начинается следующая группа ссылок */
 #cat46 h2+table.cblock {float: left; left: 0px; }
