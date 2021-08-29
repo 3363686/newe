@@ -72,12 +72,12 @@ div.phone {width: 264px; height: 43px; margin: 0px 0 0 40px; padding: 8px 0px 0 
 .phonea:hover {color: #000; cursor: inherit;}
 .address_top {width: 100%; white-space: nowrap}
 .address_top .adres {padding: 0; margin: 0 0 0 23px; color: #fff;}
-.address_top .adres a {color: #fff; text-decoration: none; font-size: 18px; line-height: 19px; }
+.address_top .adres a {color: #fff; text-decoration: none; font-size: 18px; line-height: /*19px*/ /*No cards*/ 21px; }
 .address_top .adres a:hover {color: #fff; text-decoration: underline;}
 .address_top .adres.time {font-size: 15px; line-height: 15px; margin: 0px 0 -1px 64px;}
 .address_top .adres.time.to16 {margin: 0 -20px -1px 8px;}
 .address_top .adres.time.to17 {margin: 0 -20px -1px -25px;}
-.address_top .adres.cm   {font-size: 15px; line-height: 15px; margin: 0px 0 -1px 95px; font-weight: bold}
+.address_top .adres.cm   {font-size: 15px; line-height: /*15px*/ /*No cards*/ 22px; margin: 0px 0 -1px 95px; font-weight: bold}
 .top-cert {vertical-align: middle; padding: 0px 6px 0px 24px;}
 p.crumbs {line-height: 125%; padding: 2px 0 6px; margin: 0; }
 p.crumbs, p.crumbs a, p.crumbs a:hover {color: #808080; }
