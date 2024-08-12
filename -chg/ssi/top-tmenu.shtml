@@ -5,8 +5,8 @@
     <td class="address_top"><p class="adres"><!--#include virtual="/pcgi/infoblock.pl?3"--></p>
     <td rowspan="3" class="top-cert"><!--<a href="/about/index.shtml"><img src="/img/design/cert/small/all_cert-18053.gif"></a>-->
   </tr><tr>
-    <td style="color:#00f8ff; padding:0; text-align:center; font-size:14px; line-height: 13px;" colspan="2"><nobr>В связи с нестабильностью поставок и непредсказуемыми колебаниями цен наличие и текущую стоимомть товаров
-      <br>узнавайте у менеджеров. Просим отнестись к этим временным сложностям с пониманием.</nobr></td>
+    <td style="color:#a0f8ff; padding:0; text-align:center; font-size:17px; line-height: 13px;" colspan="2"><nobr>В связи с нестабильностью поставок и непредсказуемыми колебаниями цен
+      <br><span style="font-weight: bold; font-size: 19px;">текущую стоимость товаров узнавайте у менеджеров</span>. Просим отнестись к этим временным сложностям с пониманием.</nobr></td>
 </tr><tr>
 </tr><tr><td colspan="4">
 <table cellpadding="0" class="tmenu-tab"><tr><td>
